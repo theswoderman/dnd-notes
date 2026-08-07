@@ -1,0 +1,540 @@
+{
+  "enableFeatures": {
+    "graph": {
+      "auto-enabled": true,
+      "tags": false,
+      "properties": true,
+      "property-key": false,
+      "links": true,
+      "linksSameColorAsNode": false,
+      "folders": true,
+      "imagesFromProperty": false,
+      "imagesFromEmbeds": false,
+      "imagesForAttachments": false,
+      "focus": false,
+      "shapes": false,
+      "elements-stats": true,
+      "names": false,
+      "icons": false,
+      "arrows": false,
+      "layers": false
+    },
+    "localgraph": {
+      "auto-enabled": false,
+      "tags": false,
+      "properties": true,
+      "property-key": false,
+      "links": true,
+      "linksSameColorAsNode": false,
+      "folders": true,
+      "imagesFromProperty": false,
+      "imagesFromEmbeds": false,
+      "imagesForAttachments": false,
+      "focus": false,
+      "shapes": false,
+      "elements-stats": true,
+      "names": false,
+      "icons": false,
+      "arrows": false,
+      "layers": false
+    }
+  },
+  "interactiveSettings": {
+    "tag": {
+      "colormap": "hsv",
+      "colors": [],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "none",
+      "showOnGraph": true,
+      "enableByDefault": true
+    },
+    "link": {
+      "colormap": "rainbow",
+      "colors": [],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "none",
+      "showOnGraph": false,
+      "enableByDefault": true
+    },
+    "folder": {
+      "colormap": "winter",
+      "colors": [],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "/",
+      "showOnGraph": true,
+      "enableByDefault": false
+    },
+    "aliases": {
+      "colormap": "afmhot_r",
+      "colors": [],
+      "unselected": [],
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      },
+      "noneType": "none",
+      "showOnGraph": true,
+      "enableByDefault": true
+    }
+  },
+  "additionalProperties": {
+    "aliases": {
+      "graph": true,
+      "localgraph": true
+    }
+  },
+  "backupGraphOptions": {
+    "collapse-filter": false,
+    "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
+    "localJumps": 1,
+    "localBacklinks": true,
+    "localForelinks": true,
+    "localInterlinks": true,
+    "showTags": false,
+    "showAttachments": false,
+    "hideUnresolved": false,
+    "collapse-color-groups": true,
+    "colorGroups": [
+      {
+        "query": "tag:#index",
+        "color": {
+          "a": 1,
+          "rgb": 16774064
+        }
+      },
+      {
+        "query": "path:\"People/The Sons of Thunder\" OR path:\"People/The Good Ones\"",
+        "color": {
+          "a": 1,
+          "rgb": 16766474
+        }
+      },
+      {
+        "query": "path:\"People/NPCs/Antagonists\"",
+        "color": {
+          "a": 1,
+          "rgb": 15022139
+        }
+      },
+      {
+        "query": "path:\"People/NPCs\" -path:\"People/NPCs/Antagonists\"",
+        "color": {
+          "a": 1,
+          "rgb": 16032353
+        }
+      },
+      {
+        "query": "path:\"Groups\"",
+        "color": {
+          "a": 1,
+          "rgb": 4770532
+        }
+      },
+      {
+        "query": "path:\"Locations/Material Plane\"",
+        "color": {
+          "a": 1,
+          "rgb": 5420936
+        }
+      },
+      {
+        "query": "path:\"Locations/Planes and Extraplanar\"",
+        "color": {
+          "a": 1,
+          "rgb": 10309341
+        }
+      },
+      {
+        "query": "path:\"Events\" -tag:#index",
+        "color": {
+          "a": 1,
+          "rgb": 4415982
+        }
+      },
+      {
+        "query": "path:\"Deities\"",
+        "color": {
+          "a": 1,
+          "rgb": 13154047
+        }
+      },
+      {
+        "query": "path:\"Items and Artifacts\"",
+        "color": {
+          "a": 1,
+          "rgb": 16740518
+        }
+      },
+      {
+        "query": "path:\"Lore\" -tag:#index",
+        "color": {
+          "a": 1,
+          "rgb": 11384253
+        }
+      }
+    ],
+    "collapse-display": true,
+    "showArrow": false,
+    "textFadeMultiplier": 0,
+    "nodeSizeMultiplier": 1,
+    "lineSizeMultiplier": 1,
+    "collapse-forces": true,
+    "centerStrength": 0,
+    "repelStrength": 20,
+    "linkStrength": 1,
+    "linkDistance": 30,
+    "scale": 0.13168724279835337,
+    "close": true
+  },
+  "openInNewTab": true,
+  "canonicalizePropertiesWithDataview": true,
+  "states": [
+    {
+      "id": "default-vault",
+      "name": "Default state",
+      "engineOptions": {
+        "colorGroups": [
+          {
+            "query": "tag:#index",
+            "color": {
+              "a": 1,
+              "rgb": 16774064
+            }
+          },
+          {
+            "query": "path:\"People/The Sons of Thunder\" OR path:\"People/The Good Ones\"",
+            "color": {
+              "a": 1,
+              "rgb": 16766474
+            }
+          },
+          {
+            "query": "path:\"People/NPCs/Antagonists\"",
+            "color": {
+              "a": 1,
+              "rgb": 15022139
+            }
+          },
+          {
+            "query": "path:\"People/NPCs\" -path:\"People/NPCs/Antagonists\"",
+            "color": {
+              "a": 1,
+              "rgb": 16032353
+            }
+          },
+          {
+            "query": "path:\"Groups\"",
+            "color": {
+              "a": 1,
+              "rgb": 4770532
+            }
+          },
+          {
+            "query": "path:\"Locations/Material Plane\"",
+            "color": {
+              "a": 1,
+              "rgb": 5420936
+            }
+          },
+          {
+            "query": "path:\"Locations/Planes and Extraplanar\"",
+            "color": {
+              "a": 1,
+              "rgb": 10309341
+            }
+          },
+          {
+            "query": "path:\"Events\" -tag:#index",
+            "color": {
+              "a": 1,
+              "rgb": 4415982
+            }
+          },
+          {
+            "query": "path:\"Deities\"",
+            "color": {
+              "a": 1,
+              "rgb": 13154047
+            }
+          },
+          {
+            "query": "path:\"Items and Artifacts\"",
+            "color": {
+              "a": 1,
+              "rgb": 16740518
+            }
+          },
+          {
+            "query": "path:\"Lore\" -tag:#index",
+            "color": {
+              "a": 1,
+              "rgb": 11384253
+            }
+          }
+        ],
+        "search": "-path:Templates -file: \"00 - Panrelta Index\" -path:\"Session Notes\"   ",
+        "hideUnresolved": false,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": false,
+        "lineSizeMultiplier": 1,
+        "nodeSizeMultiplier": 1,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "centerStrength": 0,
+        "linkDistance": 500,
+        "linkStrength": 1,
+        "repelStrength": 20
+      },
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "logicTypes": {
+        "tag": "OR",
+        "link": "OR",
+        "folder": "OR"
+      },
+      "enableLayers": false,
+      "currentLayerLevel": 0,
+      "pinNodes": {},
+      "hiddenLegendRows": [],
+      "collapsedLegendRows": []
+    }
+  ],
+  "startingStateID": "default-vault",
+  "syncDefaultState": false,
+  "saveConfigsWithState": false,
+  "customColorMaps": {},
+  "imageProperties": [
+    "image"
+  ],
+  "borderFactor": 0.06,
+  "allowExternalImages": false,
+  "allowExternalLocalImages": false,
+  "nodesSizeProperties": [
+    ""
+  ],
+  "nodesSizeFunction": "default",
+  "nodesSizeRange": {
+    "min": 0.5,
+    "max": 1.5
+  },
+  "nodesColorColormap": "YlOrRd",
+  "nodesColorFunction": "default",
+  "graphStatsDirection": "normal",
+  "linksSizeFunction": "default",
+  "linksColorColormap": "YlOrRd",
+  "linksColorFunction": "default",
+  "recomputeStatsOnGraphChange": false,
+  "zoomFactor": 2,
+  "focusScaleFactor": 1.8,
+  "highlightOpenNodes": false,
+  "highlightSearchResults": false,
+  "maxNodes": 500,
+  "delay": 500,
+  "revertAction": false,
+  "enableCSS": false,
+  "cssSnippetFilename": "",
+  "shapeQueries": {
+    "circle": {
+      "combinationLogic": "AND",
+      "index": 0,
+      "rules": []
+    },
+    "square": {
+      "combinationLogic": "AND",
+      "index": 1,
+      "rules": []
+    },
+    "triangle": {
+      "combinationLogic": "AND",
+      "index": 2,
+      "rules": []
+    },
+    "diamond": {
+      "combinationLogic": "AND",
+      "index": 3,
+      "rules": []
+    },
+    "pentagon": {
+      "combinationLogic": "AND",
+      "index": 4,
+      "rules": []
+    },
+    "hexagon": {
+      "combinationLogic": "AND",
+      "index": 5,
+      "rules": []
+    },
+    "octagon": {
+      "combinationLogic": "AND",
+      "index": 6,
+      "rules": []
+    },
+    "decagon": {
+      "combinationLogic": "AND",
+      "index": 7,
+      "rules": []
+    },
+    "star4": {
+      "combinationLogic": "AND",
+      "index": 8,
+      "rules": []
+    },
+    "star5": {
+      "combinationLogic": "AND",
+      "index": 9,
+      "rules": []
+    },
+    "star6": {
+      "combinationLogic": "AND",
+      "index": 10,
+      "rules": []
+    },
+    "star8": {
+      "combinationLogic": "AND",
+      "index": 11,
+      "rules": []
+    },
+    "star10": {
+      "combinationLogic": "AND",
+      "index": 12,
+      "rules": []
+    }
+  },
+  "colorBasedOnDepth": false,
+  "depthColormap": "rainbow",
+  "currentNode": {
+    "useColor": false,
+    "color": "#000000",
+    "size": 100,
+    "shape": "circle"
+  },
+  "fadeOnDisable": false,
+  "borderUnresolved": "",
+  "spreadArcs": false,
+  "weightArcs": false,
+  "animateDotsOnLinks": false,
+  "animationSpeedForDots": 1,
+  "interactivesBrightness": {
+    "light": 1,
+    "dark": 1
+  },
+  "fadeInElements": false,
+  "externalLinks": "none",
+  "externalLinksProperties": [
+    "url"
+  ],
+  "externalLinkOpenMode": "note",
+  "showPinIcon": true,
+  "allowMultipleLinkTypes": false,
+  "disableSource": false,
+  "disableTarget": false,
+  "excludedSourcesFolder": [],
+  "excludedTargetsFolder": [],
+  "curvedLinks": true,
+  "curvedFactor": 2,
+  "outlineLinks": false,
+  "displayLinkTypeLabel": false,
+  "colorLinkTypeLabel": false,
+  "noLineHighlight": false,
+  "folderShowFullPath": true,
+  "invertArrows": false,
+  "flatArrows": false,
+  "opaqueArrowsButKeepFading": false,
+  "alwaysOpaqueArrows": false,
+  "arrowScale": 1,
+  "arrowFixedSize": false,
+  "arrowColorBool": false,
+  "arrowColor": "",
+  "numberOfCharacters": null,
+  "ellipsis": "…",
+  "showOnlyFileName": false,
+  "noExtension": false,
+  "usePropertiesForName": [],
+  "addBackgroundToName": false,
+  "nameVerticalOffset": 0,
+  "dynamicVerticalOffset": false,
+  "showNamesWhenNeighborHighlighted": false,
+  "iconProperties": [
+    ""
+  ],
+  "usePluginForIcon": true,
+  "usePluginForIconColor": true,
+  "useParentIcon": false,
+  "backgroundOpacityWithIcon": 0,
+  "useIconColorForBackgroud": true,
+  "borderWidthWithIcon": 0,
+  "layerProperties": [
+    "layer"
+  ],
+  "numberOfActiveLayers": 4,
+  "layersOrder": "ASC",
+  "displayLabelsInUI": true,
+  "nodesWithoutLayerOpacity": 0,
+  "useLayerCustomOpacity": true,
+  "layersCustomOpacity": {},
+  "layersLevels": {},
+  "defaultLevelForLayers": 0,
+  "horizontalLegend": false,
+  "useRadialMenu": false,
+  "radialMenuModifier": "Shift",
+  "pinNodeModifier": "Alt",
+  "useLeftClickToSelect": true,
+  "selectNodeModifier": "Shift",
+  "filterAbstractFiles": [],
+  "ignoreInlineLinks": false,
+  "collapseState": false,
+  "collapseLegend": true,
+  "resetAfterChanges": false,
+  "collapsedSettings": {
+    "automation": true,
+    "tags": true,
+    "properties": false,
+    "links": true,
+    "arrows": true,
+    "folders": true,
+    "images": true,
+    "icons": true,
+    "focus": true,
+    "shapes": true,
+    "layers": true,
+    "elements-stats": true,
+    "names": true,
+    "zoom": true,
+    "local-graph": true,
+    "display": true,
+    "filter": true,
+    "inputs": true,
+    "performances": true,
+    "beta": true
+  },
+  "selectionMode": "replace",
+  "exportSVGOptions": {
+    "asImage": true,
+    "onlyVisibleArea": false,
+    "showNodeNames": true,
+    "useCurvedLinks": false,
+    "useModifiedArrows": true,
+    "useNodesShapes": false,
+    "showArcs": false,
+    "showFolders": true,
+    "useModifiedNames": true,
+    "showIcons": false
+  },
+  "multipleNodesData": {}
+}

@@ -1,0 +1,419 @@
+{
+  "main": {
+    "id": "1bb72a86bd367ab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5504dc10bcd999be",
+        "type": "tabs",
+        "dimension": 63.83098591549296,
+        "children": [
+          {
+            "id": "422715ec20929148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00 - Panrelta Index"
+            },
+            "group": "5f6a3ec99364036b"
+          }
+        ]
+      },
+      {
+        "id": "d6545e6f5e74f696",
+        "type": "split",
+        "dimension": 36.16901408450704,
+        "children": [
+          {
+            "id": "1cfa5bcc49507038",
+            "type": "tabs",
+            "dimension": 61.997126436781606,
+            "children": [
+              {
+                "id": "c97418892c1a0e0c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": true,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "00 - Panrelta Index"
+                }
+              }
+            ]
+          },
+          {
+            "id": "19c2b1139b42eefc",
+            "type": "tabs",
+            "dimension": 38.002873563218394,
+            "children": [
+              {
+                "id": "b9003bcd601ba41e",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#index",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16774064
+                          }
+                        },
+                        {
+                          "query": "path:\"People/The Sons of Thunder\" OR path:\"People/The Good Ones\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16766474
+                          }
+                        },
+                        {
+                          "query": "path:\"People/NPCs/Antagonists\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15022139
+                          }
+                        },
+                        {
+                          "query": "path:\"People/NPCs\" -path:\"People/NPCs/Antagonists\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16032353
+                          }
+                        },
+                        {
+                          "query": "path:\"Groups\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4770532
+                          }
+                        },
+                        {
+                          "query": "path:\"Locations/Material Plane\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5420936
+                          }
+                        },
+                        {
+                          "query": "path:\"Locations/Planes and Extraplanar\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 10309341
+                          }
+                        },
+                        {
+                          "query": "path:\"Events\" -tag:#index",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4415982
+                          }
+                        },
+                        {
+                          "query": "path:\"Deities\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13154047
+                          }
+                        },
+                        {
+                          "query": "path:\"Items and Artifacts\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16740518
+                          }
+                        },
+                        {
+                          "query": "path:\"Lore\" -tag:#index",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11384253
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 30,
+                      "scale": 0.13168724279835337,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of 00 - Panrelta Index"
+                },
+                "group": "5f6a3ec99364036b"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2865a47cd25e380c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da176d3d6a6def1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b36ba2513d70fe66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2730ff74bae74d4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ky'",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "75d47b73134916c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270
+  },
+  "right": {
+    "id": "2eccb5a57877791e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2357043cfe967678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bdce335514e2ee0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Person.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Person"
+            }
+          },
+          {
+            "id": "3e3442da635de1bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Person.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Person"
+            }
+          },
+          {
+            "id": "b836c13e01a0f3e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7b3ed334bd6c84eb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "358100b738e86f2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Person.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Person"
+            }
+          },
+          {
+            "id": "0a0fe7a12661ff97",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "flowershow:Publish with Flowershow": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "422715ec20929148",
+  "lastOpenFiles": [
+    "dnd notes/README.md",
+    "dnd notes",
+    "Session Notes/pilgrims of panrelta/Thalrik's Dream.md",
+    "Session Notes/Campaign 1/Campaign 1 Summary.md",
+    "Session Notes/pilgrims of panrelta/Prelude for Thalrik Lastfeast.md",
+    "Items and Artifacts/Sylvan Parcel.md",
+    "Session Notes/pilgrims of panrelta/Session 28.md",
+    "Deities/Bane.md",
+    "Groups/Mossclaw.md",
+    "People/NPCs/Arthur Van Hark.md",
+    "People/NPCs/Vladislav.md",
+    "Groups/Blood Raven.md",
+    "Groups/Black Blood Pack.md",
+    "Deities/Malar.md",
+    "Locations/Material Plane/Deepforge.md",
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+    "Events/Campaign 1/00 - Campaign Index.md",
+    "CLAUDE.md.tmp.14776.31e029d40d6e",
+    "Session Notes/pilgrims of panrelta/Session 27.md",
+    "Locations/Material Plane/Estrana.md",
+    "Session Notes/pilgrims of panrelta/session notes - session 28.md",
+    "CLAUDE.md.tmp.13524.146b0b93593b",
+    "Locations/Material Plane/Silnothas.md",
+    "Locations/Material Plane/Anendal.md",
+    "Locations/Material Plane/Alnoria.md",
+    "Locations/Material Plane/Silnothis.md",
+    "Locations/Material Plane/Panrelta.md",
+    "Events/Pilgrims of Panrelta/Events/The Shade Sent for Beemo.md",
+    "People/NPCs/Festra.md.tmp.15228.65ad52933ae7",
+    "People/NPCs/Arthur Van Hark.md.tmp.15228.10329a36e534",
+    "Session Notes/pilgrims of panrelta/session notes - session 27.md",
+    "Locations/Material Plane/Sage Thorn Forest.md.tmp.15228.1e57f0fee722",
+    "Deities/Torm.md.tmp.15228.8323ea529abf",
+    "Session Notes/Campaign 1",
+    "CLAUDE.md.tmp.9044.b74d727d58a0",
+    "Locations/Material Plane/Map of Estrana.webp",
+    "CLAUDE.md.tmp.4904.6e181c868f34",
+    "Untitled.canvas",
+    "Locations/IMG_9345.webp"
+  ]
+}
