@@ -98,10 +98,10 @@
   "backupGraphOptions": {
     "collapse-filter": false,
     "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
-    "localJumps": 1,
+    "localJumps": 2,
     "localBacklinks": true,
     "localForelinks": true,
-    "localInterlinks": true,
+    "localInterlinks": false,
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
@@ -195,7 +195,7 @@
     "repelStrength": 20,
     "linkStrength": 1,
     "linkDistance": 30,
-    "scale": 0.13168724279835337,
+    "scale": 0.06699744995282388,
     "close": true
   },
   "openInNewTab": true,
