@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Locations/Material Plane/Estrana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Estrana"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "index.md",
+                    "file": "Locations/Material Plane/Estrana.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -185,12 +185,12 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.06699744995282379,
+                      "scale": 0.04778763710962428,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of index"
+                  "title": "Graph of Estrana"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -370,7 +370,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 712
+    "width": 712,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,8 +387,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9003bcd601ba41e",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "index.md",
     "Items and Artifacts/Hand of Valor.md",
     "CLAUDE.md.tmp.1940.57612ec41b3b",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
