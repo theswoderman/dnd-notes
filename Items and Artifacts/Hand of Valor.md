@@ -1,7 +1,7 @@
 ---
 tags: [item, panrelta, holy, crossover]
 ---
-# Hand of Valor edit
+# Hand of Valor
 
 **Bearer:** [[Thalrik Lastfeast]]
 **Given by:** [[Torm]], delivered by [[Diggory Psalm]]

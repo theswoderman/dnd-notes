@@ -12,14 +12,24 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Items and Artifacts/Hand of Valor.md",
-                "bFile": "Items and Artifacts/Hand of Valor.md",
-                "aRef": ""
+                "file": "Items and Artifacts/Hand of Valor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Hand of Valor  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Hand of Valor"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -338,7 +348,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Items and Artifacts/Hand of Valor.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -376,10 +388,10 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "Items and Artifacts/Hand of Valor.md",
     "README.md",
     "Items and Artifacts/Cube of Carrying.md",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "dnd notes/README.md",
     "dnd notes",
     "Session Notes/pilgrims of panrelta/Thalrik's Dream.md",
