@@ -12,10 +12,24 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Items and Artifacts/Hand of Valor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hand of Valor"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -70,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Items and Artifacts/Cube of Carrying.md",
+                    "file": "Items and Artifacts/Hand of Valor.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -171,12 +185,12 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.1846232622585803,
+                      "scale": 0.06699744995282379,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Cube of Carrying"
+                  "title": "Graph of Hand of Valor"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -338,17 +352,26 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "468b4658739229dc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 712
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "flowershow:Publish with Flowershow": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
@@ -357,7 +380,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "422715ec20929148",

@@ -98,6 +98,6 @@
   "close": false,
   "localBacklinks": true,
   "localForelinks": true,
-  "localInterlinks": true,
-  "localJumps": 1
+  "localInterlinks": false,
+  "localJumps": 2
 }
