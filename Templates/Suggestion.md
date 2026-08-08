@@ -7,7 +7,6 @@ tags:
 
 **Received:** 
 **Status:** Incorporated
-**Submitted by:** unknown
 
 ## Suggestion
 
