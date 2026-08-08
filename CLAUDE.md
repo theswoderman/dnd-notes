@@ -31,6 +31,7 @@ Items and Artifacts/
 Locations/Material Plane/
 Locations/Planes and Extraplanar/
 Lore/                     timelines and world lore
+Suggestions/              shared Suggestion Box.md + Suggestion History/
 People/NPCs/              + Antagonists/, Campaign 1 Allies/, Campaign 1 Notable NPCs/
 People/The Good Ones/     Panrelta party
 People/The Sons of Thunder/
@@ -98,6 +99,34 @@ Raw notes arrive in `Session Notes/<campaign>/`, named `Session N`. When asked t
 
 **Raw session notes are an archive.** Only ever *add link syntax* to them — never change wording. Verify by stripping links from both versions and asserting the text is identical.
 
+## Update runs
+
+"Run an update" or "update the wiki" means the full sweep below, not just one file. Do all four steps in order.
+
+**1. Read the suggestion box.** `Suggestions/Suggestion Box.md`. Any text *below the divider line* is unprocessed player input. The file is shared — other players edit it directly, so expect informal, misspelled, or partial entries, and expect several unrelated suggestions at once. Treat each as its own suggestion.
+
+**2. Find what else changed.** The vault is a git repo with automatic `vault backup: <timestamp>` commits, so git is the source of truth for "since last time." Get the date of the newest note in `Suggestions/Suggestion History/`, then diff from the commit at that point:
+
+```bash
+cd "/sessions/<session>/mnt/dnd notes"
+git log --oneline --since="<date of last suggestion history note>" -- . ':(exclude).obsidian'
+git diff --stat "HEAD@{<date>}" HEAD -- . ':(exclude).obsidian'
+```
+
+Ignore `.obsidian/` churn entirely — plugin files rewrite themselves constantly and mean nothing. If Nic renamed or moved files, sweep for stale plain-text prose mentions (see Do not touch). If he added notes by hand, check they follow the conventions above and are linked from the relevant index and timeline.
+
+**3. Incorporate each suggestion.** Cross-reference against what already exists before writing anything. Three outcomes:
+
+- **New information** — add it to every note where it belongs, not just the most obvious one. A suggestion about a character usually also touches their group, their location, and the relevant event note.
+- **Already covered** — change nothing. Record where the information already lived.
+- **Conflicts with canon, or invents a fact** — **stop and ask Nic.** Do not apply it and do not guess. Player suggestions are not canon; the `Never invent campaign facts` and `Preserve uncertainty` rules outrank a suggestion. Collect all questionable suggestions and raise them together at the start of the run rather than one at a time.
+
+**4. Write a history note.** One note per suggestion in `Suggestions/Suggestion History/`, from `Templates/Suggestion.md`. Filename `YYYY-MM-DD - Short description`, so the folder sorts chronologically. It records the suggestion verbatim (quote it, typos and all — it is a record of what was said), the date received, and wikilinks to every note touched. If nothing was touched because the information already existed, link to where it lives instead. Then **clear the processed text from the box**, leaving the header and divider so it is an empty inbox again.
+
+History notes are tagged `ignore` **and** `suggestion` — `ignore` keeps them out of the graph, matching this file. They still use real wikilinks, so the links stay clickable; they just do not draw graph edges. Do **not** add attribution lines to the campaign notes themselves — the history note's links are the audit trail, and the notes stay clean.
+
+Run the verification script when the whole sweep is done.
+
 ## Verification
 
 Run after any batch of edits. Checks broken links, YAML errors, and duplicate filenames.
@@ -134,7 +163,9 @@ print('dupes:',{k:v for k,v in dupes.items() if len(v)>1})
 - `.obsidian/` — plugin config. Breadcrumbs uses `up/down/same/next/prev`; `types.json` registers the recognized frontmatter fields. Exception: graph color groups in `graph.json` and `plugins/extended-graph/data.json` are managed on request. **Obsidian must be closed when writing these** — it flushes in-memory state over the file on quit and silently discards the edit.
 - `cssclass: timeline` on [[The Demon War]] and [[The Great War]] — used by a theme.
 - `ddb:` frontmatter — D&D Beyond character links.
-- `Templates/` — Person, Location, Group, Event. These match the conventions above and are wired to both the core Templates plugin and Templater, where Nic has hotkeys bound to them. **If a convention changes, update these too**, and don't rename or move the files or the hotkeys break.
+- `Templates/` — Person, Location, Group, Event, Suggestion. These match the conventions above and are wired to both the core Templates plugin and Templater, where Nic has hotkeys bound to them. **If a convention changes, update these too**, and don't rename or move the files or the hotkeys break.
+- `Suggestions/Suggestion Box.md` — the header and divider line are instructions for other players. Only ever clear text *below* the divider; never rewrite the header.
+- `Suggestions/Suggestion History/` — a permanent record. Never edit or delete an entry after the fact; if a suggestion is later reversed or ruled on, write a new entry.
 - Nic reorganizes and renames files himself. After a rename, Obsidian fixes wikilinks but **not plain-text prose mentions** — sweep for those.
 
 `Area:` and `Favorability:` are *not* wired to any plugin. When converting old notes, fold them into the body as `**Region:**` and `**Disposition:**` rather than dropping the data.

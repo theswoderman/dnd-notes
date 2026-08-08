@@ -2,4 +2,3 @@ Edit this page and write any suggested updates below the line and next time the 
 
 -------------------------------------------------------------
 
-my suggestion is just to create an example suggestion

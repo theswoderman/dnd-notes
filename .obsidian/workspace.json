@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 29.577464788732392,
+        "dimension": 61.41304347826087,
         "children": [
           {
             "id": "422715ec20929148",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suggestions/Suggestion Box.md",
+                "file": "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Suggestion Box"
+              "title": "2026-08-08 - Create an example suggestion"
             },
             "group": "5f6a3ec99364036b"
           },
@@ -62,12 +62,12 @@
       {
         "id": "d6545e6f5e74f696",
         "type": "split",
-        "dimension": 70.4225352112676,
+        "dimension": 38.58695652173913,
         "children": [
           {
             "id": "1cfa5bcc49507038",
             "type": "tabs",
-            "dimension": 14.367816091954023,
+            "dimension": 57.11206896551724,
             "children": [
               {
                 "id": "c97418892c1a0e0c",
@@ -100,7 +100,7 @@
           {
             "id": "19c2b1139b42eefc",
             "type": "tabs",
-            "dimension": 85.63218390804597,
+            "dimension": 42.887931034482754,
             "children": [
               {
                 "id": "b9003bcd601ba41e",
@@ -108,7 +108,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Suggestions/Suggestion Box.md",
+                    "file": "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -214,7 +214,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Suggestion Box"
+                  "title": "Graph of 2026-08-08 - Create an example suggestion"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -412,6 +412,11 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "Suggestions/Suggestion Box.md",
+    "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
+    "CLAUDE.md.tmp.22192.a67591669779",
+    "Templates/Suggestion.md",
     "People/The Sons of Thunder/Loryn Malcovitch.md",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
@@ -425,8 +430,6 @@
     "People/NPCs/Crucius Ilyanich.md",
     "People/NPCs/Brom Stonefist.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "Suggestions/Suggestion Box.md",
-    "CLAUDE.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "New folder",
@@ -446,13 +449,10 @@
     "Groups/Mossclaw.md",
     "People/NPCs/Arthur Van Hark.md",
     "People/NPCs/Vladislav.md",
-    "Groups/Blood Raven.md",
-    "Groups/Black Blood Pack.md",
     "CLAUDE.md.tmp.14776.31e029d40d6e",
     "CLAUDE.md.tmp.13524.146b0b93593b",
     "People/NPCs/Festra.md.tmp.15228.65ad52933ae7",
     "People/NPCs/Arthur Van Hark.md.tmp.15228.10329a36e534",
-    "Locations/Material Plane/Sage Thorn Forest.md.tmp.15228.1e57f0fee722",
     "Locations/Material Plane/Map of Estrana.webp",
     "Untitled.canvas",
     "Locations/IMG_9345.webp"
