@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suggestions/Suggestions Instructions.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Suggestions Instructions"
+              "title": "CLAUDE"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Suggestions/Suggestions Instructions.md",
+                    "file": "CLAUDE.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Suggestions Instructions"
+                  "title": "Graph of CLAUDE"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -388,9 +388,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Suggestions/Suggestions Instructions.md",
     "Suggestions/Suggestion History",
     "index.md",
-    "Suggestions/Suggestions Instructions.md",
     "Suggestions",
     "New folder",
     "Locations/Material Plane/Estrana.md",
@@ -423,7 +423,6 @@
     "People/NPCs/Festra.md.tmp.15228.65ad52933ae7",
     "People/NPCs/Arthur Van Hark.md.tmp.15228.10329a36e534",
     "Locations/Material Plane/Sage Thorn Forest.md.tmp.15228.1e57f0fee722",
-    "Deities/Torm.md.tmp.15228.8323ea529abf",
     "Locations/Material Plane/Map of Estrana.webp",
     "Untitled.canvas",
     "Locations/IMG_9345.webp"
