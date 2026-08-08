@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/The Sons of Thunder/Loryn Malcovitch.md",
+                "file": "Suggestions/Suggestion Box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Loryn Malcovitch"
+              "title": "Suggestion Box"
             },
             "group": "5f6a3ec99364036b"
           },
@@ -108,7 +108,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "People/The Sons of Thunder/Loryn Malcovitch.md",
+                    "file": "Suggestions/Suggestion Box.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -210,11 +210,11 @@
                       "linkStrength": 1,
                       "linkDistance": 30,
                       "scale": 0.2588386562181599,
-                      "close": false
+                      "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Loryn Malcovitch"
+                  "title": "Graph of Suggestion Box"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -394,8 +394,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487,
-    "collapsed": true
+    "width": 487
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -413,6 +412,7 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "People/The Sons of Thunder/Loryn Malcovitch.md",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
@@ -425,7 +425,7 @@
     "People/NPCs/Crucius Ilyanich.md",
     "People/NPCs/Brom Stonefist.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "Suggestions/Suggestions Instructions.md",
+    "Suggestions/Suggestion Box.md",
     "CLAUDE.md",
     "Suggestions/Suggestion History",
     "Suggestions",
