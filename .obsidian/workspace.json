@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 63.83098591549296,
+        "dimension": 29.577464788732392,
         "children": [
           {
             "id": "422715ec20929148",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "People/The Sons of Thunder/Loryn Malcovitch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,21 +29,45 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Loryn Malcovitch"
             },
             "group": "5f6a3ec99364036b"
+          },
+          {
+            "id": "3957a2e0e4b6ddb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/NPCs/Brom Stonefist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Brom Stonefist"
+            }
           }
         ]
       },
       {
         "id": "d6545e6f5e74f696",
         "type": "split",
-        "dimension": 36.16901408450704,
+        "dimension": 70.4225352112676,
         "children": [
           {
             "id": "1cfa5bcc49507038",
             "type": "tabs",
-            "dimension": 61.997126436781606,
+            "dimension": 14.367816091954023,
             "children": [
               {
                 "id": "c97418892c1a0e0c",
@@ -76,7 +100,7 @@
           {
             "id": "19c2b1139b42eefc",
             "type": "tabs",
-            "dimension": 38.002873563218394,
+            "dimension": 85.63218390804597,
             "children": [
               {
                 "id": "b9003bcd601ba41e",
@@ -84,14 +108,14 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CLAUDE.md",
+                    "file": "People/The Sons of Thunder/Loryn Malcovitch.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
                       "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
-                      "localInterlinks": false,
+                      "localInterlinks": true,
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
@@ -180,17 +204,17 @@
                       "textFadeMultiplier": 0,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0,
+                      "collapse-forces": false,
+                      "centerStrength": 1,
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.04778763710962428,
+                      "scale": 0.2588386562181599,
                       "close": false
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of CLAUDE"
+                  "title": "Graph of Loryn Malcovitch"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -370,7 +394,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 712
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,15 +413,26 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Suggestions/Suggestions Instructions.md",
-    "Suggestions/Suggestion History",
+    "Locations/Material Plane/estrana map.JPG",
+    "Locations/Material Plane/estrana map.png",
+    "Locations/Material Plane/IMG_9345 (1).JPG",
+    "Locations/Material Plane/estrana map.webp",
+    "Locations/Material Plane/IMG_9345.webp",
     "index.md",
+    "Lore/Panrelta Timeline.md",
+    "Locations/Material Plane/Panrelta.md",
+    "Groups/The Drow.md",
+    "People/NPCs/Crucius Ilyanich.md",
+    "People/NPCs/Brom Stonefist.md",
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+    "Suggestions/Suggestions Instructions.md",
+    "CLAUDE.md",
+    "Suggestions/Suggestion History",
     "Suggestions",
     "New folder",
     "Locations/Material Plane/Estrana.md",
     "Items and Artifacts/Hand of Valor.md",
     "CLAUDE.md.tmp.1940.57612ec41b3b",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "README.md",
     "Items and Artifacts/Cube of Carrying.md",
     "dnd notes/README.md",
@@ -412,14 +448,8 @@
     "People/NPCs/Vladislav.md",
     "Groups/Blood Raven.md",
     "Groups/Black Blood Pack.md",
-    "Deities/Malar.md",
-    "Locations/Material Plane/Deepforge.md",
-    "Events/Campaign 1/00 - Campaign Index.md",
     "CLAUDE.md.tmp.14776.31e029d40d6e",
-    "Session Notes/pilgrims of panrelta/Session 27.md",
-    "Session Notes/pilgrims of panrelta/session notes - session 28.md",
     "CLAUDE.md.tmp.13524.146b0b93593b",
-    "Locations/Material Plane/Silnothas.md",
     "People/NPCs/Festra.md.tmp.15228.65ad52933ae7",
     "People/NPCs/Arthur Van Hark.md.tmp.15228.10329a36e534",
     "Locations/Material Plane/Sage Thorn Forest.md.tmp.15228.1e57f0fee722",
