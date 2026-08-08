@@ -7,7 +7,7 @@ tags:
 ---
 # Panrelta Timeline
 
-**This campaign is set ten years after the end of Campaign 1.** See [[Timeline]] for everything that came before.
+**This campaign is set ten years after the end of Campaign 1** — in **year 10 of the new era** dated from [[Aeralath]]'s defeat in 1017 A.P. The era has no recorded designation yet. See [[Estrana]] for the calendar and [[Timeline]] for everything that came before.
 
 Events in recorded order. [[Thalrik Lastfeast]] joined partway through the campaign, so the earliest sessions are unrecorded and the numbering below is **recorded order, not true campaign order**.
 

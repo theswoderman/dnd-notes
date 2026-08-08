@@ -14,7 +14,9 @@ tags:
 - **~50 years ago** — [[Kyron Delinor]] escapes imprisonment. The [[Ruby Palace]] is last sighted in the [[Astral Sea]].
 - **~40 years ago** — [[Golzokroth]] kills [[Elyon Ivasil]]'s friends and [[Mehea Talth]]'s father.
 
-## The campaign — year 1016 A.P.
+## The campaign — 1016 to 1017 A.P.
+The whole of Campaign 1 spans roughly **one year** of in-game time. [[Aeralath]]'s defeat at the end of it closes the A.P. calendar and begins a new era — see [[Estrana]].
+
 1. [[The Attack on Mudbend]] → [[The Goblin Caves and the Hilt]]
 2. [[The Hunt for the Peddler]] → [[The Sons of Thunder]] names itself
 3. [[The King's Tournament]]
@@ -46,6 +48,7 @@ tags:
 - The Star Spawn Voidling: "the progenitors of this world would return to their rightful place over all things."
 - [[Casimir]] is still in the [[Cube of Carrying]].
 - [[Zargon the Immortal]] is sealed inside [[Jäkel Aleister le Rouge|Jakel]]'s soul. If [[Jäkel Aleister le Rouge|Jakel]] dies first, the soul is forfeit.
+- **[[Aeralath]] was helping [[The Sons of Thunder]] gain power, because she wanted them to collect the pieces of [[Queensbane]].** Why the one being the sword was forged to kill wanted it reassembled is unexplained.
 
 ## Ten years on
 [[Panrelta Timeline]] — the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign picks up a decade after Campaign 1 ends.

@@ -3,7 +3,14 @@ tags: [location, world]
 ---
 # Estrana
 ![[Map of Estrana.webp]]
-The material realm — home to humans, elves, dwarves, halflings, gnomes and many other intelligent races. The current year is **1016 A.P.**
+The material realm — home to humans, elves, dwarves, halflings, gnomes and many other intelligent races.
+
+## Dating
+Campaign 1 opened in **1016 A.P.** and ran about **one year** of in-game time, ending in **1017 A.P.** — the date on the map above.
+
+[[Aeralath]]'s defeat is reckoned as the start of **a new era**, so the A.P. count stops there. The [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign is set in **year 10 of that new era**, as the tenth [[The Dawning|Dawning]] approaches.
+
+**The era has not been given a designation yet.**
 
 A homebrewed world (credit to Reed Miller), largely compatible with classic Forgotten Realms lore with changes driven by player choices. It has **two major continents**: [[Anendal]] and [[Panrelta]].
 

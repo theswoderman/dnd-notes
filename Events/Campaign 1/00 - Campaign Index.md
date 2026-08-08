@@ -6,9 +6,11 @@ tags:
 ---
 # The Sons of Thunder — Campaign Index
 
-The material realm of [[Estrana]], year **1016 A.P.**
+The material realm of [[Estrana]], **1016 to 1017 A.P.** — about one year of in-game time.
 
 Five strangers met at a harvest festival in a border village called [[Mudbend]]. One of them picked up a rusted hilt in a goblin cave. Ten thousand years earlier, that hilt was part of the only weapon that ever wounded the being who murdered god.
+
+**[[Aeralath]] was helping them gain power the whole time, because she wanted the pieces of [[Queensbane]] collected.**
 
 ## Start here
 - [[Timeline]] — the whole campaign in order, plus open threads

@@ -159,7 +159,8 @@ When Grant's wording conflicts with Nic's own account, **Nic's account wins.** T
 - Whether [[The Maiden]]'s 10,000 gold was paid or the apex griffon heart delivered
 - Whether [[The Collector]] works for [[The Maiden]] — the centaur hooves suggest yes
 - [[Beemo]], [[Falstad Firebeard]] and [[Gegga]] previously shared one `ddb:` URL; Nic has since corrected these
-- **The year.** [[Estrana]] records the current year as 1016 A.P.; `Map of Estrana.webp` is dated 1017 A.P. Nic's read is that 1016 was the year Campaign 1 *started* — he is checking with that campaign's DM. Do not change the [[Estrana]] note until he confirms
+- **What the new era is called.** The calendar is settled: Campaign 1 ran 1016–1017 A.P., about one year of in-game time, and [[Aeralath]]'s defeat starts a new era. Panrelta is **year 10** of it. The era has no designation yet — when one is given, update [[Estrana]], [[Timeline]], [[Panrelta Timeline]] and [[The Dawning]]
+- **Why [[Aeralath]] wanted [[Queensbane]] collected.** She was helping [[The Sons of Thunder]] gain power specifically so they would gather the fragments of the one weapon that can harm her. The reason is unrecorded and should come with the Campaign 1 summary
 
 ## Pending work
 
