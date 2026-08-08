@@ -12,14 +12,24 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "dnd notes",
-                "bFile": "dnd notes",
-                "aRef": ""
+                "file": "Items and Artifacts/Hand of Valor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: dnd notes  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Hand of Valor"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -374,7 +384,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "468b4658739229dc",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
     "Items and Artifacts/Hand of Valor.md",
     "Items and Artifacts/Cube of Carrying.md",
