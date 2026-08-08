@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items and Artifacts/Hand of Valor.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hand of Valor"
+              "title": "index"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Items and Artifacts/Hand of Valor.md",
+                    "file": "index.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Hand of Valor"
+                  "title": "Graph of index"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -370,8 +370,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 712,
-    "collapsed": true
+    "width": 712
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -387,11 +386,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "b9003bcd601ba41e",
   "lastOpenFiles": [
+    "Items and Artifacts/Hand of Valor.md",
     "CLAUDE.md.tmp.1940.57612ec41b3b",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "Items and Artifacts/Hand of Valor.md",
     "README.md",
     "Items and Artifacts/Cube of Carrying.md",
     "dnd notes/README.md",
@@ -425,7 +424,6 @@
     "Session Notes/Campaign 1",
     "CLAUDE.md.tmp.9044.b74d727d58a0",
     "Locations/Material Plane/Map of Estrana.webp",
-    "CLAUDE.md.tmp.4904.6e181c868f34",
     "Untitled.canvas",
     "Locations/IMG_9345.webp"
   ]
