@@ -162,6 +162,15 @@ When Grant's wording conflicts with Nic's own account, **Nic's account wins.** T
 - **What the new era is called.** The calendar is settled: Campaign 1 ran 1016–1017 A.P., about one year of in-game time, and [[Aeralath]]'s defeat starts a new era. Panrelta is **year 10** of it. The era has no designation yet — when one is given, update [[Estrana]], [[Timeline]], [[Panrelta Timeline]] and [[The Dawning]]
 - **Why [[Aeralath]] wanted [[Queensbane]] collected.** She was helping [[The Sons of Thunder]] gain power specifically so they would gather the fragments of the one weapon that can harm her. The reason is unrecorded and should come with the Campaign 1 summary
 
-## Pending work
+## Pending work — the Campaign 1 summary
 
-Nic plans to supply a campaign summary covering **the final three levels of Campaign 1**. When it arrives: create event notes in `Events/Campaign 1/Events/`, file new people and places into existing folders, and update [[Timeline]], [[Queensbane]] (the six-plane attunement checklist), and [[00 - Campaign Index]]. Check each of the loose threads on [[Timeline]] and mark which the ending resolves. [[The Sons of Thunder]] still carries a stale "Current objective" section that the summary should replace.
+**Reed** — Campaign 1's DM, the creator of this world, and [[Beemo]]'s player in Panrelta — is writing a summary covering **the final three levels of Campaign 1**. As of August 2026 it is **32 pages** and he estimates it could reach **close to 50** before it is done, so **do not expect it soon.** The empty `Session Notes/Campaign 1/Campaign 1 Summary.md` is the placeholder for it.
+
+Until it arrives, the Campaign 1 notes are frozen in a **mid-campaign** state and that is deliberate. Do not "fix" these by inference:
+
+- [[Aeralath]] is listed as sealed and "expected to return within months"
+- [[Queensbane]]'s attunement checklist has [[The Beastlands]] marked *current arc*, with four planes unchecked
+- [[Timeline]] ends at [[Into the Beastlands]] — *current*
+- [[The Sons of Thunder]] carries a stale "Current objective" section
+
+**When it arrives:** create event notes in `Events/Campaign 1/Events/`, file new people and places into existing folders, and update [[Timeline]], [[Queensbane]] and [[00 - Campaign Index]]. Work through the loose threads on [[Timeline]] and mark which the ending resolves — including **why [[Aeralath]] wanted [[Queensbane]] collected**, which is the big one. Replace the stale sections listed above.
