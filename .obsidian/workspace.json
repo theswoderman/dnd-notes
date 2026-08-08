@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Suggestions/Suggestions Instructions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Suggestions Instructions"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "index.md",
+                    "file": "Suggestions/Suggestions Instructions.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of index"
+                  "title": "Graph of Suggestions Instructions"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -386,9 +386,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Suggestions/Suggestion History",
     "index.md",
+    "Suggestions/Suggestions Instructions.md",
+    "Suggestions",
+    "New folder",
     "Locations/Material Plane/Estrana.md",
     "Items and Artifacts/Hand of Valor.md",
     "CLAUDE.md.tmp.1940.57612ec41b3b",
@@ -416,14 +420,10 @@
     "Session Notes/pilgrims of panrelta/session notes - session 28.md",
     "CLAUDE.md.tmp.13524.146b0b93593b",
     "Locations/Material Plane/Silnothas.md",
-    "Locations/Material Plane/Anendal.md",
-    "Locations/Material Plane/Alnoria.md",
     "People/NPCs/Festra.md.tmp.15228.65ad52933ae7",
     "People/NPCs/Arthur Van Hark.md.tmp.15228.10329a36e534",
     "Locations/Material Plane/Sage Thorn Forest.md.tmp.15228.1e57f0fee722",
     "Deities/Torm.md.tmp.15228.8323ea529abf",
-    "Session Notes/Campaign 1",
-    "CLAUDE.md.tmp.9044.b74d727d58a0",
     "Locations/Material Plane/Map of Estrana.webp",
     "Untitled.canvas",
     "Locations/IMG_9345.webp"
