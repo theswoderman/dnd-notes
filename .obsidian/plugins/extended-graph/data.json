@@ -98,7 +98,7 @@
   "backupGraphOptions": {
     "collapse-filter": false,
     "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
-    "localJumps": 2,
+    "localJumps": 1,
     "localBacklinks": true,
     "localForelinks": true,
     "localInterlinks": false,
@@ -196,7 +196,7 @@
     "linkStrength": 1,
     "linkDistance": 30,
     "scale": 0.04778763710962428,
-    "close": true
+    "close": false
   },
   "openInNewTab": true,
   "canonicalizePropertiesWithDataview": true,
@@ -284,7 +284,7 @@
             }
           }
         ],
-        "search": "-path:Templates -file: \"00 - Panrelta Index\" -path:\"Session Notes\"   ",
+        "search": "-path:Templates -file: \"00 - Panrelta Index\" -path:\"Session Notes\"   -tag:#ignore  ",
         "hideUnresolved": false,
         "showAttachments": false,
         "showOrphans": true,
