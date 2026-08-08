@@ -12,24 +12,14 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Items and Artifacts/Hand of Valor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Items and Artifacts/Hand of Valor.md",
+                "bFile": "Items and Artifacts/Hand of Valor.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Hand of Valor"
+              "icon": "diff",
+              "title": "Diff: Hand of Valor  (Working Tree)"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -334,13 +324,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Person.md",
+                "file": "Items and Artifacts/Hand of Valor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Person"
+              "title": "Outline"
             }
           },
           {
@@ -384,10 +374,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "468b4658739229dc",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
-    "README.md",
     "Items and Artifacts/Hand of Valor.md",
+    "README.md",
     "Items and Artifacts/Cube of Carrying.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "dnd notes/README.md",
