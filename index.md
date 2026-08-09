@@ -92,5 +92,8 @@ Three things are converging. The [[Sisters of the Gnarled Veil]] are circle cast
 - `Lore/` — timelines and world history
 - `People/` — the two parties, allies, notable figures and antagonists
 - `Session Notes/` — raw notes as taken at the table, kept unedited as an archive
+- `Suggestions/` — a shared suggestion box, and the record of what came of each one
 
-Roughly 330 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+Roughly 340 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+
+**Spotted something wrong, or remember it differently?** Add it to the [[Suggestion Box]] and it gets worked in at the next update.
