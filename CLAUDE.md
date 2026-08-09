@@ -220,6 +220,8 @@ When Grant's wording conflicts with Nic's own account, **Nic's account wins.** T
 
 **The map wins on place names.** `Map of Estrana.webp`, embedded on [[Estrana]], is authoritative for the spelling of locations. **[[Silnothas]]** was renamed from "Silnothis" to match it, with the old spelling kept as an alias — same pattern as Golden Plains. Places drawn on the map with no note simply have not come up in play; that is expected and not a gap to fill.
 
+**The calendar.** Campaign 1 ran 1016–1017 A.P., about one year of in-game time. [[Aeralath]]'s defeat closes the A.P. count and starts the **Dawning Era (D.E.)**, named for [[The Dawning]]. 1017 A.P. is 1 D.E.; Panrelta is set in **10 D.E.** Write dates in the `10 D.E.` form, parallel to `1017 A.P.` [[Estrana]] is the authoritative note.
+
 ## Open questions
 
 - "shae de claw" and "zogmoi" — spellings unknown, from the elder-entity mention in session 28
@@ -228,7 +230,6 @@ When Grant's wording conflicts with Nic's own account, **Nic's account wins.** T
 - Whether [[The Maiden]]'s 10,000 gold was paid or the apex griffon heart delivered
 - Whether [[The Collector]] works for [[The Maiden]] — the centaur hooves suggest yes
 - [[Beemo]], [[Falstad Firebeard]] and [[Gegga]] previously shared one `ddb:` URL; Nic has since corrected these
-- **What the new era is called.** The calendar is settled: Campaign 1 ran 1016–1017 A.P., about one year of in-game time, and [[Aeralath]]'s defeat starts a new era. Panrelta is **year 10** of it. The era has no designation yet — when one is given, update [[Estrana]], [[Timeline]], [[Panrelta Timeline]] and [[The Dawning]]
 - **Why [[Aeralath]] wanted [[Queensbane]] collected.** She was helping [[The Sons of Thunder]] gain power specifically so they would gather the fragments of the one weapon that can harm her. The reason is unrecorded and should come with the Campaign 1 summary
 
 ## Pending work — the Campaign 1 summary
