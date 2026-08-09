@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Nic.md",
+                "file": "Suggestions/Suggestion Box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nic"
+              "title": "Suggestion Box"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Players/Nic.md",
+                    "file": "Suggestions/Suggestion Box.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Nic"
+                  "title": "Graph of Suggestion Box"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -386,20 +386,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "468b4658739229dc",
   "lastOpenFiles": [
+    "People/Totally safe boat trip one shot/Alyris.md",
+    "Events/Totally safe boat trip one shot/Awakening of the turtle.md",
+    "Players/Grant.md",
+    "Players/Cameron.md",
+    "Players/Tyler.md",
+    "Players/Ian.md",
+    "Players/Nick.md",
+    "Players/Nic.md",
     "Suggestions/Suggestion Box.md",
     "index.md",
-    "Players/Ian.md",
-    "Players/Nic.md",
     "Suggestions/Suggestion History/2026-08-09 - Davynn and Gegga players.md",
     "Suggestions/Suggestion History/2026-08-09 - Player notes.md",
     "Players/Nick.md.tmp.10912.5753091e6f18",
     "Players/Reed.md",
-    "Players/Nick.md",
-    "Players/Grant.md",
-    "Players/Cameron.md",
-    "Players/Tyler.md",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
     "Players",
     "People/Totally safe boat trip one shot/Haakon.md",
@@ -411,7 +413,6 @@
     "People/Totally safe boat trip one shot/Grug.md",
     "People/Totally safe boat trip one shot/Grug.md.tmp.15260.76685ff437c6",
     "People/Totally safe boat trip one shot/Orist.md",
-    "People/Totally safe boat trip one shot/Alyris.md",
     "People/Totally safe boat trip one shot",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Templates/Suggestion.md",
@@ -421,7 +422,6 @@
     "Session Notes/ppp-tmp-rename/Session 28.md",
     "Session Notes/ppp-tmp-rename/Early session catch up notes.md",
     "Session Notes/ppp-tmp-rename",
-    "Templates/Location.md",
     "index.md.tmp.3432.f602335d8e10",
     "Session Notes/Pilgrims of Panrelta",
     "Locations/Material Plane/estrana map.JPG",
