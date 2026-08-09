@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suggestions/Suggestion Box.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Suggestion Box"
+              "title": "CLAUDE"
             },
             "group": "5f6a3ec99364036b"
           },
@@ -108,7 +108,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Suggestions/Suggestion Box.md",
+                    "file": "CLAUDE.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -214,7 +214,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Suggestion Box"
+                  "title": "Graph of CLAUDE"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -413,10 +413,10 @@
   "active": "422715ec20929148",
   "lastOpenFiles": [
     "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
+    "Templates/Suggestion.md",
     "Suggestions/Suggestion Box.md",
     "CLAUDE.md",
     "CLAUDE.md.tmp.22192.a67591669779",
-    "Templates/Suggestion.md",
     "People/The Sons of Thunder/Loryn Malcovitch.md",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
