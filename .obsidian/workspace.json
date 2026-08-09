@@ -12,24 +12,9 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "CLAUDE.md",
-                "bFile": "CLAUDE.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: CLAUDE  (Working Tree)"
-            },
-            "group": "5f6a3ec99364036b"
-          },
-          {
-            "id": "3957a2e0e4b6ddb8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "People/NPCs/Brom Stonefist.md",
+                "file": "Players/Nic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,8 +29,9 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Brom Stonefist"
-            }
+              "title": "Nic"
+            },
+            "group": "5f6a3ec99364036b"
           }
         ]
       },
@@ -98,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "index.md",
+                    "file": "Players/Nic.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -204,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of index"
+                  "title": "Graph of Nic"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -402,8 +388,8 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "index.md",
     "Suggestions/Suggestion Box.md",
+    "index.md",
     "Players/Ian.md",
     "Players/Nic.md",
     "Suggestions/Suggestion History/2026-08-09 - Davynn and Gegga players.md",
