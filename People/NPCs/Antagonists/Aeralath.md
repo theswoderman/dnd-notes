@@ -23,7 +23,7 @@ Because every living thing except demons carries a spark of [[Aelor]], **every d
 [[Dryzmir Aletall]], one of the five original heroes, remembers her only in fragments and is visibly frightened by them. She could be in more than one place at once. She could be whatever she wished. No preparation would be sufficient. Only [[Queensbane]] limited her enough that she could be harmed at all.
 
 ## Ten years later
-She was defeated at the end of [[The Demon War]], in [[Estrana|1017 A.P.]] That defeat is reckoned as the start of a new era and is celebrated every year as [[The Dawning]] — **the tenth of which is approaching** in the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign.
+She was defeated at the end of [[The Demon War]], in [[Estrana|1017 A.P.]] That defeat is reckoned as the start of the **Dawning Era (D.E.)** and is celebrated every year as [[The Dawning]] — **the tenth of which is approaching** in the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign, in 10 D.E.
 
 Her home plane has not gone quiet. A necrohulk from [[The Abyss]] surfaced beneath a [[Panrelta]] mountain a decade on, and [[The Abyssal Orb]] came out of it.
 

@@ -8,9 +8,7 @@ The material realm — home to humans, elves, dwarves, halflings, gnomes and man
 ## Dating
 Campaign 1 opened in **1016 A.P.** and ran about **one year** of in-game time, ending in **1017 A.P.** — the date on the map above.
 
-[[Aeralath]]'s defeat is reckoned as the start of **a new era**, so the A.P. count stops there. The [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign is set in **year 10 of that new era**, as the tenth [[The Dawning|Dawning]] approaches.
-
-**The era has not been given a designation yet.**
+[[Aeralath]]'s defeat is reckoned as the start of a new era — the **Dawning Era**, abbreviated **D.E.** and named for [[The Dawning]], the celebration of that victory. The A.P. count stops there and the D.E. count begins, so 1017 A.P. is **1 D.E.** The [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign is set in **10 D.E.**, as the tenth [[The Dawning|Dawning]] approaches.
 
 A homebrewed world (credit to [[Reed|Reed Miller]]), largely compatible with classic Forgotten Realms lore with changes driven by player choices. It has **two major continents**: [[Anendal]] and [[Panrelta]].
 

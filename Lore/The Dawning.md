@@ -9,7 +9,7 @@ Observed throughout the material plane. It commemorates the moment [[The Sons of
 
 **The tenth Dawning is approaching.** That is the point in time the Panrelta campaign is set against.
 
-[[Aeralath]]'s defeat, in 1017 A.P., is also reckoned as the start of **a new era** — so the Dawnings count the years of it, and the tenth Dawning falls in year 10. The era's designation has not been recorded. See [[Estrana]].
+[[Aeralath]]'s defeat, in 1017 A.P., is also reckoned as the start of a new era — the **Dawning Era**, or **D.E.**, named for this celebration. The Dawnings count the years of it: 1017 A.P. is 1 D.E., and the tenth Dawning falls in **10 D.E.** See [[Estrana]].
 
 ## Why it matters
 - [[The Pilgrimage]] was created to honor the unification the Dawning celebrates

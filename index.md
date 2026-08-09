@@ -15,7 +15,7 @@ The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with cla
 | | The Sons of Thunder | Pilgrims of Panrelta |
 |---|---|---|
 | **Party** | [[The Sons of Thunder]] | [[The Good Ones]] |
-| **When** | 1016–1017 A.P. | Year 10 of the new era |
+| **When** | 1016–1017 A.P. | 10 D.E. |
 | **Where** | [[Anendal]], and outward through the planes | [[Panrelta]] |
 | **Status** | Concluded at level 20 | Ongoing, ~session 28 |
 | **Index** | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
@@ -51,11 +51,11 @@ The full event-by-event sequence is on [[Timeline]].
 
 > **A note on the record.** [[Reed]] is still writing the summary covering the campaign's final three levels, so the detailed notes stop at [[Into the Beastlands]] and are frozen in a mid-campaign state on purpose. Several pages therefore describe [[Aeralath]] as sealed and expected to return, and [[Queensbane]] as still needing attunement. The outcome below is known from the second campaign, not yet from Campaign 1's own notes.
 
-### The turn of the era — 1017 A.P.
+### The turn of the era — 1017 A.P. / 1 D.E.
 
 [[The Sons of Thunder]] win [[The Great War]] and then [[The Demon War]], defeating [[Aeralath]]. In sealing the gates she had opened to [[The Abyss]], many other planar gates close too — direct travel between planes becomes next to impossible for mortals.
 
-Her defeat is reckoned as the start of **a new era**, and the A.P. count stops. The era has not been given a designation yet. It is marked each year by [[The Dawning]], a celebration observed across the material plane — as much for the unification of the peoples who stood together as for the victory itself.
+Her defeat is reckoned as the start of a new era — the **Dawning Era**, abbreviated **D.E.** The A.P. count stops and the new one begins, making 1017 A.P. the same year as 1 D.E. It is marked each year by [[The Dawning]], a celebration observed across the material plane — as much for the unification of the peoples who stood together as for the victory itself, and the namesake of the era.
 
 In that same year [[Bathoz Manefell]] brokers the Leonin–dragonborn truce and, with [[Jäkel Aleister le Rouge|Jakel]] newly crowned king of [[Grekosha]], opens the road that becomes [[The Pilgrimage]].
 
@@ -63,7 +63,7 @@ In that same year [[Bathoz Manefell]] brokers the Leonin–dragonborn truce and,
 
 Where the heroes ended up: [[Bathoz Manefell|Bathoz]] with his tribe, [[Jäkel Aleister le Rouge|Jakel]] king of [[Grekosha]], [[Diggory Psalm|Diggory]] a champion of [[Torm]] in the [[Dragonspine Mountains]], [[Davynn Brindleknot|Davynn]] founding an arcane college in the restored [[Blackwaste]], and [[Loryn Malcovitch|Loryn]] chief inspector in [[Whitehall]]. [[Dolghast]] has collapsed into a refugee crisis.
 
-### Pilgrims of Panrelta — year 10
+### Pilgrims of Panrelta — 10 D.E.
 
 Six travelers walk [[The Pilgrimage]] across [[Panrelta]], bound by tenets that include an obligation to help anyone who asks — which is why they keep ending up in other people's wars. [[Thalrik Lastfeast]] and [[The Good Ones]] were walking the same road as separate groups and did not meet until [[Stonehold]].
 

@@ -9,7 +9,7 @@ tags:
 
 A pilgrimage across [[Panrelta]], undertaken by [[The Good Ones]].
 
-**Set ten years after the end of Campaign 1** — **year 10 of the new era**, as the tenth [[The Dawning|Dawning]] approaches. Same world, one generation on. [[The Sons of Thunder]] are still alive and are a very big deal.
+**Set ten years after the end of Campaign 1** — **10 D.E.**, the tenth year of the [[Estrana|Dawning Era]], as the tenth [[The Dawning|Dawning]] approaches. Same world, one generation on. [[The Sons of Thunder]] are still alive and are a very big deal.
 
 [[Panrelta]] is one of the two continents of [[Estrana]], the other being [[Anendal]].
 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suggestions/Suggestion Box.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,12 +24,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Suggestion Box"
+              "title": "index"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Suggestions/Suggestion Box.md",
+                    "file": "index.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Suggestion Box"
+                  "title": "Graph of index"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -366,7 +366,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -386,22 +386,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b3ed334bd6c84eb",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md.tmp.24388.0b9d6898a4fb",
+    "index.md.tmp.24388.3a9de7f040a6",
+    "index.md.tmp.24388.6e6148dfe49e",
+    "Players/Reed.md",
+    "index.md",
+    "People/The Sons of Thunder/Davynn Brindleknot.md",
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+    "Players/Ian.md",
+    "Suggestions/Suggestion History/2026-08-09 - Davynn and Gegga players.md",
+    "Suggestions/Suggestion Box.md",
     "People/Totally safe boat trip one shot/Alyris.md",
     "Events/Totally safe boat trip one shot/Awakening of the turtle.md",
     "Players/Grant.md",
     "Players/Cameron.md",
     "Players/Tyler.md",
-    "Players/Ian.md",
     "Players/Nick.md",
     "Players/Nic.md",
-    "Suggestions/Suggestion Box.md",
-    "index.md",
-    "Suggestions/Suggestion History/2026-08-09 - Davynn and Gegga players.md",
     "Suggestions/Suggestion History/2026-08-09 - Player notes.md",
     "Players/Nick.md.tmp.10912.5753091e6f18",
-    "Players/Reed.md",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
     "Players",
     "People/Totally safe boat trip one shot/Haakon.md",
@@ -418,12 +423,7 @@
     "Templates/Suggestion.md",
     "Session Notes/ppp-tmp-rename/Thalrik's Dream.md",
     "Session Notes/ppp-tmp-rename/Session 27.md",
-    "Session Notes/ppp-tmp-rename/Prelude for Thalrik Lastfeast.md",
-    "Session Notes/ppp-tmp-rename/Session 28.md",
-    "Session Notes/ppp-tmp-rename/Early session catch up notes.md",
     "Session Notes/ppp-tmp-rename",
-    "index.md.tmp.3432.f602335d8e10",
-    "Session Notes/Pilgrims of Panrelta",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",

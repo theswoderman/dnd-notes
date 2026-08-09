@@ -15,7 +15,7 @@ tags:
 - **~40 years ago** — [[Golzokroth]] kills [[Elyon Ivasil]]'s friends and [[Mehea Talth]]'s father.
 
 ## The campaign — 1016 to 1017 A.P.
-The whole of Campaign 1 spans roughly **one year** of in-game time. [[Aeralath]]'s defeat at the end of it closes the A.P. calendar and begins a new era — see [[Estrana]].
+The whole of Campaign 1 spans roughly **one year** of in-game time. [[Aeralath]]'s defeat at the end of it closes the A.P. calendar and begins the **Dawning Era (D.E.)**, making 1017 A.P. also 1 D.E. — see [[Estrana]].
 
 1. [[The Attack on Mudbend]] → [[The Goblin Caves and the Hilt]]
 2. [[The Hunt for the Peddler]] → [[The Sons of Thunder]] names itself
