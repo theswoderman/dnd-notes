@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
+                "file": "People/Totally safe boat trip one shot/Haakon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-08 - Create an example suggestion"
+              "title": "Haakon"
             },
             "group": "5f6a3ec99364036b"
           },
@@ -108,7 +108,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
+                    "file": "People/Totally safe boat trip one shot/Haakon.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -214,7 +214,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 2026-08-08 - Create an example suggestion"
+                  "title": "Graph of Haakon"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -412,7 +412,18 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Suggestions/Suggestion History/2026-08-09 - Boat trip one-shot details.md",
+    "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
     "Suggestions/Suggestion Box.md",
+    "Suggestions/Suggestion Box.md.tmp.15260.368a0d150d37",
+    "index.md.tmp.15260.9ef4e974b31a",
+    "People/Totally safe boat trip one shot/Haakon.md",
+    "People/Totally safe boat trip one shot/Kael'zar.md",
+    "People/Totally safe boat trip one shot/Grug.md",
+    "People/Totally safe boat trip one shot/Grug.md.tmp.15260.76685ff437c6",
+    "People/Totally safe boat trip one shot/Orist.md",
+    "People/Totally safe boat trip one shot/Alyris.md",
+    "People/Totally safe boat trip one shot",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Templates/Suggestion.md",
     "Session Notes/ppp-tmp-rename/Thalrik's Dream.md",
@@ -433,26 +444,14 @@
     "Session Notes/Pilgrims of Panrelta/Early session catch up notes.md",
     "Session Notes/Pilgrims of Panrelta",
     "Session Notes/tmp_ppp/Thalrik's Dream.md",
-    "Session Notes/tmp_ppp/Session 28.md",
-    "Session Notes/tmp_ppp/Session 27.md",
-    "Session Notes/tmp_ppp/Prelude for Thalrik Lastfeast.md",
-    "Session Notes/tmp_ppp/Early session catch up notes.md",
     "Session Notes/tmp_ppp",
     "CLAUDE.md.tmp.3432.9f45c841a2a8",
-    "Untitled.md",
-    "index.md",
-    "Deities/Torm.md",
-    "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
     "CLAUDE.md.tmp.22192.a67591669779",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
     "Locations/Material Plane/estrana map.webp",
     "Locations/Material Plane/IMG_9345.webp",
-    "Suggestions/Suggestion History",
-    "Suggestions",
-    "New folder",
-    "CLAUDE.md.tmp.1940.57612ec41b3b",
     "Locations/Material Plane/Map of Estrana.webp",
     "Untitled.canvas",
     "Locations/IMG_9345.webp"

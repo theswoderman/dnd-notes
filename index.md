@@ -69,6 +69,10 @@ Six travelers walk [[The Pilgrimage]] across [[Panrelta]], bound by tenets that 
 
 Recorded events, in the order they were written down rather than true campaign order: [[Raid on the Thieves Guild]], [[Liberation of Khulask Hollow]], [[Exploration of the deep mines]], [[The Collector on the Road]], [[Return to the Bettermans Guild]], and most recently [[Torin's Flight into the Sagethorn]]. Full detail and the session log are on [[Panrelta Timeline]].
 
+### Outside the campaigns
+
+One session of play sits outside both campaigns and outside the chronology: a boat trip to an island whose location kept changing, which turned out to be a [[Awakening of the turtle|turtle-shaped elemental the size of an island]]. When and where in [[Estrana]] this happened is unrecorded.
+
 ## Where things stand
 
 [[The Good Ones]] are at [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]], about to ride after [[Torin Turen]], who has gone into the [[Sage Thorn Forest|Sagethorn]] alone and been found digging up a soldier of [[Bane]]. They are carrying [[The Abyssal Orb]] — pulled from a creature out of [[The Abyss]], and intended for [[The Sons of Thunder]] to deal with.
@@ -85,7 +89,7 @@ Three things are converging. The [[Sisters of the Gnarled Veil]] are circle cast
 ## How this is organized
 
 - `Deities/` — the shared pantheon
-- `Events/` — one note per event, split by campaign
+- `Events/` — one note per event, split by campaign, plus a folder for play outside both
 - `Groups/` — factions, parties, nations and orders
 - `Items and Artifacts/` — the objects that matter
 - `Locations/` — the material plane, and the planes beyond it. Shared between campaigns
@@ -94,6 +98,6 @@ Three things are converging. The [[Sisters of the Gnarled Veil]] are circle cast
 - `Session Notes/` — raw notes as taken at the table, kept unedited as an archive
 - `Suggestions/` — a shared suggestion box, and the record of what came of each one
 
-Roughly 340 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+Roughly 350 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
 
 **Spotted something wrong, or remember it differently?** Add it to the [[Suggestion Box]] and it gets worked in at the next update.
