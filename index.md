@@ -41,7 +41,7 @@ The second campaign is set **ten years after the first ends**, in the same world
 
 ### Campaign 1 — 1016 to 1017 A.P.
 
-Five strangers meet at a harvest festival in a border village called [[Mudbend]]. One of them picks up a rusted hilt in a goblin cave; it is a fragment of [[Queensbane]]. Over roughly **one year of in-game time** they gather the remaining fragments, reforge the sword, and are drawn into [[The Great War]] and then [[The Demon War]].
+Five strangers meet at a harvest festival in a border village called [[Mudbend]]. One of them picks up a rusted hilt in a goblin cave; it is a fragment of [[Queensbane]]. Over roughly **one year of in-game time** they gather the remaining fragments, reforge the sword, and are drawn into [[The Demon War]] — first the nations' war against [[Dolghast]] and [[Ornuth]], then [[Aeralath]]'s demons arriving on its heels.
 
 Running underneath all of it is [[The Planar Realignment]] — the severed planes are reconverging, colored rifts are opening across the world, and when the alignment completes [[Aeralath]] returns with an army.
 
@@ -53,7 +53,7 @@ The full event-by-event sequence is on [[Timeline]].
 
 ### The turn of the era — 1017 A.P. / 1 D.E.
 
-[[The Sons of Thunder]] win [[The Great War]] and then [[The Demon War]], defeating [[Aeralath]]. In sealing the gates she had opened to [[The Abyss]], many other planar gates close too — direct travel between planes becomes next to impossible for mortals.
+[[The Sons of Thunder]] win [[The Demon War]], defeating [[Aeralath]]. In sealing the gates she had opened to [[The Abyss]], many other planar gates close too — direct travel between planes becomes next to impossible for mortals.
 
 Her defeat is reckoned as the start of a new era — the **Dawning Era**, abbreviated **D.E.** The A.P. count stops and the new one begins, making 1017 A.P. the same year as 1 D.E. It is marked each year by [[The Dawning]], a celebration observed across the material plane — as much for the unification of the peoples who stood together as for the victory itself, and the namesake of the era.
 

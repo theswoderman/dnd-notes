@@ -12,7 +12,7 @@ tags:
 Events in recorded order. [[Thalrik Lastfeast]] joined partway through the campaign, so the earliest sessions are unrecorded and the numbering below is **recorded order, not true campaign order**.
 
 ## Ten years earlier
-[[The Sons of Thunder]] won [[The Great War]] and then [[The Demon War]], defeating [[Aeralath]]. The victory is marked throughout the material plane by [[The Dawning]] — **the tenth of which is now approaching.**
+[[The Sons of Thunder]] won [[The Demon War]], defeating [[Aeralath]]. The victory is marked throughout the material plane by [[The Dawning]] — **the tenth of which is now approaching.**
 
 In that same year [[Bathoz Manefell]] brokered the Leonin–dragonborn truce and, with [[Jäkel Aleister le Rouge|Jakel]] newly crowned king of [[Grekosha]], opened the road that became [[The Pilgrimage]].
 

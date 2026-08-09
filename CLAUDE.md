@@ -199,7 +199,7 @@ print('dupes:',{k:v for k,v in dupes.items() if len(v)>1})
 ## Do not touch
 
 - `.obsidian/` — plugin config. Breadcrumbs uses `up/down/same/next/prev`; `types.json` registers the recognized frontmatter fields. Exception: graph color groups in `graph.json` and `plugins/extended-graph/data.json` are managed on request. **Obsidian must be closed when writing these** — it flushes in-memory state over the file on quit and silently discards the edit.
-- `cssclass: timeline` on [[The Demon War]] and [[The Great War]] — used by a theme.
+- `cssclass: timeline` on [[The Demon War]] — used by a theme.
 - `ddb:` frontmatter — D&D Beyond character links.
 - `Templates/` — Person, Location, Group, Event, Suggestion. These match the conventions above and are wired to both the core Templates plugin and Templater, where Nic has hotkeys bound to them. **If a convention changes, update these too**, and don't rename or move the files or the hotkeys break.
 - `Suggestions/Suggestion Box.md` — the header and divider line are instructions for other players. Only ever clear text *below* the divider; never rewrite the header.

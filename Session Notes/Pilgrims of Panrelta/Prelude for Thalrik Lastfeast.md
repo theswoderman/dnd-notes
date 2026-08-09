@@ -36,7 +36,7 @@ On the “Bad Side” were the following nations…
 
   
 
-Ultimately, [[the Great War]] was ended by [[the Sons of Thunder]]… just in time for [[Aeralath|Aerolath]]’s army of demons to arrive, starting [[the Demon War]]. To make a long story short, [[the Sons of Thunder]] defeated [[Aeralath|Aerolath]] and saved existence itself (level 20 do be crazy like that). This victory was marked by a new celebration throughout the material plane known as [[The Dawning]]. As the tenth celebration of [[The Dawning]] draws near, we find a new adventure unfolding in the Panreltan continent…
+Ultimately, [[The Demon War|the Great War]] was ended by [[the Sons of Thunder]]… just in time for [[Aeralath|Aerolath]]’s army of demons to arrive, starting [[the Demon War]]. To make a long story short, [[the Sons of Thunder]] defeated [[Aeralath|Aerolath]] and saved existence itself (level 20 do be crazy like that). This victory was marked by a new celebration throughout the material plane known as [[The Dawning]]. As the tenth celebration of [[The Dawning]] draws near, we find a new adventure unfolding in the Panreltan continent…
 
   
 
@@ -184,7 +184,7 @@ Important Places
     
 - [[Saltport]]: In many ways a sister-city to [[Hor Garam]], as if it had been transplanted on the western coast of [[Nilstraad]]. The primary difference is the presence of an abundant salt mine.
     
-- [[Stonehold]]: A massive dwarven city carved directly into a mountain and the site of an important battle in [[the Great War]].
+- [[Stonehold]]: A massive dwarven city carved directly into a mountain and the site of an important battle in [[The Demon War|the Great War]].
     
 
   
@@ -196,7 +196,7 @@ Relevant Histories and Cosmology
     
 - Interplanar Relations: Aerloath took advantage of a once-a-millenia planar convergence to open a multitude of gates to [[the Abyss]] from which her armies surged forth. In defeating her, these gates were sealed and so were many others. Direct travel to other planes is now next to impossible for mortal beings.
     
-- The Battle of [[Stonehold]]: A decisive battle in [[the Great War]]. Although the battle began with [[Kyron Delinor|The Harbinger]] leveling a portion of the city’s wall (he cast earthquake and meteor swarm back to back, shit was nutty), [[the Sons of Thunder]] managed to push back the [[Dolghast]] forces and slayed an enemy leader, [[General Vadahm]], forcing the enemy into retreat.
+- The Battle of [[Stonehold]]: A decisive battle in [[The Demon War|the Great War]]. Although the battle began with [[Kyron Delinor|The Harbinger]] leveling a portion of the city’s wall (he cast earthquake and meteor swarm back to back, shit was nutty), [[the Sons of Thunder]] managed to push back the [[Dolghast]] forces and slayed an enemy leader, [[General Vadahm]], forcing the enemy into retreat.
     
 
 **
