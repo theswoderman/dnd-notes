@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Location.md",
+                "file": "Templates/Suggestion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Location"
+              "title": "Suggestion"
             },
             "group": "5f6a3ec99364036b"
           },
@@ -108,7 +108,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Templates/Location.md",
+                    "file": "Templates/Suggestion.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -214,7 +214,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Location"
+                  "title": "Graph of Suggestion"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ky'",
+                "query": "pilgrims ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -410,8 +410,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
+    "Templates/Location.md",
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+    "Events/Campaign 1/00 - Campaign Index.md",
     "CLAUDE.md",
     "index.md.tmp.3432.f602335d8e10",
     "Session Notes/Pilgrims of Panrelta/Session 28.md",
@@ -445,11 +448,9 @@
     "Groups/The Drow.md",
     "People/NPCs/Crucius Ilyanich.md",
     "People/NPCs/Brom Stonefist.md",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "New folder",
-    "Locations/Material Plane/Estrana.md",
     "CLAUDE.md.tmp.1940.57612ec41b3b",
     "dnd notes",
     "Locations/Material Plane/Map of Estrana.webp",
