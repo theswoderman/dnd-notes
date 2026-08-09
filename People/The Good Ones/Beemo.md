@@ -4,7 +4,7 @@ ddb: https://www.dndbeyond.com/characters/157176139
 ---
 # Beemo
 
-**Player:** Reed
+**Player:** [[Reed]]
 **Race:** Voidborne creature — created, not born
 **Class:** Artificer
 **Affiliation:** [[The Good Ones]]

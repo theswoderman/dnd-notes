@@ -5,7 +5,7 @@ dd: https://www.dndbeyond.com/characters/153636372
 ---
 # Gribnik Mossfoot
 
-**Player:** Ian
+**Player:** [[Ian]]
 **Race:** Goblin
 **Class:** Ranger
 **Nickname:** "Leaf-ear"
@@ -22,7 +22,7 @@ A goblin ranger of [[The Good Ones]].
 - Fought in the third night's battle dream alongside [[Beemo]] and [[Thol]] — see [[The Dusk Hag's Dreams]]
 
 ## Note
-What he dreamed on the second night of [[The Dusk Hag's Dreams]] is **unrecorded** — Ian was not playing that night.
+What he dreamed on the second night of [[The Dusk Hag's Dreams]] is **unrecorded** — [[Ian]] was not playing that night.
 
 ## Connections
 - [[Mirna Girbwood]] — fought her battle dream

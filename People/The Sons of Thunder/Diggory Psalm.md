@@ -6,7 +6,7 @@ tags:
 aliases:
   - Diggory
 ---
-Grant's old character
+[[Grant]]'s old character
 member of the [[The Sons of Thunder|Sons of Thunder]]
 Bard but also warlock or paladin or something? idk what happened here
 he came to [[Thalrik Lastfeast]] in a dream and provided him with a new weapon which is blessed by [[Torm]] himself
@@ -38,7 +38,7 @@ Satyr, Eloquence bard/cleric, bearer of the [[Hand of Truth]], and **current mor
 
 He now acts as counsel to the King of [[Grekosha]] — [[Jäkel Aleister le Rouge|Jakel]] — and as an occasional neutral diplomat, serving the god of truth. In the last five years he has built a holy temple in the [[Dragonspine Mountains]], where he trains a new band of heroes under the banner of [[Torm]].
 
-Grant, who wrote the Panrelta prelude and runs that campaign, played Diggory.
+[[Grant]], who wrote the Panrelta prelude and runs that campaign, played Diggory.
 
 ## In the Panrelta campaign
 Appeared to [[Thalrik Lastfeast]] through a portal in [[Thalrik's Dream of Torm]], sent by [[Torm]] to deliver the [[Hand of Valor]]. He told Thalrik that [[Jäkel Aleister le Rouge|Jäkel]] had warned him of a threat in the [[Dragonspine Mountains]] that both he and [[Torm]] had failed to see, and revealed that Thalrik's pact cost him his soul.

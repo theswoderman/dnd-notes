@@ -8,7 +8,7 @@ aliases:
   - Loryn
   - Loryn Malkovitch
 ---
-Nick's old character, a rogue with bunny ears
+[[Nick]]'s old character, a rogue with bunny ears
 member of [[The Sons of Thunder]]
 
 # Loryn

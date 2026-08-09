@@ -4,7 +4,7 @@ ddb: https://www.dndbeyond.com/characters/153017737
 ---
 # Thol
 
-**Player:** Tyler
+**Player:** [[Tyler]]
 **Race:** Half-orc
 **Class:** Fighter
 **Affiliation:** [[The Good Ones]]

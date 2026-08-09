@@ -12,7 +12,7 @@ aliases:
 ---
 # Thalrik Lastfeast
 
-**Player:** Nic (my character)
+**Player:** [[Nic]] (my character)
 **Race:** Dwarf
 **Class:** Oath-sworn servant of [[Torm]] — both oath and pact
 **Affiliation:** [[The Good Ones]]

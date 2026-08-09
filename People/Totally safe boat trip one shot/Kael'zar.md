@@ -3,7 +3,7 @@ tags: [character, one-shot]
 ---
 # Kael'zar
 
-**Player:** Nick
+**Player:** [[Nick]]
 **Race:** Tiefling
 **Class:** Sorcerer
 **Affiliation:** the one-shot party — no recorded name

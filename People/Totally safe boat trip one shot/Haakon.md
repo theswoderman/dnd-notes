@@ -3,7 +3,7 @@ tags: [character, one-shot]
 ---
 # Haakon
 
-**Player:** Cameron
+**Player:** [[Cameron]]
 **Race:** Aarakocra
 **Class:** Warlock
 **Affiliation:** the one-shot party — no recorded name

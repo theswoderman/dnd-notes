@@ -12,7 +12,7 @@ aliases:
 ---
 King of [[Grekosha]]
 member of the [[The Sons of Thunder|Sons of Thunder]]
-cam's old character
+[[Cameron|cam]]'s old character
 married to the former military commander of [[Rorinden]]
 
 # Jäkel

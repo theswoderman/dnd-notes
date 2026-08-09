@@ -12,7 +12,7 @@ Campaign 1 opened in **1016 A.P.** and ran about **one year** of in-game time, e
 
 **The era has not been given a designation yet.**
 
-A homebrewed world (credit to Reed Miller), largely compatible with classic Forgotten Realms lore with changes driven by player choices. It has **two major continents**: [[Anendal]] and [[Panrelta]].
+A homebrewed world (credit to [[Reed|Reed Miller]]), largely compatible with classic Forgotten Realms lore with changes driven by player choices. It has **two major continents**: [[Anendal]] and [[Panrelta]].
 
 [[Estrana]] once sat at the hub of sixteen outer planes, all linked to it by interplanar gates like spokes on a wheel. [[The Sundering]] severed those ties roughly ten thousand years ago, setting the planes adrift in the [[Astral Sea]] and weakening the gods' ability to reach mortals. Knowledge of both the gates and [[the Sundering]] was lost to time.
 

@@ -3,7 +3,7 @@ tags: [character, one-shot]
 ---
 # Orist
 
-**Player:** Grant
+**Player:** [[Grant]]
 **Race:** High elf
 **Class:** Paladin
 **Affiliation:** the one-shot party — no recorded name

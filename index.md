@@ -8,7 +8,7 @@ tags:
 
 Notes for two Dungeons & Dragons campaigns set in the same homebrewed world, [[Estrana]], roughly a decade apart. Everything here — people, places, events, factions, gods and artifacts — is cross-linked, so any name you see is a page you can follow.
 
-The world is the work of Reed Miller. It is broadly compatible with classic Forgotten Realms lore, bent in places by what the players actually did.
+The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with classic Forgotten Realms lore, bent in places by what the players actually did.
 
 ## The two campaigns
 
@@ -49,7 +49,7 @@ The twist, revealed late: **[[Aeralath]] was helping them gain power the whole t
 
 The full event-by-event sequence is on [[Timeline]].
 
-> **A note on the record.** Reed is still writing the summary covering the campaign's final three levels, so the detailed notes stop at [[Into the Beastlands]] and are frozen in a mid-campaign state on purpose. Several pages therefore describe [[Aeralath]] as sealed and expected to return, and [[Queensbane]] as still needing attunement. The outcome below is known from the second campaign, not yet from Campaign 1's own notes.
+> **A note on the record.** [[Reed]] is still writing the summary covering the campaign's final three levels, so the detailed notes stop at [[Into the Beastlands]] and are frozen in a mid-campaign state on purpose. Several pages therefore describe [[Aeralath]] as sealed and expected to return, and [[Queensbane]] as still needing attunement. The outcome below is known from the second campaign, not yet from Campaign 1's own notes.
 
 ### The turn of the era — 1017 A.P.
 
@@ -95,6 +95,7 @@ Three things are converging. The [[Sisters of the Gnarled Veil]] are circle cast
 - `Locations/` — the material plane, and the planes beyond it. Shared between campaigns
 - `Lore/` — timelines and world history
 - `People/` — the two parties, allies, notable figures and antagonists
+- `Players/` — the real people at the table, and which characters each has played
 - `Session Notes/` — raw notes as taken at the table, kept unedited as an archive
 - `Suggestions/` — a shared suggestion box, and the record of what came of each one
 

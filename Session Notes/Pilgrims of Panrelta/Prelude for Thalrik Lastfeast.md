@@ -1,6 +1,6 @@
 ### The World of Estrana 
 
-This campaign is set in the homebrewed world of [[Estrana]] (many thanks to Reed Miller). It’s largely compatible with the classic lore of the Forgotten Realms we’ve played in prior campaigns and seen in BG3, with a few notable changes driven by the player choices made in our party’s previous campaign.
+This campaign is set in the homebrewed world of [[Estrana]] (many thanks to [[Reed|Reed Miller]]). It’s largely compatible with the classic lore of the Forgotten Realms we’ve played in prior campaigns and seen in BG3, with a few notable changes driven by the player choices made in our party’s previous campaign.
 
   
 
@@ -54,7 +54,7 @@ Having learned many lessons from his travels across the world and its great patc
 
   
 
-[[Bathoz Manefell|Bathoz]] made an agreement with the newly crowned Grekoshan King (Cameron’s PC) to allow these people to travel from the [[Golden Plains]] to lands once known as the [[Blackwaste|Black Waste]], now a verdant haven. Many travelers walked this path that year hoping to find that same wisdom in themselves and it soon became a recognized rite amongst their people… a pilgrimage made holy by the desire to better one’s self and people.
+[[Bathoz Manefell|Bathoz]] made an agreement with the newly crowned Grekoshan King ([[Cameron]]’s PC) to allow these people to travel from the [[Golden Plains]] to lands once known as the [[Blackwaste|Black Waste]], now a verdant haven. Many travelers walked this path that year hoping to find that same wisdom in themselves and it soon became a recognized rite amongst their people… a pilgrimage made holy by the desire to better one’s self and people.
 
   
 

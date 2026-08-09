@@ -7,7 +7,7 @@ aliases:
   - Dreadclaw Bathoz
   - Bathoz
 ---
-Tyler's character character from campaign 1
+[[Tyler]]'s character character from campaign 1
 member of the [[The Sons of Thunder|Sons of Thunder]]
 
 resides in [[Tulari Hot Springs]]

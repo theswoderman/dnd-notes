@@ -3,7 +3,7 @@ tags: [character, one-shot]
 ---
 # Alyris
 
-**Player:** Ian
+**Player:** [[Ian]]
 **Race:** Half-elf
 **Class:** Bard
 **Affiliation:** the one-shot party — no recorded name

@@ -11,7 +11,7 @@ aliases:
 ---
 # Falstad Firebeard
 
-**Player:** Cam
+**Player:** [[Cameron|Cam]]
 **Race:** Dwarf
 **Class:** Cleric of [[Berrenar]]
 **Affiliation:** [[The Good Ones]]

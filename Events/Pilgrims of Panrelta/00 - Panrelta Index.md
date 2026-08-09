@@ -57,4 +57,4 @@ Ten years on from [[The Sundering]]-era business and the fall of [[Aeralath]]. C
 Raw session notes live in `Session Notes/pilgrims of panrelta/`. They are kept unedited as an archive; the session log in [[Panrelta Timeline]] records what each one fed into.
 
 ## Written by the DM
-[[Prelude for Thalrik Lastfeast]] — Grant's background document. Authoritative on world history, the origin of [[The Pilgrimage]], [[Thalrik Lastfeast|Thalrik]]'s origin, and where [[The Sons of Thunder]] ended up.
+[[Prelude for Thalrik Lastfeast]] — [[Grant]]'s background document. Authoritative on world history, the origin of [[The Pilgrimage]], [[Thalrik Lastfeast|Thalrik]]'s origin, and where [[The Sons of Thunder]] ended up.
