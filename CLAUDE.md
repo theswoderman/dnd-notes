@@ -13,7 +13,7 @@ D&D notes for **two campaigns set in the same world**, roughly a decade apart.
 | | Campaign 1 | Pilgrims of Panrelta |
 |---|---|---|
 | Party | [[The Sons of Thunder]] | [[The Good Ones]] |
-| Nic's character | [[Loryn Malcovitch]] (former) | [[Thalrik Lastfeast]] |
+| Nic's character | — did not play | [[Thalrik Lastfeast]] |
 | Status | Concluded at level 20 | Ongoing, ~session 28 |
 | Index | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
 | Timeline | [[Timeline]] | [[Panrelta Timeline]] |
@@ -35,9 +35,11 @@ Suggestions/              shared Suggestion Box.md + Suggestion History/
 People/NPCs/              + Antagonists/, Campaign 1 Allies/, Campaign 1 Notable NPCs/
 People/The Good Ones/     Panrelta party
 People/The Sons of Thunder/
+Players/                  the real people at the table, tagged ignore
 Session Notes/<campaign>/ raw session notes, archival
 Templates/
 Events/Totally safe boat trip one shot/   one-shot, outside both campaigns
+People/Totally safe boat trip one shot/   the one-shot party
 ```
 
 Locations live under `Locations/`, not under a campaign folder, because the world is shared.
@@ -77,6 +79,18 @@ Locations use `**Region:**` and `**Disposition:**`. Events use `**When:**`, `**P
 Common tags: `character, location, event, faction, item, deity, lore` plus qualifiers (`party, villain, ally, major, deceased, panrelta, crossover`). Tag Panrelta notes `panrelta` so the two campaigns can be filtered apart.
 
 Give characters **short-name aliases** (`Thalrik`, `Gribnik`, `Jakel`) so informal session notes link cleanly.
+
+## Player notes
+
+`Players/` holds one note per real person at the table — [[Nic]], [[Nick]], [[Reed]], [[Grant]], [[Ian]], [[Cameron]], [[Tyler]] — each tagged `ignore` and `player`, each with a table of the characters that person has played and which campaign each belongs to. `ignore` keeps real people out of the graph, matching this file and the suggestion history; the wikilinks still work.
+
+Character notes carry a `**Player:**` line linking to the player note, as the first field. Prose that names a player links too — "[[Grant]]'s old character", "[[Ian]] was not playing that night".
+
+**Two deliberate exceptions.** Chat speaker labels in session notes stay unlinked, per the linking rules above. And this file stays unlinked: it names Nic constantly as the person giving instructions, not as a player.
+
+There is no Player template in `Templates/`; the seven notes were written by hand and are the pattern.
+
+**[[Loryn Malcovitch]] is [[Nick]]'s character, not Nic's.** The two names are one letter apart and this has been gotten wrong before. Nic did not play in Campaign 1 at all.
 
 ## The published site
 

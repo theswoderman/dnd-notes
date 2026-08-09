@@ -12,24 +12,14 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Players/Ian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "CLAUDE.md",
+                "bFile": "CLAUDE.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Ian"
+              "icon": "diff",
+              "title": "Diff: CLAUDE  (Working Tree)"
             },
             "group": "5f6a3ec99364036b"
           },
@@ -108,7 +98,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Players/Ian.md",
+                    "file": "index.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -214,7 +204,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Ian"
+                  "title": "Graph of index"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -412,17 +402,18 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "index.md",
+    "Suggestions/Suggestion Box.md",
+    "Players/Ian.md",
     "Players/Nic.md",
     "Suggestions/Suggestion History/2026-08-09 - Davynn and Gegga players.md",
     "Suggestions/Suggestion History/2026-08-09 - Player notes.md",
-    "Players/Ian.md",
     "Players/Nick.md.tmp.10912.5753091e6f18",
     "Players/Reed.md",
     "Players/Nick.md",
     "Players/Grant.md",
     "Players/Cameron.md",
     "Players/Tyler.md",
-    "Suggestions/Suggestion Box.md",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
     "Players",
     "People/Totally safe boat trip one shot/Haakon.md",
@@ -445,7 +436,6 @@
     "Session Notes/ppp-tmp-rename/Early session catch up notes.md",
     "Session Notes/ppp-tmp-rename",
     "Templates/Location.md",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "index.md.tmp.3432.f602335d8e10",
     "Session Notes/Pilgrims of Panrelta",
     "Locations/Material Plane/estrana map.JPG",
