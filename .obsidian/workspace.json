@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Templates/Location.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Location"
             },
             "group": "5f6a3ec99364036b"
           },
@@ -108,7 +108,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CLAUDE.md",
+                    "file": "Templates/Location.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -214,7 +214,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of CLAUDE"
+                  "title": "Graph of Location"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -412,6 +412,7 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "CLAUDE.md",
     "index.md.tmp.3432.f602335d8e10",
     "Session Notes/Pilgrims of Panrelta/Session 28.md",
     "Session Notes/Pilgrims of Panrelta/Thalrik's Dream.md",
@@ -427,7 +428,6 @@
     "Session Notes/tmp_ppp",
     "CLAUDE.md.tmp.3432.9f45c841a2a8",
     "Untitled.md",
-    "CLAUDE.md",
     "index.md",
     "Deities/Torm.md",
     "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
@@ -452,7 +452,6 @@
     "Locations/Material Plane/Estrana.md",
     "CLAUDE.md.tmp.1940.57612ec41b3b",
     "dnd notes",
-    "CLAUDE.md.tmp.14776.31e029d40d6e",
     "Locations/Material Plane/Map of Estrana.webp",
     "Untitled.canvas",
     "Locations/IMG_9345.webp"
