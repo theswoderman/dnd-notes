@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Suggestion.md",
+                "file": "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Suggestion"
+              "title": "2026-08-08 - Create an example suggestion"
             },
             "group": "5f6a3ec99364036b"
           },
@@ -108,7 +108,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Templates/Suggestion.md",
+                    "file": "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
@@ -214,7 +214,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Suggestion"
+                  "title": "Graph of 2026-08-08 - Create an example suggestion"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -410,8 +410,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Suggestions/Suggestion Box.md",
+    "Session Notes/Campaign 1/Campaign 1 Summary.md",
+    "Templates/Suggestion.md",
     "Session Notes/ppp-tmp-rename/Thalrik's Dream.md",
     "Session Notes/ppp-tmp-rename/Session 27.md",
     "Session Notes/ppp-tmp-rename/Prelude for Thalrik Lastfeast.md",
@@ -440,10 +443,7 @@
     "index.md",
     "Deities/Torm.md",
     "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
-    "Templates/Suggestion.md",
-    "Suggestions/Suggestion Box.md",
     "CLAUDE.md.tmp.22192.a67591669779",
-    "People/The Sons of Thunder/Loryn Malcovitch.md",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
