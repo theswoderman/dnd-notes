@@ -334,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items and Artifacts/Hand of Valor.md",
+                "file": "Suggestions/Suggestion Box.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -349,7 +349,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Items and Artifacts/Hand of Valor.md"
+                "file": "Suggestions/Suggestion Box.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -366,7 +366,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -386,7 +386,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "468b4658739229dc",
+  "active": "7b3ed334bd6c84eb",
   "lastOpenFiles": [
     "People/Totally safe boat trip one shot/Alyris.md",
     "Events/Totally safe boat trip one shot/Awakening of the turtle.md",

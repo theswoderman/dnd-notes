@@ -1,9 +1,7 @@
 [
   "templater-obsidian",
-  "obsidian-timeline",
   "extended-graph",
   "obsidian-file-color",
-  "breadcrumbs",
   "flowershow",
   "obsidian-git"
 ]
