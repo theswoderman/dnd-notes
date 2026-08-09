@@ -31,7 +31,7 @@ The second campaign is set **ten years after the first ends**, in the same world
 
 **~9,000 years ago** — the [[Nezerai Empire]] goes extinct.
 
-**~1,000 years ago** — [[The Great War]] between [[Alnoria]] and [[Rorinden]] ends in a royal marriage. This is year 0 of the A.P. calendar.
+**~1,000 years ago** — the war between [[Alnoria]] and [[Rorinden]] ends in a royal marriage. This is year 0 of the A.P. calendar — **A.P. for *At Peace***, counted from the day that war ended.
 
 **~400 years ago** — [[Atrios Wyrmslayer]] saves [[Stonehold]] from an earth titan. Evendor slays a wicked king of [[Alnoria]] — see [[Tomb of Evendor]].
 

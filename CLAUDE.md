@@ -220,7 +220,7 @@ When Grant's wording conflicts with Nic's own account, **Nic's account wins.** T
 
 **The map wins on place names.** `Map of Estrana.webp`, embedded on [[Estrana]], is authoritative for the spelling of locations. **[[Silnothas]]** was renamed from "Silnothis" to match it, with the old spelling kept as an alias — same pattern as Golden Plains. Places drawn on the map with no note simply have not come up in play; that is expected and not a gap to fill.
 
-**The calendar.** Campaign 1 ran 1016–1017 A.P., about one year of in-game time. [[Aeralath]]'s defeat closes the A.P. count and starts the **Dawning Era (D.E.)**, named for [[The Dawning]]. 1017 A.P. is 1 D.E.; Panrelta is set in **10 D.E.** Write dates in the `10 D.E.` form, parallel to `1017 A.P.` [[Estrana]] is the authoritative note.
+**The calendar.** **A.P. stands for *At Peace***, counted from the end of the [[Alnoria]]–[[Rorinden]] war about a thousand years ago. Campaign 1 ran 1016–1017 A.P., about one year of in-game time. [[Aeralath]]'s defeat closes the A.P. count and starts the **Dawning Era (D.E.)**, named for [[The Dawning]]. 1017 A.P. is 1 D.E.; Panrelta is set in **10 D.E.** Write dates in the `10 D.E.` form, parallel to `1017 A.P.` [[Estrana]] is the authoritative note.
 
 ## Open questions
 
