@@ -10,6 +10,7 @@ ddb: https://www.dndbeyond.com/characters/152626464
 ---
 # Gegga
 
+**Player:** [[Nick]]
 **Also known as:** Hana Nobunaga
 **Race:** Human
 **Class:** Wizard — origami specializt

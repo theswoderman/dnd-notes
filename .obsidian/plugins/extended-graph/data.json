@@ -97,7 +97,7 @@
   },
   "backupGraphOptions": {
     "collapse-filter": false,
-    "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  ",
+    "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
     "localJumps": 1,
     "localBacklinks": true,
     "localForelinks": true,
@@ -284,17 +284,20 @@
             }
           }
         ],
-        "search": "-path:Templates -file: \"00 - Panrelta Index\" -path:\"Session Notes\"   -tag:#ignore  ",
+        "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
         "hideUnresolved": false,
         "showAttachments": false,
-        "showOrphans": true,
         "showTags": false,
+        "localBacklinks": true,
+        "localForelinks": true,
+        "localInterlinks": true,
+        "localJumps": 1,
         "lineSizeMultiplier": 1,
         "nodeSizeMultiplier": 1,
         "showArrow": false,
         "textFadeMultiplier": 0,
-        "centerStrength": 0,
-        "linkDistance": 500,
+        "centerStrength": 1,
+        "linkDistance": 30,
         "linkStrength": 1,
         "repelStrength": 20
       },

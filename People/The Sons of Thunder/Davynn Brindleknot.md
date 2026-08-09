@@ -9,6 +9,7 @@ aliases:
 
 # Davynn
 
+**Player:** [[Ian]]
 **Race/Class:** Wizard
 **Affiliation:** [[The Sons of Thunder]]
 **Status:** Alive (killed once by [[Sharess the Black]], revived by [[Jäkel Aleister le Rouge]])
