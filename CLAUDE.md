@@ -86,7 +86,13 @@ The vault is a git repo published to GitHub at `theswoderman/dnd-notes` (branch 
 
 **Anything written here is public.** Names, open questions and half-guesses are all visible. This doesn't change the rules below, but it raises the cost of a bad guess.
 
-**Git is read-only.** Use `git log` and `git diff` to see what changed. Never commit, push, checkout, reset, or anything else that touches history or working state — Nic's backup plugin makes the commits and Nic publishes.
+**Git is read-only by default.** Use `git log` and `git diff` freely. Nic's backup plugin already commits *and* pushes on its own, so vault edits reach the site without any help — check `git fetch` and compare `origin/main...main` before assuming anything needs publishing.
+
+**Commit or push only when Nic says so in that session.** Standing permission is not implied by a past yes. Even then, never `checkout`, `reset`, `rebase`, or anything else that rewrites history or discards working state. Commit as Nic (`git -c user.name=... -c user.email=...`) rather than writing a git identity into the repo config, and leave `.obsidian/` churn out of the commit — the backup plugin handles it.
+
+**`git mv` fails in the sandbox** — it cannot take `.git/index.lock` and leaves a stale lock behind, which then blocks the backup plugin from committing at all, silently. Use plain `mv`, and if a lock appears, delete `.git/index.lock`.
+
+**The repo is case-insensitive** (`core.ignorecase` is true, on a Windows-backed filesystem). Renaming a file or folder to fix only its capitalization changes nothing as far as git is concerned, so the old casing stays in the published URLs. Forcing it through takes two moves via a temporary name.
 
 ## Rules
 
