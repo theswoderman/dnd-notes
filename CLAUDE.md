@@ -37,9 +37,12 @@ People/The Good Ones/     Panrelta party
 People/The Sons of Thunder/
 Session Notes/<campaign>/ raw session notes, archival
 Templates/
+Events/Totally safe boat trip one shot/   one-shot, outside both campaigns
 ```
 
 Locations live under `Locations/`, not under a campaign folder, because the world is shared.
+
+The vault is framed around two campaigns, but play outside them gets its own `Events/` subfolder.
 
 ## Note conventions
 
@@ -75,6 +78,16 @@ Common tags: `character, location, event, faction, item, deity, lore` plus quali
 
 Give characters **short-name aliases** (`Thalrik`, `Gribnik`, `Jakel`) so informal session notes link cleanly.
 
+## The published site
+
+The vault is a git repo published to GitHub at `theswoderman/dnd-notes` (branch `main`) and rendered as a site by Flowershow. Three consequences:
+
+**`index.md` at the vault root is the homepage.** Tagged `ignore`, `index`, `moc` — a reader-facing overview, not a campaign note, deliberately outside the graph. It restates the campaign table, the chronology from [[The Sundering]] to the current session, a **Where things stand** section, and a note count. All of that drifts the moment notes change, so it is a maintenance target on every session and every update run. Treat the note count as approximate — round it rather than chasing exactness.
+
+**Anything written here is public.** Names, open questions and half-guesses are all visible. This doesn't change the rules below, but it raises the cost of a bad guess.
+
+**Git is read-only.** Use `git log` and `git diff` to see what changed. Never commit, push, checkout, reset, or anything else that touches history or working state — Nic's backup plugin makes the commits and Nic publishes.
+
 ## Rules
 
 **Link every instance**, not just the first mention. Do not link inside: frontmatter, code spans and file paths, headings, blockquotes, a note's own "Also known as" line, or chat speaker labels in session notes. Pipe when the display text differs: `[[Thalrik Lastfeast|Thalrik]]`.
@@ -95,13 +108,14 @@ Raw notes arrive in `Session Notes/<campaign>/`, named `Session N`. When asked t
 4. Add a row to the **session log** table in the campaign timeline listing what was created and updated.
 5. Update the timeline's event list and **loose threads**.
 6. Update the campaign index if the event list or cast changed.
-7. Run the verification script below.
+7. Update `index.md` — **Where things stand**, the chronology, and the recorded-events list if the session added one.
+8. Run the verification script below.
 
 **Raw session notes are an archive.** Only ever *add link syntax* to them — never change wording. Verify by stripping links from both versions and asserting the text is identical.
 
 ## Update runs
 
-"Run an update" or "update the wiki" means the full sweep below, not just one file. Do all four steps in order.
+"Run an update" or "update the wiki" means the full sweep below, not just one file. Do all five steps in order.
 
 **1. Read the suggestion box.** `Suggestions/Suggestion Box.md`. Any text *below the divider line* is unprocessed player input. The file is shared — other players edit it directly, so expect informal, misspelled, or partial entries, and expect several unrelated suggestions at once. Treat each as its own suggestion.
 
@@ -125,11 +139,15 @@ Ignore `.obsidian/` churn entirely — plugin files rewrite themselves constantl
 
 History notes are tagged `ignore` **and** `suggestion` — `ignore` keeps them out of the graph, matching this file. They still use real wikilinks, so the links stay clickable; they just do not draw graph edges. Do **not** add attribution lines to the campaign notes themselves — the history note's links are the audit trail, and the notes stay clean.
 
+**5. Refresh `index.md`.** Same targets as the session workflow — **Where things stand**, the chronology, the note count. If the run only touched a character detail this may be a no-op; check rather than assume.
+
 Run the verification script when the whole sweep is done.
 
 ## Verification
 
 Run after any batch of edits. Checks broken links, YAML errors, and duplicate filenames.
+
+The `/sessions/<session>/mnt/` path below changes every session — read it from the folder-access confirmation rather than copying the example. A wrong path fails loudly, so this is a stumble, not a risk.
 
 ```bash
 cd "/sessions/<session>/mnt/dnd notes" && python3 -c "
