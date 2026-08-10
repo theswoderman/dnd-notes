@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/NPCs/Campaign 1 Notable NPCs/Gwendolin Thundersong.md",
+                "file": "Locations/Planes and Extraplanar/Asgard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gwendolin Thundersong"
+              "title": "Asgard"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -82,7 +82,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "People/NPCs/Campaign 1 Notable NPCs/Gwendolin Thundersong.md",
+                    "file": "Locations/Planes and Extraplanar/Asgard.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -188,7 +188,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Gwendolin Thundersong"
+                  "title": "Graph of Asgard"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -388,7 +388,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "People/NPCs/Campaign 1 Notable NPCs/Atrios Wyrmslayer.md",
     "Locations/Planes and Extraplanar/Asgard.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Gwendolin Thundersong.md",
     "People/NPCs/Campaign 1 Notable NPCs/Dryzmir Aletall.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "People/NPCs/Campaign 1 Allies/Mehea Talth.md",
@@ -418,8 +420,6 @@
     "Players/Nick.md.tmp.10912.5753091e6f18",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
     "Players",
-    "People/Totally safe boat trip one shot/Haakon.md",
-    "Suggestions/Suggestion History/2026-08-09 - Boat trip one-shot details.md",
     "Suggestions/Suggestion Box.md.tmp.15260.368a0d150d37",
     "index.md.tmp.15260.9ef4e974b31a",
     "People/Totally safe boat trip one shot/Grug.md.tmp.15260.76685ff437c6",
