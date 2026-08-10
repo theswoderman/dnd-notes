@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Material Plane/Estrana.md",
+                "file": "People/NPCs/Campaign 1 Notable NPCs/Gwendolin Thundersong.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,21 +29,20 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Estrana"
+              "title": "Gwendolin Thundersong"
             },
             "group": "5f6a3ec99364036b"
           }
         ]
       },
       {
-        "id": "d6545e6f5e74f696",
+        "id": "a89dea60709bfb0c",
         "type": "split",
         "dimension": 38.58695652173913,
         "children": [
           {
-            "id": "1cfa5bcc49507038",
+            "id": "19c2b1139b42eefc",
             "type": "tabs",
-            "dimension": 57.11206896551724,
             "children": [
               {
                 "id": "c97418892c1a0e0c",
@@ -74,9 +73,8 @@
             ]
           },
           {
-            "id": "19c2b1139b42eefc",
+            "id": "616fb221e7e6cd63",
             "type": "tabs",
-            "dimension": 42.887931034482754,
             "children": [
               {
                 "id": "b9003bcd601ba41e",
@@ -84,7 +82,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Locations/Material Plane/Estrana.md",
+                    "file": "People/NPCs/Campaign 1 Notable NPCs/Gwendolin Thundersong.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +188,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Estrana"
+                  "title": "Graph of Gwendolin Thundersong"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -231,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pilgrims ",
+                "query": "kord",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,7 +250,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -370,7 +369,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,10 +386,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Locations/Material Plane/The Rosefields.md",
+    "Locations/Planes and Extraplanar/Asgard.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Dryzmir Aletall.md",
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+    "People/NPCs/Campaign 1 Allies/Mehea Talth.md",
+    "Locations/Material Plane/Eldergleam Tree.md",
     "Locations/Material Plane/Estrana.md",
+    "Events/Campaign 1/Events/The Great War.md",
+    "Locations/Material Plane/The Rosefields.md",
     "Lore/Timeline.md",
     "Lore/Panrelta Timeline.md",
     "index.md",
@@ -398,7 +404,6 @@
     "index.md.tmp.24388.6e6148dfe49e",
     "Players/Reed.md",
     "People/The Sons of Thunder/Davynn Brindleknot.md",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "Players/Ian.md",
     "Suggestions/Suggestion History/2026-08-09 - Davynn and Gegga players.md",
     "Suggestions/Suggestion Box.md",
@@ -415,15 +420,10 @@
     "Players",
     "People/Totally safe boat trip one shot/Haakon.md",
     "Suggestions/Suggestion History/2026-08-09 - Boat trip one-shot details.md",
-    "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
     "Suggestions/Suggestion Box.md.tmp.15260.368a0d150d37",
     "index.md.tmp.15260.9ef4e974b31a",
-    "People/Totally safe boat trip one shot/Kael'zar.md",
-    "People/Totally safe boat trip one shot/Grug.md",
     "People/Totally safe boat trip one shot/Grug.md.tmp.15260.76685ff437c6",
-    "People/Totally safe boat trip one shot/Orist.md",
     "People/Totally safe boat trip one shot",
-    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
