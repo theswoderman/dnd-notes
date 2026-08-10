@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/NPCs/Campaign 1 Allies/Kehl Brokenhorn.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kehl Brokenhorn"
+              "title": "index"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -82,7 +82,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "People/NPCs/Campaign 1 Allies/Kehl Brokenhorn.md",
+                    "file": "index.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -188,7 +188,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Kehl Brokenhorn"
+                  "title": "Graph of index"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kehl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,8 +250,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -385,8 +384,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
+    "People/NPCs/Campaign 1 Allies/Kehl Brokenhorn.md",
     "Events/Campaign 1/Events/Bathoz's Mindscape.md",
     "Locations/Planes and Extraplanar/Asgard.md",
     "People/NPCs/Campaign 1 Notable NPCs/Atrios Wyrmslayer.md",
@@ -415,7 +415,6 @@
     "Players/Cameron.md",
     "Players/Tyler.md",
     "Players/Nick.md",
-    "Players/Nic.md",
     "Players/Nick.md.tmp.10912.5753091e6f18",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
     "Players",
