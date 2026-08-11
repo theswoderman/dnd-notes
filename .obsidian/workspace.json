@@ -368,7 +368,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -384,7 +385,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
     "People/NPCs/Campaign 1 Allies/Kehl Brokenhorn.md",
     "Events/Campaign 1/Events/Bathoz's Mindscape.md",
