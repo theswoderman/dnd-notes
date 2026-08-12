@@ -163,6 +163,18 @@ History notes are tagged `ignore` **and** `suggestion` — `ignore` keeps them o
 
 Run the verification script when the whole sweep is done.
 
+## Corrections given in chat
+
+Nic corrects things in conversation as often as through the box, and those corrections are canon the moment he gives them. **Every one gets a history note, same as a box entry.** Write it in `Suggestions/Suggestion History/` from `Templates/Suggestion.md`, quote him verbatim, and link every note touched. Do this in the same session, not at the next update run.
+
+**The unit is the message, not the fact.** One message carrying three unrelated corrections gets one entry, with the three listed under **Incorporated into**. Splitting them produces noise and loses the context they arrived in.
+
+Style and process changes count too, not just campaign facts, when they rewrite a note wholesale. [[2026-08-12 - Rewrite the Panrelta Timeline in a plainer style]] is the worked example.
+
+Everything else is unchanged: tagged `ignore` and `suggestion`, no attribution line, never edited after the fact. A correction that reverses an earlier one gets a new entry pointing at the old.
+
+Entries backfilled from chat transcripts say so in **Notes**, since what was touched is reconstructed rather than observed. The `mcp__session_info__` tools can read past session transcripts, which is where a backfill gets its verbatim quotes.
+
 ## Verification
 
 Run after any batch of edits. Checks broken links, YAML errors, and duplicate filenames.

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Panrelta Timeline.md",
+                "file": "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Panrelta Timeline"
+              "title": "2026-08-12 - Rewrite the Panrelta Timeline in a plainer style"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -82,7 +82,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Lore/Panrelta Timeline.md",
+                    "file": "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -188,7 +188,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Panrelta Timeline"
+                  "title": "Graph of 2026-08-12 - Rewrite the Panrelta Timeline in a plainer style"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -254,8 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -387,12 +386,13 @@
   },
   "active": "468b4658739229dc",
   "lastOpenFiles": [
-    "Suggestions/Suggestion History/2026-08-12 - Thalrik took the Oath of Glory.md",
+    "Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",
     "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
+    "Suggestions/Suggestion History/2026-08-12 - Thalrik took the Oath of Glory.md",
     "Suggestions/Suggestion History/2026-08-12 - The dragon is Thelgadrim, the Inevitable.md",
+    "Lore/Panrelta Timeline.md",
     "Suggestions/Suggestion History/2026-08-09 - Fold the Great War into the Demon War.md",
     "Suggestions/Suggestion History/2026-08-09 - A.P. is At Peace, and the Rosefields.md",
-    "Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",
     "Suggestions/Suggestion History/2026-08-07 - Status of Reed's Campaign 1 summary.md",
     "Suggestions/Suggestion History/2026-08-07 - Campaign 1's length and why Aeralath wanted Queensbane.md",
     "Suggestions/Suggestion History/2026-08-07 - Session note filenames and the 1016 question.md",
@@ -412,7 +412,6 @@
     "Players/Nic.md",
     "index.md",
     "Players/Cameron.md",
-    "Players/Grant.md",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
     "Session Notes/Pilgrims of Panrelta/nic's notes",
