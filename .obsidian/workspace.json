@@ -368,7 +368,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,6 +387,13 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Players/Grant.md",
+    "Players/Ian.md",
+    "Players/Nic.md",
+    "Players/Nick.md",
+    "Players/Reed.md",
+    "Players/Tyler.md",
+    "Players/Cameron.md",
     "index.md",
     "CLAUDE.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
@@ -408,16 +416,9 @@
     "People/NPCs/Campaign 1 Notable NPCs/Dryzmir Aletall.md",
     "People/NPCs/Campaign 1 Allies/Mehea Talth.md",
     "Locations/Material Plane/Eldergleam Tree.md",
-    "Locations/Material Plane/Estrana.md",
-    "Events/Campaign 1/Events/The Great War.md",
-    "Locations/Material Plane/The Rosefields.md",
-    "Lore/Timeline.md",
-    "Lore/Panrelta Timeline.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md.tmp.24388.0b9d6898a4fb",
     "index.md.tmp.24388.3a9de7f040a6",
     "index.md.tmp.24388.6e6148dfe49e",
-    "Players/Reed.md",
-    "People/The Sons of Thunder/Davynn Brindleknot.md",
     "Players/Nick.md.tmp.10912.5753091e6f18",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
     "Players",
