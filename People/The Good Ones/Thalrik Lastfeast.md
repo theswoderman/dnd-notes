@@ -17,7 +17,7 @@ aliases:
 **Class:** Oath-sworn servant of [[Torm]] — both oath and pact
 **Affiliation:** [[The Good Ones]]
 **Origin:** [[Hor Garam]]
-**Oath:** Oath of Devotion to [[Torm]]
+**Oath:** Oath of Glory to [[Torm]]
 **Trained by:** [[Brom Stonefist]], former [[Bronze Rams|Bronze Ram]]
 **Called:** the Golden Pilgrim, by [[Torm]]
 **Status:** Alive
@@ -33,7 +33,7 @@ He still keeps the oath and lives the virtuous life, but now [[Torm]] guides his
 > Before we met, i traveled with my childhood friends. We were ill-prepared, to say the least, but determined. One night we were attacked in our sleep. We didn't have a watch rotation, the thought hadn't even crossed our minds. A bulette took us by surprise, we put up a fight but it quickly killed two of my companions. I tried to heal them but i couldn't get to them quickly enough. As my remaining friend [[Dwendall Dhormas]] and i faced down the beast, trading blows with it. I reached out to my god, [[Torm]], and i made a different kind of promise. One that can't be broken. I made a pact, and I'm not exactly sure what i gave up in that moment. But i know the power he's granted me allowed me to save [[Dwendall Dhormas]]. That alone was worth it. I still hold my oath, and live that virtuous life, but now [[Torm]] guides my hand in battle. And if i ever retire to the country side, i know I'll have to answer his call, if he ever makes it. In this life or the next, i suspect.
 
 ## Before the party
-Thalrik hails from the small mercantile port town of [[Hor Garam]], southeast of [[Stonehold]]. In his youth he showed an aptitude for the combative arts and gained tutelage from [[Brom Stonefist]]. In time he took his Oath of Devotion to [[Torm]], and the call pulled him away from home — with the [[Tulari Hot Springs]] so near, he set out to walk [[The Pilgrimage]] and "walk the lion's path".
+Thalrik hails from the small mercantile port town of [[Hor Garam]], southeast of [[Stonehold]]. In his youth he showed an aptitude for the combative arts and gained tutelage from [[Brom Stonefist]]. In time he took his Oath of Glory to [[Torm]], and the call pulled him away from home — with the [[Tulari Hot Springs]] so near, he set out to walk [[The Pilgrimage]] and "walk the lion's path".
 
 The full journey, and the bulette that ended it, is in [[Thalrik's Road to Stonehold]]. He met [[The Good Ones]] in [[Stonehold]] afterward.
 
