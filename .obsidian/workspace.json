@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "People/NPCs/Thelgadrïm, the Inevitable.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Thelgadrïm, the Inevitable"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -82,7 +82,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "index.md",
+                    "file": "People/NPCs/Thelgadrïm, the Inevitable.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -188,7 +188,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of index"
+                  "title": "Graph of Thelgadrïm, the Inevitable"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dragon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,7 +250,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -387,6 +388,12 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Items and Artifacts/Giant Memory Gemstones.md",
+    "People/NPCs/Thelgadrïm, the Inevitable.md",
+    "People/The Good Ones/Gegga.md",
+    "index.md",
+    "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
+    "People/NPCs/Felgedrine the Inevitable.md",
     "CLAUDE.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Early session catch up notes.md",
@@ -395,7 +402,6 @@
     "Session Notes/Pilgrims of Panrelta/nic's notes",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "index.md",
     "People/NPCs/Campaign 1 Allies/Kehl Brokenhorn.md",
     "Events/Campaign 1/Events/Bathoz's Mindscape.md",
     "Locations/Planes and Extraplanar/Asgard.md",
@@ -414,15 +420,10 @@
     "index.md.tmp.24388.6e6148dfe49e",
     "Players/Reed.md",
     "People/The Sons of Thunder/Davynn Brindleknot.md",
-    "Players/Ian.md",
-    "Suggestions/Suggestion History/2026-08-09 - Davynn and Gegga players.md",
-    "Suggestions/Suggestion Box.md",
-    "People/Totally safe boat trip one shot/Alyris.md",
     "Players/Nick.md.tmp.10912.5753091e6f18",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
     "Players",
     "Suggestions/Suggestion Box.md.tmp.15260.368a0d150d37",
-    "index.md.tmp.15260.9ef4e974b31a",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",

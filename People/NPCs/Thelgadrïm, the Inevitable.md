@@ -1,7 +1,8 @@
 ---
 tags: [creature, dragon, panrelta, unconfirmed]
+aliases: [Thelgadrïm, Felgedrine the Inevitable]
 ---
-# Felgedrine the Inevitable
+# Thelgadrïm, the Inevitable
 
 **Type:** Thunder dragon — colossal
 **Location:** [[Dolghast]], possibly
@@ -12,7 +13,7 @@ tags: [creature, dragon, panrelta, unconfirmed]
 ## Summary
 Seen in [[Gegga]]'s vision from the [[Giant Memory Gemstones]]: a child in a cave watches a cloaked figure standing at the cave mouth, looking out over a plateau as a massive storm gathers. A flash of lightning reveals a colossal thunder dragon. The cloaked figure raises a staff, which the party recognized as someone's storm staff.
 
-The dragon may be Felgedrine the Inevitable, and may be living in [[Dolghast]].
+The dragon may be Thelgadrïm, the Inevitable, and may be living in [[Dolghast]].
 
 ## Open questions
 - Whose storm staff was the cloaked figure holding?

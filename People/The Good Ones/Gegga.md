@@ -22,7 +22,7 @@ An origami wizard with a mask stuck fast to her face that she cannot remove.
 
 ## Key moments
 - Gained +1 Intelligence after the descent beneath [[The Garden of Dreams]] — see [[Exploration of the deep mines]]
-- Dreamed through the eyes of a child in a cave, watching a cloaked figure at the cave mouth look out over a plateau as a massive storm gathered. A flash of lightning revealed a colossal thunder dragon; the cloaked figure raised a staff, recognized as someone's storm staff. The dragon may be [[Felgedrine the Inevitable]], and may be living in [[Dolghast]]
+- Dreamed through the eyes of a child in a cave, watching a cloaked figure at the cave mouth look out over a plateau as a massive storm gathered. A flash of lightning revealed a colossal thunder dragon; the cloaked figure raised a staff, recognized as someone's storm staff. The dragon may be [[Thelgadrïm, the Inevitable]], and may be living in [[Dolghast]]
 - Suffered the crone dream alongside [[Beemo]] and [[Gribnik Mossfoot]], and woke exhausted
 - **Killed [[The Collector]]** the morning after they cured his lycanthropy, when he woke swearing the [[Black Blood Pack]] would come for them. The party was forced to make wisdom saves; she was the only one to fail, taking a level of exhaustion and becoming **afraid of lycanthropes for four days**
 - Dreamed of a library full of worshipers freezing, in the second night of [[The Dusk Hag's Dreams]]

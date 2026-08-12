@@ -31,7 +31,7 @@ The party slept holding the broken [[Giant Memory Gemstones]] and each dreamed o
 - **[[Gribnik Mossfoot]]** — a giant witnessing dinosaurs made of magma, and a feeling of deep connection to nature
 - **[[Falstad Firebeard]]** — standing atop a mountain at a temple, looking out over an expansive desert while stone giants chanted the name of their all-father [[Annum]]. He was turned into a statue as a ritual of some sort — a way to honor a master craftsman
 - **[[Thalrik Lastfeast]]** — a cold dark field of colossal rock pillars: the [[Hand of Annum]], in [[Dolghast]]. Dozens of stone giants made an offering toward the night sky as shooting stars flew closer and closer, gathering [[Skystones]] and thanking [[Annum]] for the gift of that rare crafting material
-- **[[Gegga]]** — through the eyes of a child in a cave, watching a cloaked figure at the cave mouth look out over a plateau as a massive storm gathered. A flash of lightning illuminated a colossal thunder dragon; the figure raised a staff, recognized as someone's storm staff. The dragon may be [[Felgedrine the Inevitable]], living in [[Dolghast]]
+- **[[Gegga]]** — through the eyes of a child in a cave, watching a cloaked figure at the cave mouth look out over a plateau as a massive storm gathered. A flash of lightning illuminated a colossal thunder dragon; the figure raised a staff, recognized as someone's storm staff. The dragon may be [[Thelgadrïm, the Inevitable]], living in [[Dolghast]]
 
 The two with the widest implications are [[Thalrik Lastfeast|Thalrik]]'s and [[Gegga]]'s, both of which point at [[Dolghast]].
 
