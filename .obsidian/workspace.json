@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prelude for Thalrik Lastfeast"
+              "title": "index"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -82,7 +82,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
+                    "file": "index.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -188,7 +188,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Prelude for Thalrik Lastfeast"
+                  "title": "Graph of index"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -254,7 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270
+    "width": 222
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -385,8 +385,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Early session catch up notes.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
@@ -416,8 +418,6 @@
     "Suggestions/Suggestion History/2026-08-09 - Davynn and Gegga players.md",
     "Suggestions/Suggestion Box.md",
     "People/Totally safe boat trip one shot/Alyris.md",
-    "Events/Totally safe boat trip one shot/Awakening of the turtle.md",
-    "Players/Grant.md",
     "Players/Nick.md.tmp.10912.5753091e6f18",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
     "Players",
