@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/NPCs/Thelgadrïm, the Inevitable.md",
+                "file": "Players/Cameron.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,12 +24,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Thelgadrïm, the Inevitable"
+              "title": "Cameron"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -82,7 +82,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "People/NPCs/Thelgadrïm, the Inevitable.md",
+                    "file": "Players/Cameron.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -188,7 +188,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Thelgadrïm, the Inevitable"
+                  "title": "Graph of Cameron"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dragon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,8 +250,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -369,8 +368,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487,
-    "collapsed": true
+    "width": 487
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,19 +386,19 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Items and Artifacts/Giant Memory Gemstones.md",
-    "People/NPCs/Thelgadrïm, the Inevitable.md",
-    "People/The Good Ones/Gegga.md",
     "index.md",
+    "CLAUDE.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
+    "People/NPCs/Thelgadrïm, the Inevitable.md",
+    "Items and Artifacts/Giant Memory Gemstones.md",
+    "People/The Good Ones/Gegga.md",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "People/NPCs/Felgedrine the Inevitable.md",
-    "CLAUDE.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Early session catch up notes.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "People/NPCs/Campaign 1 Allies/Kehl Brokenhorn.md",
     "Events/Campaign 1/Events/Bathoz's Mindscape.md",

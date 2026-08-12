@@ -225,7 +225,7 @@ When Grant's wording conflicts with Nic's own account, **Nic's account wins.** T
 ## Open questions
 
 - "shae de claw" and "zogmoi" — spellings unknown, from the elder-entity mention in session 28
-- "yorrisk upon the dawning" — [[The Dawning]] is confirmed as the celebration of [[Aeralath]]'s defeat and the tenth is approaching, so this reads as a deadline. "Yorrisk" is still unidentified
+- **[[Yorrisk]] is identified** — a developing town [[House Keroskav]] and Iron Oak [[House Dufrey]] are at war over, and where [[The Maiden]] said she would meet the party. "Upon the dawning" points at the tenth [[The Dawning|Dawning]], so this is now a place *and* a deadline. Still open: whether the battle [[Mirna Girbwood]] showed [[Thol]], [[Beemo]] and [[Gribnik Mossfoot]] there is memory, prophecy or fabrication
 - Name of the arcane college [[Davynn Brindleknot|Davynn]] founded in the [[Blackwaste]] — the prelude marks it TBD
 - Whether [[The Maiden]]'s 10,000 gold was paid or the apex griffon heart delivered
 - Whether [[The Collector]] works for [[The Maiden]] — the centaur hooves suggest yes
