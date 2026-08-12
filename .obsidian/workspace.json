@@ -36,12 +36,12 @@
         ]
       },
       {
-        "id": "a89dea60709bfb0c",
+        "id": "2f84238e61591256",
         "type": "split",
         "dimension": 38.58695652173913,
         "children": [
           {
-            "id": "19c2b1139b42eefc",
+            "id": "616fb221e7e6cd63",
             "type": "tabs",
             "children": [
               {
@@ -73,7 +73,7 @@
             ]
           },
           {
-            "id": "616fb221e7e6cd63",
+            "id": "eaf4b09cba40c1be",
             "type": "tabs",
             "children": [
               {
@@ -385,8 +385,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+    "Session Notes/Pilgrims of Panrelta/Session 28.md",
     "index.md",
     "People/NPCs/Campaign 1 Allies/Kehl Brokenhorn.md",
     "Events/Campaign 1/Events/Bathoz's Mindscape.md",
@@ -394,7 +396,6 @@
     "People/NPCs/Campaign 1 Notable NPCs/Atrios Wyrmslayer.md",
     "People/NPCs/Campaign 1 Notable NPCs/Gwendolin Thundersong.md",
     "People/NPCs/Campaign 1 Notable NPCs/Dryzmir Aletall.md",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "People/NPCs/Campaign 1 Allies/Mehea Talth.md",
     "Locations/Material Plane/Eldergleam Tree.md",
     "Locations/Material Plane/Estrana.md",
@@ -415,7 +416,6 @@
     "Players/Grant.md",
     "Players/Cameron.md",
     "Players/Tyler.md",
-    "Players/Nick.md",
     "Players/Nick.md.tmp.10912.5753091e6f18",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
     "Players",
