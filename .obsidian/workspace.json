@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/Session 28.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 28"
+              "title": "Prelude for Thalrik Lastfeast"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -82,7 +82,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/Session 28.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -188,7 +188,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 28"
+                  "title": "Graph of Prelude for Thalrik Lastfeast"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -387,8 +387,12 @@
   },
   "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Early session catch up notes.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "Session Notes/Pilgrims of Panrelta/Session 28.md",
     "index.md",
     "People/NPCs/Campaign 1 Allies/Kehl Brokenhorn.md",
     "Events/Campaign 1/Events/Bathoz's Mindscape.md",
@@ -414,15 +418,11 @@
     "People/Totally safe boat trip one shot/Alyris.md",
     "Events/Totally safe boat trip one shot/Awakening of the turtle.md",
     "Players/Grant.md",
-    "Players/Cameron.md",
-    "Players/Tyler.md",
     "Players/Nick.md.tmp.10912.5753091e6f18",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
     "Players",
     "Suggestions/Suggestion Box.md.tmp.15260.368a0d150d37",
     "index.md.tmp.15260.9ef4e974b31a",
-    "People/Totally safe boat trip one shot/Grug.md.tmp.15260.76685ff437c6",
-    "People/Totally safe boat trip one shot",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
