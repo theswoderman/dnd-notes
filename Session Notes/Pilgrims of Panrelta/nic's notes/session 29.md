@@ -32,3 +32,5 @@ we leave our horses at the refugee camp that surrounds the bettermans guild
 
 beemo uses tree stride to get us ~60 miles closer to the sagethorn forest
 
+cliff is 800-1000 feet tall???
+
