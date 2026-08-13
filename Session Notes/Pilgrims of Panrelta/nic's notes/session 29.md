@@ -30,3 +30,4 @@ we learned that the mossclaw that ky'ar saw matched the appearance of the goblin
 
 we leave our horses at the refugee camp that surrounds the bettermans guild
 
+beemo uses tree stride to get us ~60 miles closer to the sagethorn forest
