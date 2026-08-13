@@ -20,7 +20,7 @@ A bundle of spell components given to [[The Good Ones]] by [[Sylvanus]], back be
 ## Spells granted
 Opening it also gave each of the party a spell to cast.
 
-- [[Beemo]] and [[Thalrik Lastfeast]] — treestride
+- [[Beemo]] and [[Thalrik Lastfeast]] — treestride, for one hour
 - Others — speak with animals
 - [[Thol]] — find the path, with a one day duration
 
