@@ -42,3 +42,5 @@ gegga casts fly on 3 of us so that we can fly up the cliff gegga carried by thal
 
 we hear a siren song in the caves, everyone makes the save against their song except for gribnik, who can't act on the charm he receives. 
 
+the second siren song we all succeed on our saves and are able to pass safely
+
