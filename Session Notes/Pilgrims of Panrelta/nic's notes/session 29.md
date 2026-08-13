@@ -19,6 +19,6 @@ beemo cast disguise self to pretend to be part of his pack so that he wouldn't r
 beemo immediately dropped his disguise at the end of the spell to reveal that the werewolf had been deceived
 
 according to the map we got early in the campaign, the abby and the lost temple are the same location, they are beneath the laughing princess constellation (this isn't how stars work but okay)
-
+we will need to wait for a clear night to see the constellation so we can locate the temple
 gribnik is a mossclaw!!!! they were his previous tribe
 
