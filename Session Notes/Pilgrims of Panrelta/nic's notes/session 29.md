@@ -61,3 +61,11 @@ the corpses start to move, and we hear a gnomish scream come from them. gribnik,
 
 combat against these werewolves, werebears, and panther lasts the rest of the session. 
 thol and my mount are in the river, i had my mount hold its action for thol to get on its back and then teleport up to where the panther is on the cliff. tyler will be taking over again next session so he'll get to decide what he does
+
+
+
+
+orc
+half orc
+astral elf
+level 9-11
