@@ -22,6 +22,9 @@ He came to the party's tower privately and told them he is worried about Torin â
 ## Left in charge
 When [[Torin Turen|Torin]] rode out for the [[Sage Thorn Forest|Sagethorn]] before dawn, the note he left was **addressed to Ky'ar** and left him the camp: "I leave the camp in your charge." He got what he wanted, and not the way he wanted it. See [[Torin's Flight into the Sagethorn]].
 
+## The raider he saw
+The [[Mossclaw]] he described matches the goblin [[The Good Ones]] spared in an earlier session, so the raider circling the camp is someone the party has already met and let go. The Mossclaw are also [[Gribnik Mossfoot]]'s former tribe.
+
 ## Open questions
 - Whether the ambition is a problem or just succession
 - Whether he will hold the camp against the [[Mossclaw]] without [[Torin Turen|Torin]]
@@ -33,3 +36,4 @@ When [[Torin Turen|Torin]] rode out for the [[Sage Thorn Forest|Sagethorn]] befo
 
 ## Sessions
 - [[Session 28]]
+- [[Session 29]]

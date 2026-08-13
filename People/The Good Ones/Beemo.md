@@ -18,6 +18,8 @@ He is not the only thing they have made. A shade sent to kill him was another of
 Travels with a companion called Snot.
 
 ## Key moments
+- Disguised himself as a packmate so [[The Collector]]'s corpse would answer freely, then dropped the disguise as the spell ended. See [[Speak with Dead with the Collector]]
+- Covered roughly sixty miles by treestride, and threw [[The Collector]]'s body off the cliff. See [[The Climb to the Sagethorn]]
 - Had Snot fly a frost bomb straight into the purple worm's mouth beneath [[The Garden of Dreams]], taking off nearly half its health in one turn — see [[Exploration of the deep mines]]
 - Dreamed of a vast fungal cavern where giants had built a sun into the ceiling out of gemstones; woke inspired as a craftsman, and well rested
 - Suffered the crone dream alongside [[Gegga]] and [[Gribnik Mossfoot]] — attacked by a crone who had been eating a griffin, and woke exhausted
@@ -54,3 +56,4 @@ He did fight in the third night's battle dream, alongside [[Thol]] and [[Gribnik
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]
+- [[Session 29]]

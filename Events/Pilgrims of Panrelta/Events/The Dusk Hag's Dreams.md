@@ -3,9 +3,9 @@ tags: [event, panrelta, major]
 ---
 # The Dusk Hag's Dreams
 
-**When:** Ongoing — three nights so far, from the deep mines to [[The Bettermans Guild]]
+**When:** Ongoing. Four nights so far, from the deep mines to the cliff below the [[Sage Thorn Forest|Sagethorn]]
 **Part of:** [[The Pilgrimage]]
-**Sessions:** [[Session 27]], [[Session 28]]
+**Sessions:** [[Session 27]], [[Session 28]], [[Session 29]]
 
 ## What happened
 A hag has been entering [[The Good Ones]]' sleep. She is [[Mirna Girbwood]], a **dusk hag** who works in the realm of dreams, and [[Beemo]] recognized her as **his aunt**. **The hags are circle casting the spell together** — this is the [[Sisters of the Gnarled Veil]] acting as a coven, not one hag freelancing.
@@ -49,6 +49,14 @@ Then all the bodies drew together into one enormous being, which formed itself i
 A tidal wave of blood rushed over them.
 
 On waking, [[Falstad Firebeard]] recognized the heraldries and remembered that the two houses are at war over a developing town called **[[Yorrisk]]** — the same [[Yorrisk]] [[The Maiden]] named.
+
+## Night four — sheltering from the storm below the cliff
+[[Gribnik Mossfoot]], [[Thol]] and [[Falstad Firebeard]] shared a dream of walking the forest they were camped in, hearing wolves right behind them and finding nothing when they turned. They came out at a small creek. On the far bank a frozen snowbank opened six red eyes, and three dire wolves stepped out of it in black spiked metal collars on black chains. The woman holding the chains had a decaying face and teeth hanging past her chin. She spat at them, and they woke.
+
+This is a different hag. [[Gegga]] and [[Beemo]] named her [[Sila Frostblood]], a bheur hag and the coven's third member, appearing for the first time. The party reached the riverbank she had shown them the next morning. See [[The Climb to the Sagethorn]] and [[The Frozen Riverbank]].
+
+## Gribnik's constellation dream
+Separately, [[Gribnik Mossfoot]] dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]], and came out of it with the name [[Orithian Blackspire]] and some link to [[The Drow]]. It happened on a night covered by [[Session 28]] but was only told to the party a week later, because [[Ian]] was not at the table.
 
 ## What the party learned
 - [[Beemo]] identified her as [[Mirna Girbwood]], his aunt, a dusk hag of the realm of dreams. The spelling is unconfirmed

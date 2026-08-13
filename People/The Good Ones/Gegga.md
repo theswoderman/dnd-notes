@@ -21,6 +21,7 @@ ddb: https://www.dndbeyond.com/characters/152626464
 An origami wizard with a mask stuck fast to her face that she cannot remove.
 
 ## Key moments
+- Cast fly to get the party up the cliff, raised a tower to sit out the storm, and named [[Sila Frostblood]] from the others' dream. See [[The Climb to the Sagethorn]]
 - Gained +1 Intelligence after the descent beneath [[The Garden of Dreams]] — see [[Exploration of the deep mines]]
 - Dreamed through the eyes of a child in a cave, watching a cloaked figure at the cave mouth look out over a plateau as a massive storm gathered. A flash of lightning revealed a colossal thunder dragon; the cloaked figure raised a staff, recognized as someone's storm staff. The dragon may be [[Thelgadrïm, the Inevitable]], and may be living in [[Dolghast]]
 - Suffered the crone dream alongside [[Beemo]] and [[Gribnik Mossfoot]], and woke exhausted
@@ -40,3 +41,4 @@ An origami wizard with a mask stuck fast to her face that she cannot remove.
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]
+- [[Session 29]]

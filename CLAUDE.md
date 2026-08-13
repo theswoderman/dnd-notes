@@ -14,7 +14,7 @@ D&D notes for **two campaigns set in the same world**, roughly a decade apart.
 |---|---|---|
 | Party | [[The Sons of Thunder]] | [[The Good Ones]] |
 | Nic's character | — did not play | [[Thalrik Lastfeast]] |
-| Status | Concluded at level 20 | Ongoing, ~session 28 |
+| Status | Concluded at level 20 | Ongoing, ~session 29 |
 | Index | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
 | Timeline | [[Timeline]] | [[Panrelta Timeline]] |
 
@@ -250,7 +250,9 @@ When Grant's wording conflicts with Nic's own account, **Nic's account wins.** T
 
 ## Open questions
 
-- "shae de claw" and "zogmoi" — spellings unknown, from the elder-entity mention in session 28
+- "shae de claw" and "zogmoi" — spellings unknown, from the elder-entity mention in session 28. Session 29 calls [[The Abyssal Orb]] itself "the ichor deep engine", which may or may not make these the same thing
+- "Orithian Blackspire" — spelling unknown, from [[Gribnik Mossfoot]]'s constellation dream. Who or what it is, and what it has to do with [[The Drow]], is entirely open
+- Whether the "lost temple" on the party's map is the temple of [[Illmater]] in the [[Sage Thorn Forest]] or a different ruin. The map puts it in the same place as [[The Abbey]]
 - **[[Yorrisk]] is identified** — a developing town [[House Keroskav]] and Iron Oak [[House Dufrey]] are at war over, and where [[The Maiden]] said she would meet the party. "Upon the dawning" points at the tenth [[The Dawning|Dawning]], so this is now a place *and* a deadline. Still open: whether the battle [[Mirna Girbwood]] showed [[Thol]], [[Beemo]] and [[Gribnik Mossfoot]] there is memory, prophecy or fabrication
 - Name of the arcane college [[Davynn Brindleknot|Davynn]] founded in the [[Blackwaste]] — the prelude marks it TBD
 - Whether [[The Maiden]]'s 10,000 gold was paid or the apex griffon heart delivered

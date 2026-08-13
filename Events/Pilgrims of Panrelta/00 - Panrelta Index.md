@@ -33,12 +33,15 @@ Six travelers bound by [[The Pilgrimage]]'s tenets — chief among them an oblig
 3. [[Exploration of the deep mines]] — preceded by [[The Shade Sent for Beemo]] and [[Thalrik's Dream of Torm]]
 4. [[The Collector on the Road]]
 5. [[Return to the Bettermans Guild]] — the feast, [[Torin Turen]]'s decline, and [[Yorrisk]] identified
-6. **[[Torin's Flight into the Sagethorn]]** — *most recent*
+6. [[Torin's Flight into the Sagethorn]]
+7. [[Speak with Dead with the Collector]] — [[The Black Grail]], [[The Abbey]] and [[The Tree of Pain]] named
+8. [[The Climb to the Sagethorn]] — the cliff, [[The Abyssal Orb]] speaking, and [[Sila Frostblood]]
+9. **[[The Frozen Riverbank]]** — *most recent, and unfinished*
 
-Running through 3–5: [[The Dusk Hag's Dreams]].
+Running through 3–8: [[The Dusk Hag's Dreams]].
 
 ## Recurring figures
-[[The Maiden]] · [[Festra]] · [[Mirna Girbwood]] · [[Sisters of the Gnarled Veil]] · [[The Drow]] · [[Torin Turen]] · [[Ky'ar Lastet]] · [[The Rockspeaker]] · [[Bane]]
+[[The Maiden]] · [[Festra]] · [[Mirna Girbwood]] · [[Sila Frostblood]] · [[Sisters of the Gnarled Veil]] · [[The Drow]] · [[Torin Turen]] · [[Ky'ar Lastet]] · [[The Rockspeaker]] · [[Bane]] · [[Malar]]
 
 ## Shared with Campaign 1
 Ten years on from [[The Sundering]]-era business and the fall of [[Aeralath]]. Confirmed overlaps:

@@ -40,6 +40,13 @@ Before dawn he rode out on [[Lightfoot]], leaving a pegasus feather and a note a
 
 [[Falstad Firebeard]] scried on [[Lightfoot]] and found him digging up a corpse with a shovel and casting speak with dead on it — a soldier of [[Bane]]. He then wandered deeper into the forest. See [[Torin's Flight into the Sagethorn]].
 
+## The grail may be inside him
+Questioned after death, [[The Collector]] was asked whether [[The Black Grail]] was in the temple of [[Illmater]] and answered **"it is within the small gnome."** [[Torin Turen|Torin]] is the only gnome in play. Both [[Malar]]'s pack and [[Bane]]'s followers want the grail, and both intend to carry it to [[The Abbey]]. See [[Speak with Dead with the Collector]].
+
+That recasts almost everything already recorded about him. The grail he has dreamed of every night is not a symbol, the presence displacing [[Illmater]] has a reason to be there, and two rival faiths have a reason to want him alive and portable.
+
+A gnomish scream came out of the moving corpses at [[The Frozen Riverbank]]. Nobody has confirmed it was his.
+
 ## Open questions
 - Whose presence he feels where [[Illmater]] should be — [[Bane]] is the obvious candidate
 - What the black grail and the stone tomb are
@@ -56,3 +63,4 @@ Before dawn he rode out on [[Lightfoot]], leaving a pegasus feather and a note a
 
 ## Sessions
 - [[Session 28]]
+- [[Session 29]]

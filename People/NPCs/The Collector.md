@@ -32,12 +32,19 @@ The party then found **boxes of black dragon scales** in the back of his cart, p
 
 His body went into the bag, alongside [[The Abyssal Orb]]. The party's own assessment: probably a horrible idea.
 
+## Interrogated after death
+[[The Good Ones]] cast speak with dead on the corpse, with [[Beemo]] disguised as a packmate so it would answer freely. It gave up more than he ever did alive: [[Malar]] had sent him to collect bestial trophies so the pack could drink from [[The Black Grail]], the grail is "within the small gnome", [[Bane]]'s followers want it for themselves and are no allies, and the grail is bound for [[The Abbey]] near [[The Tree of Pain]]. It also confirmed [[Starfall Clearing]] as his destination. Full exchange in [[Speak with Dead with the Collector]].
+
+[[Beemo]] dropped the disguise as the spell ended, so the corpse's last understanding was that it had been tricked. [[Beemo]] then threw the body off a cliff during [[The Climb to the Sagethorn]], which is the end of it.
+
 ## Open questions
 - What to do with all the animal parts — most were buried
-- Why he was collecting them, and for whom — [[The Maiden]] is the obvious candidate
+- Whether the corpse told the truth, or told a supposed packmate what it thought he wanted to hear
 - Where the black dragon scales came from and who they were for
 - Whether the [[Black Blood Pack]] knows he is dead
 - Whether [[Starfall Clearing]] is still worth visiting
+
+Answered since: he was collecting the animal parts as trophies for [[Malar]]'s rite, not as merchandise, which makes [[The Maiden]] a less obvious buyer than she looked.
 
 ## Connections
 - [[The Maiden]] — he had met her
@@ -45,7 +52,9 @@ His body went into the bag, alongside [[The Abyssal Orb]]. The party's own asses
 - [[Black Blood Pack]] — the threat he made
 - [[Gegga]] — killed him
 - [[Starfall Clearing]] — his destination
+- [[The Black Grail]] — what the trophies were for
 
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]
+- [[Session 29]]

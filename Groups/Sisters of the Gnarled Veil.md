@@ -5,6 +5,7 @@ tags: [faction, panrelta, coven, enemy]
 
 **Disposition:** Hostile
 **Led by:** [[Festra]]
+**Known members:** [[Mirna Girbwood]], [[Sila Frostblood]]
 
 A coven of hags trying to kill [[Beemo]]. They may also be working to resurrect a dragon.
 
@@ -28,6 +29,8 @@ The hag who appears is **[[Mirna Girbwood]]**, a dusk hag of the realm of dreams
 
 It began with the crone eating a griffin that [[Beemo]], [[Gegga]] and [[Gribnik Mossfoot]] shared beneath [[The Garden of Dreams]] — see [[Exploration of the deep mines]]. That was [[Mirna Girbwood|Mirna]], though nobody knew it yet.
 
+On the fourth night a second hag appeared, for the first time: **[[Sila Frostblood]]**, a bheur hag, who showed [[Gribnik Mossfoot]], [[Thol]] and [[Falstad Firebeard]] a frozen riverbank they reached the next morning. She is the third member of the coven. See [[The Climb to the Sagethorn]] and [[The Frozen Riverbank]].
+
 Full account in [[The Dusk Hag's Dreams]].
 
 ## Possibly also
@@ -36,8 +39,10 @@ The party thinks **a hag lured [[Torin Turen]]** out of [[The Bettermans Guild]]
 ## Connections
 - [[Festra]] — leader
 - [[Mirna Girbwood]] — dusk hag, [[Beemo]]'s aunt
+- [[Sila Frostblood]] — bheur hag, the third member
 - [[Beemo]] — their target
 
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]
+- [[Session 29]]

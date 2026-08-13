@@ -17,7 +17,7 @@ The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with cla
 | **Party** | [[The Sons of Thunder]] | [[The Good Ones]] |
 | **When** | 1016–1017 A.P. | 10 D.E. |
 | **Where** | [[Anendal]], and outward through the planes | [[Panrelta]] |
-| **Status** | Concluded at level 20 | Ongoing, ~session 28 |
+| **Status** | Concluded at level 20 | Ongoing, ~session 29 |
 | **Index** | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
 | **Timeline** | [[Timeline]] | [[Panrelta Timeline]] |
 
@@ -67,7 +67,7 @@ Where the heroes ended up: [[Bathoz Manefell|Bathoz]] with his tribe, [[Jäkel A
 
 Six travelers walk [[The Pilgrimage]] across [[Panrelta]]: [[Beemo]], [[Falstad Firebeard]], [[Gegga]], [[Gribnik Mossfoot]], [[Thalrik Lastfeast]] and [[Thol]]. They are bound by tenets that include an obligation to help anyone who asks, which is why they keep ending up in other people's wars. They did not all set out together. [[The Good Ones]] and [[Thalrik Lastfeast|Thalrik]]'s own group were walking the same road separately until they met in [[Stonehold]].
 
-The earliest sessions were never written down, so what follows is the order things were recorded in rather than true campaign order: [[Raid on the Thieves Guild]], [[Liberation of Khulask Hollow]], [[Exploration of the deep mines]], [[The Collector on the Road]], [[Return to the Bettermans Guild]], and most recently [[Torin's Flight into the Sagethorn]]. Full detail and the session log are on [[Panrelta Timeline]].
+The earliest sessions were never written down, so what follows is the order things were recorded in rather than true campaign order: [[Raid on the Thieves Guild]], [[Liberation of Khulask Hollow]], [[Exploration of the deep mines]], [[The Collector on the Road]], [[Return to the Bettermans Guild]], [[Torin's Flight into the Sagethorn]], [[Speak with Dead with the Collector]], [[The Climb to the Sagethorn]], and most recently [[The Frozen Riverbank]]. Full detail and the session log are on [[Panrelta Timeline]].
 
 ### Outside the campaigns
 
@@ -75,9 +75,11 @@ One session of play sits outside both campaigns and outside the chronology: a bo
 
 ## Where things stand
 
-[[The Good Ones]] are at [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]], about to ride after [[Torin Turen]], who has gone into the [[Sage Thorn Forest|Sagethorn]] alone and been found digging up a soldier of [[Bane]]. They are carrying [[The Abyssal Orb]] — pulled from a creature out of [[The Abyss]], and intended for [[The Sons of Thunder]] to deal with.
+[[The Good Ones]] are inside the [[Sage Thorn Forest|Sagethorn]], mid-fight on a frozen riverbank against werewolves, werebears and an enormous panther, with three of them being dragged toward the water. They went in after [[Torin Turen]], who rode there alone and was last seen digging up a soldier of [[Bane]]. They carry [[The Abyssal Orb]], pulled from a creature out of [[The Abyss]] and meant for [[The Sons of Thunder]] to deal with. It has begun to speak, and what it says is "free me".
 
-Three things are converging. The [[Sisters of the Gnarled Veil]] are circle casting on the party's sleep every night and want [[Beemo]] dead. [[The Maiden]] is still owed 10,000 gold and the heart of an apex griffon, and said she would meet them at [[Yorrisk]] "upon the dawning" — which makes **the tenth [[The Dawning|Dawning]], now approaching, a deadline.** And [[Yorrisk]] itself is a town two houses are going to war over.
+The reason for the chase changed shape on the way in. Questioned after death, [[The Collector]] said [[Malar]] had him gathering trophies so his pack could drink from [[The Black Grail]], and that the grail is inside [[Torin Turen|Torin]]. [[Bane]]'s followers want it too and are no allies of [[Malar]]'s. Both mean to take it to [[The Abbey]], which a map places beneath [[The Laughing Princess Constellation|the Laughing Princess constellation]].
+
+Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circle casting on the party's sleep every night and want [[Beemo]] dead, and a third hag, [[Sila Frostblood]], has now joined in. [[The Maiden]] is still owed 10,000 gold and the heart of an apex griffon, and said she would meet them at [[Yorrisk]] "upon the dawning", which makes the tenth [[The Dawning|Dawning]], now approaching, a deadline. And [[Yorrisk]] itself is a town two houses are going to war over.
 
 ## Start here
 
@@ -99,6 +101,6 @@ Three things are converging. The [[Sisters of the Gnarled Veil]] are circle cast
 - `Session Notes/` — raw notes as taken at the table, kept unedited as an archive
 - `Suggestions/` — a shared suggestion box, and the record of what came of each one
 
-Roughly 370 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+Roughly 380 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
 
 **Spotted something wrong, or remember it differently?** Add it to the [[Suggestion Box]] and it gets worked in at the next update.

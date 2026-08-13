@@ -22,6 +22,8 @@ aliases:
 A dwarven cleric of [[Berrenar]], originally from [[Witchcreek]].
 
 ## Key moments
+- Received plant growth from the [[Sylvan Parcel]]
+- Dreamed of [[Sila Frostblood]] alongside [[Gribnik Mossfoot]] and [[Thol]]. See [[The Climb to the Sagethorn]]
 - Dreamed of standing at a mountaintop temple looking out over an expansive desert, with stone giants chanting the name of their all-father [[Annum]]. He was turned to stone as part of a ritual — a way of honoring a master craftsman — see [[Exploration of the deep mines]]
 
 - Entertained the children of [[The Bettermans Guild]]'s camp with stories of the adventure, alongside [[Thol]] and [[Beemo]]
@@ -41,3 +43,4 @@ After the third night's battle dream, **Falstad is the one who recognized the tw
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]
+- [[Session 29]]

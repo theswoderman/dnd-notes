@@ -19,4 +19,6 @@ A real person, not a campaign entity. Tagged `ignore` so this note stays out of 
 
 ## Notes
 
+Missed the session covered by [[Session 28]], so [[Gribnik Mossfoot|Gribnik]]'s dream of [[The Laughing Princess Constellation|the Laughing Princess constellation]] was only reported to the party a week later, in [[Session 29]].
+
 Missed the second night of [[The Dusk Hag's Dreams]], which is why [[Gribnik Mossfoot|Gribnik]]'s dream from that night is unrecorded.

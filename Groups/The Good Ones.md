@@ -18,13 +18,17 @@ Bound by the tenets of the pilgrimage, including a standing obligation to help a
 - [[Thol]] — half-orc fighter, adopted son of [[Bathoz Manefell]]
 
 ## Current position
-At [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]], about to go after [[Torin Turen]], who has ridden into the [[Sage Thorn Forest|Sagethorn]] alone.
+In the [[Sage Thorn Forest|Sagethorn]], mid-fight at [[The Frozen Riverbank]] against werewolves, werebears and an enormous panther, with three of them being pulled toward the water. They left their horses at the refugee camp around [[The Bettermans Guild]] and carry two weeks of supplies. A full moon is a night away.
+
+They are looking for [[The Tree of Pain]], and through it [[The Abbey]], where both [[Malar]] and [[Bane]]'s followers mean to take [[The Black Grail]]. [[Torin Turen]] went into this forest alone ahead of them, and by [[The Collector]]'s account the grail is inside him.
 
 ## What they are carrying
-- [[The Abyssal Orb]], bound for [[The Sons of Thunder]] — with [[The Collector]]'s corpse in the same bag
+- [[The Abyssal Orb]], bound for [[The Sons of Thunder]]. It has started speaking: it told [[Thalrik Lastfeast]] "free me". [[The Collector]]'s corpse no longer shares the bag, having been thrown off a cliff
 - The opened [[Sylvan Parcel]] and its four effects
-- A hag in their dreams. [[Mirna Girbwood]] and the [[Sisters of the Gnarled Veil]] are circle casting on them nightly — see [[The Dusk Hag's Dreams]]
+- Hags in their dreams. [[Mirna Girbwood]] and now [[Sila Frostblood]], with the whole [[Sisters of the Gnarled Veil|coven]] circle casting nightly — see [[The Dusk Hag's Dreams]]
+- A map from early in the campaign putting [[The Abbey]] beneath [[The Laughing Princess Constellation|the Laughing Princess constellation]], which needs a clear night to read
 
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]
+- [[Session 29]]

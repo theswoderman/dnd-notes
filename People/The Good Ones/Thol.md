@@ -18,6 +18,8 @@ A half-orc fighter, and the adopted son of [[Bathoz Manefell]] of [[The Sons of 
 He was raised in [[Kalibad]] and the [[Golden Plains]], which is where the butchered centaurs came from — this is why he is far angrier about the poaching than anyone else in [[The Good Ones]], and why he fixated on the centaur hooves in [[The Collector]]'s cart.
 
 ## Key moments
+- Dreamed of [[Sila Frostblood]] alongside [[Gribnik Mossfoot]] and [[Falstad Firebeard]]. See [[The Climb to the Sagethorn]]
+- Cast find the path toward [[The Tree of Pain]], then ended [[The Frozen Riverbank]] in the water, riding [[Thalrik Lastfeast|Thalrik]]'s mount up the cliff at the panther. [[Nic]] ran him this session while [[Tyler]] was traveling
 - Nearly died fighting the large centaur during [[The Centaur Poachers]], and was beaten badly again by [[The Maiden]]
 - Dreamed from the point of view of a fire giant fighting a war on a bridge, and was killed in the dream by a magma stone — see [[Exploration of the deep mines]]
 - Talked [[Gegga]] through her remorse after she killed [[The Collector]], on the subject of keeping better control of their instincts in stressful situations
@@ -40,3 +42,4 @@ On the third night he fought in the battle dream alongside [[Beemo]] and [[Gribn
 - [[Early session catch up notes]]
 - [[Session 27]]
 - [[Session 28]]
+- [[Session 29]]

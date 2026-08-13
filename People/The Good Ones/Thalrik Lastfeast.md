@@ -41,6 +41,8 @@ The full journey, and the bulette that ended it, is in [[Thalrik's Road to Stone
 He never knew what he gave up that night. [[Torm]] has now answered it through [[Diggory Psalm]]: reaching out for more than strength bought his unique abilities **at the cost of his soul**. Having sensed its purity, Torm could see this is always where his path would have taken him. See [[Thalrik's Dream of Torm]].
 
 ## Key moments
+- Climbed into the bag of holding and was told **"Free me"** by [[The Abyssal Orb]]. See [[The Climb to the Sagethorn]]
+- Cast treestride toward [[The Tree of Pain]], and was among those pulled toward the water at [[The Frozen Riverbank]]
 - Granted a dream by [[Torm]], named the **Golden Pilgrim**, and given the [[Hand of Valor]] — which he still held on waking. See [[Thalrik's Dream of Torm]]
 - Directed to [[Temple Trueheart]], with an eventual invitation to the [[The Order of the Golden Gauntlet|Knights of the Golden Gauntlet]] promised
 - Still has not found [[Magus Trollbeater|Maygus Trollbeater]], the [[Bronze Rams|Bronze Ram]] [[Brom Stonefist|Brom]] told him to seek in [[Stonehold]]
@@ -68,3 +70,4 @@ He never knew what he gave up that night. [[Torm]] has now answered it through [
 - [[Prelude for Thalrik Lastfeast]]
 - [[Session 27]]
 - [[Session 28]]
+- [[Session 29]]
