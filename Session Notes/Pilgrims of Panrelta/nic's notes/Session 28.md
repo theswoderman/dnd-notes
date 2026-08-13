@@ -67,6 +67,7 @@ Suffer Flames: Grants resistance to fire damage and 1d4 fire damage to any attac
   
 we each got a bunch of different spells to cast. [[Beemo|beemo]] and i both got to cast treestride  for 1 hour
 some people got speak with animals  
+falstad got plant growth
 [[Thol|thol]] received the ability to cast find the path with a 1 day duration  
   
 [[Falstad Firebeard|falstad]] scry'd on the pegasus. it's a small pegasus, the appropriate size for a gnome since [[Torin Turen|torin]] is a gnome  
