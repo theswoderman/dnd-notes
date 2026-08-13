@@ -65,7 +65,7 @@ Suffer Flames: Grants resistance to fire damage and 1d4 fire damage to any attac
   
 [[Falstad Firebeard|falstad]] remembers the meaning of the heraldries and that they are in conflict over a developing town called "[[Yorrisk|yorrisk]]", [[The Maiden|the maiden]] also previously told us she would meet us in [[Yorrisk|yorrisk]]. (before i started playing)  
   
-we each got a bunch of different spells to cast. [[Beemo|beemo]] and i both got to cast treestride  
+we each got a bunch of different spells to cast. [[Beemo|beemo]] and i both got to cast treestride  for 1 hour
 some people got speak with animals  
 [[Thol|thol]] received the ability to cast find the path with a 1 day duration  
   

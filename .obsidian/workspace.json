@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/session 29.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "session 29"
+              "title": "Session 28"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -109,7 +109,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/session 29.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -215,7 +215,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of session 29"
+                  "title": "Graph of Session 28"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -412,9 +412,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d6811b0f75cab11",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
     "TEMP - THOL CHEAT SHEET.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/session 29.md",
     "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
     "Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",
@@ -439,7 +440,6 @@
     "Lore/Timeline.md",
     "People/NPCs/Thelgadrïm, the Inevitable.md",
     "Events/Pilgrims of Panrelta/Events/Exploration of the deep mines.md",
-    "Players/Nic.md",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
     "Session Notes/Pilgrims of Panrelta/nic's notes",
