@@ -3,7 +3,7 @@ tags: [item, panrelta, consumable]
 ---
 # Sylvan Parcel
 
-A bundle of spell components given to [[The Good Ones]] by [[Sylvanus]], back before session 6 — before [[Thalrik Lastfeast]] joined and before the notes begin. The party knew there were several ways to consume it and that each did something different, but not what the ways or the effects were.
+A bundle of spell components given to [[The Good Ones]] by [[Hiram Oakbrow]], a worshipper of [[Sylvanus]], back before session 6. That is before [[Thalrik Lastfeast]] joined and before the notes begin. The party knew there were several ways to consume it and that each did something different, but not what the ways or the effects were.
 
 **They opened it at [[The Bettermans Guild]]'s camp** and found out. See [[Return to the Bettermans Guild]].
 
@@ -25,7 +25,8 @@ Opening it also gave each of the party a spell to cast.
 - [[Thol]] — find the path, with a one day duration
 
 ## Connections
-- [[Sylvanus]] — gave it to them
+- [[Hiram Oakbrow]] — gave it to them
+- [[Sylvanus]] — the god he worships
 - [[The Good Ones]] — the recipients
 
 ## Sessions
