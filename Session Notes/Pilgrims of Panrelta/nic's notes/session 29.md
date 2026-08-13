@@ -38,4 +38,7 @@ thalrik went into the bag of holding, after about a minute he sense a presence, 
 
 as we approach the cliff that is between us and the sagethorn forest, gribnik sees cliffs in the wall of the cliff, and a pile of bird bones at the base of the cliff. he also notices that a bad storm is coming.
 
-gegga casts fly on 3 of us so that we can fly up the cliff
+gegga casts fly on 3 of us so that we can fly up the cliff gegga carried by thalrik, gegga and beemo are tied to thol
+
+we hear a siren song in the caves, everyone makes the save against their song except for gribnik, who can't act on the charm he receives. 
+
