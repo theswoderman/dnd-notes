@@ -17,10 +17,14 @@ beemo cast disguise self to pretend to be part of his pack so that he wouldn't r
 	is there anything you can tell me to help me finish your quest?
 		they will take the grail to the abby, you will find the abby near the tree of pain
 beemo immediately dropped his disguise at the end of the spell to reveal that the werewolf had been deceived
+body is back in the bag of holding
 
 according to the map we got early in the campaign, the abby and the lost temple are the same location, they are beneath the laughing princess constellation (this isn't how stars work but okay)
 we will need to wait for a clear night to see the constellation so we can locate the temple
-gribnik is a mossclaw!!!! they were his previous tribe
+gribnik is a mossclaw!!!! they were his previous tribe (this is something i vaguely knew previously)
 
 full moon is coming in 2 nights, and there are lots of werewolves in the forest so they'll be stronger
+we got 2 weeks worth of supplies for the journey
+
+we learned that the mossclaw that ky'ar saw matched the appearance of the goblin that the party spared previously (thalrik was in this game but i was not present)
 
