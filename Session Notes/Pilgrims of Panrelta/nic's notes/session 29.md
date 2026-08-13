@@ -38,3 +38,4 @@ thalrik went into the bag of holding, after about a minute he sense a presence, 
 
 as we approach the cliff that is between us and the sagethorn forest, gribnik sees cliffs in the wall of the cliff, and a pile of bird bones at the base of the cliff. he also notices that a bad storm is coming.
 
+gegga casts fly to 
