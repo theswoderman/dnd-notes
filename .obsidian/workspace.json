@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 86.41304347826087,
+        "dimension": 83.36106489184692,
         "children": [
           {
             "id": "422715ec20929148",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items and Artifacts/The Abyssal Orb.md",
+                "file": "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Abyssal Orb"
+              "title": "2026-08-12 - Session 29 and further Session 28 edits"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -38,7 +38,7 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 13.586956521739133,
+        "dimension": 16.638935108153078,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Items and Artifacts/The Abyssal Orb.md",
+                    "file": "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of The Abyssal Orb"
+                  "title": "Graph of 2026-08-12 - Session 29 and further Session 28 edits"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -389,10 +389,11 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Locations/Planes and Extraplanar/The Abyss.md",
-    "Items and Artifacts/The Abyssal Orb.md",
-    "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "Groups/Mossclaw.md",
+    "Items and Artifacts/The Abyssal Orb.md",
+    "Locations/Planes and Extraplanar/The Abyss.md",
+    "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
     "Lore/The Laughing Princess Constellation.md",
     "Locations/Material Plane/The Tree of Pain.md",
     "Locations/Material Plane/The Abbey.md",
@@ -415,7 +416,6 @@
     "Suggestions/Suggestion History/2026-08-09 - Fold the Great War into the Demon War.md",
     "Suggestions/Suggestion History/2026-08-09 - A.P. is At Peace, and the Rosefields.md",
     "Suggestions/Suggestion History/2026-08-07 - Status of Reed's Campaign 1 summary.md",
-    "Suggestions/Suggestion History/2026-08-07 - Campaign 1's length and why Aeralath wanted Queensbane.md",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
     "Session Notes/Pilgrims of Panrelta/nic's notes",
