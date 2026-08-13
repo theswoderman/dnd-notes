@@ -22,3 +22,5 @@ according to the map we got early in the campaign, the abby and the lost temple 
 we will need to wait for a clear night to see the constellation so we can locate the temple
 gribnik is a mossclaw!!!! they were his previous tribe
 
+full moon is coming in 2 nights, and there are lots of werewolves in the forest so they'll be stronger
+
