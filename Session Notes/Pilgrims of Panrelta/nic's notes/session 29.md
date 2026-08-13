@@ -34,4 +34,5 @@ beemo uses tree stride to get us ~60 miles closer to the sagethorn forest
 
 cliff is 800-1000 feet tall???
 
-thalrik went into the bag of holding, after about a minute he sense a presesnce "Free me", turning around he sees the ichor deep engine staring at me, 
+thalrik went into the bag of holding, after about a minute he sense a presence, but saw no one. he heard "Free me" in his mind and turning around he sees the ichor deep engine (the orb) staring at me. thalrik leaves the bag of holding in fear and told the party
+
