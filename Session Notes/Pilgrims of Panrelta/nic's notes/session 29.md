@@ -44,3 +44,6 @@ we hear a siren song in the caves, everyone makes the save against their song ex
 
 the second siren song we all succeed on our saves and are able to pass safely
 
+beemo drops the werewolf off the cliff to dispose of the body
+
+gegga sets up a gauldurs tower for us to shelter from the storm, which rages on for hours
