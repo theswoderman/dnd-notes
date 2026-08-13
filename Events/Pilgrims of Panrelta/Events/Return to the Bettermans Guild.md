@@ -50,7 +50,7 @@ The party chased him down and confronted him under zone of truth. **[[Torin Ture
 Which means the name reached him some other way. He is a high priest of [[Illmater]] whose god has gone quiet and who feels **another presence** in the gap — and that presence appears to know what the hags call [[Beemo]].
 
 ## The Sylvan Parcel
-The party opened the [[Sylvan Parcel]], the bundle of spell components [[Hiram Oakbrow]], a worshipper of [[Sylvanus]], gave them before session 6, and finally learned what its four modes of consumption do. Each of them also received a spell: treestride for one hour for [[Beemo]] and [[Thalrik Lastfeast]], speak with animals for some, and find the path with a one day duration for [[Thol]].
+The party opened the [[Sylvan Parcel]], the bundle of spell components [[Hiram Oakbrow]], a worshipper of [[Sylvanus]], gave them before session 6, and finally learned what its four modes of consumption do. Each of them also received a spell: treestride for one hour for [[Beemo]] and [[Thalrik Lastfeast]], plant growth for [[Falstad Firebeard]], speak with animals for some, and find the path with a one day duration for [[Thol]].
 
 ## Yorrisk
 After the second night's dream, [[Falstad Firebeard]] recognized the two heraldries he had seen and remembered what [[House Keroskav]] and [[House Dufrey]] are fighting over: a developing town called **[[Yorrisk]]**.

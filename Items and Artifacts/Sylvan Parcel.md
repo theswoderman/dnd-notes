@@ -21,6 +21,7 @@ A bundle of spell components given to [[The Good Ones]] by [[Hiram Oakbrow]], a 
 Opening it also gave each of the party a spell to cast.
 
 - [[Beemo]] and [[Thalrik Lastfeast]] — treestride, for one hour
+- [[Falstad Firebeard]] — plant growth
 - Others — speak with animals
 - [[Thol]] — find the path, with a one day duration
 
