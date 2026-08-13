@@ -28,3 +28,5 @@ we got 2 weeks worth of supplies for the journey
 
 we learned that the mossclaw that ky'ar saw matched the appearance of the goblin that the party spared previously (thalrik was in this game but i was not present)
 
+we leave our horses at the refugee camp that surrounds the bettermans guild
+
