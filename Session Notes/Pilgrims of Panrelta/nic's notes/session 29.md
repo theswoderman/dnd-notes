@@ -55,6 +55,6 @@ hearing the dream, gegga and beemo recall that that one of the hags is singing s
 
 thol casts find the path to find our way to the tree of pain, and thalrik cast tree stride and we start traversing the frozen forest until we come along the icy riverbank that was dreamed about the night before. there are a number of corpses around the river, many soldiers with armor with bane's sigil on it and many more beasts of a wide variety. the bodies aren't fresh but they aren't old either. 
 
-the corpses start to move, and we hear a gnomish scream come from them. gribnik, thol, and falstad come under a magical effect calling them into the river, and a pack of werewolves emerge, as well as an enormous panther. 
+the corpses start to move, and we hear a gnomish scream come from them. gribnik, thol, and thalrik come under a magical effect calling them into the river, and a pack of werewolves emerge, as well as an enormous panther. 
 
 [combathappens] 
