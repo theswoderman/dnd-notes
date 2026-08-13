@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 13.586956521739129,
+        "dimension": 86.41304347826086,
         "children": [
           {
             "id": "422715ec20929148",
@@ -32,13 +32,38 @@
               "title": "Session 29"
             },
             "group": "5f6a3ec99364036b"
+          },
+          {
+            "id": "3d6811b0f75cab11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEMP - THOL CHEAT SHEET.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TEMP - THOL CHEAT SHEET"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 86.41304347826086,
+        "dimension": 13.586956521739129,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -70,33 +95,8 @@
                   "icon": "lucide-file",
                   "title": "00 - Panrelta Index"
                 }
-              },
-              {
-                "id": "3d6811b0f75cab11",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "TEMP - THOL CHEAT SHEET.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "TEMP - THOL CHEAT SHEET"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "eaf4b09cba40c1be",
@@ -413,10 +413,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "3d6811b0f75cab11",
   "lastOpenFiles": [
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "TEMP - THOL CHEAT SHEET.md",
     "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
     "Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",

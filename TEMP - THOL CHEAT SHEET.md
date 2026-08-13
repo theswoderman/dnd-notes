@@ -1,11 +1,3 @@
-**
-
-BASICS
-
-+12 to hit
-
-+10 dmg 
-
 Action Surge once per short rest
 
 Add 1 extra weapon damage die to total roll on a critical hit (half orc thing)
