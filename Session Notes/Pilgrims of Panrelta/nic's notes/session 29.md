@@ -1,9 +1,11 @@
-session 28 wrap up:
+session 28 wrap up to catch gribnik up:
 	gribnik dreamed of the laughing princess constellation
 		something about someone named orithian blackspire
 		something to do with the drow ^
 	we learned this this week because ian was gone last week
 
+
+i was controlling thol this session because tyler is travelling
 we started the session by deciding to speak with dead with the (former) werewolf
 beemo cast disguise self to pretend to be part of his pack so that he wouldn't recognize us as hostile
 	where were you headed?
@@ -57,4 +59,5 @@ thol casts find the path to find our way to the tree of pain, and thalrik cast t
 
 the corpses start to move, and we hear a gnomish scream come from them. gribnik, thol, and thalrik come under a magical effect calling them into the river, and a pack of werewolves emerge, as well as an enormous panther. 
 
-[combathappens] 
+combat against these werewolves, werebears, and panther lasts the rest of the session. 
+thol and my mount are in the river, i had my mount hold its action for thol to get on its back and then teleport up to where the panther is on the cliff. tyler will be taking over again next session so he'll get to decide what he does
