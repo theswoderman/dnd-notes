@@ -47,3 +47,9 @@ the second siren song we all succeed on our saves and are able to pass safely
 beemo drops the werewolf off the cliff to dispose of the body
 
 gegga sets up a gauldurs tower for us to shelter from the storm, which rages on for hours, we sleep the night there
+
+dreams overnight
+	gribnik, thol, and falstad all dream of wandering through the forest that we are in, hearing wolves taht seem to be right behind them but when they look back there's none to be seen. they all emerge from the forest near a small creek. across the creek they see a frozen snowbank where 6 red eyes open, 3 large dire wolves emerge wearing black metal spiked colors with black chains all held by a hag or witchlike woman with a decaying face and long teeth (past her chin). she spits at the and they wake up
+
+hearing the dream, gegga and beemo recall that that one of the hags is singing sila frostblood, a ber hag. this is the first time that she has appeared in our dreams. she is the 3rd member of the hag coven.
+
