@@ -32,30 +32,6 @@
               "title": "Session 29"
             },
             "group": "5f6a3ec99364036b"
-          },
-          {
-            "id": "3d6811b0f75cab11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMP - THOL CHEAT SHEET.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TEMP - THOL CHEAT SHEET"
-            }
           }
         ]
       },
@@ -280,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -412,10 +387,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
-    "TEMP - THOL CHEAT SHEET.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "TEMP - THOL CHEAT SHEET.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
     "Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",

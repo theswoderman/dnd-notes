@@ -65,7 +65,3 @@ thol and my mount are in the river, i had my mount hold its action for thol to g
 
 
 
-orc
-half orc
-astral elf
-level 9-11
