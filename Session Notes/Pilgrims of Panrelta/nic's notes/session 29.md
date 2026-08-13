@@ -53,5 +53,6 @@ dreams overnight
 
 hearing the dream, gegga and beemo recall that that one of the hags is singing sila frostblood, a ber hag. this is the first time that she has appeared in our dreams. she is the 3rd member of the hag coven.
 
-thol casts find the path to find our way to the tree of pain, and thalrik cast tree stride and we start traversing the frozen forest until we come along the icy riverbank that was dreamed about the night before. there are a number of corpses around the river, many soldiers with armor with bane's sigil on it and many more beasts of a wide variety.
+thol casts find the path to find our way to the tree of pain, and thalrik cast tree stride and we start traversing the frozen forest until we come along the icy riverbank that was dreamed about the night before. there are a number of corpses around the river, many soldiers with armor with bane's sigil on it and many more beasts of a wide variety. the bodies aren't fresh but they aren't old either. 
 
+the corpses start to move, and we hear a gnomish scream come from them
