@@ -72,6 +72,6 @@ falstad got plant growth
   
 [[Falstad Firebeard|falstad]] scry'd on the pegasus. it's a small pegasus, the appropriate size for a gnome since [[Torin Turen|torin]] is a gnome  
   
-[[Torin Turen|torin]] is digging up a corpse with a shovel. [[Torin Turen|torin]] starts to cast speak with dead on the corpse. it s wearing armor with a black fast bleeding green lines of energy. a soldier of [[Bane|bane]]. [[Bane|bane]] is one of "the dead three" a major enemy of [[Torm|torm]]. he has apparently taken foot in the [[Sage Thorn Forest|sagethron]]. [[Torin Turen|Torin]] wanders depeer into the forest.  
+[[Torin Turen|torin]] is digging up a corpse with a shovel. [[Torin Turen|torin]] starts to cast speak with dead on the corpse. it s wearing armor with a black fast bleeding green lines of energy. a soldier of [[Bane|bane]]. [[Bane|bane]] is one of "the dead three" a major enemy of [[Torm|torm]]. he has apparently taken foot in the [[Sage Thorn Forest|sagethron]]. [[Torin Turen|Torin]] wanders depeer into the forest.  god of oppression, god of hate, god of tyrany.
   
 Sounds like we're gonna have to fight [[Bane|bane]] soon
