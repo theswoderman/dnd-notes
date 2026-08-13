@@ -53,3 +53,4 @@ dreams overnight
 
 hearing the dream, gegga and beemo recall that that one of the hags is singing sila frostblood, a ber hag. this is the first time that she has appeared in our dreams. she is the 3rd member of the hag coven.
 
+thol casts find the path to find our way to the tree of pain
