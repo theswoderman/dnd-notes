@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 47.83634933123525,
+        "dimension": 54.483695652173914,
         "children": [
           {
             "id": "422715ec20929148",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 28"
+              "title": "Session 29"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -38,12 +38,12 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 52.16365066876475,
+        "dimension": 45.516304347826086,
         "children": [
           {
             "id": "616fb221e7e6cd63",
             "type": "tabs",
-            "dimension": 85.63218390804597,
+            "dimension": 79.09482758620689,
             "children": [
               {
                 "id": "c97418892c1a0e0c",
@@ -101,7 +101,7 @@
           {
             "id": "eaf4b09cba40c1be",
             "type": "tabs",
-            "dimension": 14.367816091954023,
+            "dimension": 20.905172413793103,
             "children": [
               {
                 "id": "b9003bcd601ba41e",
@@ -109,7 +109,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -215,7 +215,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 28"
+                  "title": "Graph of Session 29"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,9 +414,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "TEMP - THOL CHEAT SHEET.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/session 29.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "TEMP - THOL CHEAT SHEET.md",
     "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
     "Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",
     "Suggestions/Suggestion History/2026-08-12 - Thalrik took the Oath of Glory.md",
