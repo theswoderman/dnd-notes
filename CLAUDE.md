@@ -80,6 +80,18 @@ Common tags: `character, location, event, faction, item, deity, lore` plus quali
 
 Give characters **short-name aliases** (`Thalrik`, `Gribnik`, `Jakel`) so informal session notes link cleanly.
 
+## House voice
+
+Plain, direct prose. Contractions are fine. Vary sentence length. Prefer a full sentence to a fragment where it reads better.
+
+**No em dashes.** Use a comma, a colon, parentheses, or a separate sentence.
+
+**Bold and headings have to earn their place.** The older notes lean on bold for emphasis several times a paragraph; that is the habit being moved away from. Keep bold for the key/value fields at the top of a note and for the occasional thing that genuinely needs to stop the eye.
+
+**Scope: notes created or rewritten from now on.** Existing notes stay in the older style until they are rewritten for some other reason. Do not sweep the vault for em dashes. [[Panrelta Timeline]] is the worked example of the new voice; `index.md` and everything else are still in the old one on purpose, not by neglect.
+
+Two things this never applies to. Raw session notes in `Session Notes/` are archive and only ever gain link syntax. Quoted text stays exactly as it was said or written, which covers the suggestion quotes in `Suggestions/Suggestion History/`, in-world quotes, and [[Grant]]'s prelude.
+
 ## Player notes
 
 `Players/` holds one note per real person at the table — [[Nic]], [[Nick]], [[Reed]], [[Grant]], [[Ian]], [[Cameron]], [[Tyler]] — each tagged `ignore` and `player`, each with a table of the characters that person has played and which campaign each belongs to. `ignore` keeps real people out of the graph, matching this file and the suggestion history; the wikilinks still work.
@@ -113,6 +125,8 @@ The vault is a git repo published to GitHub at `theswoderman/dnd-notes` (branch 
 **Link every instance**, not just the first mention. Do not link inside: frontmatter, code spans and file paths, headings, blockquotes, a note's own "Also known as" line, or chat speaker labels in session notes. Pipe when the display text differs: `[[Thalrik Lastfeast|Thalrik]]`.
 
 **American English.** Not colour/honour/travelled/centre/recognised/grey/armour.
+
+**No main character.** Notes are written in the third person, about the world and the parties, not from Nic's point of view. No "my character" on a character note, and no cross-links between characters that exist only because the same person played both; the `**Player:**` field and the `Players/` notes carry that already. This applies hardest to `index.md`, which strangers read. **One exception:** the early Panrelta record is missing because [[Thalrik Lastfeast]] joined the campaign partway through, and that is worth explaining wherever the recorded order needs it.
 
 **Preserve uncertainty.** Nic's notes contain guesses. Keep them as guesses — "unconfirmed", "spelling unknown", "probably". Never silently promote a guess to fact or normalize a name he flagged as uncertain.
 

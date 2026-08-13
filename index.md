@@ -65,9 +65,9 @@ Where the heroes ended up: [[Bathoz Manefell|Bathoz]] with his tribe, [[Jäkel A
 
 ### Pilgrims of Panrelta — 10 D.E.
 
-Six travelers walk [[The Pilgrimage]] across [[Panrelta]], bound by tenets that include an obligation to help anyone who asks — which is why they keep ending up in other people's wars. [[Thalrik Lastfeast]] and [[The Good Ones]] were walking the same road as separate groups and did not meet until [[Stonehold]].
+Six travelers walk [[The Pilgrimage]] across [[Panrelta]]: [[Beemo]], [[Falstad Firebeard]], [[Gegga]], [[Gribnik Mossfoot]], [[Thalrik Lastfeast]] and [[Thol]]. They are bound by tenets that include an obligation to help anyone who asks, which is why they keep ending up in other people's wars. They did not all set out together. [[The Good Ones]] and [[Thalrik Lastfeast|Thalrik]]'s own group were walking the same road separately until they met in [[Stonehold]].
 
-Recorded events, in the order they were written down rather than true campaign order: [[Raid on the Thieves Guild]], [[Liberation of Khulask Hollow]], [[Exploration of the deep mines]], [[The Collector on the Road]], [[Return to the Bettermans Guild]], and most recently [[Torin's Flight into the Sagethorn]]. Full detail and the session log are on [[Panrelta Timeline]].
+The earliest sessions were never written down, so what follows is the order things were recorded in rather than true campaign order: [[Raid on the Thieves Guild]], [[Liberation of Khulask Hollow]], [[Exploration of the deep mines]], [[The Collector on the Road]], [[Return to the Bettermans Guild]], and most recently [[Torin's Flight into the Sagethorn]]. Full detail and the session log are on [[Panrelta Timeline]].
 
 ### Outside the campaigns
 
@@ -99,6 +99,6 @@ Three things are converging. The [[Sisters of the Gnarled Veil]] are circle cast
 - `Session Notes/` — raw notes as taken at the table, kept unedited as an archive
 - `Suggestions/` — a shared suggestion box, and the record of what came of each one
 
-Roughly 350 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+Roughly 370 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
 
 **Spotted something wrong, or remember it differently?** Add it to the [[Suggestion Box]] and it gets worked in at the next update.
