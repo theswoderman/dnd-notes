@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "malcovitch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,8 +252,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -387,7 +386,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2730ff74bae74d4e",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
     "CLAUDE.md",
     "2026-08-13.md",
