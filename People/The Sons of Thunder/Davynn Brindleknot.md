@@ -24,6 +24,7 @@ aliases:
 - Borrowed the Robes of the Archmagi from [[Elyon Ivasil]] for the hunt for [[Golzokroth]]
 - Landed the killing blow on the earth titan in the [[Pools of Memorium]] with Meteor Swarm
 - Cast Imprisonment during [[The Exorcism of Zargon]] — the spell was resisted
+- Struck the killing blow on [[Cerrunos|the Erdking]], god of hunting, with True Telekinesis in [[The Beastlands]]
 - Reportedly involved in the death of his own brother, a guilt [[Kovir]] judged him for; the brother was later revived
 
 ## Connections

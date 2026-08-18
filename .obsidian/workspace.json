@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                "file": "Lore/Timeline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campaign 1 Summary"
+              "title": "Timeline"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                    "file": "Lore/Timeline.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Summary"
+                  "title": "Graph of Timeline"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -389,6 +389,8 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Events/Campaign 1/00 - Campaign Index.md",
+    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Lore/The Five Heroes.md",
     "Suggestions/Suggestion History/2026-08-18 - The Five Heroes identified.md",
     "People/NPCs/Campaign 1 Notable NPCs/Vhal Nimzur.md",
@@ -399,7 +401,6 @@
     "People/NPCs/Campaign 1 Notable NPCs/Bjorn Sigurdson.md",
     "People/NPCs/Campaign 1 Notable NPCs/Lyra Sunstrider.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "Events/Campaign 1/00 - Campaign Index.md",
     "Lore/Timeline.md",
     "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
     "Players/Ian.md",
@@ -415,7 +416,6 @@
     "2026-08-13.md",
     "Suggestions/Suggestion History/2026-08-07 - Arthur Van Hark belongs to The Good Ones.md",
     "Suggestions/Suggestion Box.md",
-    "Groups/Mossclaw.md",
     "Deities/Sylvanus.md.tmp.27448.0069f286c2ce",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",

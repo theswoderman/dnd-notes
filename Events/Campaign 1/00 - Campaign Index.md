@@ -15,7 +15,7 @@ Five strangers met at a harvest festival in a border village called [[Mudbend]].
 ## Start here
 - [[Timeline]] — the whole campaign in order, plus open threads
 - [[The Sons of Thunder]] — the party
-- [[Queensbane]] — the sword, its five fragments, and the six planes still to attune
+- [[Queensbane]] — the sword, its five fragments, and the four planes still to attune
 - [[Sardior's Revelation]] — the origin of [[Aeralath]] and why the war exists
 - [[The Sundering]] — what happened last time
 - [[The Planar Realignment]] — why rifts are opening, and the clock [[The Sons of Thunder]] is racing

@@ -27,6 +27,7 @@ he came to [[Thalrik Lastfeast]] in a dream and provided him with a new weapon w
 - Found the fifth and final sword fragment in [[Golzokroth]]'s hoard, and saw [[Heaven's Altar]] shattered
 - Received the [[Hand of Truth]], [[Torm]]'s own sword, in the [[Platinum Palace]]
 - Honored his bargain with the devil [[Skrezzit]] on a technicality — by summoning it thousands of feet in the air
+- Used Temple of the Gods to create a fortress in [[The Beastlands]] where the party made their stand against [[Cerrunos|the Erdking]]
 
 ## Connections
 - [[Callus Halterstock]] — former employer and enemy
@@ -42,8 +43,6 @@ He now acts as counsel to the King of [[Grekosha]] — [[Jäkel Aleister le Roug
 
 ## In the Panrelta campaign
 Appeared to [[Thalrik Lastfeast]] through a portal in [[Thalrik's Dream of Torm]], sent by [[Torm]] to deliver the [[Hand of Valor]]. He told Thalrik that [[Jäkel Aleister le Rouge|Jäkel]] had warned him of a threat in the [[Dragonspine Mountains]] that both he and [[Torm]] had failed to see, and revealed that Thalrik's pact cost him his soul.
-
-**Correction.** An earlier note here recorded a rumor that Diggory tried and failed to resurrect [[Arthur Van Hark]]. That was wrong — **it was [[Jäkel Aleister le Rouge|Jakel]]**, and the attempt failed because the requirements of the revive spell were not met. Corrected in session 28.
 
 ## Sessions
 - [[Prelude for Thalrik Lastfeast]]
