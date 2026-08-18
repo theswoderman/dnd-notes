@@ -13,7 +13,7 @@ ddb: https://www.dndbeyond.com/characters/152626464
 **Player:** [[Nick]]
 **Also known as:** Hana Nobunaga
 **Race:** Human
-**Class:** Wizard — origami specializt
+**Class:** Wizard, origami specializt
 **Affiliation:** [[The Good Ones]]
 **Status:** Alive
 

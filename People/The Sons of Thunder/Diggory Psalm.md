@@ -18,7 +18,7 @@ he came to [[Thalrik Lastfeast]] in a dream and provided him with a new weapon w
 **Status:** Alive (killed by [[Ifan Le Rouge]] and again in the [[Ruby Palace]]; restored both times)
 
 ## Summary
-[[The Sons of Thunder]]'s shapechanger, scryer and diplomat — and the one most likely to talk to an enemy rather than fight it. That instinct has cut both ways: his taunting of [[Kyron Delinor]] over [[Kyron Delinor|the Harbinger]]'s dead wife and daughter is what brought [[The Harbinger's Reprisal]] down on the orphans in their [[Whitehall]] mansion.
+[[The Sons of Thunder]]'s shapechanger, scryer and diplomat. He is also the one most likely to talk to an enemy rather than fight it. That instinct has cut both ways: his taunting of [[Kyron Delinor]] over [[Kyron Delinor|the Harbinger]]'s dead wife and daughter is what brought [[The Harbinger's Reprisal]] down on the orphans in their [[Whitehall]] mansion.
 
 ## Key moments
 - Flew [[Loryn Malcovitch]]'s body back to [[Whitehall]] as a giant eagle after [[The Gnoll Contract]]
@@ -26,19 +26,19 @@ he came to [[Thalrik Lastfeast]] in a dream and provided him with a new weapon w
 - Used an [[Orb of Scrying]] taken from [[Yskarat]] to spy on [[Kyron Delinor|the Harbinger]] and [[Queen Nocticula]]
 - Found the fifth and final sword fragment in [[Golzokroth]]'s hoard, and saw [[Heaven's Altar]] shattered
 - Received the [[Hand of Truth]], [[Torm]]'s own sword, in the [[Platinum Palace]]
-- Honored his bargain with the devil [[Skrezzit]] on a technicality — by summoning it thousands of feet in the air
+- Honored his bargain with the devil [[Skrezzit]] on a technicality: by summoning it thousands of feet in the air
 - Used Temple of the Gods to create a fortress in [[The Beastlands]] where the party made their stand against [[Cerrunos|the Erdking]]
 - True Polymorphed into a dragon to chase [[Minthur]] when the hybrid dragon fled for the city of Mushala
 
 ## Connections
-- [[Callus Halterstock]] — former employer and enemy
-- [[Sebastion]] — the orphan who blames him, with reason
+- [[Callus Halterstock]], former employer and enemy
+- [[Sebastion]], the orphan who blames him, with reason
 - Judged by [[Kovir]] for the fear of losing his friends again
 
 ## Ten years later
-Satyr, Eloquence bard/cleric, bearer of the [[Hand of Truth]], and **current mortal champion of [[Torm]]**. Raised in the woods of [[Thalonir]] before joining [[The Sons of Thunder]].
+He is a satyr, Eloquence bard and cleric, bearer of the [[Hand of Truth]], and current mortal champion of [[Torm]]. He was raised in the woods of [[Thalonir]] before joining [[The Sons of Thunder]].
 
-He now acts as counsel to the King of [[Grekosha]] — [[Jäkel Aleister le Rouge|Jakel]] — and as an occasional neutral diplomat, serving the god of truth. In the last five years he has built a holy temple in the [[Dragonspine Mountains]], where he trains a new band of heroes under the banner of [[Torm]].
+He now acts as counsel to the King of [[Grekosha]] ([[Jäkel Aleister le Rouge|Jakel]]) and as an occasional neutral diplomat, serving the god of truth. In the last five years he has built a holy temple in the [[Dragonspine Mountains]], where he trains a new band of heroes under the banner of [[Torm]].
 
 [[Grant]], who wrote the Panrelta prelude and runs that campaign, played Diggory.
 
