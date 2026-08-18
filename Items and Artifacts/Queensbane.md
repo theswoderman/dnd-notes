@@ -34,7 +34,7 @@ Why is unexplained. It is the largest unanswered question left over from Campaig
 Reforged, it is still not at full strength. [[Sardior]] says it must be attuned to a powerful magical source on **six planes**:
 
 - [x] [[Ysgard]] — the earth titan's death burst, [[The Titan of Stonehold]]
-- [ ] [[The Beastlands]] — *current arc*
+- [x] [[The Beastlands]] — [[Lurue]]'s divine power, after the defeat of [[Cerrunos|the Erdking]]
 - [ ] [[Mechanus]]
 - [ ] [[Limbo]]
 - [ ] [[Nine Hells of Baator]]

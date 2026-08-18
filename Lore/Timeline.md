@@ -36,7 +36,7 @@ The whole of Campaign 1 spans roughly **one year** of in-game time. [[Aeralath]]
 17. [[The Exorcism of Zargon]]
 18. [[The Journey to Ysgard]] → [[The Trial of Kord]] → [[The Titan of Stonehold]] → [[Soraya's Resurrection]]
 19. [[The Harbinger's Reprisal]]
-20. **[[Into the Beastlands]]** — *current*
+20. [[Into the Beastlands]]
 
 ## Loose threads
 - Scrying on [[Yosco]] aboard the boat revealed [[Dolghast]] is planning something soon; [[King Berrigan]] ordered [[Loryn Malcovitch|Loryn]] to find [[Yosco]] and lead Alnorian forces to [[Dolghast]] to end the war.

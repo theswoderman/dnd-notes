@@ -35,6 +35,7 @@ Exiled from his leonin tribe in the [[Golden Plains]] after losing a duel to [[K
 ## Connections
 - [[Kelara]] — sister, freed from [[Jiren's Rock]]
 - [[Kuzo Clawborn]] — rival, and the father of [[Kelara]]'s child
+- [[Zusa Manefell]] — late mother, encountered in [[The Beastlands]]
 - [[Atrios Wyrmslayer]] — previous wielder of [[Lundhaidr]], met in [[Asgard]]
 - Judged by [[Kovir]] for over-reliance on his own strength
 

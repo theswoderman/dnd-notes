@@ -33,6 +33,7 @@ member of [[The Sons of Thunder]]
 - [[Melvin]] — brother and nemesis, leader of the [[Ashes of Kemnan]]
 - [[Lien]] — birth mother
 - [[Zalema]] — village elder of the [[Whisperwood]] Viera
+- [[Darrius|Abrovand]] — the Archfey gave [[Razor's Grace]] to his grandfather Johan Malcovitch
 - Judged by [[Kovir]] for overindulgence in physical desire
 
 ## Ten years later
