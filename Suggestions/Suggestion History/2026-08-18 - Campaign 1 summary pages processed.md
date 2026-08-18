@@ -46,7 +46,7 @@ New pages in [[Reed]]'s Campaign 1 summary covered three arcs: the Beastlands, M
 - [[Minthur]] (turquoise hybrid dragon)
 - [[Viridian Sun]] (tabaxi druid)
 - [[Gudjag Canyon]] (gate to Mechanus)
-- [[Thelgadrïm]] (midnight dragon, alive)
+- [[Thelgadrïm, the Inevitable|Thelgadrïm]] (midnight dragon, alive)
 - [[Angmond]] (gray dragon, alive)
 - [[Nulsifïr]] (quartz dragon, alive)
 - [[Pragilia]] (celadon dragon, alive)

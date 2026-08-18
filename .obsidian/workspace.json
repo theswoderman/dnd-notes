@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 70.9090909090909,
+        "dimension": 81.81818181818183,
         "children": [
           {
             "id": "422715ec20929148",
@@ -23,24 +23,10 @@
             "id": "a06d50da5d4fdb4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-18 - Campaign 1 summary pages processed"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -49,7 +35,7 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 29.09090909090909,
+        "dimension": 18.181818181818183,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -401,10 +387,10 @@
   },
   "active": "a06d50da5d4fdb4d",
   "lastOpenFiles": [
+    "Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
     "People/NPCs/Antagonists/Nulsifïr.md",
     "People/NPCs/Antagonists/Thelgadrim.md",
     "People/NPCs/Thelgadrïm, the Inevitable.md",
-    "Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
     "Events/Pilgrims of Panrelta/Events/Exploration of the deep mines.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "People/NPCs/Antagonists/Pragilia.md",
