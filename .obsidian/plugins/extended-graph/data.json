@@ -284,7 +284,7 @@
             }
           }
         ],
-        "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates  -path:Suggestions  ",
+        "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates -path:Suggestions  ",
         "hideUnresolved": false,
         "showAttachments": false,
         "showOrphans": true,
