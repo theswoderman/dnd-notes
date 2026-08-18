@@ -40,7 +40,7 @@ Inside [[Chronus]]'s realm of twisted time, the party saw visions of alternate l
 - [[Bathoz Manefell|Bathoz]] never challenged [[Kuzo Clawborn|Kuzo]]. He stayed with the pride, saw Kuzo slain by [[Krintak Cinderheart|Krintak]] during the dragonborn invasion, tried to fight back, and was killed. The leonin were enslaved.
 - [[Davynn Brindleknot|Davynn]] declined his brother's duel. Consumed by resentment, his rapid arcane rise caught the attention of [[Kyron Delinor|the Harbinger]], who made him an apprentice and led him to aid [[Aeralath]]'s return.
 - [[Loryn Malcovitch|Loryn]] joined [[Melvin]] in the shipping industry. Desensitized to escalating crimes, he became a full member of the [[Ashes of Kemnan|Ashen Saints]], turned on [[Melvin]] when his conscience forced him to, and was killed by him.
-- [[Diggory Psalm|Diggory]] stayed in the woods of Loradris. On a trip with Prim he stumbled into the [[Eldergleam]], was captured by fiends, corrupted, and turned against his own people.
+- [[Diggory Psalm|Diggory]] stayed in the woods of Loradris. On a trip with Prim he stumbled into the [[Eldergleam Tree|Eldergleam]], was captured by fiends, corrupted, and turned against his own people.
 - [[Jäkel Aleister le Rouge|Jakel]] did not flee the night he found his mother and the castle burned. He joined [[Ifan Le Rouge|Ifan]], became a full vampire, helped [[Dolghast]] conquer the world, and knelt to [[Orcus]].
 - [[Theh Kha]] waited for the traditional age to begin his warrior's trial. Wounded in a battle with a rival hive before it came, he lived out his days as a mundane attendant to the larvae.
 
