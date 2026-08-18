@@ -10,7 +10,7 @@ tags: [event, panrelta, major]
 ## What happened
 A hag has been entering [[The Good Ones]]' sleep. She is [[Mirna Girbwood]], a **dusk hag** who works in the realm of dreams, and [[Beemo]] recognized her as **his aunt**. **The hags are circle casting the spell together** — this is the [[Sisters of the Gnarled Veil]] acting as a coven, not one hag freelancing.
 
-The dreams have escalated on each of the three nights recorded.
+The dreams have escalated across all four nights.
 
 ## Night one — beneath [[The Garden of Dreams]]
 [[Gegga]], [[Beemo]] and [[Gribnik Mossfoot]] dreamed of a crone eating a griffin. She then attacked the dreamer directly. They took damage and woke exhausted. See [[Exploration of the deep mines]].
@@ -24,7 +24,7 @@ Everyone had peaceful dreams at first.
 - **[[Gegga]]** — the same thing, in a library
 - **[[Beemo]]** — little creatures freezing
 - **[[Thol]]** — his adoptive father [[Bathoz Manefell]] and his adopted uncle [[Jäkel Aleister le Rouge|Jakel]] freezing
-- **[[Gribnik Mossfoot]]** — unrecorded; [[Ian]] was not playing
+- **[[Gribnik Mossfoot]]** — [[The Laughing Princess Constellation|the Laughing Princess constellation]], from which he came away with the name [[Orithian Blackspire]] and some connection to [[The Drow]]
 
 Then the frozen figures decomposed, and worms and beetles ate their remains. The same haglike woman from the earlier dreams came crawling out of the corpses, dragging herself forward with a skull, and vomited blood into it.
 
@@ -54,9 +54,6 @@ On waking, [[Falstad Firebeard]] recognized the heraldries and remembered that t
 [[Gribnik Mossfoot]], [[Thol]] and [[Falstad Firebeard]] shared a dream of walking the forest they were camped in, hearing wolves right behind them and finding nothing when they turned. They came out at a small creek. On the far bank a frozen snowbank opened six red eyes, and three dire wolves stepped out of it in black spiked metal collars on black chains. The woman holding the chains had a decaying face and teeth hanging past her chin. She spat at them, and they woke.
 
 This is a different hag. [[Gegga]] and [[Beemo]] named her [[Sila Frostblood]], a bheur hag and the coven's third member, appearing for the first time. The party reached the riverbank she had shown them the next morning. See [[The Climb to the Sagethorn]] and [[The Frozen Riverbank]].
-
-## Gribnik's constellation dream
-Separately, [[Gribnik Mossfoot]] dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]], and came out of it with the name [[Orithian Blackspire]] and some link to [[The Drow]]. It happened on a night covered by [[Session 28]] but was only told to the party a week later, because [[Ian]] was not at the table.
 
 ## What the party learned
 - [[Beemo]] identified her as [[Mirna Girbwood]], his aunt, a dusk hag of the realm of dreams. The spelling is unconfirmed

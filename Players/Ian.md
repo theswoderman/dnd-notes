@@ -19,4 +19,4 @@ A real person, not a campaign entity. Tagged `ignore` so this note stays out of 
 
 ## Notes
 
-Missed [[Session 28]] and the second night of [[The Dusk Hag's Dreams]], which is why [[Gribnik Mossfoot|Gribnik]]'s dream from that night is unrecorded.
+Missed [[Session 28]] and the second night of [[The Dusk Hag's Dreams]].

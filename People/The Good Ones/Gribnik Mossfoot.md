@@ -24,7 +24,7 @@ A goblin ranger of [[The Good Ones]].
 - Dreamed of [[Sila Frostblood]] alongside [[Thol]] and [[Falstad Firebeard]], then walked into the riverbank he had dreamed. See [[The Frozen Riverbank]]
 
 ## Note
-What he dreamed on the second night of [[The Dusk Hag's Dreams]] is **unrecorded** — [[Ian]] was not playing that night.
+[[Ian]] was not playing the night of the second dream in [[The Dusk Hag's Dreams]].
 
 ## He is a Mossclaw
 The [[Mossclaw]] are [[Gribnik Mossfoot|Gribnik]]'s former tribe.
