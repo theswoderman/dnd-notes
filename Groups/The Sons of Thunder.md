@@ -19,7 +19,7 @@ Knighted by [[King Berrigan]] and granted a mansion in [[Whitehall]].
 [[Io]] · [[Myrn Lim]] · [[Badger Barkbeard]] · [[Arjan Taneresh]] · [[Soraya Hawthorne]] · [[Hariett Hinkapot]] · Prim · Ray'el
 
 ## Current objective
-Attune [[Queensbane]] to six planes before [[Aeralath]] returns. Two down: [[Ysgard]], via [[The Titan of Stonehold]], and [[The Beastlands]], from [[Lurue]]'s divine power after the defeat of [[Cerrunos|the Erdking]].
+Attune [[Queensbane]] to six planes before [[Aeralath]] returns. Three down: [[Ysgard]] via [[The Titan of Stonehold]], [[The Beastlands]] from [[Lurue]]'s divine power, and [[Mechanus]] from [[Chronus]]'s power.
 
 ## Ten years later
 Still alive, and a very big deal in the world. The [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign is set a decade after Campaign 1 ends:

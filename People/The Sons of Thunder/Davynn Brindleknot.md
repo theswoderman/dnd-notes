@@ -25,6 +25,7 @@ aliases:
 - Landed the killing blow on the earth titan in the [[Pools of Memorium]] with Meteor Swarm
 - Cast Imprisonment during [[The Exorcism of Zargon]] — the spell was resisted
 - Struck the killing blow on [[Cerrunos|the Erdking]], god of hunting, with True Telekinesis in [[The Beastlands]]
+- Nearly killed by [[Chronus]]'s 9th-level Time Ravage in [[Mechanus]], aging him to within thirty days of death
 - Reportedly involved in the death of his own brother, a guilt [[Kovir]] judged him for; the brother was later revived
 
 ## Connections

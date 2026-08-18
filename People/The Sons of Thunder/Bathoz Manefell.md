@@ -31,6 +31,7 @@ Exiled from his leonin tribe in the [[Golden Plains]] after losing a duel to [[K
 - Awarded the great hammer [[Lundhaidr]] and the rank of Dreadclaw at the [[Tulari Hot Springs]]
 - Relived [[Atrios Wyrmslayer]]'s battle with the earth titan in the [[Pools of Memorium]]
 - Cut the [[Horn of Zargon]] out of [[Jäkel Aleister le Rouge]]'s arm
+- Absorbed [[Chronus]]'s power into [[Queensbane]], attuning it to [[Mechanus]] (the third of six attunements)
 
 ## Connections
 - [[Kelara]] — sister, freed from [[Jiren's Rock]]

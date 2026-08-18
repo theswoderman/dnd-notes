@@ -35,7 +35,7 @@ Reforged, it is still not at full strength. [[Sardior]] says it must be attuned 
 
 - [x] [[Ysgard]] — the earth titan's death burst, [[The Titan of Stonehold]]
 - [x] [[The Beastlands]] — [[Lurue]]'s divine power, after the defeat of [[Cerrunos|the Erdking]]
-- [ ] [[Mechanus]]
+- [x] [[Mechanus]] — [[Chronus]]'s power, absorbed by [[Bathoz Manefell|Bathoz]] after the rogue Secundi's death
 - [ ] [[Limbo]]
 - [ ] [[Nine Hells of Baator]]
 - [ ] [[The Abyss]]

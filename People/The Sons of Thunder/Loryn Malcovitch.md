@@ -29,6 +29,9 @@ member of [[The Sons of Thunder]]
 - Learned his birth name was Anyil and that the scout [[Lien]] is his mother
 - Killed in the [[Ruby Palace]] by [[Adomaiah]]; restored by [[Diggory Psalm]], but weakened
 
+- Knocked unconscious and teleported to a Modron prison by [[Astynom Alpha 009]] at the gate to [[Mechanus]]
+- Spotted [[Minthur]]'s invisible wingbeats disturbing the trees, saving the city of Mushala
+
 ## Connections
 - [[Melvin]] — brother and nemesis, leader of the [[Ashes of Kemnan]]
 - [[Lien]] — birth mother

@@ -28,6 +28,7 @@ he came to [[Thalrik Lastfeast]] in a dream and provided him with a new weapon w
 - Received the [[Hand of Truth]], [[Torm]]'s own sword, in the [[Platinum Palace]]
 - Honored his bargain with the devil [[Skrezzit]] on a technicality — by summoning it thousands of feet in the air
 - Used Temple of the Gods to create a fortress in [[The Beastlands]] where the party made their stand against [[Cerrunos|the Erdking]]
+- True Polymorphed into a dragon to chase [[Minthur]] when the hybrid dragon fled for the city of Mushala
 
 ## Connections
 - [[Callus Halterstock]] — former employer and enemy
