@@ -45,6 +45,7 @@ New pages in [[Reed]]'s Campaign 1 summary covered three arcs: the Beastlands, M
 - [[Qadus Ifnir]] (previous owner of Whitehall mansion)
 - [[Minthur]] (turquoise hybrid dragon)
 - [[Viridian Sun]] (tabaxi druid)
+- [[Gudjag Canyon]] (gate to Mechanus)
 
 **Existing notes updated:**
 - [[The Beastlands]] — expanded with all three layers, locations, Wild Hunt summary
@@ -63,6 +64,8 @@ New pages in [[Reed]]'s Campaign 1 summary covered three arcs: the Beastlands, M
 - [[00 - Campaign Index]] — planes count updated
 - [[index.md]] — note on the record updated
 - [[Into the Beastlands]] — Zaithyron and Evergreen Sanctuary added
+- [[Whitehall]] — added [[Qadus Ifnir]] as previous mansion owner
+- [[Wild Hunt]] — added Rotgut and Ojiro to members
 
 ## Already covered
 

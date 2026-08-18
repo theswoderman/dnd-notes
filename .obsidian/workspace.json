@@ -256,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -389,6 +390,14 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "People/NPCs/Campaign 1 Notable NPCs/Viridian Sun.md",
+    "People/NPCs/Antagonists/Minthur.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Qadus Ifnir.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Astynom Alpha 009.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Chitinousa.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Theh Kha.md",
+    "Locations/Material Plane/Gudjag Canyon.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Chronus.md",
     "Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
     "Events/Campaign 1/Events/The Slaying of Minthur.md",
     "Events/Campaign 1/Events/Into Mechanus.md",
@@ -408,14 +417,6 @@
     "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
     "Players/Ian.md",
     "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
-    "People/The Good Ones/Gribnik Mossfoot.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
-    "Players/Tyler.md",
-    "index.md",
-    "CLAUDE.md",
-    "Untitled.md",
-    "People/The Sons of Thunder/Loryn Malcovitch.md",
     "Deities/Sylvanus.md.tmp.27448.0069f286c2ce",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
