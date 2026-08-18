@@ -1,103 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
+  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates -path:Suggestions  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#index",
-      "color": {
-        "a": 1,
-        "rgb": 16774064
-      }
-    },
-    {
-      "query": "path:\"People/The Sons of Thunder\" OR path:\"People/The Good Ones\"",
-      "color": {
-        "a": 1,
-        "rgb": 16766474
-      }
-    },
-    {
-      "query": "path:\"People/NPCs/Antagonists\"",
-      "color": {
-        "a": 1,
-        "rgb": 15022139
-      }
-    },
-    {
-      "query": "path:\"People/NPCs\" -path:\"People/NPCs/Antagonists\"",
-      "color": {
-        "a": 1,
-        "rgb": 16032353
-      }
-    },
-    {
-      "query": "path:\"Groups\"",
-      "color": {
-        "a": 1,
-        "rgb": 4770532
-      }
-    },
-    {
-      "query": "path:\"Locations/Material Plane\"",
-      "color": {
-        "a": 1,
-        "rgb": 5420936
-      }
-    },
-    {
-      "query": "path:\"Locations/Planes and Extraplanar\"",
-      "color": {
-        "a": 1,
-        "rgb": 10309341
-      }
-    },
-    {
-      "query": "path:\"Events\" -tag:#index",
-      "color": {
-        "a": 1,
-        "rgb": 4415982
-      }
-    },
-    {
-      "query": "path:\"Deities\"",
-      "color": {
-        "a": 1,
-        "rgb": 13154047
-      }
-    },
-    {
-      "query": "path:\"Items and Artifacts\"",
-      "color": {
-        "a": 1,
-        "rgb": 16740518
-      }
-    },
-    {
-      "query": "path:\"Lore\" -tag:#index",
-      "color": {
-        "a": 1,
-        "rgb": 11384253
-      }
-    }
-  ],
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 20,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
+  "linkDistance": 250,
   "scale": 0.2588386562181596,
-  "close": false,
-  "localBacklinks": true,
-  "localForelinks": true,
-  "localInterlinks": true,
-  "localJumps": 1
+  "close": false
 }
