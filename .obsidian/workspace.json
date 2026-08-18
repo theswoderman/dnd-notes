@@ -256,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -371,8 +370,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487,
-    "collapsed": true
+    "width": 487
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,7 +386,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
     "People/NPCs/Campaign 1 Notable NPCs/Viridian Sun.md",
     "People/NPCs/Antagonists/Minthur.md",
