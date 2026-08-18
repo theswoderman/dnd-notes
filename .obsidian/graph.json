@@ -1,10 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates  -path:Suggestions  ",
+  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -96,5 +95,9 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.13168724279835237,
-  "close": false
+  "close": false,
+  "localBacklinks": true,
+  "localForelinks": true,
+  "localInterlinks": true,
+  "localJumps": 1
 }
