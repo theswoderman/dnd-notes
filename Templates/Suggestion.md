@@ -3,7 +3,7 @@ tags:
   - ignore
   - suggestion
 ---
-# Suggestion — 
+# Suggestion: 
 
 **Received:** 
 **Status:** Incorporated

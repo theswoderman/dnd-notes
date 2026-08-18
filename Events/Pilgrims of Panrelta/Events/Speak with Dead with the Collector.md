@@ -12,11 +12,11 @@ tags: [event, panrelta]
 
 Five questions, and his answers:
 
-- Where were you headed? **[[Starfall Clearing]].**
-- What did [[Malar]] ask of you? **"Collect the bestial trophies so we may drink from [[The Black Grail|the black grail]]."**
-- Is the grail within the temple of [[Illmater]]? **"It is within the small gnome."** [[Torin Turen]] is a gnome.
-- Are those who follow [[Bane]] to aid us? **"[[Malar]] said their steel would sharpen our talons, but they seek the grail for themselves. They are not of our pack."**
-- Is there anything you can tell me to help finish your quest? **"They will take the grail to [[The Abbey|the abbey]]. You will find the abbey near [[The Tree of Pain|the tree of pain]]."**
+- Where were you headed? [[Starfall Clearing]].
+- What did [[Malar]] ask of you? "Collect the bestial trophies so we may drink from [[The Black Grail|the black grail]]."
+- Is the grail within the temple of [[Illmater]]? "It is within the small gnome." [[Torin Turen]] is a gnome.
+- Are those who follow [[Bane]] to aid us? "[[Malar]] said their steel would sharpen our talons, but they seek the grail for themselves. They are not of our pack."
+- Is there anything you can tell me to help finish your quest? "They will take the grail to [[The Abbey|the abbey]]. You will find the abbey near [[The Tree of Pain|the tree of pain]]."
 
 As the spell ended [[Beemo]] dropped the disguise, so the last thing the corpse understood was that it had been deceived.
 
@@ -32,11 +32,11 @@ This turns three separate threads into one. The animal parts [[The Collector]] w
 - Whether [[Starfall Clearing]] still matters now that he is dead
 
 ## Connections
-- [[The Collector]] — the corpse
-- [[Malar]] — the god he served
-- [[Bane]] — the rival his answers named
-- [[The Black Grail]], [[The Abbey]], [[The Tree of Pain]] — what his answers pointed at
-- [[Torin Turen]] — the small gnome
+- [[The Collector]], the corpse
+- [[Malar]], the god he served
+- [[Bane]], the rival his answers named
+- [[The Black Grail]], [[The Abbey]], [[The Tree of Pain]], what his answers pointed at
+- [[Torin Turen]], the small gnome
 
 ## Sessions
 - [[Session 29]]

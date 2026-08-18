@@ -12,7 +12,7 @@ Before setting out, the party pieced together where they were going. A map they 
 
 Two things were working against them. A full moon was two nights out, and the forest is full of werewolves, who will be stronger for it. They took two weeks of supplies, left their horses at the refugee camp surrounding [[The Bettermans Guild]], and [[Beemo]] used treestride to cover roughly sixty miles toward the [[Sage Thorn Forest|Sagethorn]].
 
-Somewhere on the way, [[Thalrik Lastfeast]] climbed into the bag of holding. After about a minute he felt something in there with him, though he could see no one. Then a voice in his mind: **"Free me."** He turned and found [[The Abyssal Orb]] staring at him. He got out in a hurry and told the others.
+Somewhere on the way, [[Thalrik Lastfeast]] climbed into the bag of holding. After about a minute he felt something in there with him, though he could see no one. Then a voice in his mind: "Free me." He turned and found [[The Abyssal Orb]] staring at him. He got out in a hurry and told the others.
 
 ### The cliff
 Between the party and the forest stood a cliff, eight hundred to a thousand feet of it. [[Gribnik Mossfoot]] spotted caves in the rock face, a heap of bird bones at the base, and a bad storm coming in.
@@ -34,11 +34,11 @@ Between the party and the forest stood a cliff, eight hundred to a thousand feet
 - Why [[Sila Frostblood]] has surfaced only now, and whether the dream was a warning, a threat or an invitation
 
 ## Connections
-- [[The Abyssal Orb]] — spoke for the first time
-- [[Sila Frostblood]] — identified
-- [[The Laughing Princess Constellation]] — how they intend to find [[The Abbey]]
-- [[The Bettermans Guild]] — where the horses were left
-- [[Sage Thorn Forest]] — the destination
+- [[The Abyssal Orb]], spoke for the first time
+- [[Sila Frostblood]], identified
+- [[The Laughing Princess Constellation]], how they intend to find [[The Abbey]]
+- [[The Bettermans Guild]], where the horses were left
+- [[Sage Thorn Forest]], the destination
 
 ## Sessions
 - [[Session 29]]

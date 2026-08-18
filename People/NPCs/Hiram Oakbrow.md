@@ -17,9 +17,9 @@ This happened before session 6, which is before [[Thalrik Lastfeast]] joined and
 - Whether [[Sylvanus]] intended the gift or [[Hiram Oakbrow|Hiram]] gave it on his own
 
 ## Connections
-- [[Sylvanus]] — the god he worships
-- [[Sylvan Parcel]] — his gift
-- [[The Good Ones]] — the recipients
+- [[Sylvanus]], the god he worships
+- [[Sylvan Parcel]], his gift
+- [[The Good Ones]], the recipients
 
 ## Sessions
 - [[Session 28]]

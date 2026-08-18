@@ -7,15 +7,15 @@ tags:
 # Campaign 1 Timeline
 
 ## Ancient history
-- **~10,000 years ago** — [[The Sundering]]. [[Aeralath]] summoned and sealed by [[The Five Heroes]]; the planes severed; [[Queensbane]] shattered. Three of the five die; only [[Dryzmir Aletall]] and [[Vhal Nimzur]] survive.
-- **~9,000 years ago** — the [[Nezerai Empire]] goes extinct.
-- **~400 years ago** — [[Atrios Wyrmslayer]] saves [[Stonehold]] from an earth titan. Evendor slays a wicked king of [[Alnoria]] ([[Tomb of Evendor]]).
-- **~1,000 years ago** — the war between [[Alnoria]] and [[Rorinden]] ends in a royal marriage. Year 0 of the A.P. calendar — **A.P. stands for *At Peace***, counted from that ending. See [[Estrana]].
-- **~50 years ago** — [[Kyron Delinor]] escapes imprisonment. The [[Ruby Palace]] is last sighted in the [[Astral Sea]].
-- **~40 years ago** — [[Golzokroth]] kills [[Elyon Ivasil]]'s friends and [[Mehea Talth]]'s father.
+- **~10,000 years ago**: [[The Sundering]]. [[Aeralath]] summoned and sealed by [[The Five Heroes]]; the planes severed; [[Queensbane]] shattered. Three of the five die; only [[Dryzmir Aletall]] and [[Vhal Nimzur]] survive.
+- **~9,000 years ago**: the [[Nezerai Empire]] goes extinct.
+- **~400 years ago**: [[Atrios Wyrmslayer]] saves [[Stonehold]] from an earth titan. Evendor slays a wicked king of [[Alnoria]] ([[Tomb of Evendor]]).
+- **~1,000 years ago**: the war between [[Alnoria]] and [[Rorinden]] ends in a royal marriage. Year 0 of the A.P. calendar. A.P. stands for *At Peace*, counted from that ending. See [[Estrana]].
+- **~50 years ago**: [[Kyron Delinor]] escapes imprisonment. The [[Ruby Palace]] is last sighted in the [[Astral Sea]].
+- **~40 years ago**: [[Golzokroth]] kills [[Elyon Ivasil]]'s friends and [[Mehea Talth]]'s father.
 
-## The campaign — 1016 to 1017 A.P.
-The whole of Campaign 1 spans roughly **one year** of in-game time. [[Aeralath]]'s defeat at the end of it closes the A.P. calendar and begins the **Dawning Era (D.E.)**, making 1017 A.P. also 1 D.E. — see [[Estrana]].
+## The campaign: 1016 to 1017 A.P.
+The whole of Campaign 1 spans roughly one year of in-game time. [[Aeralath]]'s defeat at the end of it closes the A.P. calendar and begins the Dawning Era (D.E.), making 1017 A.P. also 1 D.E. See [[Estrana]].
 
 1. [[The Attack on Mudbend]] → [[The Goblin Caves and the Hilt]]
 2. [[The Hunt for the Peddler]] → [[The Sons of Thunder]] names itself
@@ -42,7 +42,7 @@ The whole of Campaign 1 spans roughly **one year** of in-game time. [[Aeralath]]
 
 ## Loose threads
 - Scrying on [[Yosco]] aboard the boat revealed [[Dolghast]] is planning something soon; [[King Berrigan]] ordered [[Loryn Malcovitch|Loryn]] to find [[Yosco]] and lead Alnorian forces to [[Dolghast]] to end the war.
-- Modify Memory to review the night [[Jäkel Aleister le Rouge|Jakel]] fled his father — pink light.
+- Modify Memory to review the night [[Jäkel Aleister le Rouge|Jakel]] fled his father: pink light.
 - [[Davynn Brindleknot|Davynn]]'s brother has been revived.
 - Two Viera watched [[Loryn Malcovitch|Loryn]] leave the [[Whisperwood]]: a woman his age, and an older male who looks like him.
 - Who is "the child of the stars"? ([[The Execution of Melvin]])
@@ -50,7 +50,7 @@ The whole of Campaign 1 spans roughly **one year** of in-game time. [[Aeralath]]
 - The Star Spawn Voidling: "the progenitors of this world would return to their rightful place over all things."
 - [[Casimir]] is still in the [[Cube of Carrying]].
 - [[Zargon the Immortal]] is sealed inside [[Jäkel Aleister le Rouge|Jakel]]'s soul. If [[Jäkel Aleister le Rouge|Jakel]] dies first, the soul is forfeit.
-- **[[Aeralath]] was helping [[The Sons of Thunder]] gain power, because she wanted them to collect the pieces of [[Queensbane]].** Why the one being the sword was forged to kill wanted it reassembled is unexplained.
+- [[Aeralath]] was helping [[The Sons of Thunder]] gain power, because she wanted them to collect the pieces of [[Queensbane]]. Why the one being the sword was forged to kill wanted it reassembled is unexplained.
 
 ## Ten years on
-[[Panrelta Timeline]] — the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign picks up a decade after Campaign 1 ends.
+[[Panrelta Timeline]]: the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign picks up a decade after Campaign 1 ends.

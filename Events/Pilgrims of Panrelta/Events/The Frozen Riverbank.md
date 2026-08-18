@@ -23,11 +23,11 @@ The fight against the werewolves, werebears and the panther ran to the end of th
 - Whether the panther is a were-creature, a servant of [[Malar]], or something else
 
 ## Connections
-- [[Bane]] — his soldiers are among the dead
-- [[Malar]] — werewolves and werebears are his
-- [[Torin Turen]] — the gnomish scream
-- [[The Tree of Pain]] — where they were heading
-- [[Sila Frostblood]] — dreamed this riverbank to them the night before
+- [[Bane]], his soldiers are among the dead
+- [[Malar]], werewolves and werebears are his
+- [[Torin Turen]], the gnomish scream
+- [[The Tree of Pain]], where they were heading
+- [[Sila Frostblood]], dreamed this riverbank to them the night before
 
 ## Sessions
 - [[Session 29]]

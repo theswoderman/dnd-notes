@@ -8,7 +8,7 @@ tags: [faction, panrelta, enemy]
 
 Raiders who have been making incursions against [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]] while [[The Good Ones]] were away in the deep mines. Holding them off is what has kept [[Torin Turen]] from sleeping.
 
-[[Aisha]] met the party at the outskirts of the camp and mentioned one in particular — **a black mohawk, "a mossclaw"** — who was chased off. The guild is worried he will come back with reinforcements.
+[[Aisha]] met the party at the outskirts of the camp and mentioned one in particular, a black mohawk, "a mossclaw," who was chased off. The guild is worried he will come back with reinforcements.
 
 The Mossclaw are a goblin tribe, and [[Gribnik Mossfoot]]'s former one. The raider [[Ky'ar Lastet]] saw also matches the description of a goblin [[The Good Ones]] spared earlier, so at least one of the raiders has met them before and lived.
 
@@ -19,10 +19,10 @@ The Mossclaw are a goblin tribe, and [[Gribnik Mossfoot]]'s former one. The raid
 - Whether they are connected to the [[House Dufrey]]–[[House Keroskav]] dispute over [[Yorrisk]]
 
 ## Connections
-- [[Gribnik Mossfoot]] — a former member
-- [[The Bettermans Guild]] — the target of the incursions
-- [[Aisha]] — reported the one with the black mohawk
-- [[Ky'ar Lastet]] — told the party about the incursions, and appears to have been stepping into leadership while [[Torin Turen|Torin]] wears down
+- [[Gribnik Mossfoot]], a former member
+- [[The Bettermans Guild]], the target of the incursions
+- [[Aisha]], reported the one with the black mohawk
+- [[Ky'ar Lastet]], told the party about the incursions, and appears to have been stepping into leadership while [[Torin Turen|Torin]] wears down
 
 ## Sessions
 - [[Session 28]]

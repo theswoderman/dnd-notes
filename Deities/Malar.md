@@ -23,10 +23,10 @@ The werewolves and werebears that ambushed the party at [[The Frozen Riverbank]]
 - Whether the enormous panther at the riverbank is his
 
 ## Connections
-- [[The Collector]] — a self-declared servant
-- [[Black Blood Pack]] — invoked in the same breath; presumably his
-- [[The Black Grail]] — what the trophies are for
-- [[Bane]] — a rival for it, explicitly not an ally
+- [[The Collector]], a self-declared servant
+- [[Black Blood Pack]], invoked in the same breath; presumably his
+- [[The Black Grail]], what the trophies are for
+- [[Bane]], a rival for it, explicitly not an ally
 
 ## Sessions
 - [[Session 27]]

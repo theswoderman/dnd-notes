@@ -19,4 +19,4 @@ A real person, not a campaign entity. Tagged `ignore` so this note stays out of 
 
 ## Notes
 
-Distinct from [[Nic]], who keeps this vault. The two names are one letter apart and have been mixed up in the notes before — [[Loryn Malcovitch]] is Nick's.
+Distinct from [[Nic]], who keeps this vault. The two names are one letter apart and have been mixed up in the notes before. [[Loryn Malcovitch]] is Nick's.

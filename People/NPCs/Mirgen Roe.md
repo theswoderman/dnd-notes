@@ -12,5 +12,5 @@ Took over leadership of [[Khulask Hollow]] after the death of [[Crucius Ilyanich
 He told [[Thalrik Lastfeast]] that he is always welcome back, because of how [[Thalrik Lastfeast|Thalrik]] treated him and his son before the overthrow.
 
 ## Connections
-- [[Thalrik Lastfeast]] — owes him goodwill
-- [[Crucius Ilyanich]] — his predecessor
+- [[Thalrik Lastfeast]], owes him goodwill
+- [[Crucius Ilyanich]], his predecessor

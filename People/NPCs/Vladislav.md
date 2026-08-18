@@ -9,4 +9,4 @@ tags: [character, panrelta, holy]
 A follower of [[Torm]] and a member of [[The Order of the Golden Gauntlet]].
 
 ## Connections
-- [[Arthur Van Hark]] — his mentor
+- [[Arthur Van Hark]], his mentor

@@ -8,12 +8,12 @@ The party. Named after the fight with the demons summoned by [[Kyron Delinor]] o
 Knighted by [[King Berrigan]] and granted a mansion in [[Whitehall]].
 
 ## Members
-- [[Bathoz Manefell|Bathoz]] — leonin barbarian, bearer of [[Queensbane]]
-- [[Davynn Brindleknot|Davynn]] — wizard
-- [[Loryn Malcovitch|Loryn]] — Viera, hunter of criminals
-- [[Jäkel Aleister le Rouge|Jakel]] — [[Jäkel Aleister le Rouge|the Scarlet Raven]], [[Jäkel Aleister le Rouge|Raven Lord]] of [[Grekosha]]
-- [[Diggory Psalm|Diggory]] — druid, follower of [[Torm]]
-- [[Mehea Talth]] — joined in the [[Neziri Desert]]
+- [[Bathoz Manefell|Bathoz]], leonin barbarian, bearer of [[Queensbane]]
+- [[Davynn Brindleknot|Davynn]], wizard
+- [[Loryn Malcovitch|Loryn]], Viera, hunter of criminals
+- [[Jäkel Aleister le Rouge|Jakel]], [[Jäkel Aleister le Rouge|the Scarlet Raven]], [[Jäkel Aleister le Rouge|Raven Lord]] of [[Grekosha]]
+- [[Diggory Psalm|Diggory]], druid, follower of [[Torm]]
+- [[Mehea Talth]], joined in the [[Neziri Desert]]
 
 ## Former and occasional companions
 [[Io]] · [[Myrn Lim]] · [[Badger Barkbeard]] · [[Arjan Taneresh]] · [[Soraya Hawthorne]] · [[Hariett Hinkapot]] · Prim · Ray'el

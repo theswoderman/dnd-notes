@@ -20,4 +20,4 @@ A real person, not a campaign entity. Tagged `ignore` so this note stays out of 
 
 Runs Pilgrims of Panrelta and wrote [[Prelude for Thalrik Lastfeast]], which is authoritative on world history, the origin of [[The Pilgrimage]], [[Thalrik Lastfeast|Thalrik]]'s background, and where [[The Sons of Thunder]] ended up.
 
-Several place and person names are spelled differently in the prelude than in the vault. Those have all been ruled on — see the settled list in the vault's working instructions. Where the prelude and Nic's own account of play conflict, Nic's account wins.
+Several place and person names are spelled differently in the prelude than in the vault. Those have all been ruled on; see the settled list in the vault's working instructions. Where the prelude and Nic's own account of play conflict, Nic's account wins.

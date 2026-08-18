@@ -5,7 +5,7 @@ tags: [deity, panrelta, enemy, major]
 
 God of oppression, god of hate, god of tyranny. One of "the Dead Three", and a major enemy of [[Torm]].
 
-**He has apparently taken a foothold in the [[Sage Thorn Forest|Sagethorn]].** [[Falstad Firebeard]] scried on [[Torin Turen]] there and saw him digging up a corpse in armor bearing a black fist, bleeding green lines of energy. A soldier of Bane. See [[Torin's Flight into the Sagethorn]].
+He has apparently taken a foothold in the [[Sage Thorn Forest|Sagethorn]]. [[Falstad Firebeard]] scried on [[Torin Turen]] there and saw him digging up a corpse in armor bearing a black fist, bleeding green lines of energy. A soldier of Bane. See [[Torin's Flight into the Sagethorn]].
 
 That the forest also holds a temple of [[Illmater]], and that [[Torin Turen|Torin]] has been feeling another presence where his god used to be, is the party's immediate worry.
 
@@ -21,11 +21,11 @@ The party then found an icy riverbank strewn with the corpses of Bane's soldiers
 - Whether the soldiers and beasts dead at the riverbank killed each other, and how long ago
 
 ## Connections
-- [[Torm]] — Bane is a major enemy of his
-- [[Malar]] — a rival for [[The Black Grail]], not an ally
-- [[The Black Grail]] — what his followers are after
-- [[Sage Thorn Forest]] — where his soldier was found
-- [[Torin Turen]] — high priest of [[Illmater]], and heading straight for it
+- [[Torm]], Bane is a major enemy of his
+- [[Malar]], a rival for [[The Black Grail]], not an ally
+- [[The Black Grail]], what his followers are after
+- [[Sage Thorn Forest]], where his soldier was found
+- [[Torin Turen]], high priest of [[Illmater]], and heading straight for it
 
 ## Sessions
 - [[Session 28]]

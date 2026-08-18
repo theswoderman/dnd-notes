@@ -5,4 +5,4 @@ tags: [character, panrelta, merchant]
 
 **Status:** Alive
 
-A traveling gem and jewel salesman. [[The Good Ones]] sold manticore heads to him. Met in [[Kaz'an Hold]] — probably.
+A traveling gem and jewel salesman. [[The Good Ones]] sold manticore heads to him. Met in [[Kaz'an Hold]], probably.

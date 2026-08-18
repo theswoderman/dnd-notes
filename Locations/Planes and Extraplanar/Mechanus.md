@@ -9,9 +9,9 @@ The Clockwork Nirvana, ruled by [[Primus]], god of law and the modrons. Where th
 
 [[Mechanus]] is built atop massive, sometimes continent-sized, ever-turning gears. The plane is governed by four Secundi who report directly to [[Primus]], each overseeing an aspect of reality: space, matter, energy, and time.
 
-**Regulus** is the Modron supercity, home to over 350 million modrons and the seat of [[Primus]]'s authority. Interplanar visitors are processed through extensive customs before being allowed in.
+Regulus is the Modron supercity, home to over 350 million modrons and the seat of [[Primus]]'s authority. Interplanar visitors are processed through extensive customs before being allowed in.
 
-**The Salvatorium** is a factory at the edge of Modron-controlled space, where modrons worked with Lifeblood, the silvery-white magical fluid all modrons are born of. Beyond it lie the **Wastes of Gravegear**, a universal junkyard of remnants from technologies and civilizations across time and many planes, inhabited by goblinoid raiders from [[Acheron]], scrap creatures, and stranded travelers driven mad.
+The Salvatorium is a factory at the edge of Modron-controlled space, where modrons worked with Lifeblood, the silvery-white magical fluid all modrons are born of. Beyond it lie the Wastes of Gravegear, a universal junkyard of remnants from technologies and civilizations across time and many planes, inhabited by goblinoid raiders from [[Acheron]], scrap creatures, and stranded travelers driven mad.
 
 Past the Wastes lies formian territory, home to [[Chitinousa|Queen Regent Chitinousa]]'s hive.
 

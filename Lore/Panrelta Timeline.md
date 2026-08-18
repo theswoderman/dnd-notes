@@ -47,7 +47,7 @@ Where the Sons of Thunder are now: [[Bathoz Manefell|Bathoz]] is with his tribe,
 9. [[Torin's Flight into the Sagethorn]]
 10. [[Speak with Dead with the Collector]]
 11. [[The Climb to the Sagethorn]]
-12. [[The Frozen Riverbank]] — most recent, unfinished
+12. [[The Frozen Riverbank]], most recent and unfinished
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 
@@ -69,7 +69,7 @@ Each raw session note is kept unedited in `Session Notes/pilgrims of panrelta/`.
 
 - The fight at [[The Frozen Riverbank]] is unresolved. Werewolves, werebears and an enormous panther, with [[Gribnik Mossfoot]], [[Thol]] and [[Thalrik Lastfeast]] being pulled toward the water
 - A gnomish scream came out of the moving corpses at the riverbank. [[Torin Turen]] is a gnome and went into this forest alone
-- [[The Black Grail]] is said to be **inside [[Torin Turen|Torin]]**, and both [[Malar]] and [[Bane]]'s followers want it and mean to carry it to [[The Abbey]]
+- [[The Black Grail]] is said to be inside [[Torin Turen|Torin]], and both [[Malar]] and [[Bane]]'s followers want it and mean to carry it to [[The Abbey]]
 - [[The Abyssal Orb]] spoke for the first time. It told [[Thalrik Lastfeast]] "free me"
 - The party needs a clear night to read [[The Laughing Princess Constellation|the Laughing Princess constellation]] and locate [[The Abbey]]. A full moon is a night away and the forest is full of werewolves
 - [[Torin Turen]] is alone in the [[Sage Thorn Forest|Sagethorn]], drained, feeling another presence where [[Illmater]] should be, digging up a soldier of [[Bane]]. The party thinks a hag lured him out and expects to have to fight [[Bane]]

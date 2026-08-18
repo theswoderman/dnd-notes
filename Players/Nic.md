@@ -20,6 +20,6 @@ A real person, not a campaign entity. Tagged `ignore` so this note stays out of 
 
 Keeps this vault, and publishes it as a site.
 
-Did not play in Campaign 1 — [[Loryn Malcovitch]] belongs to [[Nick]], despite the similar name.
+Did not play in Campaign 1. [[Loryn Malcovitch]] belongs to [[Nick]], despite the similar name.
 
 Ran [[Thol]] in [[Session 29]] while [[Tyler]] was traveling.

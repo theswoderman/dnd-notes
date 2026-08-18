@@ -6,9 +6,9 @@ aliases: [The Ruby Dragon]
 
 **Titles:** The Ruby Dragon; neutral god of the gem dragons, psionics, and secret knowledge
 
-The only being trusted by both good and evil gods to know how [[Queensbane]] can properly be reforged. His [[Ruby Palace]] shifts between the planes and had been missing for some time — last sighted in the [[Astral Sea]] roughly fifty years ago.
+The only being trusted by both good and evil gods to know how [[Queensbane]] can properly be reforged. His [[Ruby Palace]] shifts between the planes and had been missing for some time, last sighted in the [[Astral Sea]] roughly fifty years ago.
 
-[[The Sons of Thunder]] found the palace overrun by mind flayers and Sardior himself absent, away investigating some other threat. He had left behind an **echo** — a shard of his own mind — because he knew they were coming.
+[[The Sons of Thunder]] found the palace overrun by mind flayers and Sardior himself absent, away investigating some other threat. He had left behind an echo, a shard of his own mind, because he knew they were coming.
 
 That echo gave them the origin of [[Aeralath]] (see [[Sardior's Revelation]]), told them [[Queensbane]] must be attuned to six planes, identified [[Jäkel Aleister le Rouge|Jakel]]'s patron as [[Zargon the Immortal]], and handed over the [[Rose of Asmodeus]].
 

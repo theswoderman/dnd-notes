@@ -16,6 +16,6 @@ In the aftermath the town was attacked by [[The Drow]], who wanted their magic i
 - Mirgen told [[Thalrik Lastfeast]] he is always welcome back, because of how [[Thalrik Lastfeast|Thalrik]] treated him and his son before the overthrow
 
 ## Connections
-- [[Crucius Ilyanich]] — the Bitter Baron
-- [[The Drow]] — his allies, who burned the town
+- [[Crucius Ilyanich]], the Bitter Baron
+- [[The Drow]], his allies, who burned the town
 - [[Khulask Hollow]]

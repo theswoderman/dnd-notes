@@ -8,6 +8,6 @@ A god whose worshipper [[Hiram Oakbrow]] gave [[The Good Ones]] the [[Sylvan Par
 Whether the god intended the gift or [[Hiram Oakbrow|Hiram]] gave it on his own is unrecorded, as is why.
 
 ## Connections
-- [[Hiram Oakbrow]] — his worshipper, who handed the parcel over
-- [[Sylvan Parcel]] — the gift
-- [[The Good Ones]] — the recipients
+- [[Hiram Oakbrow]], his worshipper, who handed the parcel over
+- [[Sylvan Parcel]], the gift
+- [[The Good Ones]], the recipients

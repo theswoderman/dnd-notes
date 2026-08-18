@@ -13,5 +13,5 @@ Joined [[The Sons of Thunder]] after they teleported out of [[Ahmeses]]'s sanctu
 Rewarded with a powerful bow by the amethyst dragon [[Raiorma]] for the rescue of her mate.
 
 ## Connections
-- [[Golzokroth]] — killed her father
-- [[Elyon Ivasil]] — knew her father
+- [[Golzokroth]], killed her father
+- [[Elyon Ivasil]], knew her father

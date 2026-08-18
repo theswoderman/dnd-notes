@@ -20,4 +20,4 @@ A real person, not a campaign entity. Tagged `ignore` so this note stays out of 
 
 ## Notes
 
-Appears in the notes as both **Cam** and **Cameron**; Nic has confirmed these are the same person. [[Prelude for Thalrik Lastfeast]] calls the newly crowned Grekoshan king "Cameron's PC", and that king is [[Jäkel Aleister le Rouge|Jakel]], which ties the two spellings together.
+Appears in the notes as both Cam and Cameron; Nic has confirmed these are the same person. [[Prelude for Thalrik Lastfeast]] calls the newly crowned Grekoshan king "Cameron's PC", and that king is [[Jäkel Aleister le Rouge|Jakel]], which ties the two spellings together.
