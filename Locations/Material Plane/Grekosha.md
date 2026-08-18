@@ -10,7 +10,7 @@ tags: [location, nation]
 ## Ten years later
 [[Jäkel Aleister le Rouge|Jakel]] is now king. The [[Blood Raven]] operate as the nation's elite unit, and killed a black dragon at some point before the Panrelta campaign.
 
-**[[House Keroskav]]** is a Grekoshan house — a curled black dragon facing down, with beams of light above it — at war with Iron Oak [[House Dufrey]] over a developing town called [[Yorrisk]]. Dufrey's heraldry reads that conflict as **Grekoshan encroachment on [[The Iron Oak Woods|the Iron Oak forest]]**, which sits in [[Stonehold]].
+[[House Keroskav]] is a Grekoshan house (a curled black dragon facing down, with beams of light above it) at war with Iron Oak [[House Dufrey]] over a developing town called [[Yorrisk]]. Dufrey's heraldry reads that conflict as Grekoshan encroachment on [[The Iron Oak Woods|the Iron Oak forest]], which sits in [[Stonehold]].
 
 ## Sessions
 - [[Session 28]]

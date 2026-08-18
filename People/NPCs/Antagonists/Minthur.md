@@ -16,7 +16,7 @@ When forced to flee, [[Minthur]] turned invisible and tried to destroy the city 
 
 ## Connections
 
-- [[Mathias Ohstal]] — documented him as a hybrid dragon
-- [[Viridian Sun]] — his unwitting guardian
-- [[The Sons of Thunder]] — killed him
-- [[Golzokroth]] and [[Rendibril]] — other hybrid dragons slain by the party
+- [[Mathias Ohstal]]: documented him as a hybrid dragon
+- [[Viridian Sun]], his unwitting guardian
+- [[The Sons of Thunder]]: killed him
+- [[Golzokroth]] and [[Rendibril]], other hybrid dragons slain by the party

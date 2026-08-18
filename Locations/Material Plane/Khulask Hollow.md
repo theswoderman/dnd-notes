@@ -12,12 +12,12 @@ The town [[The Good Ones]] liberated from the totalitarian rule of [[Crucius Ily
 See [[Liberation of Khulask Hollow]].
 
 ## The survivors
-They have settled. At [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]] the Khulask Hollow settlers have been **welcomed into the community** and seem to be enjoying the gentler climate — the camp has grown from roughly 100 people to 300 in large part because of them. See [[Return to the Bettermans Guild]].
+They have settled. At [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]] the Khulask Hollow settlers have been welcomed into the community and seem to be enjoying the gentler climate. The camp has grown from roughly 100 people to 300 in large part because of them. See [[Return to the Bettermans Guild]].
 
 ## Connections
-- [[Crucius Ilyanich]] — former ruler
-- [[Mirgen Roe]] — took over leadership after the overthrow
-- [[The Bettermans Guild]] — where the survivors live now
+- [[Crucius Ilyanich]], former ruler
+- [[Mirgen Roe]], took over leadership after the overthrow
+- [[The Bettermans Guild]], where the survivors live now
 
 ## Sessions
 - [[Session 28]]

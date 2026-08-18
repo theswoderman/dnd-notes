@@ -8,7 +8,7 @@ tags: [location, panrelta]
 
 Where [[Thalrik Lastfeast]] is from.
 
-A coastal port town well suited for trade — you can find a little bit of everything here. It lies southeast of [[Stonehold]], and is where [[Brom Stonefist]] retired.
+A coastal port town well suited for trade. You can find a little bit of everything here. It lies southeast of [[Stonehold]], and is where [[Brom Stonefist]] retired.
 
 ## Sessions
 - [[Prelude for Thalrik Lastfeast]]

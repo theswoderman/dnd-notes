@@ -17,10 +17,10 @@ A map [[The Good Ones]] picked up early in the campaign shows the abbey and the 
 - How a constellation fixes a location on the ground
 
 ## Connections
-- [[The Black Grail]] — what is being brought here
-- [[The Tree of Pain]] — the landmark it sits near
-- [[The Laughing Princess Constellation]] — how it is found
-- [[Sage Thorn Forest]] — the forest the party is crossing to reach it
+- [[The Black Grail]], what is being brought here
+- [[The Tree of Pain]], the landmark it sits near
+- [[The Laughing Princess Constellation]], how it is found
+- [[Sage Thorn Forest]], the forest the party is crossing to reach it
 
 ## Sessions
 - [[Session 29]]

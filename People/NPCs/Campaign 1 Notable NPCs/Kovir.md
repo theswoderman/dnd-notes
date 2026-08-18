@@ -15,4 +15,4 @@ He showed each of [[The Sons of Thunder]] a vision of what he judged to be their
 | [[Jäkel Aleister le Rouge\|Jakel]] | Stubbornness, and willingness to sacrifice others |
 | [[Diggory Psalm\|Diggory]]         | Fear of losing his friends again                  |
 
-They faced the trials, climbed for days, and beat him in a final test of combat — earning the right to pass through the astral gate at the summit.
+They faced the trials, climbed for days, and beat him in a final test of combat, earning the right to pass through the astral gate at the summit.

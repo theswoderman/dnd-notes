@@ -16,7 +16,7 @@ A [[Nezerai Empire|Nezerai]] wizard, and one of [[The Five Heroes]] who drove [[
 
 ## Connections
 - [[The Five Heroes]]
-- [[Dryzmir Aletall]] — the other survivor
-- [[Bjorn Sigurdson]], [[Lyra Sunstrider]], [[The Unnamed Cleric]] — the three who fell, later resurrected
-- [[Sardior]] — his mentor
-- [[Nezerai Empire]] — his people
+- [[Dryzmir Aletall]], the other survivor
+- [[Bjorn Sigurdson]], [[Lyra Sunstrider]], [[The Unnamed Cleric]], the three who fell, later resurrected
+- [[Sardior]], his mentor
+- [[Nezerai Empire]], his people

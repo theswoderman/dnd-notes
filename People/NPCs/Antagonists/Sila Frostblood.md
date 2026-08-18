@@ -22,9 +22,9 @@ The next morning the party reached the riverbank she had shown them. See [[The C
 - Whether she shares the coven's interest in killing [[Beemo]]
 
 ## Connections
-- [[Sisters of the Gnarled Veil]] — her coven
-- [[Mirna Girbwood]] — a dusk hag of the same coven
-- [[Gribnik Mossfoot]], [[Thol]], [[Falstad Firebeard]] — the three she appeared to
+- [[Sisters of the Gnarled Veil]], her coven
+- [[Mirna Girbwood]], a dusk hag of the same coven
+- [[Gribnik Mossfoot]], [[Thol]], [[Falstad Firebeard]]: the three she appeared to
 
 ## Sessions
 - [[Session 29]]

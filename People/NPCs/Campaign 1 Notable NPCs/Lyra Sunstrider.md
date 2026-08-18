@@ -14,4 +14,4 @@ One of [[The Five Heroes]] who fought [[Aeralath]] during [[The Sundering]], rou
 
 ## Connections
 - [[The Five Heroes]]
-- [[Bjorn Sigurdson]], [[Dryzmir Aletall]], [[Vhal Nimzur]] — fought alongside them
+- [[Bjorn Sigurdson]], [[Dryzmir Aletall]], [[Vhal Nimzur]], fought alongside them

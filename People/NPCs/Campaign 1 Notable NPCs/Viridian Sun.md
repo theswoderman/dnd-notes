@@ -16,6 +16,6 @@ His belongings revealed he was the older brother of [[Jade Moon]], a tabaxi bard
 
 ## Connections
 
-- [[Jade Moon]] — his younger sister
-- [[Minthur]] — guarded the approaches to his lair
-- [[The Sons of Thunder]] — killed by them
+- [[Jade Moon]], his younger sister
+- [[Minthur]], guarded the approaches to his lair
+- [[The Sons of Thunder]], killed by them

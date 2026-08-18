@@ -15,10 +15,10 @@ The Marut demanded [[The Sons of Thunder]] surrender their weapons, including [[
 
 ## Connections
 
-- [[Primus]] — serves him
-- [[Loryn Malcovitch]] — kidnapped him
-- [[Mechanus]] — guards the gate
-- [[Gudjag Canyon]] — stationed at the gate there
+- [[Primus]], serves him
+- [[Loryn Malcovitch]], kidnapped him
+- [[Mechanus]], guards the gate
+- [[Gudjag Canyon]], stationed at the gate there
 
 ## Sessions
 

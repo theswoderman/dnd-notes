@@ -14,5 +14,4 @@ She marched with him on the crusade to clear [[Grekosha]] of vampires, turned [[
 
 It was Zethros who found [[Jäkel Aleister le Rouge|Jakel]] in the snow afterwards, and whose Oath of the Red Knight he took in place of his abandoned oath of vengeance.
 
-married to [[Jäkel Aleister le Rouge]]
-originally from [[Rorinden]]
+She is married to [[Jäkel Aleister le Rouge]] and originally from [[Rorinden]].

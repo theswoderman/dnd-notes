@@ -16,9 +16,9 @@ She gave [[The Sons of Thunder]] her blessing, commanded her warriors to clear a
 
 ## Connections
 
-- [[Theh Kha]] — her warrior, sent to aid the party
-- [[The Sons of Thunder]] — aided them against [[Chronus]]
-- [[Mechanus]] — her hive lies past the Wastes of Gravegear
+- [[Theh Kha]], her warrior, sent to aid the party
+- [[The Sons of Thunder]], aided them against [[Chronus]]
+- [[Mechanus]], her hive lies past the Wastes of Gravegear
 
 ## Sessions
 

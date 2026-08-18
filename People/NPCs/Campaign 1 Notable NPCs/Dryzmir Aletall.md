@@ -17,7 +17,7 @@ He remembers [[Aeralath]] only in fragments, and those fragments frighten him: s
 
 ## Connections
 - [[The Five Heroes]]
-- [[Vhal Nimzur]] — the other survivor
-- [[Bjorn Sigurdson]], [[Lyra Sunstrider]], [[The Unnamed Cleric]] — the three who fell, later resurrected
-- [[Gwendolin Thundersong]], [[Atrios Wyrmslayer]] — fellow einherjar on the bridge
-- [[Queensbane]] — he fought alongside its original wielder
+- [[Vhal Nimzur]], the other survivor
+- [[Bjorn Sigurdson]], [[Lyra Sunstrider]], [[The Unnamed Cleric]], the three who fell, later resurrected
+- [[Gwendolin Thundersong]], [[Atrios Wyrmslayer]], fellow einherjar on the bridge
+- [[Queensbane]], he fought alongside its original wielder

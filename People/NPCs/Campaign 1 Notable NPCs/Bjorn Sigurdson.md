@@ -14,5 +14,5 @@ One of [[The Five Heroes]] who fought [[Aeralath]] during [[The Sundering]], rou
 
 ## Connections
 - [[The Five Heroes]]
-- [[Queensbane]] — its original wielder
-- [[Lyra Sunstrider]], [[Dryzmir Aletall]], [[Vhal Nimzur]] — fought alongside them
+- [[Queensbane]], its original wielder
+- [[Lyra Sunstrider]], [[Dryzmir Aletall]], [[Vhal Nimzur]], fought alongside them

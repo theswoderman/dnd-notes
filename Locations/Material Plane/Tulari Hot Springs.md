@@ -10,9 +10,9 @@ Where [[Krintak Cinderheart]]'s dragonborn held [[Bathoz Manefell|Bathoz]]'s peo
 The gate turned out to lead to [[Ysgard]], and the party returned to use it much later.
 
 ## Ten years later
-After the peace brokered by [[Bathoz Manefell|Bathoz]], this is now the **primary home of the Leonin tribes**, though dragonborn are welcomed whenever they choose to visit. It is one of the two places [[The Pilgrimage]] can begin.
+After the peace brokered by [[Bathoz Manefell|Bathoz]], this is now the primary home of the Leonin tribes, though dragonborn are welcomed whenever they choose to visit. It is one of the two places [[The Pilgrimage]] can begin.
 
-[[Kelara|Lioness Kalara Clawborne]] welcomed [[Thalrik Lastfeast]] and [[Dwendall Dhormas]] here as pilgrims — see [[Thalrik's Road to Stonehold]].
+[[Kelara|Lioness Kalara Clawborne]] welcomed [[Thalrik Lastfeast]] and [[Dwendall Dhormas]] here as pilgrims. See [[Thalrik's Road to Stonehold]].
 
 ## Sessions
 - [[Prelude for Thalrik Lastfeast]]

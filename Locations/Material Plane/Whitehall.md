@@ -9,7 +9,7 @@ The [[The Sons of Thunder|Sons of Thunder]] won the [[The King's Tournament|King
 
 ## Notable people and places
 - The party's mansion, previously owned by [[Qadus Ifnir]], home to [[Harold]], [[Patrice]], [[Sebastion]], [[Naori]], [[Morbach]]
-- [[Kehl Brokenhorn]] — dragonborn cleric, resurrection specializt
+- [[Kehl Brokenhorn]], dragonborn cleric, resurrection specializt
 - [[Mathias Ohstal]]'s museum of draconic history
 - A local magic university, where [[Sebastion]] studies
 

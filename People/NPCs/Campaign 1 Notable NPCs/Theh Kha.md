@@ -18,10 +18,10 @@ After [[Chronus]] was defeated, [[Theh Kha]] asked to come to the material plane
 
 ## Connections
 
-- [[Chitinousa|Queen Regent Chitinousa]] — his queen
-- [[Primus]] — enhanced his crossbow to artifact-level power
-- [[The Sons of Thunder]] — fought alongside them
-- [[Chronus]] — helped defeat him
+- [[Chitinousa|Queen Regent Chitinousa]], his queen
+- [[Primus]], enhanced his crossbow to artifact-level power
+- [[The Sons of Thunder]], fought alongside them
+- [[Chronus]], helped defeat him
 
 ## Sessions
 

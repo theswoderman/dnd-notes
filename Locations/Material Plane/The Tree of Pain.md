@@ -17,9 +17,9 @@ A landmark named by [[The Collector]]'s corpse as the way to find [[The Abbey]]:
 - How far it lies from the riverbank
 
 ## Connections
-- [[The Abbey]] — what it marks
-- [[The Collector]] — named it
-- [[Sage Thorn Forest]] — where the party is looking for it
+- [[The Abbey]], what it marks
+- [[The Collector]], named it
+- [[Sage Thorn Forest]], where the party is looking for it
 
 ## Sessions
 - [[Session 29]]

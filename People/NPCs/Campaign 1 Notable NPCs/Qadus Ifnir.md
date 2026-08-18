@@ -15,9 +15,9 @@ The party found him among a group of stranded, clearly insane beings living unde
 
 ## Connections
 
-- [[The Sons of Thunder]] — previous owner of their mansion in [[Whitehall]]
-- [[Whitehall]] — where his mansion stood
-- [[Mechanus]] — stranded there after his experiment went wrong
+- [[The Sons of Thunder]], previous owner of their mansion in [[Whitehall]]
+- [[Whitehall]], where his mansion stood
+- [[Mechanus]], stranded there after his experiment went wrong
 
 ## Sessions
 

@@ -17,11 +17,11 @@ In [[Chronus]]'s visions of alternate timelines, each party member saw a version
 
 ## Connections
 
-- [[Primus]] — his creator and the ruler he rebelled against
-- [[The Sons of Thunder]] — killed him
-- [[Theh Kha]] — formian warrior who fought against him
-- [[Queensbane]] — his power attuned the blade to [[Mechanus]]
-- [[Aeralath]] — his plan was to reverse time to prevent her return
+- [[Primus]], his creator and the ruler he rebelled against
+- [[The Sons of Thunder]], killed him
+- [[Theh Kha]], formian warrior who fought against him
+- [[Queensbane]], his power attuned the blade to [[Mechanus]]
+- [[Aeralath]], his plan was to reverse time to prevent her return
 
 ## Sessions
 

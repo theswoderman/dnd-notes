@@ -7,6 +7,6 @@ As the mountain gate closed and the upper city collapsed to seal everyone inside
 
 He cast Disintegrate. She died instantly.
 
-This was retaliation — [[Diggory Psalm|Diggory]] had used Project Image days earlier to tell Kyron that [[Vedonia]] and [[Bryn]] would not be proud of him.
+This was retaliation. [[Diggory Psalm|Diggory]] had used Project Image days earlier to tell Kyron that [[Vedonia]] and [[Bryn]] would not be proud of him.
 
 She was found again in [[Ysgard]], and later [[Soraya's Resurrection|brought back]].
