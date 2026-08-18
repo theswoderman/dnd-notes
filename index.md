@@ -27,7 +27,7 @@ The second campaign is set **ten years after the first ends**, in the same world
 
 ### Ancient history
 
-**~10,000 years ago** — [[The Sundering]]. [[Aeralath]] is summoned and sealed. The sixteen outer planes are severed from [[Estrana]] and set adrift in the [[Astral Sea]], weakening the gods' reach into the mortal world. [[Queensbane]], the only weapon that ever wounded her, is shattered. Only [[Dryzmir Aletall]] and [[Vhal Nimzur]] survive. Knowledge of the event is lost.
+**~10,000 years ago** — [[The Sundering]]. [[Aeralath]] is summoned and sealed by [[The Five Heroes]]. The sixteen outer planes are severed from [[Estrana]] and set adrift in the [[Astral Sea]], weakening the gods' reach into the mortal world. [[Queensbane]], the only weapon that ever wounded her, is shattered. Three of the five die. Knowledge of the event is lost.
 
 **~9,000 years ago** — the [[Nezerai Empire]] goes extinct.
 

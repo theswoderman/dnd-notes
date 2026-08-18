@@ -21,4 +21,5 @@ The gods' ability to intervene in the world was drastically weakened — as it r
 ## Why it matters now
 The planes are reconverging. See [[The Planar Realignment]].
 
-- Only [[Dryzmir Aletall]] and [[Vhal Nimzur]] survived the fight with [[Aeralath]]
+## The five heroes
+[[Bjorn Sigurdson]] (the original wielder of [[Queensbane]]), [[Lyra Sunstrider]], [[The Unnamed Cleric|an unnamed dwarf cleric]], [[Dryzmir Aletall]] and [[Vhal Nimzur]]. Only [[Dryzmir Aletall|Dryzmir]] and [[Vhal Nimzur|Vhal]] survived. The three who fell were brought back to life by [[The Sons of Thunder]] using a true wish at the end of Campaign 1.

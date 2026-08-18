@@ -7,7 +7,7 @@ tags: [item, artifact, major]
 
 Created during [[The Sundering]] by the most powerful arcane practitioners of every plane, drawing magical essence from all of them — and, according to [[Sardior]], from the very essence of [[Aelor]]'s initial divine breath. That is why it can harm [[Aeralath]] at all.
 
-[[The Five Heroes|Five mortal heroes]] used it to drive her back into [[The Abyss]] and then to **sever the ties binding the outer planes to the world**. Too powerful to wield and too powerful to destroy, it was shattered into five pieces and scattered.
+[[The Five Heroes|Five mortal heroes]], led by its original wielder [[Bjorn Sigurdson]], used it to drive her back into [[The Abyss]] and then to **sever the ties binding the outer planes to the world**. Too powerful to wield and too powerful to destroy, it was shattered into five pieces and scattered.
 
 ## The five fragments
 | #        | Found by                           | Where                                        | Vision                                                   |

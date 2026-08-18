@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Panrelta Timeline.md",
+                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Panrelta Timeline"
+              "title": "Campaign 1 Summary"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Lore/Panrelta Timeline.md",
+                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Panrelta Timeline"
+                  "title": "Graph of Campaign 1 Summary"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vhal ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -389,11 +389,18 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Lore/The Five Heroes.md",
+    "Suggestions/Suggestion History/2026-08-18 - The Five Heroes identified.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Vhal Nimzur.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Dryzmir Aletall.md",
+    "Lore/Panrelta Timeline.md",
+    "index.md.tmp.19780.433068dc1450",
+    "People/NPCs/Campaign 1 Notable NPCs/The Unnamed Cleric.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Bjorn Sigurdson.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Lyra Sunstrider.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "Events/Campaign 1/00 - Campaign Index.md",
     "Lore/Timeline.md",
-    "People/NPCs/Campaign 1 Notable NPCs/Dryzmir Aletall.md",
-    "People/NPCs/Campaign 1 Notable NPCs/Vhal Nimzur.md",
     "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
     "Players/Ian.md",
     "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
@@ -409,12 +416,6 @@
     "Suggestions/Suggestion History/2026-08-07 - Arthur Van Hark belongs to The Good Ones.md",
     "Suggestions/Suggestion Box.md",
     "Groups/Mossclaw.md",
-    "Items and Artifacts/The Abyssal Orb.md",
-    "Locations/Planes and Extraplanar/The Abyss.md",
-    "Lore/The Laughing Princess Constellation.md",
-    "Locations/Material Plane/The Tree of Pain.md",
-    "Locations/Material Plane/The Abbey.md",
-    "Items and Artifacts/The Black Grail.md",
     "Deities/Sylvanus.md.tmp.27448.0069f286c2ce",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
@@ -424,7 +425,6 @@
     "index.md.tmp.24388.6e6148dfe49e",
     "Players/Nick.md.tmp.10912.5753091e6f18",
     "Players/Ian.md.tmp.3520.6e80961d5b15",
-    "Players",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
