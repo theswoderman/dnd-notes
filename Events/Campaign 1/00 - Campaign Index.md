@@ -13,7 +13,7 @@ Five strangers met at a harvest festival in a border village called [[Mudbend]].
 **[[Aeralath]] was helping them gain power the whole time, because she wanted the pieces of [[Queensbane]] collected.**
 
 ## Start here
-- [[Timeline]] — the whole campaign in order, plus open threads
+- [[Campaign 1 Timeline]] — the whole campaign in order, plus open threads
 - [[The Sons of Thunder]] — the party
 - [[Queensbane]] — the sword, its five fragments, and the three planes still to attune
 - [[Sardior's Revelation]] — the origin of [[Aeralath]] and why the war exists

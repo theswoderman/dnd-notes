@@ -24,4 +24,4 @@ tags:
 
 Reconstructed retroactively on 2026-08-12 from the chat transcript of that session. The quote is verbatim; the list of notes touched is drawn from what the session recorded at the time, so treat it as a faithful summary rather than a fresh audit.
 
-The useful part of this was not the page count but what it implies for the meantime. Four notes now read as mid-campaign on purpose rather than by neglect: [[Aeralath]]'s status, [[Queensbane]]'s attunement checklist, [[Timeline]]'s ending, and [[The Sons of Thunder]]'s stale objective. Recording that as deliberate stops a future pass tidying them by inference before the real ending lands.
+The useful part of this was not the page count but what it implies for the meantime. Four notes now read as mid-campaign on purpose rather than by neglect: [[Aeralath]]'s status, [[Queensbane]]'s attunement checklist, [[Campaign 1 Timeline]]'s ending, and [[The Sons of Thunder]]'s stale objective. Recording that as deliberate stops a future pass tidying them by inference before the real ending lands.

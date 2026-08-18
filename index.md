@@ -19,7 +19,7 @@ The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with cla
 | **Where** | [[Anendal]], and outward through the planes | [[Panrelta]] |
 | **Status** | Concluded at level 20 | Ongoing, ~session 29 |
 | **Index** | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
-| **Timeline** | [[Timeline]] | [[Panrelta Timeline]] |
+| **Timeline** | [[Campaign 1 Timeline]] | [[Panrelta Timeline]] |
 
 The second campaign is set **ten years after the first ends**, in the same world with the same pantheon and geography. [[The Sons of Thunder]] are still alive and are a very big deal.
 
@@ -47,7 +47,7 @@ Running underneath all of it is [[The Planar Realignment]] — the severed plane
 
 The twist, revealed late: **[[Aeralath]] was helping them gain power the whole time, precisely so they would collect the pieces of [[Queensbane]].** Why the being the sword was forged to kill wanted it reassembled has not been recorded.
 
-The full event-by-event sequence is on [[Timeline]].
+The full event-by-event sequence is on [[Campaign 1 Timeline]].
 
 > **A note on the record.** [[Reed]] is still writing the summary covering the campaign's final three levels. The detailed notes now cover through [[The Slaying of Minthur]], but are still frozen before the endgame. Several pages therefore describe [[Aeralath]] as sealed and expected to return, and [[Queensbane]] as still needing its final attunements. The outcome below is known from the second campaign, not yet from Campaign 1's own notes.
 
@@ -99,7 +99,7 @@ Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circ
 ## Start here
 
 - **New to the world?** [[Estrana]] — the map, the calendar, and the nations
-- **Campaign 1** — [[00 - Campaign Index]], then [[Timeline]]
+- **Campaign 1** — [[00 - Campaign Index]], then [[Campaign 1 Timeline]]
 - **Panrelta** — [[00 - Panrelta Index]], then [[Panrelta Timeline]]
 - **The central mysteries** — [[The Sundering]], [[The Planar Realignment]], [[Queensbane]], [[Sardior's Revelation]]
 

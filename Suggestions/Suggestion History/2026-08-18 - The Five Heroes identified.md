@@ -28,7 +28,7 @@ tags:
 - [[Vhal Nimzur]] — rewritten with race/class fields and connections
 - [[Queensbane]] — [[Bjorn Sigurdson]] named as the original wielder
 - [[The Sundering]] — all five heroes listed, resurrection noted
-- [[Timeline]] — updated to reference [[The Five Heroes]]
+- [[Campaign 1 Timeline]] — updated to reference [[The Five Heroes]]
 - [[index.md]] — updated to reference [[The Five Heroes]]
 
 ## Already covered

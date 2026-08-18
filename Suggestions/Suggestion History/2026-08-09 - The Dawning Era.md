@@ -14,7 +14,7 @@ tags:
 
 ## Incorporated into
 
-- [[Estrana]], [[The Dawning]], [[Timeline]], [[Panrelta Timeline]], [[00 - Panrelta Index]], [[Aeralath]] and [[index]] — the era named, 1017 A.P. recorded as 1 D.E., and Panrelta set in 10 D.E.
+- [[Estrana]], [[The Dawning]], [[Campaign 1 Timeline]], [[Panrelta Timeline]], [[00 - Panrelta Index]], [[Aeralath]] and [[index]] — the era named, 1017 A.P. recorded as 1 D.E., and Panrelta set in 10 D.E.
 - [[CLAUDE]] — the calendar moved out of **Open questions** and into the settled section, with `10 D.E.` given as the house date format, parallel to `1017 A.P.`
 
 ## Already covered

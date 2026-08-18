@@ -16,7 +16,7 @@ D&D notes for **two campaigns set in the same world**, roughly a decade apart.
 | Nic's character | — did not play | [[Thalrik Lastfeast]] |
 | Status | Concluded at level 20 | Ongoing, ~session 29 |
 | Index | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
-| Timeline | [[Timeline]] | [[Panrelta Timeline]] |
+| Timeline | [[Campaign 1 Timeline]] | [[Panrelta Timeline]] |
 
 **Panrelta is set ten years after Campaign 1 ends.** The Sons of Thunder are alive and famous. Confirmed crossovers: [[Thol]] is [[Bathoz Manefell]]'s adopted son; [[Yosco]] appears in both; [[The Good Ones]] met [[Jäkel Aleister le Rouge|Jakel]] at a dinner in [[Stonehold]]; [[The Abyssal Orb]] is bound for the Sons of Thunder. Geography and pantheon are shared — link into existing notes rather than duplicating them.
 
@@ -268,7 +268,7 @@ Until it arrives, the Campaign 1 notes are frozen in a **mid-campaign** state an
 
 - [[Aeralath]] is listed as sealed and "expected to return within months"
 - [[Queensbane]]'s attunement checklist has [[The Beastlands]] marked *current arc*, with four planes unchecked
-- [[Timeline]] ends at [[Into the Beastlands]] — *current*
+- [[Campaign 1 Timeline]] ends at [[Into the Beastlands]] — *current*
 - [[The Sons of Thunder]] carries a stale "Current objective" section
 
-**When it arrives:** create event notes in `Events/Campaign 1/Events/`, file new people and places into existing folders, and update [[Timeline]], [[Queensbane]] and [[00 - Campaign Index]]. Work through the loose threads on [[Timeline]] and mark which the ending resolves — including **why [[Aeralath]] wanted [[Queensbane]] collected**, which is the big one. Replace the stale sections listed above.
+**When it arrives:** create event notes in `Events/Campaign 1/Events/`, file new people and places into existing folders, and update [[Campaign 1 Timeline]], [[Queensbane]] and [[00 - Campaign Index]]. Work through the loose threads on [[Campaign 1 Timeline]] and mark which the ending resolves — including **why [[Aeralath]] wanted [[Queensbane]] collected**, which is the big one. Replace the stale sections listed above.

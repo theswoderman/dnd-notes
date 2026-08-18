@@ -12,10 +12,24 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Campaign 1 Timeline.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Campaign 1 Timeline"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -70,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CLAUDE.md",
+                    "file": "Lore/Campaign 1 Timeline.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -176,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of CLAUDE"
+                  "title": "Graph of Campaign 1 Timeline"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -372,7 +386,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
     "CLAUDE.md",
     "Groups/Mossclaw.md",
@@ -397,7 +411,7 @@
     "Deities/Gruumsh.md.tmp.19780.abe7b7fcf63b",
     "Orcus.md",
     "Templates/Event.md",
-    "Lore/Timeline.md",
+    "Lore/Campaign 1 Timeline.md",
     "Events/Campaign 1/Events/Jiren's Rock and the Duel with Krintak.md",
     "Events/Campaign 1/Events/The Journey to Ysgard.md",
     "Events/Campaign 1/Events/Into the Beastlands.md",

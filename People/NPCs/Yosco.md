@@ -10,7 +10,7 @@ tags: [character, panrelta, crossover]
 The same Yosco appears in both campaigns, making him one of the confirmed points of contact between them.
 
 ## In Campaign 1
-Scrying on Yosco aboard the boat revealed that [[Dolghast]] is planning something soon. [[King Berrigan]] ordered [[Loryn Malcovitch|Loryn]] to find him and lead Alnorian forces to [[Dolghast]] to end the war — still an open thread on the [[Timeline]].
+Scrying on Yosco aboard the boat revealed that [[Dolghast]] is planning something soon. [[King Berrigan]] ordered [[Loryn Malcovitch|Loryn]] to find him and lead Alnorian forces to [[Dolghast]] to end the war — still an open thread on the [[Campaign 1 Timeline]].
 
 ## In Panrelta
 Told [[The Good Ones]] about [[The Maiden]], and said she is also known as the Laughing Princess.

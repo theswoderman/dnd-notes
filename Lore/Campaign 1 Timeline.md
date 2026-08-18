@@ -4,7 +4,7 @@ tags:
   - timeline
   - ignore
 ---
-# Timeline
+# Campaign 1 Timeline
 
 ## Ancient history
 - **~10,000 years ago** — [[The Sundering]]. [[Aeralath]] summoned and sealed by [[The Five Heroes]]; the planes severed; [[Queensbane]] shattered. Three of the five die; only [[Dryzmir Aletall]] and [[Vhal Nimzur]] survive.

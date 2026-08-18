@@ -16,8 +16,8 @@ tags:
 
 ## Incorporated into
 
-- [[Estrana]], [[Timeline]], [[00 - Campaign Index]], [[Panrelta Timeline]], [[00 - Panrelta Index]] and [[The Dawning]] — Campaign 1 dated 1016–1017 A.P. at about one year of in-game time, and Panrelta placed in year 10 of a new era. The map's 1017 now reads as Campaign 1's end rather than a contradiction
-- [[Aeralath]], [[Queensbane]], [[00 - Campaign Index]] and [[Timeline]] — she was helping [[The Sons of Thunder]] gain power specifically so they would gather the fragments
+- [[Estrana]], [[Campaign 1 Timeline]], [[00 - Campaign Index]], [[Panrelta Timeline]], [[00 - Panrelta Index]] and [[The Dawning]] — Campaign 1 dated 1016–1017 A.P. at about one year of in-game time, and Panrelta placed in year 10 of a new era. The map's 1017 now reads as Campaign 1's end rather than a contradiction
+- [[Aeralath]], [[Queensbane]], [[00 - Campaign Index]] and [[Campaign 1 Timeline]] — she was helping [[The Sons of Thunder]] gain power specifically so they would gather the fragments
 - [[CLAUDE]] — two open questions logged: what the new era is designated, and why she wanted the one weapon that can harm her reassembled
 
 ## Already covered
@@ -32,4 +32,4 @@ The Aeralath reveal was written as the fact Nic gave, with *why* left as an open
 
 The era designation was answered two days later, in [[2026-08-09 - The Dawning Era]].
 
-The mid-campaign leftovers on the Campaign 1 notes were left alone: [[Aeralath]] "expected to return within months", [[Queensbane]]'s Beastlands "current arc", and [[Timeline]] ending at [[Into the Beastlands]].
+The mid-campaign leftovers on the Campaign 1 notes were left alone: [[Aeralath]] "expected to return within months", [[Queensbane]]'s Beastlands "current arc", and [[Campaign 1 Timeline]] ending at [[Into the Beastlands]].

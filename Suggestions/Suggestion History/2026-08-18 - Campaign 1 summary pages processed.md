@@ -58,7 +58,7 @@ New pages in [[Reed]]'s Campaign 1 summary covered three arcs: the Beastlands, M
 - [[Signpost]] — added Guardian attack
 - [[Myreth]] — expanded with fields and Guardian ritual
 - [[Queensbane]] — Beastlands and Mechanus attunements checked off (3/6)
-- [[Timeline]] — Into the Beastlands no longer current, Mechanus and Minthur events added
+- [[Campaign 1 Timeline]] — Into the Beastlands no longer current, Mechanus and Minthur events added
 - [[Bathoz Manefell]] — Zusa connection, Chronus power absorption
 - [[Loryn Malcovitch]] — Abrovand/Razor's Grace connection, Astynom capture, Minthur tracking
 - [[Davynn Brindleknot]] — Erdking killing blow, Chronus Time Ravage

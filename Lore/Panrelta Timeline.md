@@ -7,7 +7,7 @@ tags:
 ---
 # Panrelta Timeline
 
-This campaign is set ten years after the end of Campaign 1, in 10 D.E., the tenth year of the Dawning Era dated from [[Aeralath]]'s defeat in 1017 A.P. See [[Estrana]] for the calendar and [[Timeline]] for everything that came before.
+This campaign is set ten years after the end of Campaign 1, in 10 D.E., the tenth year of the Dawning Era dated from [[Aeralath]]'s defeat in 1017 A.P. See [[Estrana]] for the calendar and [[Campaign 1 Timeline]] for everything that came before.
 
 Events are listed in recorded order. [[Thalrik Lastfeast]] joined partway through the campaign, so the earliest sessions are unrecorded and the numbering below is recorded order rather than true campaign order.
 
@@ -122,4 +122,4 @@ Each raw session note is kept unedited in `Session Notes/pilgrims of panrelta/`.
 ## See also
 
 - [[00 - Panrelta Index]]
-- [[Timeline]], the Campaign 1 timeline, same world
+- [[Campaign 1 Timeline]], the Campaign 1 timeline, same world
