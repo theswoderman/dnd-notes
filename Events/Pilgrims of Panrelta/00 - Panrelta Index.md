@@ -29,16 +29,19 @@ Six travelers bound by [[The Pilgrimage]]'s tenets — chief among them an oblig
 
 ## Recorded events
 1. [[Raid on the Thieves Guild]]
-2. [[Liberation of Khulask Hollow]] — with [[The Apex Griffon Hunt]] on the journey
-3. [[Exploration of the deep mines]] — preceded by [[The Shade Sent for Beemo]] and [[Thalrik's Dream of Torm]]
-4. [[The Collector on the Road]]
-5. [[Return to the Bettermans Guild]] — the feast, [[Torin Turen]]'s decline, and [[Yorrisk]] identified
-6. [[Torin's Flight into the Sagethorn]]
-7. [[Speak with Dead with the Collector]] — [[The Black Grail]], [[The Abbey]] and [[The Tree of Pain]] named
-8. [[The Climb to the Sagethorn]] — the cliff, [[The Abyssal Orb]] speaking, and [[Sila Frostblood]]
-9. **[[The Frozen Riverbank]]** — *most recent, and unfinished*
+2. [[The Apex Griffon Hunt]]
+3. [[Liberation of Khulask Hollow]]
+4. [[The Shade Sent for Beemo]]
+5. [[Thalrik's Dream of Torm]]
+6. [[Exploration of the deep mines]]
+7. [[The Collector on the Road]]
+8. [[Return to the Bettermans Guild]]
+9. [[Torin's Flight into the Sagethorn]]
+10. [[Speak with Dead with the Collector]]
+11. [[The Climb to the Sagethorn]]
+12. **[[The Frozen Riverbank]]** — *most recent, unfinished*
 
-Running through 3–8: [[The Dusk Hag's Dreams]].
+Running alongside most of the above: [[The Dusk Hag's Dreams]].
 
 ## Recurring figures
 [[The Maiden]] · [[Festra]] · [[Mirna Girbwood]] · [[Sila Frostblood]] · [[Sisters of the Gnarled Veil]] · [[The Drow]] · [[Torin Turen]] · [[Ky'ar Lastet]] · [[The Rockspeaker]] · [[Bane]] · [[Malar]]
@@ -52,7 +55,7 @@ Ten years on from [[The Sundering]]-era business and the fall of [[Aeralath]]. C
 - [[Yosco]] is the same person in both campaigns — he told [[The Good Ones]] about [[The Maiden]]
 - Locations sit inside the same nations — [[The Iron Oak Woods]] and [[Hor Garam]] in [[Stonehold]], [[Khulask Hollow]] and [[Kaz'an Hold]] in [[Dolghast]]
 - The pantheon is shared — [[Torm]], [[Illmater]], [[Nebulu]], and now [[Malar]], [[Bane]] and [[Sylvanus]]
-- [[Jäkel Aleister le Rouge|Jakel]] is the one who tried and failed to resurrect [[Arthur Van Hark]] — corrected in session 28
+- [[Jäkel Aleister le Rouge|Jakel]] is the one who tried and failed to resurrect [[Arthur Van Hark]]
 - The [[Blood Raven|Blood Ravens]] are [[Grekosha]]'s elite unit a decade on, and killed the black dragon whose scales turned up in [[The Collector]]'s cart
 - A necrohulk from [[The Abyss]] — [[Aeralath]]'s home plane — surfaced beneath the deep mines. [[The Abyssal Orb]] found inside it is bound for [[The Sons of Thunder]]
 

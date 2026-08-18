@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
+                "file": "Lore/Panrelta Timeline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Dusk Hag's Dreams"
+              "title": "Panrelta Timeline"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
+                    "file": "Lore/Panrelta Timeline.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of The Dusk Hag's Dreams"
+                  "title": "Graph of Panrelta Timeline"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -389,6 +389,12 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+    "Events/Campaign 1/00 - Campaign Index.md",
+    "Lore/Timeline.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Dryzmir Aletall.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Vhal Nimzur.md",
+    "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
     "Players/Ian.md",
     "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
@@ -409,12 +415,6 @@
     "Locations/Material Plane/The Tree of Pain.md",
     "Locations/Material Plane/The Abbey.md",
     "Items and Artifacts/The Black Grail.md",
-    "People/NPCs/Orithian Blackspire.md",
-    "People/NPCs/Antagonists/Sila Frostblood.md",
-    "Events/Pilgrims of Panrelta/Events/The Frozen Riverbank.md",
-    "Events/Pilgrims of Panrelta/Events/The Climb to the Sagethorn.md",
-    "Events/Pilgrims of Panrelta/Events/Speak with Dead with the Collector.md",
-    "Suggestions/Suggestion History/2026-08-12 - Hiram Oakbrow and the treestride duration.md",
     "Deities/Sylvanus.md.tmp.27448.0069f286c2ce",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",

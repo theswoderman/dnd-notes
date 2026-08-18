@@ -55,7 +55,7 @@ As king he made the agreement with [[Bathoz Manefell|Bathoz]] that opened the ro
 ## In the Panrelta campaign
 Besides the dinner in [[Stonehold]], [[Jäkel Aleister le Rouge|Jäkel]] is the one who **warned [[Diggory Psalm]] of the threat in the [[Dragonspine Mountains]]** — a threat that had gone unseen by both Diggory and [[Torm]]. See [[Thalrik's Dream of Torm]].
 
-**He is also the one who tried to resurrect [[Arthur Van Hark]]** — corrected in session 28, having previously been recorded against [[Diggory Psalm|Diggory]]. The attempt failed because the requirements of the revive spell were not met.
+He is also the one who tried to resurrect [[Arthur Van Hark]]. The attempt failed because the requirements of the revive spell were not met.
 
 [[Thol]] dreamed of him freezing alongside [[Bathoz Manefell]] — his adoptive father and his adopted uncle — in one of [[The Dusk Hag's Dreams]].
 

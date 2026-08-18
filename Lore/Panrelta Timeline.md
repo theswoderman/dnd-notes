@@ -36,20 +36,20 @@ Where the Sons of Thunder are now: [[Bathoz Manefell|Bathoz]] is with his tribe,
 
 ## Recorded events
 
-1. [[Raid on the Thieves Guild]], in [[Stonehold]]. [[Ky'ar Lastet]] leads [[The Good Ones]] to [[The Bettermans Guild]]
-2. [[Liberation of Khulask Hollow]]. [[Crucius Ilyanich]] is overthrown, [[The Drow]] burn the town, and survivors are evacuated
-   - [[The Apex Griffon Hunt]], killed in [[Dolghast]] on the journey to and from [[Khulask Hollow]], for [[The Maiden]]
-   - [[The Shade Sent for Beemo]], afterward but before the mines: a shade made by the [[Sisters of the Gnarled Veil]] attacks, sent to kill [[Beemo]]
-   - [[Thalrik's Dream of Torm]], still before the mines: [[Torm]] names [[Thalrik Lastfeast|Thalrik]] the Golden Pilgrim, [[Diggory Psalm]] delivers the [[Hand of Valor]], and the price of the pact is revealed
-3. [[Exploration of the deep mines]]: [[The Rockspeaker]], the purple worm, [[The Abyssal Orb]], and the [[Giant Memory Gemstones]] dreams
-4. [[The Collector on the Road]]. The next morning [[Gegga]] kills him. He was a servant of [[Malar]]
-5. [[Return to the Bettermans Guild]]: [[Aisha]], the [[Mossclaw]] raids, the feast, [[Torin Turen]]'s confession, the [[Sylvan Parcel]], and [[Yorrisk]] identified
-6. [[Torin's Flight into the Sagethorn]]. [[Torin Turen|Torin]] rides out alone and is found digging up a soldier of [[Bane]]
-7. [[Speak with Dead with the Collector]]. His corpse gives up [[Malar]]'s errand, names [[The Black Grail]] as being inside [[Torin Turen|Torin]], and points at [[The Abbey]] near [[The Tree of Pain]]
-8. [[The Climb to the Sagethorn]]: the cliff and the sirens, [[The Abyssal Orb]] asking to be freed, and [[Sila Frostblood]]'s first dream
-9. [[The Frozen Riverbank]], the most recent and unfinished. Corpses of [[Bane]]'s soldiers rise, something calls three of the party into the water, and werewolves attack
+1. [[Raid on the Thieves Guild]]
+2. [[The Apex Griffon Hunt]]
+3. [[Liberation of Khulask Hollow]]
+4. [[The Shade Sent for Beemo]]
+5. [[Thalrik's Dream of Torm]]
+6. [[Exploration of the deep mines]]
+7. [[The Collector on the Road]]
+8. [[Return to the Bettermans Guild]]
+9. [[Torin's Flight into the Sagethorn]]
+10. [[Speak with Dead with the Collector]]
+11. [[The Climb to the Sagethorn]]
+12. [[The Frozen Riverbank]] — most recent, unfinished
 
-Running alongside 3 through 8: [[The Dusk Hag's Dreams]]. [[Mirna Girbwood]] and the [[Sisters of the Gnarled Veil]] circle cast on the party's sleep, escalating each night, with [[Sila Frostblood]] joining on the fourth.
+Running alongside most of the above: [[The Dusk Hag's Dreams]].
 
 ## Session log
 Each raw session note is kept unedited in `Session Notes/pilgrims of panrelta/`. This table records what each one fed into.
@@ -113,11 +113,11 @@ Each raw session note is kept unedited in `Session Notes/pilgrims of panrelta/`.
 - Thalrik's pact with [[Torm]] cost him his soul. What that means in practice is unknown
 - The identity of the colossal golden dragon in [[Thalrik's Dream of Torm]] is unrecorded
 - A colossal thunder dragon, possibly [[Thelgadrïm, the Inevitable]], may live in [[Dolghast]], and someone there carries a storm staff the party recognized
-- [[The Abyssal Orb]] is unidentified and came out of a creature from [[The Abyss]], the same plane [[Aeralath]] is from. The party means to hand it to [[The Sons of Thunder]]. An "ichor deep" entity is said to live in somewhere recorded as "shae de claw", possibly controlled by something recorded as "zogmoi". [[Session 29]] calls the orb itself the ichor deep engine, which may or may not make these the same thing
+- [[The Abyssal Orb]] is unidentified and came out of a creature from [[The Abyss]], the same plane [[Aeralath]] is from. The party means to hand it to [[The Sons of Thunder]]. An "ichor deep" entity is said to live in somewhere recorded as "shae de claw", possibly controlled by something recorded as "zogmoi". The orb has also been called the ichor deep engine, which may or may not make these the same thing
 - What [[The Tree of Pain]] is, and whose [[The Abbey]] was
 - Why [[The Garden of Dreams]] matters so much to [[The Rockspeaker]]
 - [[Gegga]] has a mask stuck to her face that she cannot remove
-- [[Arthur Van Hark]] is probably dead, but the party is not certain. Corrected in session 28: it was [[Jäkel Aleister le Rouge|Jakel]] who tried to revive him, not [[Diggory Psalm|Diggory]], and the revive spell's requirements were not met
+- [[Arthur Van Hark]] is probably dead, but the party is not certain. It was [[Jäkel Aleister le Rouge|Jakel]] who tried to revive him, and the revive spell's requirements were not met
 
 ## See also
 

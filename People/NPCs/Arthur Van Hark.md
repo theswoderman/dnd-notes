@@ -8,8 +8,8 @@ tags: [character, panrelta, holy]
 ## Summary
 Mentor to [[Vladislav]], and possibly a member of [[The Order of the Golden Gauntlet]] — unconfirmed.
 
-## The resurrection attempt — corrected
-The earlier record had this wrong. **It was [[Jäkel Aleister le Rouge|Jakel]] who tried to revive him, not [[Diggory Psalm|Diggory]]**, and the attempt failed because **the requirements of the revive spell were not met** — see [[Session 28]].
+## The resurrection attempt
+[[Jäkel Aleister le Rouge|Jakel]] tried to revive him. The attempt failed because the requirements of the revive spell were not met.
 
 His mount was found dead. For reasons not recorded, [[The Good Ones]] are still not certain he actually died.
 

@@ -67,7 +67,22 @@ Where the heroes ended up: [[Bathoz Manefell|Bathoz]] with his tribe, [[Jäkel A
 
 Six travelers walk [[The Pilgrimage]] across [[Panrelta]]: [[Beemo]], [[Falstad Firebeard]], [[Gegga]], [[Gribnik Mossfoot]], [[Thalrik Lastfeast]] and [[Thol]]. They are bound by tenets that include an obligation to help anyone who asks, which is why they keep ending up in other people's wars. They did not all set out together. [[The Good Ones]] and [[Thalrik Lastfeast|Thalrik]]'s own group were walking the same road separately until they met in [[Stonehold]].
 
-The earliest sessions were never written down, so what follows is the order things were recorded in rather than true campaign order: [[Raid on the Thieves Guild]], [[Liberation of Khulask Hollow]], [[Exploration of the deep mines]], [[The Collector on the Road]], [[Return to the Bettermans Guild]], [[Torin's Flight into the Sagethorn]], [[Speak with Dead with the Collector]], [[The Climb to the Sagethorn]], and most recently [[The Frozen Riverbank]]. Full detail and the session log are on [[Panrelta Timeline]].
+The earliest sessions were never written down, so what follows is the order things were recorded in rather than true campaign order:
+
+1. [[Raid on the Thieves Guild]]
+2. [[The Apex Griffon Hunt]]
+3. [[Liberation of Khulask Hollow]]
+4. [[The Shade Sent for Beemo]]
+5. [[Thalrik's Dream of Torm]]
+6. [[Exploration of the deep mines]]
+7. [[The Collector on the Road]]
+8. [[Return to the Bettermans Guild]]
+9. [[Torin's Flight into the Sagethorn]]
+10. [[Speak with Dead with the Collector]]
+11. [[The Climb to the Sagethorn]]
+12. [[The Frozen Riverbank]] — most recent, unfinished
+
+Full detail and the session log are on [[Panrelta Timeline]].
 
 ### Outside the campaigns
 
