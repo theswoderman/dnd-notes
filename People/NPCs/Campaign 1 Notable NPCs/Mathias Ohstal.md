@@ -11,15 +11,15 @@ His notes on the hybrid dragons guided [[The Sons of Thunder]] to [[Minthur]] th
 
 Ten possible chromatic combinations. Six have known names; four remain unknown.
 
-| Classification | Colors | Name | Age | Status |
-|---|---|---|---|---|
-| Midnight | black/blue | [[Thelgadrïm]], the Inevitable | greatwyrm | alive |
-| Gray | black/white | [[Angmond]], the Wailing Doom | ancient | alive |
-| Sage | black/green | unknown | unknown | unknown |
-| Blood | black/red | [[Golzokroth]], the Blood Tyrant | greatworm | slain |
-| Purple | red/blue | [[Rendibril]], the Magnificent | ancient | slain |
-| Quartz | red/white | [[Nulsifïr]], the Unseen | ancient | alive |
-| Brown | red/green | unknown | unknown | unknown |
-| Turquoise | blue/green | [[Minthur]], the Mindbreaker | ancient | slain |
-| Sky | blue/white | unknown | unknown | unknown |
-| Celadon | green/white | [[Pragilia]], the Silent Grave | ancient | alive |
+| Classification | Colors      | Name                                                       | Age       | Status  |
+| -------------- | ----------- | ---------------------------------------------------------- | --------- | ------- |
+| Midnight       | black/blue  | [[Thelgadrïm, the Inevitable\|Thelgadrïm]], the Inevitable | greatwyrm | alive   |
+| Gray           | black/white | [[Angmond]], the Wailing Doom                              | ancient   | alive   |
+| Sage           | black/green | unknown                                                    | unknown   | unknown |
+| Blood          | black/red   | [[Golzokroth]], the Blood Tyrant                           | greatworm | slain   |
+| Purple         | red/blue    | [[Rendibril]], the Magnificent                             | ancient   | slain   |
+| Quartz         | red/white   | [[Nulsifïr]], the Unseen                                   | ancient   | alive   |
+| Brown          | red/green   | unknown                                                    | unknown   | unknown |
+| Turquoise      | blue/green  | [[Minthur]], the Mindbreaker                               | ancient   | slain   |
+| Sky            | blue/white  | unknown                                                    | unknown   | unknown |
+| Celadon        | green/white | [[Pragilia]], the Silent Grave                             | ancient   | alive   |

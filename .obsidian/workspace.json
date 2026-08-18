@@ -28,9 +28,29 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "617cd5a534767f35",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a95522b351ac2744",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "2f84238e61591256",
@@ -249,8 +269,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -385,8 +404,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a06d50da5d4fdb4d",
+  "active": "a95522b351ac2744",
   "lastOpenFiles": [
+    "People/NPCs/Campaign 1 Notable NPCs/Mathias Ohstal.md",
+    "Deities/Orcus.md",
     "Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
     "People/NPCs/Antagonists/Nulsifïr.md",
     "People/NPCs/Antagonists/Thelgadrim.md",
@@ -396,7 +417,6 @@
     "People/NPCs/Antagonists/Pragilia.md",
     "People/NPCs/Antagonists/Nulsifir.md",
     "People/NPCs/Antagonists/Angmond.md",
-    "Deities/Orcus.md",
     "Events/Campaign 1/Events/Into Mechanus.md",
     "People/NPCs/Campaign 1 Notable NPCs/Ahmeses.md",
     "Locations/Material Plane/Mushala.md",
@@ -413,7 +433,6 @@
     "Events/Campaign 1/Events/The Journey to Ysgard.md",
     "Events/Campaign 1/Events/Into the Beastlands.md",
     "Events/Campaign 1/Events/The Goblin Caves and the Hilt.md",
-    "Events/Campaign 1/00 - Campaign Index.md",
     "index.md.tmp.19780.433068dc1450",
     "Deities/Sylvanus.md.tmp.27448.0069f286c2ce",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
