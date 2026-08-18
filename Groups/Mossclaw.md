@@ -10,7 +10,7 @@ Raiders who have been making incursions against [[The Bettermans Guild]]'s camp 
 
 [[Aisha]] met the party at the outskirts of the camp and mentioned one in particular — **a black mohawk, "a mossclaw"** — who was chased off. The guild is worried he will come back with reinforcements.
 
-**The Mossclaw are a tribe, and they are [[Gribnik Mossfoot]]'s former one.** The party learned this in [[Session 29]]. The raider [[Ky'ar Lastet]] saw also matches the description of a goblin [[The Good Ones]] spared in an earlier session, so at least one of the raiders has met them before and lived.
+The Mossclaw are a goblin tribe, and [[Gribnik Mossfoot]]'s former one. The raider [[Ky'ar Lastet]] saw also matches the description of a goblin [[The Good Ones]] spared earlier, so at least one of the raiders has met them before and lived.
 
 ## Open questions
 - What they want from the camp

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "The Dusk Hag's Dreams"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "index.md",
+                    "file": "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of index"
+                  "title": "Graph of The Dusk Hag's Dreams"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -389,15 +389,19 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "CLAUDE.md",
+    "Players/Ian.md",
+    "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "People/The Good Ones/Gribnik Mossfoot.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
+    "Players/Tyler.md",
     "index.md",
+    "CLAUDE.md",
     "Untitled.md",
     "People/The Sons of Thunder/Loryn Malcovitch.md",
     "2026-08-13.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Suggestions/Suggestion History/2026-08-07 - Arthur Van Hark belongs to The Good Ones.md",
     "Suggestions/Suggestion Box.md",
-    "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
     "Groups/Mossclaw.md",
     "Items and Artifacts/The Abyssal Orb.md",
     "Locations/Planes and Extraplanar/The Abyss.md",
@@ -411,11 +415,7 @@
     "Events/Pilgrims of Panrelta/Events/The Climb to the Sagethorn.md",
     "Events/Pilgrims of Panrelta/Events/Speak with Dead with the Collector.md",
     "Suggestions/Suggestion History/2026-08-12 - Hiram Oakbrow and the treestride duration.md",
-    "TEMP - THOL CHEAT SHEET.md",
     "Deities/Sylvanus.md.tmp.27448.0069f286c2ce",
-    "People/NPCs/Hiram Oakbrow.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
-    "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
     "Session Notes/Pilgrims of Panrelta/nic's notes",

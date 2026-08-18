@@ -27,12 +27,12 @@ A goblin ranger of [[The Good Ones]].
 What he dreamed on the second night of [[The Dusk Hag's Dreams]] is **unrecorded** — [[Ian]] was not playing that night.
 
 ## He is a Mossclaw
-The [[Mossclaw]] are [[Gribnik Mossfoot|Gribnik]]'s former tribe. The party learned it outright in [[Session 29]], though he had alluded to it before.
+The [[Mossclaw]] are [[Gribnik Mossfoot|Gribnik]]'s former tribe.
 
 That puts him on both sides of the raids on [[The Bettermans Guild]]'s camp. The raider [[Ky'ar Lastet]] saw also matches the goblin [[The Good Ones]] spared in an earlier session.
 
 ## The constellation dream
-He dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]] and came out of it with the name [[Orithian Blackspire]] and some connection to [[The Drow]]. The dream fell on a night covered by [[Session 28]] but was only reported a week later, because [[Ian]] was not at the table.
+He dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]] and came out of it with the name [[Orithian Blackspire]] and some connection to [[The Drow]].
 
 ## Connections
 - [[Mirna Girbwood]] — fought her battle dream
