@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/The Sons of Thunder/Loryn Malcovitch.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Loryn Malcovitch"
+              "title": "index"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "People/The Sons of Thunder/Loryn Malcovitch.md",
+                    "file": "index.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Loryn Malcovitch"
+                  "title": "Graph of index"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -370,7 +370,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,11 +387,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
     "CLAUDE.md",
-    "2026-08-13.md",
+    "index.md",
     "Untitled.md",
+    "People/The Sons of Thunder/Loryn Malcovitch.md",
+    "2026-08-13.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Suggestions/Suggestion History/2026-08-07 - Arthur Van Hark belongs to The Good Ones.md",
     "Suggestions/Suggestion Box.md",
@@ -413,8 +416,6 @@
     "People/NPCs/Hiram Oakbrow.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
-    "Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",
-    "Suggestions/Suggestion History/2026-08-12 - Thalrik took the Oath of Glory.md",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
     "Session Notes/Pilgrims of Panrelta/nic's notes",
