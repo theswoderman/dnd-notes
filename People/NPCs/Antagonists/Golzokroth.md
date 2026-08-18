@@ -4,7 +4,8 @@ aliases: [The Blood Tyrant]
 ---
 # Golzokroth the Blood Tyrant
 
-**Type:** Ancient blood dragon — a hybrid of red and black
+**Type:** Blood dragon (black/red hybrid), greatworm
+**Breath weapon:** Superheated acid
 **Lair:** A volcano in the [[Blackwaste]], northern [[Grekosha]]
 
 Guardian of the fifth and final fragment of [[Queensbane]]. His volcano was once home to a lost city of fire giants, which he destroyed himself.

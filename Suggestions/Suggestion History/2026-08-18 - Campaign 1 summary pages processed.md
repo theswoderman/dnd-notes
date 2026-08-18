@@ -46,6 +46,10 @@ New pages in [[Reed]]'s Campaign 1 summary covered three arcs: the Beastlands, M
 - [[Minthur]] (turquoise hybrid dragon)
 - [[Viridian Sun]] (tabaxi druid)
 - [[Gudjag Canyon]] (gate to Mechanus)
+- [[Thelgadrïm]] (midnight dragon, alive)
+- [[Angmond]] (gray dragon, alive)
+- [[Nulsifïr]] (quartz dragon, alive)
+- [[Pragilia]] (celadon dragon, alive)
 
 **Existing notes updated:**
 - [[The Beastlands]] — expanded with all three layers, locations, Wild Hunt summary
@@ -66,6 +70,9 @@ New pages in [[Reed]]'s Campaign 1 summary covered three arcs: the Beastlands, M
 - [[Into the Beastlands]] — Zaithyron and Evergreen Sanctuary added
 - [[Whitehall]] — added [[Qadus Ifnir]] as previous mansion owner
 - [[Wild Hunt]] — added Rotgut and Ojiro to members
+- [[Golzokroth]] — added breath weapon and age classification
+- [[Rendibril]] — added breath weapon, age, full fields
+- [[Mathias Ohstal]] — added full hybrid dragon catalog table
 
 ## Already covered
 
