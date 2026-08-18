@@ -284,14 +284,11 @@
             }
           }
         ],
-        "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
+        "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates  -path:Suggestions  ",
         "hideUnresolved": false,
         "showAttachments": false,
+        "showOrphans": true,
         "showTags": false,
-        "localBacklinks": true,
-        "localForelinks": true,
-        "localInterlinks": true,
-        "localJumps": 1,
         "lineSizeMultiplier": 1,
         "nodeSizeMultiplier": 1,
         "showArrow": false,
@@ -539,5 +536,25 @@
     "useModifiedNames": true,
     "showIcons": false
   },
-  "multipleNodesData": {}
+  "multipleNodesData": {
+    "shapeData": {
+      "type": "grid",
+      "center": {
+        "x": 0,
+        "y": 0
+      },
+      "step": 100
+    },
+    "queryData": {
+      "combinationLogic": "AND",
+      "rules": [
+        {
+          "source": "all",
+          "property": "",
+          "value": "",
+          "logic": ""
+        }
+      ]
+    }
+  }
 }

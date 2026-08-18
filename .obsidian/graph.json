@@ -1,9 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
+  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates  -path:Suggestions  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -89,15 +90,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 1,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.02431252836326967,
-  "close": false,
-  "localBacklinks": true,
-  "localForelinks": true,
-  "localInterlinks": true,
-  "localJumps": 1
+  "scale": 0.13168724279835237,
+  "close": false
 }

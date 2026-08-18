@@ -12,28 +12,25 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Timeline.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             },
             "group": "5f6a3ec99364036b"
+          },
+          {
+            "id": "a06d50da5d4fdb4d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f84238e61591256",
@@ -370,7 +367,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,8 +384,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "a06d50da5d4fdb4d",
   "lastOpenFiles": [
+    "Orcus.md",
+    "CLAUDE.md",
+    "Templates/Event.md",
+    "Lore/Timeline.md",
+    "Events/Campaign 1/Events/Jiren's Rock and the Duel with Krintak.md",
+    "Events/Campaign 1/Events/The Journey to Ysgard.md",
+    "Events/Campaign 1/Events/Into the Beastlands.md",
+    "Events/Campaign 1/Events/The Goblin Caves and the Hilt.md",
+    "Events/Campaign 1/00 - Campaign Index.md",
     "People/NPCs/Campaign 1 Notable NPCs/Viridian Sun.md",
     "People/NPCs/Antagonists/Minthur.md",
     "People/NPCs/Campaign 1 Notable NPCs/Qadus Ifnir.md",
@@ -399,7 +406,6 @@
     "Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
     "Events/Campaign 1/Events/The Slaying of Minthur.md",
     "Events/Campaign 1/Events/Into Mechanus.md",
-    "Events/Campaign 1/00 - Campaign Index.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Lore/The Five Heroes.md",
     "Suggestions/Suggestion History/2026-08-18 - The Five Heroes identified.md",
@@ -407,14 +413,6 @@
     "People/NPCs/Campaign 1 Notable NPCs/Dryzmir Aletall.md",
     "Lore/Panrelta Timeline.md",
     "index.md.tmp.19780.433068dc1450",
-    "People/NPCs/Campaign 1 Notable NPCs/The Unnamed Cleric.md",
-    "People/NPCs/Campaign 1 Notable NPCs/Bjorn Sigurdson.md",
-    "People/NPCs/Campaign 1 Notable NPCs/Lyra Sunstrider.md",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "Lore/Timeline.md",
-    "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
-    "Players/Ian.md",
-    "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
     "Deities/Sylvanus.md.tmp.27448.0069f286c2ce",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
