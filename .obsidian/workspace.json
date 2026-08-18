@@ -70,7 +70,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "index.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -176,7 +175,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of index"
+                  "title": "Local graph"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -375,6 +374,7 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Untitled.base",
     "index.md",
     "CLAUDE.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
@@ -401,7 +401,6 @@
     "Deities/Gruumsh.md.tmp.19780.abe7b7fcf63b",
     "Orcus.md",
     "Templates/Event.md",
-    "Events/Campaign 1/Events/Jiren's Rock and the Duel with Krintak.md",
     "index.md.tmp.19780.433068dc1450",
     "Deities/Sylvanus.md.tmp.27448.0069f286c2ce",
     "People/NPCs/Thelgadrïm, the Inevitable.md.tmp.21560.09874d7df692",
