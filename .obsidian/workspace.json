@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                "file": "Events/Campaign 1/00 - Campaign Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campaign 1 Summary"
+              "title": "00 - Campaign Index"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                    "file": "Events/Campaign 1/00 - Campaign Index.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Summary"
+                  "title": "Graph of 00 - Campaign Index"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -387,8 +387,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Suggestions/Suggestion History/2026-08-18 - Full vault rewrite in the new voice.md",
     "Events/Pilgrims of Panrelta/Events/Return to the Bettermans Guild.md.tmp.22228.c6fe2b726ec9",
     "Events/Pilgrims of Panrelta/Events/Return to the Bettermans Guild.md.tmp.22228.b791403b3216",
@@ -419,7 +420,6 @@
     "People/NPCs/Antagonists/Thelgadrim.md",
     "People/NPCs/Thelgadrïm, the Inevitable.md",
     "Events/Pilgrims of Panrelta/Events/Exploration of the deep mines.md",
-    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "People/NPCs/Antagonists/Pragilia.md",
     "People/NPCs/Antagonists/Nulsifir.md",
     "People/NPCs/Antagonists/Angmond.md",

@@ -17,12 +17,12 @@ tags:
 Every campaign note in the vault, roughly 200 files across all folders. The changes applied were:
 
 1. All em dashes replaced with commas, colons, parentheses, periods, or restructured sentences, chosen by context. Em dashes inside in-world quoted text were preserved per the house voice rules.
-2. Bold emphasis in prose paragraphs removed. Bold was kept on key/value fields at the top of notes and on the rare item that genuinely needs to stop the eye (the [[Aeralath]]/[[Queensbane]] twist on [[index.md|index]], for instance).
+2. Bold emphasis in prose paragraphs removed. Bold was kept on key/value fields at the top of notes and on the rare item that genuinely needs to stop the eye (the [[Aeralath]]/[[Queensbane]] twist on [[index|index]], for instance).
 3. Fragments converted to full sentences where they read better.
 
 The Suggestion template in `Templates/` was updated to use a colon instead of an em dash in its heading.
 
-The [[index.md|homepage]] note count was updated from "Roughly 380" to "About 430."
+The [[index|homepage]] note count was updated from "Roughly 380" to "About 430."
 
 ## Already covered
 
