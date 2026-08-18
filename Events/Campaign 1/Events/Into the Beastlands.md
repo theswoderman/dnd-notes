@@ -21,7 +21,7 @@ In Brux the party found signs of poachers: the [[Wild Hunt]], a fey hunting part
 
 There, [[Bassus]] the Ape King convened a gathering. [[Nobanian]], god of lions and great cats, had been slain. [[Lurue]], goddess of unicorns and intelligent beasts, was being hunted. The [[Wild Hunt]] had made camp in Evergreen Sanctuary, the heart of the Great Tree Yggdrasil, and threatened to burn it and destroy the entire plane if anyone interfered.
 
-The Erdking proposed a deal: [[The Sons of Thunder]] had 24 hours to evade, hide from, or fight off the Hunt. They could go anywhere in [[The Beastlands]] but could not flee to other planes. If they survived, the Hunt would leave forever. If caught, they had to surrender [[Loryn Malcovitch|Loryn]]'s crystal blade [[Razor's Grace]] and [[Darrius]], and let the Hunt continue. They accepted.
+A mighty forest spirit named Zaithyron, who took the form of an elk, projected the party into Evergreen Sanctuary (similar to Astral Projection) to meet the Erdking directly. The Erdking noticed [[Razor's Grace]] on [[Loryn Malcovitch|Loryn]]'s belt and [[Darrius]] among them, and proposed a deal: [[The Sons of Thunder]] had 24 hours to evade, hide from, or fight off the Hunt. They could go anywhere in [[The Beastlands]] but could not flee to other planes. If they survived, the Hunt would leave forever. If caught, they had to surrender [[Loryn Malcovitch|Loryn]]'s crystal blade [[Razor's Grace]] and [[Darrius]], and let the Hunt continue. They accepted.
 
 ## The 24-hour hunt
 
