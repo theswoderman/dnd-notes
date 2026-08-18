@@ -25,7 +25,7 @@ Camping along the road one night, a bulette ambushed them. No watch had been set
 
 Facing the beast down beside [[Dwendall Dhormas|Dwendall]] and trading blows with it, [[Thalrik Lastfeast|Thalrik]] reached out to [[Torm]] and made his pact, a promise that cannot be broken, unlike his oath. He does not know what he gave up in that moment, only that the power granted let him save [[Dwendall Dhormas|Dwendall]]. Outmatched, the two fled to [[Saltport]].
 
-> The prelude words this as the two of them fleeing "unable to save their fellow pilgrims," which is true of [[Sven]], [[Hansel]] and [[Clara]] — but [[Thalrik Lastfeast|Thalrik]]'s own account above is the correct one.
+> The prelude words this as the two of them fleeing "unable to save their fellow pilgrims," which is true of [[Sven]], [[Hansel]] and [[Clara]], but [[Thalrik Lastfeast|Thalrik]]'s own account above is the correct one.
 
 ## Aftermath
 The two sheltered in [[Saltport]] for a few days before [[Dwendall Dhormas|Dwendall]] decided he had neither the stomach nor the nerve to face such slaughter again. He would not finish the pilgrimage and would not cross the road home; he stayed in [[Saltport]] to save enough gold for passage by sea back to [[Hor Garam]], and sent [[Thalrik Lastfeast|Thalrik]] on to [[Stonehold]].

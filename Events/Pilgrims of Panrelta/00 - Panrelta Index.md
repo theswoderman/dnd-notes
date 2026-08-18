@@ -15,7 +15,7 @@ Set ten years after the end of Campaign 1, 10 D.E., the tenth year of the [[Estr
 
 Six travelers bound by [[The Pilgrimage]]'s tenets, chief among them an obligation to help anyone who asks, which is why they keep ending up in other people's wars.
 
-> Records begin partway through. [[Thalrik Lastfeast]] joined the campaign in progress, and the earliest sessions were not written down — [[The Good Ones]] and [[Thalrik Lastfeast|Thalrik]]'s own group were walking the same pilgrimage separately before meeting in [[Stonehold]]. Event numbers below are **recorded order**, not true campaign order.
+> Records begin partway through. [[Thalrik Lastfeast]] joined the campaign in progress, and the earliest sessions were not written down. [[The Good Ones]] and [[Thalrik Lastfeast|Thalrik]]'s own group were walking the same pilgrimage separately before meeting in [[Stonehold]]. Event numbers below are **recorded order**, not true campaign order.
 
 ## Start here
 - [[Panrelta Timeline]], events in order, session log, and open threads

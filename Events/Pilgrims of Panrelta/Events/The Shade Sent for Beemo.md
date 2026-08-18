@@ -6,7 +6,7 @@ tags: [event, panrelta]
 **When:** After [[Liberation of Khulask Hollow]], before [[Thalrik's Dream of Torm]] and [[Exploration of the deep mines]]
 **Part of:** [[The Pilgrimage]]
 
-> Recalled from memory — no session note was written for this one, and the details below carry the uncertainty flagged in them.
+> Recalled from memory. No session note was written for this one, and the details below carry the uncertainty flagged in them.
 
 ## What happened
 [[The Good Ones]] were attacked by some sort of shade. They learned it had also been created by the [[Sisters of the Gnarled Veil]], and that it had been sent specifically to kill [[Beemo]].
@@ -14,7 +14,7 @@ tags: [event, panrelta]
 ## Successful and unsuccessful
 The shade was described as an "unsuccessful" creation of the coven, where [[Beemo]] was a "successful" one.
 
-> **This may be backwards** — it is possible [[Beemo]] was the unsuccessful creation. Unconfirmed.
+> **This may be backwards.** It is possible [[Beemo]] was the unsuccessful creation. Unconfirmed.
 
 Either way, the coven still wants [[Beemo]] dead, and the reason is not known.
 
