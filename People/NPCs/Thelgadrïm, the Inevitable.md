@@ -1,16 +1,20 @@
 ---
 tags: [creature, dragon, panrelta, unconfirmed]
-aliases: [Thelgadrïm, Felgedrine the Inevitable]
+aliases: [Thelgadrïm, Thelgadrim, Felgedrine the Inevitable, "The Inevitable"]
 ---
 # Thelgadrïm, the Inevitable
 
-**Type:** Thunder dragon — colossal
-**Location:** [[Dolghast]], possibly
-**Status:** Unknown
+**Type:** Midnight dragon (black/blue hybrid), greatwyrm
+**Breath weapon:** Supersonic thunderous roar
+**Lair:** Cliffs south of Razorwind plateau
+**Status:** Alive
 
-> Identification is unconfirmed. Recorded from [[Gegga]]'s dream and from [[The Good Ones]]'s guess at the name.
+Documented by [[Mathias Ohstal]]. The oldest and most powerful of the known hybrid dragons, classified as a greatwyrm rather than merely ancient.
 
-## Summary
+> The identification below is unconfirmed. Recorded from [[Gegga]]'s dream and from [[The Good Ones]]'s guess at the name.
+
+## In the Panrelta campaign
+
 Seen in [[Gegga]]'s vision from the [[Giant Memory Gemstones]]: a child in a cave watches a cloaked figure standing at the cave mouth, looking out over a plateau as a massive storm gathers. A flash of lightning reveals a colossal thunder dragon. The cloaked figure raises a staff, which the party recognized as someone's storm staff.
 
 The dragon may be Thelgadrïm, the Inevitable, and may be living in [[Dolghast]].

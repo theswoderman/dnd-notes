@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Pilgrims of Panrelta/Events/Exploration of the deep mines.md",
+                "file": "Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exploration of the deep mines"
+              "title": "2026-08-18 - Campaign 1 summary pages processed"
             }
           }
         ],
@@ -245,7 +245,7 @@
                 "query": "thelgadr",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -401,14 +401,14 @@
   },
   "active": "a06d50da5d4fdb4d",
   "lastOpenFiles": [
+    "People/NPCs/Antagonists/Thelgadrim.md",
     "People/NPCs/Thelgadrïm, the Inevitable.md",
-    "Events/Pilgrims of Panrelta/Events/Exploration of the deep mines.md",
     "Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
+    "Events/Pilgrims of Panrelta/Events/Exploration of the deep mines.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "People/NPCs/Antagonists/Pragilia.md",
     "People/NPCs/Antagonists/Nulsifir.md",
     "People/NPCs/Antagonists/Angmond.md",
-    "People/NPCs/Antagonists/Thelgadrim.md",
     "Deities/Orcus.md",
     "Events/Campaign 1/Events/Into Mechanus.md",
     "People/NPCs/Campaign 1 Notable NPCs/Ahmeses.md",
