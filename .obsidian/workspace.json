@@ -12,24 +12,10 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -370,7 +356,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,8 +373,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "CLAUDE.md",
     "index.md",
     "Events/Campaign 1/Events/The Sundering.md",
     "Lore/Campaign 1 Timeline.md",
@@ -409,7 +397,6 @@
     "People/Totally safe boat trip one shot/Orist.md",
     "Items and Artifacts/Hand of Valor.md",
     "Items and Artifacts/Hand of Truth.md",
-    "CLAUDE.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "Groups/Mossclaw.md",
     "People/NPCs/Campaign 1 Notable NPCs/Mathias Ohstal.md",
