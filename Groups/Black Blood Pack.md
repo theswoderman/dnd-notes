@@ -6,9 +6,7 @@ tags: [faction, panrelta, enemy]
 **Disposition:** Hostile
 **Base:** Unknown
 
-Named by [[The Collector]] as he woke, furious that [[The Good Ones]] had cured his lycanthropy: the Black Blood Pack would come for them. In the same breath he called himself a servant of [[Malar]], god of hunters and lycanthropes, so the pack is presumably his, a lycanthrope pack in Malar's service.
-
-Nothing else is known. [[Gegga]] killed him moments later, so nothing was learned from him.
+A lycanthrope pack in the service of [[Malar]], god of hunters and lycanthropes. [[The Collector]] presumably belonged to it, and warned that the pack would come for [[The Good Ones]] in the moments before his death at [[Gegga]]'s hand. Nothing else was learned from him.
 
 ## Open questions
 - Where the pack is, and whether the threat was real
