@@ -12,24 +12,10 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Suggestions/Suggestion History/2026-08-18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-18"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -370,7 +356,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -384,8 +371,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "468b4658739229dc",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Suggestions/Suggestion History/2026-08-18.md",
     "Suggestions/Suggestion History/2026-08-07 - Status of Reed's Campaign 1 summary.md",
     "Suggestions/Suggestion History/2026-08-07 - Session note filenames and the 1016 question.md",
     "Suggestions/Suggestion History/2026-08-07 - Placing Thalrik's dream in sequence.md",
@@ -411,7 +399,6 @@
     "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
     "Suggestions/Suggestion History/2026-08-12 - Adopt the new voice for future notes.md",
     "Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",
-    "Suggestions/Suggestion History/2026-08-09 - Player notes.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
