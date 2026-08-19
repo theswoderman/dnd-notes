@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 46.4622641509434,
+        "dimension": 46.462264150943405,
         "children": [
           {
             "id": "422715ec20929148",
@@ -59,7 +59,7 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 53.5377358490566,
+        "dimension": 53.537735849056595,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -395,8 +395,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "flowershow:Publish with Flowershow": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
