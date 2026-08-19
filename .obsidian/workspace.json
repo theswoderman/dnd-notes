@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items and Artifacts/Queensbane.md",
+                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Queensbane"
+              "title": "Campaign 1 Summary"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Items and Artifacts/Queensbane.md",
+                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Queensbane"
+                  "title": "Graph of Campaign 1 Summary"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -386,6 +386,12 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30 notes.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Early session catch up notes.md",
+    "Items and Artifacts/Queensbane.md",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
     "Events/Campaign 1/00 - Campaign Index.md",
@@ -408,11 +414,6 @@
     "Suggestions/Suggestion History/2026-08-12 - The dragon is Thelgadrim, the Inevitable.md",
     "Suggestions/Suggestion History/2026-08-18 - Full vault rewrite in the new voice.md",
     "Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
-    "Suggestions/Suggestion History/2026-08-12 - Thalrik took the Oath of Glory.md",
-    "Suggestions/Suggestion History/2026-08-12 - Stop writing Nic as the main character.md",
-    "Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
-    "Suggestions/Suggestion History/2026-08-12 - Hiram Oakbrow and the treestride duration.md",
-    "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
@@ -421,7 +422,6 @@
     "Session Notes/Campaign 1",
     "Session Notes",
     "Vault/Session Notes/Pilgrims of Panrelta/nic's notes/misc",
-    "Vault/Session Notes/Pilgrims of Panrelta/nic's notes",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",

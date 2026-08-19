@@ -25,12 +25,12 @@ Read all three of these:
 
 ### 3. Write the prep note
 
-Create a file called `Next Session Prep.md` in the vault root. If one already exists, overwrite it (this is a disposable reference, not a permanent note).
+Create the file in the same folder as the session notes (`Session Notes/Pilgrims of Panrelta/nic's notes/`), named `Session [N+1] notes.md` where N is the number of the most recent session note. This seeds the file that will become the raw notes for the upcoming session. If the file already exists, do not overwrite it (the user may have started adding notes to it already).
 
 Use this structure:
 
 ```
-# Session [N+1] Prep
+# Session [N+1] notes
 
 ## Last session (Session N)
 [2-4 paragraph summary of what happened, drawn from the event notes rather than the raw session note. Plain language, enough to jog memory. Include the key beats, decisions, and revelations.]
@@ -65,10 +65,11 @@ The open threads section should be copied fairly directly from the Panrelta Time
 
 ### 4. Present the file
 
-Send the file to the user so they can see it. Mention that it will be overwritten next time they run the skill.
+Send the file to the user so they can see it.
 
 ## Important
 
-- This note is tagged with nothing and has no frontmatter. It is not a vault note.
+- This note has no frontmatter. It seeds the next session's raw notes file, so the user can add to it during play.
+- If the target file already exists, tell the user and do not overwrite it.
 - Do not process, update, or create any other vault notes while running this skill.
 - The "Where we left off" section is the most important part for the user. The combat/tactical state at the end of a session is exactly what is hardest to remember weeks later. Pull every detail from the raw note's final lines.
