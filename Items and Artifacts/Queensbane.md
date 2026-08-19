@@ -21,7 +21,7 @@ Created during [[The Sundering]] by the most powerful arcane practitioners of ev
 The sixteen-sided gem from the [[Lost Nezerai City]] sits in the hilt and projects maps and visions. See [[The Mural and the Gem]].
 
 ## Aeralath wanted it collected
-[[Aeralath]] was helping [[The Sons of Thunder]] gain power precisely so they would gather the fragments. The being the sword was forged to kill wanted the sword put back together, and the party's rise served that end.
+[[Aeralath]] was helping [[The Sons of Thunder]] gain power precisely so they would gather the fragments.
 
 Why is unexplained. It is the largest unanswered question left over from Campaign 1.
 
