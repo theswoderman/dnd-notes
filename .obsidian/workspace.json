@@ -6,46 +6,15 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 89.15989159891599,
+        "dimension": 73.92953929539296,
         "children": [
           {
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "5f6a3ec99364036b"
-          },
-          {
-            "id": "1202594a5abffb2b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d05a0a69edf7c1e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e869491f3c042ecd",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "People/NPCs/Antagonists/Mirna Gribwood.md",
+                "file": "Groups/Black Blood Pack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,16 +29,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mirna Gribwood"
-            }
+              "title": "Black Blood Pack"
+            },
+            "group": "5f6a3ec99364036b"
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 10.840108401084011,
+        "dimension": 26.070460704607047,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -115,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CLAUDE.md",
+                    "file": "Groups/Black Blood Pack.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -221,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of CLAUDE"
+                  "title": "Graph of Black Blood Pack"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -262,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "girbwood",
+                "query": "black blood ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -402,8 +371,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487,
-    "collapsed": true
+    "width": 487
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -417,10 +385,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e869491f3c042ecd",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
     "People/NPCs/Antagonists/Mirna Gribwood.md",
+    "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
     "Groups/Sisters of the Gnarled Veil.md",
     "Lore/The Laughing Princess Constellation.md",
     "index.md",

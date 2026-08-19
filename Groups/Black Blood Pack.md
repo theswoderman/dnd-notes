@@ -6,7 +6,7 @@ tags: [faction, panrelta, enemy]
 **Disposition:** Hostile
 **Base:** Unknown
 
-A lycanthrope pack in the service of [[Malar]], god of hunters and lycanthropes. [[The Collector]] presumably belonged to it, and warned that the pack would come for [[The Good Ones]] in the moments before his death at [[Gegga]]'s hand. Nothing else was learned from him.
+A lycanthrope pack in the service of [[Malar]], god of hunters and lycanthropes. [[The Collector]] presumably belonged to it, and warned that the pack would come for [[The Good Ones]] in the moments before his death at [[Gegga]]'s hand.
 
 ## Open questions
 - Where the pack is, and whether the threat was real

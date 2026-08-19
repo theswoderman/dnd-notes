@@ -87,7 +87,7 @@ Each raw session note is kept unedited in `Session Notes/pilgrims of panrelta/`.
 - The [[Sisters of the Gnarled Veil]] are trying to kill [[Beemo]], and may also be working to resurrect a dragon. Both he and the shade they sent after him are their creations, one "successful" and one not, and it is unclear which is which
 - Whatever the [[Sisters of the Gnarled Veil]] are planning is happening in the [[Dragonspine Mountains]], the same range where [[Diggory Psalm]] built his temple to [[Torm]]. It went unseen by both [[Diggory Psalm|Diggory]] and [[Torm]] until [[Jäkel Aleister le Rouge|Jäkel]] warned them
 - [[Sila Frostblood]], a bheur hag, is the coven's third member and entered the party's dreams for the first time on the fourth night, showing them a riverbank they reached the next morning. Why now, and whether it was warning or bait
-- [[Gribnik Mossfoot]] dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]] and came out with the name [[Orithian Blackspire]] and some link to [[The Drow]]. Spelling unconfirmed, and nothing else is known
+- [[Gribnik Mossfoot]] dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]] and came out with the name [[Orithian Blackspire]] and some link to [[The Drow]]. Spelling unconfirmed
 
 ### The Maiden and Yorrisk
 

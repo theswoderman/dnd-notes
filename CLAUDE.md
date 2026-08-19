@@ -90,6 +90,8 @@ Plain, direct prose. Contractions are fine. Vary sentence length. Prefer a full 
 
 **Encyclopedic voice, not narrative of discovery.** A note's opening description should say what the subject IS, not narrate the scene where the party learned about it. Lead with the encyclopedic description; mention the discovery context briefly afterward if needed. Bad: "Named by The Collector as he woke, furious that The Good Ones had cured his lycanthropy: the Black Blood Pack would come for them." Good: "A lycanthrope pack in the service of Malar. The Collector presumably belonged to it, and warned that the pack would come for The Good Ones in the moments before his death."
 
+**Don't say "nothing else is known."** If the note contains everything that is known, the reader can see that. Sentences like "nothing else was learned from him", "no further details are available", or "little else is known" are filler. End the passage where the information ends.
+
 **Scope: the full vault has been rewritten.** The rewrite was completed on 2026-08-18. All notes now follow the new voice. New and edited notes should match it going forward.
 
 Two things this never applies to. Raw session notes in `Session Notes/` are archive and only ever gain link syntax. Quoted text stays exactly as it was said or written, which covers the suggestion quotes in `Suggestions/Suggestion History/`, in-world quotes, and [[Grant]]'s prelude.
