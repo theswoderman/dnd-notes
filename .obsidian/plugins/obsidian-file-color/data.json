@@ -11,14 +11,16 @@
     { "id": "6205675cd458462ca200d", "name": "Events", "value": "#4361EE" },
     { "id": "6ad53879f2f945f7a8bce", "name": "Deities", "value": "#C8B6FF" },
     { "id": "9d6c2e4993f94b90bf586", "name": "Items", "value": "#FF70A6" },
-    { "id": "16c84a0d4a644c57b7c89", "name": "Lore", "value": "#ADB5BD" }
+    { "id": "16c84a0d4a644c57b7c89", "name": "Lore", "value": "#D0D7DE" }
   ],
   "fileColors": [
+    { "path": "People", "color": "932364dc7b9f4382bf96a" },
     { "path": "People/The Sons of Thunder", "color": "5f1055ce4bc649df8ed89" },
     { "path": "People/The Good Ones", "color": "5f1055ce4bc649df8ed89" },
     { "path": "People/NPCs/Antagonists", "color": "f80ede800e7d486c81b52" },
     { "path": "People/NPCs", "color": "932364dc7b9f4382bf96a" },
     { "path": "Groups", "color": "7089be087cef47f585ef7" },
+    { "path": "Locations", "color": "c02b2130a0324d8985949" },
     { "path": "Locations/Material Plane", "color": "c02b2130a0324d8985949" },
     { "path": "Locations/Planes and Extraplanar", "color": "d5b4f8c97da34f119f041" },
     { "path": "Events", "color": "6205675cd458462ca200d" },
