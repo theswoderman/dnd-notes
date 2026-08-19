@@ -12,10 +12,24 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Items and Artifacts/Queensbane.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Queensbane"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -32,13 +46,13 @@
             "dimension": 68.02536231884058,
             "children": [
               {
-                "id": "c97418892c1a0e0c",
+                "id": "3c75b250aa647dd0",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
+                    "file": "index.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -48,13 +62,13 @@
                       "sortOrder": "alphabetical",
                       "showSearch": false,
                       "searchQuery": "",
-                      "backlinkCollapsed": true,
+                      "backlinkCollapsed": false,
                       "unlinkedCollapsed": true
                     }
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "00 - Panrelta Index"
+                  "title": "index"
                 }
               }
             ]
@@ -70,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Suggestions/Suggestion History/2026-08-18.md",
+                    "file": "Items and Artifacts/Queensbane.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -176,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 2026-08-18"
+                  "title": "Graph of Queensbane"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -203,7 +217,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -373,6 +387,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Events/Campaign 1/00 - Campaign Index.md",
+    "index.md",
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "Suggestions/Suggestion History/2026-08-18.md",
     "Suggestions/Suggestion History/2026-08-07 - Status of Reed's Campaign 1 summary.md",
     "Suggestions/Suggestion History/2026-08-07 - Session note filenames and the 1016 question.md",
@@ -382,12 +399,10 @@
     "Suggestions/Suggestion History/2026-08-07 - Arthur Van Hark belongs to The Good Ones.md",
     "CLAUDE.md",
     "Groups/Black Blood Pack.md",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "People/NPCs/Antagonists/Mirna Gribwood.md",
     "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
     "Groups/Sisters of the Gnarled Veil.md",
     "Lore/The Laughing Princess Constellation.md",
-    "index.md",
     "Suggestions/Suggestion History/2026-08-18 - The Five Heroes identified.md",
     "Suggestions/Suggestion History/2026-08-12 - The dragon is Thelgadrim, the Inevitable.md",
     "Suggestions/Suggestion History/2026-08-18 - Full vault rewrite in the new voice.md",
@@ -398,7 +413,6 @@
     "Suggestions/Suggestion History/2026-08-12 - Hiram Oakbrow and the treestride duration.md",
     "Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
     "Suggestions/Suggestion History/2026-08-12 - Adopt the new voice for future notes.md",
-    "Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
