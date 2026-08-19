@@ -12,10 +12,24 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Suggestions/Suggestion History/2026-08-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-08-18"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -70,6 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "Suggestions/Suggestion History/2026-08-18.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -175,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Local graph"
+                  "title": "Graph of 2026-08-18"
                 },
                 "group": "5f6a3ec99364036b"
               }
