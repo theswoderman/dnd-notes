@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 72,
+        "dimension": 84.27672955974843,
         "children": [
           {
             "id": "422715ec20929148",
@@ -23,9 +23,19 @@
             "id": "1202594a5abffb2b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d05a0a69edf7c1e6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "People/NPCs/The Collector.md",
+                "file": "Lore/The Laughing Princess Constellation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,16 +50,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Collector"
+              "title": "The Laughing Princess Constellation"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 28.000000000000004,
+        "dimension": 15.723270440251572,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -381,7 +391,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -397,44 +408,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1202594a5abffb2b",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
-    "Groups/Black Blood Pack.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
-    "CLAUDE.md",
-    "index.md",
-    "Events/Campaign 1/Events/The Sundering.md",
-    "Lore/Campaign 1 Timeline.md",
-    "Events/Campaign 1/00 - Campaign Index.md",
-    "Session Notes/Campaign 1/Campaign 1 Summary.md",
-    "Suggestions/Suggestion History/2026-08-18 - Full vault rewrite in the new voice.md",
+    "Vault/Session Notes/Pilgrims of Panrelta/nic's notes/misc/Thalrik's Dream.md",
+    "Vault/Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
+    "Vault/Session Notes/Pilgrims of Panrelta/nic's notes/misc/Early session catch up notes.md",
+    "Vault/Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
+    "Vault/Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "Vault/Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
+    "Vault/Session Notes/Pilgrims of Panrelta/nic's notes/misc",
+    "Vault/Session Notes/Pilgrims of Panrelta/nic's notes",
+    "Vault/Session Notes/Campaign 1/Campaign 1 Summary.md",
+    "Vault/Session Notes/Pilgrims of Panrelta",
+    "Vault/Session Notes/Campaign 1",
+    "Vault/Session Notes",
+    "Vault/Suggestions/Suggestion History/2026-08-18 - The Five Heroes identified.md",
+    "Vault/Suggestions/Suggestion History/2026-08-18 - Full vault rewrite in the new voice.md",
+    "Vault/Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
+    "Vault/Suggestions/Suggestion History/2026-08-12 - The dragon is Thelgadrim, the Inevitable.md",
+    "Vault/Suggestions/Suggestion History/2026-08-12 - Thalrik took the Oath of Glory.md",
+    "Vault/Suggestions/Suggestion History/2026-08-12 - Stop writing Nic as the main character.md",
+    "Vault/Suggestions/Suggestion History/2026-08-12 - Session 29 and further Session 28 edits.md",
+    "Vault/Suggestions/Suggestion History/2026-08-12 - Rewrite the Panrelta Timeline in a plainer style.md",
+    "Vault/Suggestions/Suggestion History/2026-08-12 - Hiram Oakbrow and the treestride duration.md",
+    "Vault/Suggestions/Suggestion History/2026-08-12 - Adopt the new voice for future notes.md",
+    "Vault/Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",
+    "Vault/Suggestions/Suggestion History/2026-08-09 - Player notes.md",
+    "Vault/Suggestions/Suggestion History/2026-08-09 - Fold the Great War into the Demon War.md",
+    "Vault/Suggestions/Suggestion History/2026-08-09 - Davynn and Gegga players.md",
+    "Vault/Suggestions/Suggestion History/2026-08-09 - A.P. is At Peace, and the Rosefields.md",
+    "Vault/Suggestions/Suggestion History/2026-08-09 - Boat trip one-shot details.md",
+    "Vault/Suggestions/Suggestion History/2026-08-07 - Diggory, the Van Hark rumor, and Thalrik's dream.md",
+    "Vault/Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
+    "Vault/Suggestions/Suggestion History/2026-08-07 - Zone of truth, black fist, and the Sagethorn.md",
+    "Vault/Suggestions/Suggestion History",
+    "Vault/Suggestions",
+    "Vault",
+    "New folder",
     "Events/Pilgrims of Panrelta/Events/Return to the Bettermans Guild.md.tmp.22228.c6fe2b726ec9",
-    "Events/Pilgrims of Panrelta/Events/Return to the Bettermans Guild.md.tmp.22228.b791403b3216",
-    "People/NPCs/Arthur Van Hark.md.tmp.22228.1778cc8d733e",
-    "Items and Artifacts/Horn of Zargon.md.tmp.22228.93c956e2e267",
-    "People/NPCs/Torin Turen.md.tmp.22228.6db5fb1f0245",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md.tmp.22228.f924bb4d8dd8",
-    "Locations/Material Plane/The Rosefields.md.tmp.22228.2a70356105ad",
-    "Locations/Material Plane/Estrana.md.tmp.22228.11f1abd5515a",
-    "People/NPCs/Antagonists/Zargon the Immortal.md.tmp.22228.de8083cdd436",
-    "People/NPCs/Antagonists/Ogzuuk Torah'kor.md.tmp.22228.aa6cbb86722e",
-    "Items and Artifacts/Cube of Carrying.md",
-    "People/NPCs/Antagonists/The Peddler.md",
-    "People/Totally safe boat trip one shot/Orist.md",
-    "Items and Artifacts/Hand of Valor.md",
-    "Items and Artifacts/Hand of Truth.md",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "Groups/Mossclaw.md",
-    "People/NPCs/Campaign 1 Notable NPCs/Mathias Ohstal.md",
-    "Deities/Orcus.md",
-    "Suggestions/Suggestion History/2026-08-18 - Campaign 1 summary pages processed.md",
-    "People/NPCs/Antagonists/Nulsifïr.md",
-    "People/NPCs/Antagonists/Thelgadrim.md",
-    "People/NPCs/Thelgadrïm, the Inevitable.md",
-    "Events/Pilgrims of Panrelta/Events/Exploration of the deep mines.md",
-    "People/NPCs/Antagonists/Pragilia.md",
-    "People/NPCs/Antagonists/Nulsifir.md",
-    "People/NPCs/Antagonists/Angmond.md",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
