@@ -13,9 +13,7 @@ aliases:
 **Nature:** Not celestial, fiend, or undead. Werewolf, cured. Self-declared servant of [[Malar]]
 
 ## Summary
-A merchant encountered on the road back to [[The Bettermans Guild]], traveling with a cart full of animal body parts, including centaur hooves, which is what set the party against him. He called himself a "collector" of them. The cart smelled horrible and the whole encounter felt wrong.
-
-Centaur hooves are exactly what [[The Maiden]]'s poachers were harvesting in [[The Centaur Poachers]], which suggests that operation is still running.
+A werewolf and self-declared servant of [[Malar]] who traveled the road as a merchant, collecting bestial trophies for a rite involving [[The Black Grail]]. His cart held animal body parts, including centaur hooves, the same thing [[The Maiden]]'s poachers were harvesting in [[The Centaur Poachers]]. That suggests the poaching operation is still running.
 
 He said he had encountered [[The Maiden]], and that she claimed to have acquaintances "on yorrisk upon the dawning". [[Yorrisk]] has since been identified as a developing town that [[House Keroskav]] and [[House Dufrey]] are at war over, and [[The Dawning]] is the celebration marking [[Aeralath]]'s defeat, the tenth of which is approaching. He said he was headed for [[Starfall Clearing]].
 

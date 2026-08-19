@@ -8,7 +8,7 @@ tags: [faction, panrelta, house]
 
 A Grekoshan house. Its heraldry is a curled black dragon facing down, with beams of light above it. The beams are recorded as "representing two"; the rest of the phrase is lost.
 
-Known only from the shared nightmare sent by [[Mirna Girbwood]], in which [[Thol]], [[Beemo]] and [[Gribnik Mossfoot]] fought in a bloody battle between Keroskav's soldiers and those of [[House Dufrey]]. [[Falstad Firebeard]] recognized the heraldries on waking and remembered what the two houses are fighting over: a developing town called [[Yorrisk]].
+At war with Iron Oak [[House Dufrey]] over a developing town called [[Yorrisk]]. The party knows of the conflict from a shared nightmare in which [[Thol]], [[Beemo]] and [[Gribnik Mossfoot]] fought in a battle between the two houses' soldiers (see [[The Dusk Hag's Dreams]]).
 
 See [[The Dusk Hag's Dreams]].
 

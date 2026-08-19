@@ -14,7 +14,7 @@ The woods are the seat of Iron Oak [[House Dufrey]], whose heraldry is green fie
 
 That puts [[The Bettermans Guild]]'s camp, and therefore the party's home base, inside contested ground. Whether the [[Mossclaw]] raids on the camp have anything to do with it is unknown.
 
-Known from [[Falstad Firebeard]]'s recognition of the heraldries in [[The Dusk Hag's Dreams]].
+See [[The Dusk Hag's Dreams]].
 
 ## Connections
 - [[The Bettermans Guild]], camped here

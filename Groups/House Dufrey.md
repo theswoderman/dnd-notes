@@ -9,7 +9,7 @@ aliases: [Iron Oak House Dufrey]
 
 The Iron Oak house. Its heraldry is green fields with a large black oak, red fringed. The red fringe symbolizes [[Grekosha]]n encroachment on the [[The Iron Oak Woods|Iron Oak]] forest.
 
-Known only from the shared nightmare sent by [[Mirna Girbwood]], in which [[Thol]], [[Beemo]] and [[Gribnik Mossfoot]] fought in a bloody battle between Dufrey's soldiers and those of [[House Keroskav]]. [[Falstad Firebeard]] recognized the heraldries on waking and remembered what the two houses are fighting over: a developing town called [[Yorrisk]].
+At war with the Grekoshan [[House Keroskav]] over a developing town called [[Yorrisk]]. The party knows of the conflict from a shared nightmare in which [[Thol]], [[Beemo]] and [[Gribnik Mossfoot]] fought in a battle between the two houses' soldiers (see [[The Dusk Hag's Dreams]]).
 
 The [[The Iron Oak Woods|Iron Oak]] is also where [[The Bettermans Guild]] has made its camp, which puts [[The Good Ones]]' home base inside Dufrey's territory.
 

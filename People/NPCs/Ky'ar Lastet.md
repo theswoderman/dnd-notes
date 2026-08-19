@@ -8,9 +8,7 @@ aliases: [Ky'ar, Kyar]
 **Status:** Alive
 
 ## Summary
-Stole from the guards and was chased through the city by [[The Good Ones]], then talked them into helping him "retrieve" his belongings from the thieves guild, which they were happy to do, being under contractual obligation to help anyone who asks. Afterwards he took them to [[The Bettermans Guild]].
-
-See [[Raid on the Thieves Guild]].
+A member of [[The Bettermans Guild]] who brought [[The Good Ones]] to the guild. They first met when he stole from the guards and talked the party into helping him retrieve his belongings from the thieves guild, which they were obligated to do under [[The Pilgrimage]]'s second tenet. See [[Raid on the Thieves Guild]].
 
 ## Taking the guild
 While [[The Good Ones]] were in the deep mines, Ky'ar appears to have stepped into a leadership role at the camp. [[Torin Turen]] has barely slept, holding the place against [[Mossclaw]] incursions, and Ky'ar has been picking up the slack.

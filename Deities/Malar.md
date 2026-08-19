@@ -6,9 +6,7 @@ aliases: [The Beastlord]
 
 **Also known as:** the Beastlord
 
-God of hunters, and god of lycanthropes.
-
-Named by [[The Collector]], who called himself a servant of Malar when he woke after [[The Good Ones]] cured his lycanthropy. He said the [[Black Blood Pack]] would come for them.
+God of hunters, and god of lycanthropes. [[The Collector]] was a self-declared servant of Malar and a member of the [[Black Blood Pack]], a lycanthrope pack in his service.
 
 ## The grail
 Questioned after death, [[The Collector]] said Malar had sent him to "collect the bestial trophies so we may drink from [[The Black Grail|the black grail]]". The cartload of animal parts was a rite's worth of components, not stock.

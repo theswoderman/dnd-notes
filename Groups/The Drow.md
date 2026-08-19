@@ -5,7 +5,7 @@ tags: [faction, panrelta, enemy]
 
 **Disposition:** Negative
 
-Up to something. [[The Good Ones]] found a book documenting drow research into mind control and a range of other horrors down in the Underdark.
+Up to something. Drow research material recovered from the Underdark documents work on mind control and a range of other horrors.
 
 They were working with [[Crucius Ilyanich]] in [[Khulask Hollow]], and attacked the town after his overthrow to take back their magic items and secrets. [[The Good Ones]] defeated them, but the town was mostly destroyed (see [[Liberation of Khulask Hollow]]).
 

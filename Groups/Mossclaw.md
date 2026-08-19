@@ -6,11 +6,9 @@ tags: [faction, panrelta, enemy]
 **Disposition:** Hostile
 **Base:** Unknown
 
-Raiders who have been making incursions against [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]] while [[The Good Ones]] were away in the deep mines. Holding them off is what has kept [[Torin Turen]] from sleeping.
+A goblin tribe, and [[Gribnik Mossfoot]]'s former one. They have been raiding [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]], and holding them off is what has kept [[Torin Turen]] from sleeping.
 
-[[Aisha]] met the party at the outskirts of the camp and mentioned one in particular, a black mohawk, "a mossclaw," who was chased off. The guild is worried he will come back with reinforcements.
-
-The Mossclaw are a goblin tribe, and [[Gribnik Mossfoot]]'s former one. The raider [[Ky'ar Lastet]] saw also matches the description of a goblin [[The Good Ones]] spared earlier, so at least one of the raiders has met them before and lived.
+One raider in particular, a goblin with a black mohawk, was chased off but is expected to return with reinforcements. He matches the description of a goblin [[The Good Ones]] spared in an earlier session, so at least one of the raiders has met the party before and lived.
 
 ## Open questions
 - What they want from the camp

@@ -7,9 +7,7 @@ tags: [character, panrelta, ally]
 **Status:** Alive
 
 ## Summary
-Met [[The Good Ones]] at the outskirts of [[The Bettermans Guild]]'s camp late on the second day of their journey back from the deep mines. She was disappointed. They had taken far too long, and they had come back without one of the stonemasons.
-
-She told them about the [[Mossclaw]] raids on the camp, including one with a black mohawk who was chased off. The guild is worried he will return with reinforcements.
+Part of [[The Bettermans Guild]]. She reported the [[Mossclaw]] raids on the camp to [[The Good Ones]] on their return from the deep mines, and was unhappy that they had taken too long and come back without one of the stonemasons. The guild is worried the raiders will return with reinforcements.
 
 See [[Return to the Bettermans Guild]].
 
