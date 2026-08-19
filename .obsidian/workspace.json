@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Campaign 1/Events/The Sundering.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Sundering"
+              "title": "CLAUDE"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Events/Campaign 1/Events/The Sundering.md",
+                    "file": "CLAUDE.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of The Sundering"
+                  "title": "Graph of CLAUDE"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -370,8 +370,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487,
-    "collapsed": true
+    "width": 487
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -387,8 +386,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
+    "index.md",
+    "Events/Campaign 1/Events/The Sundering.md",
     "Lore/Campaign 1 Timeline.md",
     "Events/Campaign 1/00 - Campaign Index.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
@@ -403,13 +404,11 @@
     "Locations/Material Plane/Estrana.md.tmp.22228.11f1abd5515a",
     "People/NPCs/Antagonists/Zargon the Immortal.md.tmp.22228.de8083cdd436",
     "People/NPCs/Antagonists/Ogzuuk Torah'kor.md.tmp.22228.aa6cbb86722e",
-    "Events/Campaign 1/Events/The Sundering.md",
     "Items and Artifacts/Cube of Carrying.md",
     "People/NPCs/Antagonists/The Peddler.md",
     "People/Totally safe boat trip one shot/Orist.md",
     "Items and Artifacts/Hand of Valor.md",
     "Items and Artifacts/Hand of Truth.md",
-    "index.md",
     "CLAUDE.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "Groups/Mossclaw.md",
