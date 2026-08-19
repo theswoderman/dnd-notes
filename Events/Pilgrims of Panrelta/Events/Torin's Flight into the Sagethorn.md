@@ -18,7 +18,7 @@ tags: [event, panrelta, major]
 The note is wrong on its own terms. [[The Good Ones]] had not left for the [[Sage Thorn Forest|Sagethorn]]. The party thinks the hag lured him out.
 
 ## The scrying
-[[Falstad Firebeard]] scried on the pegasus. It is a small pegasus, the appropriate size for a gnome, which fits since [[Torin Turen|Torin]] is a gnome.
+[[Falstad Firebeard]] scried on the pegasus. It is a small pegasus, sized for a gnome, confirming it as [[Torin Turen|Torin]]'s mount.
 
 Through it they saw Torin digging up a corpse with a shovel, and beginning to cast speak with dead on it.
 

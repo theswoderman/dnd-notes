@@ -19,7 +19,7 @@ Between the party and the forest stood a cliff, eight hundred to a thousand feet
 
 [[Gegga]] cast fly on three of them, and the rest went up carried or roped on. From the caves came a siren song. Everyone made the save except [[Gribnik Mossfoot|Gribnik]], who was charmed but had no way to act on it. A second song caught nobody, and they cleared the cliff.
 
-[[Beemo]] dropped [[The Collector]]'s body off the cliff on the way, which is the last of it.
+[[Beemo]] dropped [[The Collector]]'s body off the cliff on the way, disposing of it for good.
 
 ### The storm and the third hag
 [[Gegga]] raised a tower to sit out the storm, which ran for hours, and the party slept there.

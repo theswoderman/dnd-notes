@@ -36,7 +36,7 @@ The party slept holding the broken [[Giant Memory Gemstones]] and each dreamed o
 The two with the widest implications are [[Thalrik Lastfeast|Thalrik]]'s and [[Gegga]]'s, both of which point at [[Dolghast]].
 
 ## The crone
-Separately, [[Gegga]], [[Beemo]] and [[Gribnik Mossfoot]] had a horrible dream of a crone eating a griffin, who then attacked the dreamer directly. They took damage and woke exhausted, possibly the [[Sisters of the Gnarled Veil]].
+Separately, [[Gegga]], [[Beemo]] and [[Gribnik Mossfoot]] had a horrible dream of a crone eating a griffin, who then attacked the dreamer directly. They took damage and woke exhausted. The crone may have been one of the [[Sisters of the Gnarled Veil]].
 
 ## Connections
 - [[The Rockspeaker]], guardian of the garden

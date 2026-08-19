@@ -22,4 +22,4 @@ The planes are now reconverging, which is why colored rifts are opening all over
 - [[Alnoria]] · [[Vallenhein]] · [[Rorinden]] · [[Dolghast]] · [[Ornuth]] · [[Grekosha]] · [[Loradris]] · [[Isembard]] · [[Zardoba]] · [[Nilstraad]] · [[Kalibad]] · [[Stonehold]] · [[Deepforge]] · [[Unclaimed Isle]]
 
 ## Loose ends
-- A giant turtle-shaped elemental the size of an island was awoken somewhere in the world during a one-shot. See [[Awakening of the turtle]]. It had been taken for an unexplored island whose position kept changing, which it did because the island was the creature. Location and date unknown.
+- A giant turtle-shaped elemental the size of an island was awoken somewhere in the world during a one-shot. See [[Awakening of the turtle]]. It had been taken for an unexplored island whose position kept changing because the island was the creature. Location and date unknown.

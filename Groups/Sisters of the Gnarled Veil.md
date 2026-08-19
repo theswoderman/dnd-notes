@@ -27,7 +27,7 @@ The hags are all circle casting a dream spell on [[The Good Ones]] together. Thi
 
 The hag who appears is [[Mirna Girbwood]], a dusk hag of the realm of dreams and [[Beemo]]'s aunt, which makes the coven a family. She appears to every member of the party except [[Beemo]], who does not see her at all.
 
-It began with the crone eating a griffin that [[Beemo]], [[Gegga]] and [[Gribnik Mossfoot]] shared beneath [[The Garden of Dreams]] (see [[Exploration of the deep mines]]). That was [[Mirna Girbwood|Mirna]], though nobody knew it yet.
+It began in a dream [[Beemo]], [[Gegga]] and [[Gribnik Mossfoot]] shared beneath [[The Garden of Dreams]], where a crone was eating a griffin (see [[Exploration of the deep mines]]). That was [[Mirna Girbwood|Mirna]], though nobody knew it yet.
 
 On the fourth night a second hag appeared, for the first time: [[Sila Frostblood]], a bheur hag, who showed [[Gribnik Mossfoot]], [[Thol]] and [[Falstad Firebeard]] a frozen riverbank they reached the next morning. She is the third member of the coven. See [[The Climb to the Sagethorn]] and [[The Frozen Riverbank]].
 

@@ -47,7 +47,7 @@ As he left, [[Torin Turen|Torin]] called [[Beemo]] "little shadow," a name [[Bee
 
 The party chased him down and confronted him under zone of truth. [[Torin Turen|Torin]] said, truthfully, that he does not know why he knows the name and has never spoken to a hag.
 
-Which means the name reached him some other way. He is a high priest of [[Illmater]] whose god has gone quiet and who feels another presence in the gap, and that presence appears to know what the hags call [[Beemo]].
+Which means the name reached him some other way. He is a high priest of [[Illmater]] whose god has gone quiet. He feels another presence in the gap where [[Illmater]] should be, and that presence appears to know what the hags call [[Beemo]].
 
 ## The Sylvan Parcel
 The party opened the [[Sylvan Parcel]], the bundle of spell components [[Hiram Oakbrow]], a worshipper of [[Sylvanus]], gave them before session 6, and finally learned what its four modes of consumption do. Each of them also received a spell: treestride for one hour for [[Beemo]] and [[Thalrik Lastfeast]], plant growth for [[Falstad Firebeard]], speak with animals for some, and find the path with a one day duration for [[Thol]].

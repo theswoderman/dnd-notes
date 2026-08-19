@@ -34,7 +34,7 @@ That resolves the "yorrisk upon the dawning" line, and it lines up with somethin
 So the meeting has a place and a time, and the debt is still outstanding.
 
 ## The constellation
-[[The Laughing Princess Constellation|A constellation]] carries her other name, and the party takes the two to be connected. It matters because a map they picked up early in the campaign places [[The Abbey]] and the lost temple beneath those stars, which is where [[Bane]] and [[Malar]]'s followers are both taking [[The Black Grail]]. She is named over the place they are walking toward. See [[The Climb to the Sagethorn]].
+[[The Laughing Princess Constellation|A constellation]] carries her other name, and the party takes the two to be connected. It matters because a map they picked up early in the campaign places [[The Abbey]] and the lost temple beneath those stars, which is where [[Bane]] and [[Malar]]'s followers are both taking [[The Black Grail]]. Her constellation hangs over the place they are walking toward. See [[The Climb to the Sagethorn]].
 
 ## Connections
 - [[The Laughing Princess Constellation]], shares her other name

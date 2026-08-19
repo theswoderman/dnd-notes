@@ -45,7 +45,7 @@ Five strangers meet at a harvest festival in a border village called [[Mudbend]]
 
 Running underneath all of it is [[The Planar Realignment]]. The severed planes are reconverging, colored rifts are opening across the world, and when the alignment completes [[Aeralath]] returns with an army.
 
-The twist, revealed late: **[[Aeralath]] was helping them gain power the whole time, precisely so they would collect the pieces of [[Queensbane]].** Why the being the sword was forged to kill wanted it reassembled has not been recorded.
+The twist, revealed late: **[[Aeralath]] was helping them gain power the whole time, precisely so they would collect the pieces of [[Queensbane]].** Why she wanted the sword reassembled has not been recorded.
 
 The full event-by-event sequence is on [[Campaign 1 Timeline]].
 
@@ -55,7 +55,7 @@ The full event-by-event sequence is on [[Campaign 1 Timeline]].
 
 [[The Sons of Thunder]] win [[The Demon War]], defeating [[Aeralath]]. In sealing the gates she had opened to [[The Abyss]], many other planar gates close too. Direct travel between planes becomes next to impossible for mortals.
 
-Her defeat is reckoned as the start of a new era, the Dawning Era, abbreviated D.E. The A.P. count stops and the new one begins, making 1017 A.P. the same year as 1 D.E. It is marked each year by [[The Dawning]], a celebration observed across the material plane, as much for the unification of the peoples who stood together as for the victory itself, and the namesake of the era.
+Her defeat is reckoned as the start of a new era, the Dawning Era, abbreviated D.E. The A.P. count stops and the new one begins, making 1017 A.P. the same year as 1 D.E. It is marked each year by [[The Dawning]], a celebration observed across the material plane as much for the unification of the peoples who stood together as for the victory itself. The celebration gives the era its name.
 
 In that same year [[Bathoz Manefell]] brokers the Leonin–dragonborn truce and, with [[Jäkel Aleister le Rouge|Jakel]] newly crowned king of [[Grekosha]], opens the road that becomes [[The Pilgrimage]].
 

@@ -23,7 +23,7 @@ Travelers who embark on this pilgrimage must abide by the following tenets.
 - If you leave the road you should return to where you left it before resuming your journey. Travel the entire path.
 
 ## Why it matters
-The second tenet is a standing obligation to help anyone who asks, and it is the reason [[The Good Ones]] takes on most of what it takes on. [[Raid on the Thieves Guild]] began exactly this way.
+The second tenet is a standing obligation to help anyone who asks, which is why [[The Good Ones]] takes on most of its work. [[Raid on the Thieves Guild]] began exactly this way.
 
 ## See also
 - [[00 - Panrelta Index]]

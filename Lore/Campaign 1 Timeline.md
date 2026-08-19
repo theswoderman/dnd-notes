@@ -50,7 +50,7 @@ The whole of Campaign 1 spans roughly one year of in-game time. [[Aeralath]]'s d
 - The Star Spawn Voidling: "the progenitors of this world would return to their rightful place over all things."
 - [[Casimir]] is still in the [[Cube of Carrying]].
 - [[Zargon the Immortal]] is sealed inside [[Jäkel Aleister le Rouge|Jakel]]'s soul. If [[Jäkel Aleister le Rouge|Jakel]] dies first, the soul is forfeit.
-- [[Aeralath]] was helping [[The Sons of Thunder]] gain power, because she wanted them to collect the pieces of [[Queensbane]]. Why the one being the sword was forged to kill wanted it reassembled is unexplained.
+- [[Aeralath]] was helping [[The Sons of Thunder]] gain power, because she wanted them to collect the pieces of [[Queensbane]]. Why she wanted it reassembled is unexplained.
 
 ## Ten years on
 [[Panrelta Timeline]]: the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign picks up a decade after Campaign 1 ends.

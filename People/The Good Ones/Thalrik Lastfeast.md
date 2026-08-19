@@ -38,7 +38,7 @@ Thalrik hails from the small mercantile port town of [[Hor Garam]], southeast of
 The full journey, and the bulette that ended it, is in [[Thalrik's Road to Stonehold]]. He met [[The Good Ones]] in [[Stonehold]] afterward.
 
 ## The price of the pact
-He never knew what he gave up that night. [[Torm]] has now answered it through [[Diggory Psalm]]: reaching out for more than strength bought his unique abilities at the cost of his soul. Having sensed its purity, Torm could see this is always where his path would have taken him. See [[Thalrik's Dream of Torm]].
+He never knew what he gave up that night. [[Torm]] has now answered it through [[Diggory Psalm]]: reaching out for more than strength bought his unique abilities at the cost of his soul. Having sensed the soul's purity, [[Torm]] could see that [[Thalrik Lastfeast|Thalrik]]'s path would always have led him here. See [[Thalrik's Dream of Torm]].
 
 ## Key moments
 - Climbed into the bag of holding and was told "Free me" by [[The Abyssal Orb]]. See [[The Climb to the Sagethorn]]

@@ -25,7 +25,7 @@ married to the former military commander of [[Rorinden]]
 ## Summary
 Son of the vampire lord [[Ifan Le Rouge]]. Jakel's arc is a long war against his own family, followed by the discovery that his patron was never a god at all.
 
-His patron "[[Zargon the Immortal|Sina'Draiel]]" turned out to be [[Zargon the Immortal]], First Lord of Hell, a Baatorian elder evil sealed inside its own horn on the moon. Jakel grasped that horn in a lunar temple; it burned away his arm to the elbow and took its place as the [[Horn of Zargon|Spear of Sina'Drael]].
+His patron "[[Zargon the Immortal|Sina'Draiel]]" turned out to be [[Zargon the Immortal]], First Lord of Hell, a Baatorian elder evil sealed inside its own horn on the moon. Jakel grasped that horn in a lunar temple; it burned away his arm to the elbow and fused to the stump as the [[Horn of Zargon|Spear of Sina'Drael]].
 
 ## Key moments
 - Opened the sealed doors of [[Av'orel's Tomb]] with the symbol on his palm, then claimed the spear on the moon

@@ -9,7 +9,7 @@ After the feast at [[Bloodraven Keep]], [[Casimir]] appeared in [[Jäkel Aleiste
 
 They met in the woods outside [[Nostra]]: [[The Sons of Thunder]], [[Diana Zethros]] and [[King Fargrim]] on one side; [[Ifan Le Rouge|Ifan]], [[Casimir]] and [[Chessa]] on the other.
 
-[[Ifan Le Rouge|Ifan]] explained the thing [[Jäkel Aleister le Rouge|Jakel]] had never known. His mother had been kept away for years because she was dying from having carried two vampire children, and the only cure was vampirism, which she refused. He had locked her away to keep her alive until she would accept.
+[[Ifan Le Rouge|Ifan]] explained the thing [[Jäkel Aleister le Rouge|Jakel]] had never known. His mother had been kept away for years because she was dying from having carried two vampire children, and the only cure was vampirism, which she refused. [[Ifan Le Rouge|Ifan]] had locked her away to keep her alive until she would accept.
 
 [[Jäkel Aleister le Rouge|Jakel]] attacked anyway, knowing he would have to kill his mother.
 

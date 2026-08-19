@@ -20,7 +20,7 @@ Five adventurers, none of whom appear in either main campaign:
 
 ## What happened
 
-The party set out by boat to explore an unexplored island whose location always seems to be changing. A bad storm hit them on the way, wrecked the crossing and washed them up on the shore, where they were captured by the locals, who appeared to intend to sacrifice them.
+The party set out by boat to explore an unexplored island whose location always seems to be changing. A bad storm hit them on the way, wrecked the crossing and washed them up on the shore, where they were captured by the locals, who seemed intent on sacrificing them.
 
 They broke free of their chains and fought their way clear of their captors. Some of the locals died; the rest fled back toward their village. Before the party could follow, a giant crab came up out of the sea. They fought it briefly and then ran.
 

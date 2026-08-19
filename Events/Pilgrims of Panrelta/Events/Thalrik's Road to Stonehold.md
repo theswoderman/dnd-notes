@@ -18,7 +18,7 @@ Three joined them:
 - [[Hansel]], a disgraced nobleman seeking atonement
 - [[Clara]], a lost and wandering druid
 
-The five pilgrims traveled across the northern banks of [[Skyfang Lake]] and the borders of [[The Shiftweave]], reaching the western road to [[Saltport]] road-weary but whole.
+The five pilgrims traveled across the northern banks of [[Skyfang Lake]] and the borders of [[The Shiftweave]], reaching the western road to [[Saltport]], weary but whole.
 
 ## The bulette
 Camping along the road one night, a bulette ambushed them. No watch had been set. The thought had not crossed their minds. It killed [[Sven]], [[Hansel]] and [[Clara]] quickly, and [[Thalrik Lastfeast|Thalrik]] could not reach them in time to heal them.

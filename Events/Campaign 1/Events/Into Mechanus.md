@@ -17,7 +17,7 @@ The three remaining Secundi, the modrons who report directly to [[Primus]], summ
 
 The party boarded a Magnodrone, a living train-modron that travels along a rail, bound for the Salvatorium, a factory at the edge of Modron-controlled space. Rogue modrons ambushed them on the train and the party fought from car to car, sometimes on the roof, keeping it from derailing.
 
-The Salvatorium was abandoned, as if attacked. In the foreman's office they found a notebook describing Lifeblood: a silvery-white magical fluid that all modrons are born of. Powerful but unstable, exposure to unstable elements could bring objects to life. The foreman hypothesized that similar magic could let organic beings transcend their material bodies and pass into constructed forms without necromancy, but noted this strictly violated something called the "Divine Edict of Forbidden Magics."
+The Salvatorium was abandoned, as if attacked. In the foreman's office they found a notebook describing Lifeblood: a silvery-white magical fluid that all modrons are born of. It was powerful but unstable: exposure to volatile elements could bring objects to life. The foreman hypothesized that similar magic could let organic beings transcend their material bodies and pass into constructed forms without necromancy, but noted this strictly violated something called the "Divine Edict of Forbidden Magics."
 
 They fought a massive rogue forge modron and liquid metal oozes animated by spilled Lifeblood, then pushed through into the Wastes of Gravegear.
 
