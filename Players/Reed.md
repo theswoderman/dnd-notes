@@ -6,7 +6,7 @@ aliases: [Reed Miller]
 ---
 # Reed
 
-A real person, not a campaign entity. Tagged `ignore` so this note stays out of the graph.
+A real person, not a campaign entity.
 
 **Campaigns:** Campaign 1 (DM), Pilgrims of Panrelta (player)
 

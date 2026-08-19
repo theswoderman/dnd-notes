@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Black Blood Pack.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Black Blood Pack"
+              "title": "CLAUDE"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Groups/Black Blood Pack.md",
+                    "file": "CLAUDE.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Black Blood Pack"
+                  "title": "Graph of CLAUDE"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -384,10 +384,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "Groups/Black Blood Pack.md",
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "People/NPCs/Antagonists/Mirna Gribwood.md",
     "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
     "Groups/Sisters of the Gnarled Veil.md",

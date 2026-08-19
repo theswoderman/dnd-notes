@@ -5,7 +5,7 @@ tags:
 ---
 # Nic
 
-A real person, not a campaign entity. Tagged `ignore` so this note stays out of the graph.
+A real person, not a campaign entity.
 
 **Campaigns:** Pilgrims of Panrelta, the boat trip one-shot
 

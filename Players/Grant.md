@@ -5,7 +5,7 @@ tags:
 ---
 # Grant
 
-A real person, not a campaign entity. Tagged `ignore` so this note stays out of the graph.
+A real person, not a campaign entity.
 
 **Campaigns:** Campaign 1 (player), Pilgrims of Panrelta (DM), the boat trip one-shot
 

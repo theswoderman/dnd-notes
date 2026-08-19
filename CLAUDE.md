@@ -4,7 +4,7 @@ tags:
 ---
 # CLAUDE.md
 
-Working instructions for this Obsidian vault. Not a campaign note — tagged `ignore` so it stays out of the graph.
+Working instructions for this Obsidian vault. Not a campaign note.
 
 ## What this vault is
 
@@ -98,7 +98,7 @@ Two things this never applies to. Raw session notes in `Session Notes/` are arch
 
 ## Player notes
 
-`Players/` holds one note per real person at the table — [[Nic]], [[Nick]], [[Reed]], [[Grant]], [[Ian]], [[Cameron]], [[Tyler]] — each tagged `ignore` and `player`, each with a table of the characters that person has played and which campaign each belongs to. `ignore` keeps real people out of the graph, matching this file and the suggestion history; the wikilinks still work.
+`Players/` holds one note per real person at the table — [[Nic]], [[Nick]], [[Reed]], [[Grant]], [[Ian]], [[Cameron]], [[Tyler]] — each tagged `ignore` and `player`, each with a table of the characters that person has played and which campaign each belongs to.
 
 Character notes carry a `**Player:**` line linking to the player note, as the first field. Prose that names a player links too — "[[Grant]]'s old character", "[[Ian]] was not playing that night".
 
@@ -112,7 +112,7 @@ There is no Player template in `Templates/`; the seven notes were written by han
 
 The vault is a git repo published to GitHub at `theswoderman/dnd-notes` (branch `main`) and rendered as a site by Flowershow. Three consequences:
 
-**`index.md` at the vault root is the homepage.** Tagged `ignore`, `index`, `moc` — a reader-facing overview, not a campaign note, deliberately outside the graph. It restates the campaign table, the chronology from [[The Sundering]] to the current session, a **Where things stand** section, and a note count. All of that drifts the moment notes change, so it is a maintenance target on every session and every update run. Treat the note count as approximate — round it rather than chasing exactness.
+**`index.md` at the vault root is the homepage.** A reader-facing overview, not a campaign note. It restates the campaign table, the chronology from [[The Sundering]] to the current session, a **Where things stand** section, and a note count. All of that drifts the moment notes change, so it is a maintenance target on every session and every update run. Treat the note count as approximate — round it rather than chasing exactness.
 
 **Anything written here is public.** Names, open questions and half-guesses are all visible. This doesn't change the rules below, but it raises the cost of a bad guess.
 
@@ -175,7 +175,7 @@ Ignore `.obsidian/` churn entirely — plugin files rewrite themselves constantl
 
 **4. Write a history note.** One note per suggestion in `Suggestions/Suggestion History/`, from `Templates/Suggestion.md`. Filename `YYYY-MM-DD - Short description`, so the folder sorts chronologically. It records the suggestion verbatim (quote it, typos and all — it is a record of what was said), the date received, and wikilinks to every note touched. **No attribution field** — the box arrives via Nic, so who submitted it is not recoverable and not worth guessing at. If nothing was touched because the information already existed, link to where it lives instead. Then **clear the processed text from the box**, leaving the header and divider so it is an empty inbox again.
 
-History notes are tagged `ignore` **and** `suggestion` — `ignore` keeps them out of the graph, matching this file. They still use real wikilinks, so the links stay clickable; they just do not draw graph edges. Do **not** add attribution lines to the campaign notes themselves — the history note's links are the audit trail, and the notes stay clean.
+History notes are tagged `ignore` and `suggestion`. Do **not** add attribution lines to the campaign notes themselves — the history note's links are the audit trail, and the notes stay clean.
 
 **5. Refresh `index.md`.** Same targets as the session workflow — **Where things stand**, the chronology, the note count. If the run only touched a character detail this may be a no-op; check rather than assume.
 
