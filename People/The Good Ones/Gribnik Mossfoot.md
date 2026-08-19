@@ -35,7 +35,7 @@ That puts him on both sides of the raids on [[The Bettermans Guild]]'s camp. The
 He dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]] and came out of it with the name [[Orithian Blackspire]] and some connection to [[The Drow]].
 
 ## Connections
-- [[Mirna Girbwood]], fought her battle dream
+- [[Mirna Gribwood]], fought her battle dream
 
 ## Sessions
 - [[Session 27]]

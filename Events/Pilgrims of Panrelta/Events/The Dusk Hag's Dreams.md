@@ -8,7 +8,7 @@ tags: [event, panrelta, major]
 **Sessions:** [[Session 27]], [[Session 28]], [[Session 29]]
 
 ## What happened
-A hag has been entering [[The Good Ones]]' sleep. She is [[Mirna Girbwood]], a dusk hag who works in the realm of dreams, and [[Beemo]] recognized her as his aunt. The hags are circle casting the spell together. This is the [[Sisters of the Gnarled Veil]] acting as a coven, not one hag freelancing.
+A hag has been entering [[The Good Ones]]' sleep. She is [[Mirna Gribwood]], a dusk hag who works in the realm of dreams, and [[Beemo]] recognized her as his aunt. The hags are circle casting the spell together. This is the [[Sisters of the Gnarled Veil]] acting as a coven, not one hag freelancing.
 
 The dreams have escalated across all four nights.
 
@@ -56,9 +56,9 @@ On waking, [[Falstad Firebeard]] recognized the heraldries and remembered that t
 This is a different hag. [[Gegga]] and [[Beemo]] named her [[Sila Frostblood]], a bheur hag and the coven's third member, appearing for the first time. The party reached the riverbank she had shown them the next morning. See [[The Climb to the Sagethorn]] and [[The Frozen Riverbank]].
 
 ## What the party learned
-- [[Beemo]] identified her as [[Mirna Girbwood]], his aunt, a dusk hag of the realm of dreams. The spelling is unconfirmed
+- [[Beemo]] identified her as [[Mirna Gribwood]], his aunt, a dusk hag of the realm of dreams. The spelling is unconfirmed
 - The hags are all circle casting the spell together on the party
-- [[Thol]] used Know Your Enemy: [[Mirna Girbwood|Mirna]] is immune to blinded, charmed and frightened
+- [[Thol]] used Know Your Enemy: [[Mirna Gribwood|Mirna]] is immune to blinded, charmed and frightened
 
 ## Open questions
 - Why [[Beemo]] is excluded from the dreams she appears in, when the coven wants him dead
@@ -67,7 +67,7 @@ This is a different hag. [[Gegga]] and [[Beemo]] named her [[Sila Frostblood]], 
 - Whether [[Torin Turen]]'s worsening dreams are the same coven's work. The party thinks a hag lured him into the [[Sage Thorn Forest|Sagethorn]], but his dream is different in kind: a black grail and a stone tomb, no hag
 
 ## Connections
-- [[Mirna Girbwood]]
+- [[Mirna Gribwood]]
 - [[Sisters of the Gnarled Veil]]
 - [[Festra]]
 - [[Beemo]]

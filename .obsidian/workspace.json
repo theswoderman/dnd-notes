@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 46.462264150943405,
+        "dimension": 89.15989159891599,
         "children": [
           {
             "id": "422715ec20929148",
@@ -33,9 +33,19 @@
             "id": "d05a0a69edf7c1e6",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e869491f3c042ecd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Laughing Princess Constellation.md",
+                "file": "People/NPCs/Antagonists/Mirna Gribwood.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -50,16 +60,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Laughing Princess Constellation"
+              "title": "Mirna Gribwood"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 53.537735849056595,
+        "dimension": 10.840108401084011,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -252,7 +262,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thelgadr",
+                "query": "girbwood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -273,7 +283,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -391,7 +402,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -405,8 +417,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "e869491f3c042ecd",
   "lastOpenFiles": [
+    "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
+    "People/NPCs/Antagonists/Mirna Gribwood.md",
+    "Groups/Sisters of the Gnarled Veil.md",
+    "Lore/The Laughing Princess Constellation.md",
     "index.md",
     "Suggestions/Suggestion History/2026-08-18 - The Five Heroes identified.md",
     "Suggestions/Suggestion History/2026-08-12 - The dragon is Thelgadrim, the Inevitable.md",
@@ -429,10 +445,6 @@
     "Suggestions/Suggestion History/2026-08-07 - The weapon is the Hand of Valor.md",
     "Suggestions/Suggestion History/2026-08-07 - Placing Thalrik's dream in sequence.md",
     "Suggestions/Suggestion History/2026-08-07 - Status of Reed's Campaign 1 summary.md",
-    "Suggestions/Suggestion History/2026-08-07 - The map wins on Silnothas.md",
-    "Suggestions/Suggestion History/2026-08-07 - Diggory, the Van Hark rumor, and Thalrik's dream.md",
-    "Suggestions/Suggestion History/2026-08-07 - Session note filenames and the 1016 question.md",
-    "Suggestions/Suggestion History/2026-08-07 - Campaign 1's length and why Aeralath wanted Queensbane.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",

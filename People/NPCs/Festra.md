@@ -15,14 +15,14 @@ The hag who created and raised [[Beemo]]. She leads a coven called the [[Sisters
 ## Key moments
 - Whatever her coven is planning is happening in the [[Dragonspine Mountains]]. See [[Sisters of the Gnarled Veil]]
 
-- Her coven is circle casting a dream spell on [[The Good Ones]] nightly, fronted by [[Mirna Girbwood]]. See [[The Dusk Hag's Dreams]]
+- Her coven is circle casting a dream spell on [[The Good Ones]] nightly, fronted by [[Mirna Gribwood]]. See [[The Dusk Hag's Dreams]]
 
 ## The family
-[[Beemo]] identified [[Mirna Girbwood]] as his aunt. Since Festra created and raised him, that makes [[Mirna Girbwood|Mirna]] her sister in some sense. The coven relation and the family relation appear to be the same thing.
+[[Beemo]] identified [[Mirna Gribwood]] as his aunt. Since Festra created and raised him, that makes [[Mirna Gribwood|Mirna]] her sister in some sense. The coven relation and the family relation appear to be the same thing.
 
 ## Connections
 - [[Beemo]], her creation
-- [[Mirna Girbwood]], [[Beemo]]'s aunt and the hag in the party's dreams
+- [[Mirna Gribwood]], [[Beemo]]'s aunt and the hag in the party's dreams
 - [[Sisters of the Gnarled Veil]], her coven
 
 ## Sessions

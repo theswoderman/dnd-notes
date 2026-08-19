@@ -29,7 +29,7 @@ He was raised in [[Kalibad]] and the [[Golden Plains]], which is where the butch
 ## The dreams
 In the second night of [[The Dusk Hag's Dreams]] he watched his adoptive father [[Bathoz Manefell]] and his adopted uncle [[Jäkel Aleister le Rouge|Jakel]] freeze, decompose, and the hag crawl out of their remains. Of the whole party his was the most personal.
 
-On the third night he fought in the battle dream alongside [[Beemo]] and [[Gribnik Mossfoot]], and used Know Your Enemy on the hag: [[Mirna Girbwood]] is immune to blinded, charmed and frightened.
+On the third night he fought in the battle dream alongside [[Beemo]] and [[Gribnik Mossfoot]], and used Know Your Enemy on the hag: [[Mirna Gribwood]] is immune to blinded, charmed and frightened.
 
 ## Connections
 - [[Bathoz Manefell]], adoptive father

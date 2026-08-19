@@ -51,9 +51,9 @@ apparently back before i started in session 6 playing we got a gift from [[Hiram
   
 [[Gribnik Mossfoot|gribnik]], [[Beemo|beemo]], and [[Thol|thol]] have bad dreams that night. they dream of a bloody battle. (the hiccups are still happening) there are soldiers from many different armies, two notable heraldries the grekoshan house of [[House Keroskav|house keroskav]] (curled black dragon facing down, with beams of light above it, representing two ) and iron oak [[House Dufrey|house dufrey]] (green fields with a large black oak, red fringed, symbolizing grekoshan encroachment on the [[The Iron Oak Woods|iron oak forest]]). all of them are in the same dream of this battle and see each other there. the yare active combatants, not passive viewers. they battle for hours and watch all the soldiers fall in combat til it is only the three of them left. all the bodies form into one enormous singular being, forming itself into the same hag from the previous nightmare. she says "see what is born of your bravery, and rejoice your heroes". a tidal wave of blood rushes over them.  
   
-reed recognizes the hag as his aunt, [[Mirna Girbwood|mirna girbwood]] (?) a dusk hag in the realm of dreams. the hags are all circle casting this spell together on the party in their dreams.  
+reed recognizes the hag as his aunt, [[Mirna Gribwood|mirna girbwood]] (?) a dusk hag in the realm of dreams. the hags are all circle casting this spell together on the party in their dreams.  
   
-[[Thol|thol]] used know your enemy, we learned that [[Mirna Girbwood|mirna]] is immune to blind, charmed, and frightened.  
+[[Thol|thol]] used know your enemy, we learned that [[Mirna Gribwood|mirna]] is immune to blind, charmed, and frightened.  
   
 [[Ky'ar Lastet|kyar]] c  "[[Ky'ar Lastet|lansteads]], i leave the kamp in your charge. [[The Good Ones|the good ones]] have already left for the [[Sage Thorn Forest|sagethorn]], [[Illmater|illmater]] bid me in my dream to catch them. trust that we will return soon." we think the hag lured him out into the [[Sage Thorn Forest|sagethorn forest]]. him and [[Lightfoot|lightfoot]] left early to catch up with us, they left behind a pegasus feather.[[Lightfoot|lightfoot]] is [[Torin Turen|torin]]'s pegasus.  
   

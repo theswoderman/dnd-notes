@@ -25,7 +25,7 @@ They are looking for [[The Tree of Pain]], and through it [[The Abbey]], where b
 ## What they are carrying
 - [[The Abyssal Orb]], bound for [[The Sons of Thunder]]. It has started speaking: it told [[Thalrik Lastfeast]] "free me". [[The Collector]]'s corpse no longer shares the bag, having been thrown off a cliff
 - The opened [[Sylvan Parcel]] and its four effects
-- Hags in their dreams. [[Mirna Girbwood]] and now [[Sila Frostblood]], with the whole [[Sisters of the Gnarled Veil|coven]] circle casting nightly (see [[The Dusk Hag's Dreams]])
+- Hags in their dreams. [[Mirna Gribwood]] and now [[Sila Frostblood]], with the whole [[Sisters of the Gnarled Veil|coven]] circle casting nightly (see [[The Dusk Hag's Dreams]])
 - A map from early in the campaign putting [[The Abbey]] beneath [[The Laughing Princess Constellation|the Laughing Princess constellation]], which needs a clear night to read
 
 ## Sessions

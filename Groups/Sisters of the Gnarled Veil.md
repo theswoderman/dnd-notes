@@ -5,7 +5,7 @@ tags: [faction, panrelta, coven, enemy]
 
 **Disposition:** Hostile
 **Led by:** [[Festra]]
-**Known members:** [[Mirna Girbwood]], [[Sila Frostblood]]
+**Known members:** [[Mirna Gribwood]], [[Sila Frostblood]]
 
 A coven of hags trying to kill [[Beemo]]. They may also be working to resurrect a dragon.
 
@@ -25,9 +25,9 @@ Two things sit alongside that, neither confirmed as connected:
 ## The dream campaign
 The hags are all circle casting a dream spell on [[The Good Ones]] together. This is the coven acting as one, not a single hag freelancing, and it has run for three nights and escalated each time.
 
-The hag who appears is [[Mirna Girbwood]], a dusk hag of the realm of dreams and [[Beemo]]'s aunt, which makes the coven a family. She appears to every member of the party except [[Beemo]], who does not see her at all.
+The hag who appears is [[Mirna Gribwood]], a dusk hag of the realm of dreams and [[Beemo]]'s aunt, which makes the coven a family. She appears to every member of the party except [[Beemo]], who does not see her at all.
 
-It began in a dream [[Beemo]], [[Gegga]] and [[Gribnik Mossfoot]] shared beneath [[The Garden of Dreams]], where a crone was eating a griffin (see [[Exploration of the deep mines]]). That was [[Mirna Girbwood|Mirna]], though nobody knew it yet.
+It began in a dream [[Beemo]], [[Gegga]] and [[Gribnik Mossfoot]] shared beneath [[The Garden of Dreams]], where a crone was eating a griffin (see [[Exploration of the deep mines]]). That was [[Mirna Gribwood|Mirna]], though nobody knew it yet.
 
 On the fourth night a second hag appeared, for the first time: [[Sila Frostblood]], a bheur hag, who showed [[Gribnik Mossfoot]], [[Thol]] and [[Falstad Firebeard]] a frozen riverbank they reached the next morning. She is the third member of the coven. See [[The Climb to the Sagethorn]] and [[The Frozen Riverbank]].
 
@@ -38,7 +38,7 @@ The party thinks a hag lured [[Torin Turen]] out of [[The Bettermans Guild]]'s c
 
 ## Connections
 - [[Festra]], leader
-- [[Mirna Girbwood]], dusk hag, [[Beemo]]'s aunt
+- [[Mirna Gribwood]], dusk hag, [[Beemo]]'s aunt
 - [[Sila Frostblood]], bheur hag, the third member
 - [[Beemo]], their target
 

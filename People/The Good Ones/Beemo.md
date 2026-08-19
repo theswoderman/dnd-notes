@@ -38,7 +38,7 @@ Something else gave it to him, most likely the other presence Torin feels where 
 ## The dreams
 Beemo is the exception in [[The Dusk Hag's Dreams]]. Every member of the party appears in the dreams the hag visits except him, and he does not see her at all.
 
-He is also the one who identified her: [[Mirna Girbwood]], his aunt, a dusk hag of the realm of dreams. That places her in the same family as [[Festra]], and makes the coven hunting him a family matter.
+He is also the one who identified her: [[Mirna Gribwood]], his aunt, a dusk hag of the realm of dreams. That places her in the same family as [[Festra]], and makes the coven hunting him a family matter.
 
 He did fight in the third night's battle dream, alongside [[Thol]] and [[Gribnik Mossfoot]].
 
@@ -48,7 +48,7 @@ He did fight in the third night's battle dream, alongside [[Thol]] and [[Gribnik
 
 ## Connections
 - [[Festra]], the hag who created and raised him
-- [[Mirna Girbwood]], his aunt, the dusk hag in the party's dreams
+- [[Mirna Gribwood]], his aunt, the dusk hag in the party's dreams
 - [[Sisters of the Gnarled Veil]], [[Festra]]'s coven, hunting him
 - [[Nebulu]], his god, probably
 - [[Torin Turen]], called him "little shadow"
