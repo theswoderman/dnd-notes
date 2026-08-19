@@ -12,24 +12,10 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "New tab"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +70,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CLAUDE.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +175,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of CLAUDE"
+                  "title": "Local graph"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -384,8 +369,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Suggestions/Suggestion History/2026-08-07 - Status of Reed's Campaign 1 summary.md",
+    "Suggestions/Suggestion History/2026-08-07 - Session note filenames and the 1016 question.md",
+    "Suggestions/Suggestion History/2026-08-07 - Placing Thalrik's dream in sequence.md",
+    "Suggestions/Suggestion History/2026-08-07 - Diggory, the Van Hark rumor, and Thalrik's dream.md",
+    "Suggestions/Suggestion History/2026-08-07 - Campaign 1's length and why Aeralath wanted Queensbane.md",
+    "Suggestions/Suggestion History/2026-08-07 - Arthur Van Hark belongs to The Good Ones.md",
+    "CLAUDE.md",
     "Groups/Black Blood Pack.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "People/NPCs/Antagonists/Mirna Gribwood.md",
@@ -405,13 +397,6 @@
     "Suggestions/Suggestion History/2026-08-12 - Adopt the new voice for future notes.md",
     "Suggestions/Suggestion History/2026-08-09 - The Dawning Era.md",
     "Suggestions/Suggestion History/2026-08-09 - Player notes.md",
-    "Suggestions/Suggestion History/2026-08-09 - Fold the Great War into the Demon War.md",
-    "Suggestions/Suggestion History/2026-08-09 - Davynn and Gegga players.md",
-    "Suggestions/Suggestion History/2026-08-09 - Boat trip one-shot details.md",
-    "Suggestions/Suggestion History/2026-08-09 - A.P. is At Peace, and the Rosefields.md",
-    "Suggestions/Suggestion History/2026-08-08 - Create an example suggestion.md",
-    "Suggestions/Suggestion History/2026-08-07 - Zone of truth, black fist, and the Sagethorn.md",
-    "Suggestions/Suggestion History/2026-08-07 - The weapon is the Hand of Valor.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",

@@ -173,7 +173,9 @@ Ignore `.obsidian/` churn entirely — plugin files rewrite themselves constantl
 - **Already covered** — change nothing. Record where the information already lived.
 - **Conflicts with canon, or invents a fact** — **stop and ask Nic.** Do not apply it and do not guess. Player suggestions are not canon; the `Never invent campaign facts` and `Preserve uncertainty` rules outrank a suggestion. Collect all questionable suggestions and raise them together at the start of the run rather than one at a time.
 
-**4. Write a history note.** One note per suggestion in `Suggestions/Suggestion History/`, from `Templates/Suggestion.md`. Filename `YYYY-MM-DD - Short description`, so the folder sorts chronologically. It records the suggestion verbatim (quote it, typos and all — it is a record of what was said), the date received, and wikilinks to every note touched. **No attribution field** — the box arrives via Nic, so who submitted it is not recoverable and not worth guessing at. If nothing was touched because the information already existed, link to where it lives instead. Then **clear the processed text from the box**, leaving the header and divider so it is an empty inbox again.
+**4. Write a history entry.** Suggestion history uses one note per day, filed as `YYYY-MM-DD.md` in `Suggestions/Suggestion History/`. Each suggestion or correction becomes an H2 section within that day's note. If the day's note already exists, append the new section; if not, create it with the standard frontmatter (`tags: [ignore, suggestion]`) and an H1 of the date.
+
+Each H2 section records the suggestion verbatim (quote it, typos and all, as a record of what was said), a **Status** line, and subsections for **Incorporated into**, **Already covered**, and **Notes**, all at H3. Wikilink every note touched. **No attribution field** — the box arrives via Nic, so who submitted it is not recoverable and not worth guessing at. If nothing was touched because the information already existed, link to where it lives instead. Then **clear the processed text from the box**, leaving the header and divider so it is an empty inbox again.
 
 History notes are tagged `ignore` and `suggestion`. Do **not** add attribution lines to the campaign notes themselves — the history note's links are the audit trail, and the notes stay clean.
 
@@ -183,11 +185,11 @@ Run the verification script when the whole sweep is done.
 
 ## Corrections given in chat
 
-Nic corrects things in conversation as often as through the box, and those corrections are canon the moment he gives them. **Every one gets a history note, same as a box entry.** Write it in `Suggestions/Suggestion History/` from `Templates/Suggestion.md`, quote him verbatim, and link every note touched. Do this in the same session, not at the next update run.
+Nic corrects things in conversation as often as through the box, and those corrections are canon the moment he gives them. **Every one gets a history entry, same as a box entry.** Add an H2 section to that day's note in `Suggestions/Suggestion History/`, quote him verbatim, and link every note touched. Do this in the same session, not at the next update run.
 
 **The unit is the message, not the fact.** One message carrying three unrelated corrections gets one entry, with the three listed under **Incorporated into**. Splitting them produces noise and loses the context they arrived in.
 
-Style and process changes count too, not just campaign facts, when they rewrite a note wholesale. [[2026-08-12 - Rewrite the Panrelta Timeline in a plainer style]] is the worked example.
+Style and process changes count too, not just campaign facts, when they rewrite a note wholesale. [[2026-08-12#Rewrite the Panrelta Timeline in a plainer style]] is the worked example.
 
 Everything else is unchanged: tagged `ignore` and `suggestion`, no attribution line, never edited after the fact. A correction that reverses an earlier one gets a new entry pointing at the old.
 
