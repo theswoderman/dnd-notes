@@ -27,9 +27,7 @@ The corpse wore armor bearing a black fist, bleeding green lines of energy. A so
 Torin then wandered deeper into the forest.
 
 ## Where this leaves them
-The high priest of [[Illmater]], sleepless, drained, feeling another presence where his god should be, and dreaming every night of a black grail melting over a cracked tomb, is alone in a forest where [[Bane]]'s soldiers are buried, talking to one of them.
-
-He had asked the party to take him to the temple of [[Illmater]] in that same forest. He went without them.
+[[Torin Turen|Torin]] is sleepless, drained, feeling another presence where his god should be, and dreaming every night of a black grail melting over a cracked tomb. He is alone in a forest where [[Bane]]'s soldiers are buried, talking to one of them. He had asked the party to take him to the temple of [[Illmater]] in that same forest. He went without them.
 
 The party's read at the end of the session: they are going to have to fight [[Bane]].
 

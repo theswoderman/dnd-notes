@@ -38,7 +38,7 @@ Something else gave it to him, most likely the other presence Torin feels where 
 ## The dreams
 Beemo is the exception in [[The Dusk Hag's Dreams]]. Every member of the party appears in the dreams the hag visits except him, and he does not see her at all.
 
-He is also the one who identified her: [[Mirna Gribwood]], his aunt, a dusk hag of the realm of dreams. That places her in the same family as [[Festra]], and makes the coven hunting him a family matter.
+He is also the one who identified her: [[Mirna Gribwood]], his aunt, a dusk hag of the realm of dreams.
 
 He did fight in the third night's battle dream, alongside [[Thol]] and [[Gribnik Mossfoot]].
 

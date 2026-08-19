@@ -13,7 +13,7 @@ aliases: [Mirna]
 ## Summary
 The haglike woman who has been appearing in [[The Good Ones]]' dreams. [[Beemo]] recognized her as his aunt, a dusk hag who works in the realm of dreams. Since [[Festra]] created and raised [[Beemo]], [[Mirna Gribwood|Mirna]] is her sister in some sense, making the [[Sisters of the Gnarled Veil]] a family.
 
-The hags are circle casting the dream spell together, all of them, on the party at once. That makes the nightmares a coordinated coven operation rather than one hag's work.
+The hags are circle casting the dream spell together, all of them, on the party at once.
 
 She has said two things directly to the party, one on each night:
 

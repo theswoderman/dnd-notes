@@ -31,7 +31,7 @@ Neither condition has been discharged. [[The Good Ones]] have not encountered he
 
 That resolves the "yorrisk upon the dawning" line, and it lines up with something the party already knew: she told them she would meet them in [[Yorrisk]], before [[Thalrik Lastfeast]] joined. [[The Dawning]], the tenth of which is approaching, reads as the date.
 
-So the meeting has a place and a time, and the debt is still outstanding.
+The debt is still outstanding.
 
 ## The constellation
 [[The Laughing Princess Constellation|A constellation]] carries her other name, and the party takes the two to be connected. It matters because a map they picked up early in the campaign places [[The Abbey]] and the lost temple beneath those stars, which is where [[Bane]] and [[Malar]]'s followers are both taking [[The Black Grail]]. Her constellation hangs over the place they are walking toward. See [[The Climb to the Sagethorn]].

@@ -8,7 +8,7 @@ An orb that emerged from the corpse of a necrohulk, which itself emerged from th
 See [[Exploration of the deep mines]].
 
 ## Cross-campaign significance
-[[The Abyss]] is where [[Aeralath]] is from, the demon queen [[The Sons of Thunder]] killed ten years ago at the end of [[The Demon War]]. An abyssal creature surfacing under a [[Panrelta]] mountain a decade after she fell is the most concerning thing the pilgrims have turned up.
+[[The Abyss]] is where [[Aeralath]] is from. An abyssal creature surfacing under a [[Panrelta]] mountain a decade after she fell is the most concerning thing the pilgrims have turned up.
 
 [[The Good Ones]] plan to bring the orb to [[The Sons of Thunder]], who are still alive and very much a power in the world, so they can take care of it.
 

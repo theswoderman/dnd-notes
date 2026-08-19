@@ -8,7 +8,7 @@ tags: [event, panrelta, major]
 **Sessions:** [[Session 27]], [[Session 28]], [[Session 29]]
 
 ## What happened
-A hag has been entering [[The Good Ones]]' sleep. She is [[Mirna Gribwood]], a dusk hag who works in the realm of dreams, and [[Beemo]] recognized her as his aunt. The hags are circle casting the spell together. This is the [[Sisters of the Gnarled Veil]] acting as a coven, not one hag freelancing.
+A hag has been entering [[The Good Ones]]' sleep. She is [[Mirna Gribwood]], a dusk hag who works in the realm of dreams, and [[Beemo]] recognized her as his aunt. The hags are circle casting the spell together.
 
 The dreams have escalated across all four nights.
 

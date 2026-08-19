@@ -12,7 +12,7 @@ ddb: https://www.dndbeyond.com/characters/153017737
 **Status:** Alive
 
 ## Summary
-He is a half-orc fighter and the adopted son of [[Bathoz Manefell]] of [[The Sons of Thunder]]. With this campaign set ten years after Campaign 1, Thol is the child of a living legend.
+He is a half-orc fighter and the adopted son of [[Bathoz Manefell]] of [[The Sons of Thunder]].
 
 ## Summary continued
 He was raised in [[Kalibad]] and the [[Golden Plains]], which is where the butchered centaurs came from. That is why he is far angrier about the poaching than anyone else in [[The Good Ones]], and why he fixated on the centaur hooves in [[The Collector]]'s cart.

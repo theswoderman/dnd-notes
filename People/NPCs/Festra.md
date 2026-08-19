@@ -18,7 +18,7 @@ The hag who created and raised [[Beemo]]. She leads a coven called the [[Sisters
 - Her coven is circle casting a dream spell on [[The Good Ones]] nightly, fronted by [[Mirna Gribwood]]. See [[The Dusk Hag's Dreams]]
 
 ## The family
-[[Beemo]] identified [[Mirna Gribwood]] as his aunt. Since Festra created and raised him, that makes [[Mirna Gribwood|Mirna]] her sister in some sense. The coven relation and the family relation appear to be the same thing.
+[[Beemo]] identified [[Mirna Gribwood]] as his aunt, which makes [[Mirna Gribwood|Mirna]] Festra's sister in some sense.
 
 ## Connections
 - [[Beemo]], her creation

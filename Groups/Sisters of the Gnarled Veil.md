@@ -23,7 +23,7 @@ Two things sit alongside that, neither confirmed as connected:
 - The coven may be trying to resurrect a dragon, and the range is named for one
 
 ## The dream campaign
-The hags are all circle casting a dream spell on [[The Good Ones]] together. This is the coven acting as one, not a single hag freelancing, and it has run for three nights and escalated each time.
+The hags are all circle casting a dream spell on [[The Good Ones]] together. It has run for three nights and escalated each time.
 
 The hag who appears is [[Mirna Gribwood]], a dusk hag of the realm of dreams and [[Beemo]]'s aunt, which makes the coven a family. She appears to every member of the party except [[Beemo]], who does not see her at all.
 
