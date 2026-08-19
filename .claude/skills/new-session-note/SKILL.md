@@ -1,75 +1,54 @@
 ---
 name: new-session-note
-description: Create a session prep note for an upcoming D&D session. Summarizes what happened last session, captures end-of-session game state (combat positioning, held actions, who's controlling what), and lists all open campaign threads for quick reference during play. Use when the user says /new-session-note, asks to prep for a session, or wants a recap before playing.
+description: Create a session prep note for an upcoming D&D session. Captures end-of-session game state and lists open campaign threads as a quick-reference cheat sheet for during play. Use when the user says /new-session-note, asks to prep for a session, or wants a recap before playing.
 ---
 
 # New Session Note
 
-Create a prep note for the next session of Pilgrims of Panrelta. The output is a practical reference for use during play, not a vault note. It should be scannable at a glance.
+Create a short prep note for the next session of Pilgrims of Panrelta. This is a cheat sheet for use during play: short, scannable, and lean on wikilinks so the reader can click through for detail. The whole note should fit on a screen or two.
 
 ## Steps
 
 ### 1. Find the most recent session note
 
-Session notes live in `Session Notes/Pilgrims of Panrelta/nic's notes/`, named `Session N.md`. Find the highest-numbered one. There are also notes in a `misc/` subfolder (the prelude, dream, and early catch-up notes) which are older and can be ignored for this purpose.
+Session notes live in `Session Notes/Pilgrims of Panrelta/nic's notes/`, named `Session N.md`. Find the highest-numbered one. Ignore the `misc/` subfolder.
 
 ### 2. Read the sources
 
-Read all three of these:
-
-- **The session note itself.** Raw, informal, full of shorthand. This is the primary source for what happened and how the session ended.
-- **The Panrelta Timeline** (`Lore/Panrelta Timeline.md`). Two sections matter:
-  - The **Session log** table, which records what entity and event notes were created or updated from each session. Use this to find the event notes worth reading for a cleaner account of what happened.
-  - The **Loose threads** section, which is the authoritative list of open campaign threads, already organized by category.
-- **The event notes** created from that session (listed in the session log). These have the processed, structured version of the session's events. Read them for the summary, since the raw session note is often hard to follow.
+- **The raw session note.** The last few lines are the main source for end-of-session state.
+- **The Panrelta Timeline** (`Lore/Panrelta Timeline.md`). Read the **Loose threads** section for open campaign threads.
 
 ### 3. Write the prep note
 
-Create the file in the same folder as the session notes (`Session Notes/Pilgrims of Panrelta/nic's notes/`), named `Session [N+1] notes.md` where N is the number of the most recent session note. This seeds the file that will become the raw notes for the upcoming session. If the file already exists, do not overwrite it (the user may have started adding notes to it already).
+Create `Session [N+1] notes.md` in the same folder. If it already exists, do not overwrite it.
 
 Use this structure:
 
 ```
 # Session [N+1] notes
 
-## Last session (Session N)
-[2-4 paragraph summary of what happened, drawn from the event notes rather than the raw session note. Plain language, enough to jog memory. Include the key beats, decisions, and revelations.]
-
 ## Where we left off
-[The end-of-session state. Pull this from the RAW session note, especially the last few lines, which often have tactical/combat details:
-- Where the party physically is
-- What they were doing when play stopped (mid-combat? traveling? resting?)
-- Combat state if applicable: positioning, held actions, ongoing effects
-- Who is controlling which character if there are any guest/absent player swaps
-- Any immediate decisions that need to be made when play resumes]
+[Bullet list of end-of-session state from the raw note's final lines:
+- Where the party is and what they were doing when play stopped
+- Combat state if mid-fight: positioning, held actions, ongoing effects
+- Character swaps (who is controlling whom this session)
+- Immediate decisions to make when play resumes]
 
 ## Open threads
-
-### Immediate
-[Copy from the Panrelta Timeline's Loose threads > Immediate section. These are the things that are actively happening and might come up this session.]
-
-### The hags
-[From Loose threads > The hags]
-
-### The Maiden and Yorrisk
-[From Loose threads > The Maiden and Yorrisk]
-
-### From the Collector
-[From Loose threads > From the Collector]
-
-### Longer running
-[From Loose threads > Longer running]
+[A single flat bullet list of every open thread from the Panrelta Timeline's Loose threads section, deduplicated and compressed. Each thread gets ONE bullet, one line. Lean on wikilinks — don't explain what the link already covers. Drop any thread that is purely background with no chance of coming up soon.]
 ```
 
-The open threads section should be copied fairly directly from the Panrelta Timeline, since that list is already maintained and curated. Light editing for scannability is fine (e.g., trimming a long explanation down to a reminder), but do not drop threads or change their meaning.
+**No last-session recap.** The "where we left off" section is enough to jog memory, and the event notes are a click away.
+
+**Keep it short.** The open threads section is a deduplicated, compressed version of the timeline's loose threads, not a copy of it. The timeline organizes threads by category with full explanations; this note flattens them into a single list of one-liners. If a thread appears in multiple categories on the timeline, it gets one bullet here. If a bullet would need two sentences, it's too long.
 
 ### 4. Present the file
 
-Send the file to the user so they can see it.
+Send the file to the user.
 
 ## Important
 
-- This note has no frontmatter. It seeds the next session's raw notes file, so the user can add to it during play.
+- No frontmatter. This seeds the next session's raw notes file.
 - If the target file already exists, tell the user and do not overwrite it.
-- Do not process, update, or create any other vault notes while running this skill.
-- The "Where we left off" section is the most important part for the user. The combat/tactical state at the end of a session is exactly what is hardest to remember weeks later. Pull every detail from the raw note's final lines.
+- Do not touch any other vault notes.
+- The whole note should be roughly 30-40 lines. If it's longer, compress harder.
