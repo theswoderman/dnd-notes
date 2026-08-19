@@ -20,12 +20,12 @@ Session notes live in `Session Notes/Pilgrims of Panrelta/nic's notes/`, named `
 
 ### 3. Write the prep note
 
-Create `Session [N+1] notes.md` in the same folder. If it already exists, do not overwrite it.
+Create `Session [N+1].md` in the same folder. If it already exists, do not overwrite it.
 
 Use this structure:
 
 ```
-# Session [N+1] notes
+# Session [N+1]
 
 ## Where we left off
 [Bullet list of end-of-session state from the raw note's final lines:
@@ -51,4 +51,4 @@ Send the file to the user.
 - No frontmatter. This seeds the next session's raw notes file.
 - If the target file already exists, tell the user and do not overwrite it.
 - Do not touch any other vault notes.
-- The whole note should be roughly 30-40 lines. If it's longer, compress harder.
+- Target under 300 words. If it's longer, compress harder.

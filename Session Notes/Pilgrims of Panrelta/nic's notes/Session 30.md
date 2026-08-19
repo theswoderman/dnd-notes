@@ -1,4 +1,4 @@
-# Session 30 notes
+# Session 30
 
 ## Where we left off
 
