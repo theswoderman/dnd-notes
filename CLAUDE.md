@@ -88,7 +88,9 @@ Plain, direct prose. Contractions are fine. Vary sentence length. Prefer a full 
 
 **Bold and headings have to earn their place.** The older notes lean on bold for emphasis several times a paragraph; that is the habit being moved away from. Keep bold for the key/value fields at the top of a note and for the occasional thing that genuinely needs to stop the eye.
 
-**Scope: notes created or rewritten from now on.** Existing notes stay in the older style until they are rewritten for some other reason. Do not sweep the vault for em dashes. [[Panrelta Timeline]] is the worked example of the new voice; `index.md` and everything else are still in the old one on purpose, not by neglect.
+**Encyclopedic voice, not narrative of discovery.** A note's opening description should say what the subject IS, not narrate the scene where the party learned about it. Lead with the encyclopedic description; mention the discovery context briefly afterward if needed. Bad: "Named by The Collector as he woke, furious that The Good Ones had cured his lycanthropy: the Black Blood Pack would come for them." Good: "A lycanthrope pack in the service of Malar. The Collector presumably belonged to it, and warned that the pack would come for The Good Ones in the moments before his death."
+
+**Scope: the full vault has been rewritten.** The rewrite was completed on 2026-08-18. All notes now follow the new voice. New and edited notes should match it going forward.
 
 Two things this never applies to. Raw session notes in `Session Notes/` are archive and only ever gain link syntax. Quoted text stays exactly as it was said or written, which covers the suggestion quotes in `Suggestions/Suggestion History/`, in-world quotes, and [[Grant]]'s prelude.
 
