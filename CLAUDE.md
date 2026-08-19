@@ -92,6 +92,8 @@ Plain, direct prose. Contractions are fine. Vary sentence length. Prefer a full 
 
 **Don't say "nothing else is known."** If the note contains everything that is known, the reader can see that. Sentences like "nothing else was learned from him", "no further details are available", or "little else is known" are filler. End the passage where the information ends.
 
+**Don't restate what was just said.** If a sentence establishes a fact, the next sentence should not rephrase it. Common forms: spelling out a deduction that is already obvious from the premise ("Mirna is Beemo's aunt. That places her in the same family as Festra."), restating a conclusion with a convoluted epithet instead of using the name ("The being the sword was forged to kill wanted..."), or adding a summary line that says what the paragraph already said ("The griffon is dead; the condition is not yet discharged" after three sentences saying the debt is outstanding). Say it once and move on.
+
 **Scope: the full vault has been rewritten.** The rewrite was completed on 2026-08-18. All notes now follow the new voice. New and edited notes should match it going forward.
 
 Two things this never applies to. Raw session notes in `Session Notes/` are archive and only ever gain link syntax. Quoted text stays exactly as it was said or written, which covers the suggestion quotes in `Suggestions/Suggestion History/`, in-world quotes, and [[Grant]]'s prelude.

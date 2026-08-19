@@ -370,8 +370,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487,
-    "collapsed": true
+    "width": 487
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -387,6 +386,7 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
     "Events/Campaign 1/00 - Campaign Index.md",
     "index.md",
@@ -422,7 +422,6 @@
     "Session Notes",
     "Vault/Session Notes/Pilgrims of Panrelta/nic's notes/misc",
     "Vault/Session Notes/Pilgrims of Panrelta/nic's notes",
-    "Vault/Session Notes/Pilgrims of Panrelta",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
