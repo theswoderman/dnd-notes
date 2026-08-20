@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 30"
+              "title": "Session 27"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 30"
+                  "title": "Graph of Session 27"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -388,10 +388,10 @@
   "active": "422715ec20929148",
   "lastOpenFiles": [
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
-    "Suggestions/Suggestion History/2026-08-18.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "Suggestions/Suggestion History/2026-08-18.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30 notes.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
