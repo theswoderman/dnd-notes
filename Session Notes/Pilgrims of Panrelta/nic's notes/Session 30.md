@@ -12,5 +12,6 @@
 - [[Sila Frostblood]] entered the party's dreams for the first time, showing them the riverbank the night before they reached it. Warning or bait?
 - [[Torin Turen|Torin]] called [[Beemo]] "little shadow," a name only hags use, and swore under zone of truth he doesn't know why. Something put it there
 - [[Gribnik Mossfoot]]'s dream of the Laughing Princess constellation surfaced the name [[Orithian Blackspire]] and a link to [[The Drow]]. What is it?
-- What is the black grail inside [[Torin Turen|Torin]], and why do the green flames in his recurring dream burn longer each night?
+- What is [[The Black Grail]] inside [[Torin Turen|Torin]], and why do the green flames in his recurring dream burn longer each night?
 - Whose was [[The Abbey]], and what is [[The Tree of Pain]]?
+- Whether the battle for [[Yorrisk]] the hag showed [[Thol]], [[Beemo]] and [[Gribnik Mossfoot]] is memory, prophecy, or fabrication
