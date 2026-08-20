@@ -35,12 +35,12 @@ Use this structure:
 - Immediate decisions to make when play resumes]
 
 ## Open threads
-[A single flat bullet list of every open thread from the Panrelta Timeline's Loose threads section, deduplicated and compressed. Each thread gets ONE bullet, one line. Lean on wikilinks — don't explain what the link already covers. Drop any thread that is purely background with no chance of coming up soon.]
+[A flat bullet list of open UNKNOWNS and UNRESOLVED QUESTIONS from the Panrelta Timeline's Loose threads section. Focus on things the party doesn't understand yet, not things they already know are happening. "Torin called Beemo 'little shadow' without knowing why" is good — it's a mystery. "The hags are in the party's dreams" is not — that's established fact, not an open question. When in doubt whether something qualifies, ask the user rather than including it. Each thread gets one bullet, one line. Lean on wikilinks.]
 ```
 
 **No last-session recap.** The "where we left off" section is enough to jog memory, and the event notes are a click away.
 
-**Keep it short.** The open threads section is a deduplicated, compressed version of the timeline's loose threads, not a copy of it. The timeline organizes threads by category with full explanations; this note flattens them into a single list of one-liners. If a thread appears in multiple categories on the timeline, it gets one bullet here. If a bullet would need two sentences, it's too long.
+**Keep it short.** The open threads section is not a copy of the timeline's loose threads. It is a filtered, compressed selection of the unknowns and unresolved questions. Drop established facts, known threats, and anything that is purely background. If a bullet would need two sentences, it's too long. If something is borderline, ask.
 
 ### 4. Present the file
 
