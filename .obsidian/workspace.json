@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campaign 1 Summary"
+              "title": "Session 30"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Summary"
+                  "title": "Graph of Session 30"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -384,13 +384,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "468b4658739229dc",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30 notes.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Early session catch up notes.md",
     "Items and Artifacts/Queensbane.md",
@@ -413,7 +414,6 @@
     "Groups/Sisters of the Gnarled Veil.md",
     "Lore/The Laughing Princess Constellation.md",
     "Suggestions/Suggestion History/2026-08-18 - The Five Heroes identified.md",
-    "Suggestions/Suggestion History/2026-08-12 - The dragon is Thelgadrim, the Inevitable.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
