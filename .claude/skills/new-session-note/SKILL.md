@@ -35,7 +35,13 @@ Use this structure:
 - Immediate decisions to make when play resumes]
 
 ## Open threads
-[A flat bullet list of open UNKNOWNS and UNRESOLVED QUESTIONS from the Panrelta Timeline's Loose threads section. Focus on things the party doesn't understand yet, not things they already know are happening. "Torin called Beemo 'little shadow' without knowing why" is good — it's a mystery. "The hags are in the party's dreams" is not — that's established fact, not an open question. When in doubt whether something qualifies, ask the user rather than including it. Each thread gets one bullet, one line. Lean on wikilinks.]
+[A flat bullet list of genuine MYSTERIES — things the party does not understand or has not resolved. Each bullet should be a question the party cannot currently answer.
+
+INCLUDE things like: "Torin called Beemo 'little shadow' without knowing why" (unexplained), "The Abyssal Orb said 'free me' — why now?" (unanswered question).
+
+EXCLUDE things like: "The Maiden's debt is still outstanding" (known fact, not a mystery), "the hags are in our dreams" (established situation, not a question), "the Black Blood Pack is coming" (known threat, not an unknown).
+
+The test: if the party already knows the answer, it does not belong here. When in doubt, ask. Each thread gets one bullet, one line. Lean on wikilinks.]
 ```
 
 **No last-session recap.** The "where we left off" section is enough to jog memory, and the event notes are a click away.

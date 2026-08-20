@@ -370,7 +370,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,6 +389,7 @@
   "lastOpenFiles": [
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+    "Suggestions/Suggestion History/2026-08-18.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
@@ -400,7 +402,6 @@
     "Events/Campaign 1/00 - Campaign Index.md",
     "index.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "Suggestions/Suggestion History/2026-08-18.md",
     "Suggestions/Suggestion History/2026-08-07 - Status of Reed's Campaign 1 summary.md",
     "Suggestions/Suggestion History/2026-08-07 - Session note filenames and the 1016 question.md",
     "Suggestions/Suggestion History/2026-08-07 - Placing Thalrik's dream in sequence.md",
