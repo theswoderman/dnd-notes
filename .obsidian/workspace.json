@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 70.61281337047353,
+        "dimension": 70.61281337047355,
         "children": [
           {
             "id": "422715ec20929148",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 27"
+              "title": "CLAUDE"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -38,7 +38,7 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 29.38718662952646,
+        "dimension": 29.387186629526465,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
+                    "file": "CLAUDE.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 27"
+                  "title": "Graph of CLAUDE"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -387,8 +387,8 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Suggestions/Suggestion History/2026-08-18.md",
