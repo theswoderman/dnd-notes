@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 30"
+              "title": "Campaign 1 Summary"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 30"
+                  "title": "Graph of Campaign 1 Summary"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -256,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -371,8 +370,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487,
-    "collapsed": true
+    "width": 487
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,11 +384,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "468b4658739229dc",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30 notes.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
