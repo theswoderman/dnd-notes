@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                "file": "People/NPCs/Campaign 1 Notable NPCs/Vhal Nimzur.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campaign 1 Summary"
+              "title": "Vhal Nimzur"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                    "file": "People/NPCs/Campaign 1 Notable NPCs/Vhal Nimzur.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Summary"
+                  "title": "Graph of Vhal Nimzur"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "black blood ",
+                "query": "Merkari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,7 +252,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -385,15 +386,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "2730ff74bae74d4e",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "CLAUDE.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Suggestions/Suggestion History/2026-08-18.md",
-    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30 notes.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Early session catch up notes.md",
