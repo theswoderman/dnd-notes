@@ -15,11 +15,7 @@ She has a decaying face and teeth that hang past her chin. In the dream she stoo
 
 The next morning the party reached the riverbank she had shown them. See [[The Climb to the Sagethorn]] and [[The Frozen Riverbank]].
 
-## Open questions
-- Why she has only appeared now, when [[Mirna Gribwood]] has been in the party's sleep for nights
-- Whether showing them the riverbank was a warning, a threat, or bait
-- What her dire wolves are, and whether they relate to the werewolves at the riverbank
-- Whether she shares the coven's interest in killing [[Beemo]]
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Sisters of the Gnarled Veil]], her coven

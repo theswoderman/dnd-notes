@@ -35,14 +35,7 @@ His body went into the bag, alongside [[The Abyssal Orb]]. The party's own asses
 
 [[Beemo]] dropped the disguise as the spell ended, so the corpse's last understanding was that it had been tricked. [[Beemo]] then threw the body off a cliff during [[The Climb to the Sagethorn]], which is the end of it.
 
-## Open questions
-- What to do with all the animal parts (most were buried)
-- Whether the corpse told the truth, or told a supposed packmate what it thought he wanted to hear
-- Where the black dragon scales came from and who they were for
-- Whether the [[Black Blood Pack]] knows he is dead
-- Whether [[Starfall Clearing]] is still worth visiting
-
-Answered since: he was collecting the animal parts as trophies for [[Malar]]'s rite, not as merchandise, which makes [[The Maiden]] a less obvious buyer than she looked.
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Maiden]], he had met her

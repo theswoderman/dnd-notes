@@ -11,10 +11,7 @@ A landmark named by [[The Collector]]'s corpse as the way to find [[The Abbey]]:
 
 [[Thol]] cast find the path to steer the party toward it, which is what took them to the riverbank in [[The Frozen Riverbank]]. Nobody has reached it yet.
 
-## Open questions
-- What it is, and why it is called that
-- Whether it is a tree at all
-- How far it lies from the riverbank
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Abbey]], what it marks

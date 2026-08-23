@@ -10,10 +10,7 @@ A name from a dream. [[Gribnik Mossfoot]] dreamed of [[The Laughing Princess Con
 
 See [[The Dusk Hag's Dreams]].
 
-## Open questions
-- Everything. Who or what this is, and what it has to do with [[The Drow]]
-- Whether the name arrived from the coven, as the party's other dreams have
-- Spelling unconfirmed
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Gribnik Mossfoot]], dreamed the name

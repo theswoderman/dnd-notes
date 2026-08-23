@@ -10,9 +10,7 @@ With [[Jäkel Aleister le Rouge|Jakel]] on the throne, the Blood Ravens are desc
 
 They killed a black dragon. [[The Good Ones]] found boxes of black dragon scales in [[The Collector]]'s cart, apparently being smuggled, and the Blood Ravens' kill is the only black dragon death anyone knows of. It seems unlikely a second dragon died, which would mean the scales came from that one, and someone has been selling them.
 
-## Open questions
-- Where [[The Collector]] got the scales, and who he was moving them for
-- Whether the [[Black Blood Pack]] is involved
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Sessions
 - [[Session 28]]

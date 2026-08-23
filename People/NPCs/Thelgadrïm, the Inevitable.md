@@ -19,9 +19,7 @@ Seen in [[Gegga]]'s vision from the [[Giant Memory Gemstones]]: a child in a cav
 
 The dragon may be Thelgadrïm, the Inevitable, and may be living in [[Dolghast]].
 
-## Open questions
-- Whose storm staff was the cloaked figure holding?
-- Is this connected to the dragon the [[Sisters of the Gnarled Veil]] may be trying to resurrect?
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Sessions
 - [[Session 27]]

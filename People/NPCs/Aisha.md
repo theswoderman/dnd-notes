@@ -11,9 +11,7 @@ Part of [[The Bettermans Guild]]. She reported the [[Mossclaw]] raids on the cam
 
 See [[Return to the Bettermans Guild]].
 
-## Open questions
-- Her role in [[The Bettermans Guild]]
-- Which stonemason was lost, and whether the guild expects the party to answer for it
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Bettermans Guild]], her organization

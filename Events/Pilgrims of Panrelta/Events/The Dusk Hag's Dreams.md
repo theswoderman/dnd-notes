@@ -60,11 +60,7 @@ This is a different hag. [[Gegga]] and [[Beemo]] named her [[Sila Frostblood]], 
 - The hags are all circle casting the spell together on the party
 - [[Thol]] used Know Your Enemy: [[Mirna Gribwood|Mirna]] is immune to blinded, charmed and frightened
 
-## Open questions
-- Why [[Beemo]] is excluded from the dreams she appears in, when the coven wants him dead
-- Whether "I'll stay a while" means she is lodged in a specific party member's mind
-- Whether the battle for [[Yorrisk]] is a memory, a prophecy, or a fabrication
-- Whether [[Torin Turen]]'s worsening dreams are the same coven's work. The party thinks a hag lured him into the [[Sage Thorn Forest|Sagethorn]], but his dream is different in kind: a black grail and a stone tomb, no hag
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Mirna Gribwood]]

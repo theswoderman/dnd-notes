@@ -47,11 +47,7 @@ That recasts almost everything already recorded about him. The grail he has drea
 
 A gnomish scream came out of the moving corpses at [[The Frozen Riverbank]]. Nobody has confirmed it was his.
 
-## Open questions
-- Whose presence he feels where [[Illmater]] should be ([[Bane]] is the obvious candidate)
-- What the black grail and the stone tomb are
-- How he knows to call [[Beemo]] "little shadow" when he has never spoken to a hag, and what that says about what is riding him
-- What he wants from a dead soldier of [[Bane]]
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Bettermans Guild]], his organization

@@ -16,11 +16,7 @@ Then the corpses began to move, and a gnomish scream came out of them. [[Gribnik
 
 The fight against the werewolves, werebears and the panther ran to the end of the session and is unresolved. [[Thol]] and [[Thalrik Lastfeast|Thalrik]]'s mount ended up in the river; the mount held its action so [[Thol]] could get onto its back, then teleported up the cliff to where the panther was.
 
-## Open questions
-- Whose the gnomish scream was. [[Torin Turen]] is a gnome and went into this forest alone
-- What is calling people into the river
-- What killed a field of [[Bane]]'s soldiers and that many beasts, and how recently
-- Whether the panther is a were-creature, a servant of [[Malar]], or something else
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Bane]], his soldiers are among the dead

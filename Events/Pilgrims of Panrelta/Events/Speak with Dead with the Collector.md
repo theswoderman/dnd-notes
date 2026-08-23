@@ -25,11 +25,7 @@ The body went back into the bag of holding, and was thrown off the cliff during 
 ## Why it matters
 This turns three separate threads into one. The animal parts [[The Collector]] was hauling were trophies for a rite, not merchandise. The black grail that has been draining [[Torin Turen|Torin]]'s sleep since [[Return to the Bettermans Guild]] is a real object, and by the corpse's account it is inside him. And [[Bane]] and [[Malar]] are not working together: both want the grail, and both are converging on the same place.
 
-## Open questions
-- What drinking from [[The Black Grail]] is meant to accomplish, and for whom
-- What "within the small gnome" means in practice, and whether [[Torin Turen|Torin]] knows
-- Whether the corpse was telling the truth, or telling a supposed packmate what he wanted to hear
-- Whether [[Starfall Clearing]] still matters now that he is dead
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Collector]], the corpse

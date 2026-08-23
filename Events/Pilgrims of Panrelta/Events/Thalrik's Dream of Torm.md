@@ -36,10 +36,7 @@ Diggory told him:
 - The storm and the army of embers over the shadowed range read as the [[Dragonspine Mountains]] threat, which Diggory names moments later
 - Whatever the [[Sisters of the Gnarled Veil]] are planning there was hidden from a god
 
-## Open questions
-- The identity of the colossal golden dragon, unrecorded
-- What awaits at [[Temple Trueheart]]
-- What it means, practically, that his soul is the price
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Torm]], granted the dream

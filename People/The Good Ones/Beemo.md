@@ -42,9 +42,7 @@ He is also the one who identified her: [[Mirna Gribwood]], his aunt, a dusk hag 
 
 He did fight in the third night's battle dream, alongside [[Thol]] and [[Gribnik Mossfoot]].
 
-## Open questions
-- How [[Torin Turen]] came by "little shadow" without ever speaking to a hag
-- Why the coven leaves him out of the dreams when he is the one they want dead
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Festra]], the hag who created and raised him

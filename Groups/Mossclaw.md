@@ -10,11 +10,7 @@ A goblin tribe, and [[Gribnik Mossfoot]]'s former one. They have been raiding [[
 
 One raider in particular, a goblin with a black mohawk, was chased off but is expected to return with reinforcements. He matches the description of a goblin [[The Good Ones]] spared in an earlier session, so at least one of the raiders has met the party before and lived.
 
-## Open questions
-- What they want from the camp
-- Why [[Gribnik Mossfoot|Gribnik]] left them, and whether they know he is with [[The Good Ones]]
-- Whether the goblin the party spared is the one raiding the camp now
-- Whether they are connected to the [[House Dufrey]]–[[House Keroskav]] dispute over [[Yorrisk]]
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Gribnik Mossfoot]], a former member

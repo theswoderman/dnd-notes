@@ -15,10 +15,7 @@ Malar's pack and [[Bane]]'s followers both want the grail and are not allies. In
 
 The werewolves and werebears that ambushed the party at [[The Frozen Riverbank]] are presumably his, though nobody has said so.
 
-## Open questions
-- What drinking from [[The Black Grail]] gives him
-- How many trophies the rite needs, and how far along it is
-- Whether the enormous panther at the riverbank is his
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Collector]], a self-declared servant

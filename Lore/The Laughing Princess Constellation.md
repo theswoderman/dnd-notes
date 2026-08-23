@@ -9,10 +9,7 @@ It shares its name with [[The Maiden]]. [[Yosco]] identified her as the Laughing
 
 [[Gribnik Mossfoot]] dreamed of the constellation, and came out of the dream with the name [[Orithian Blackspire]] and some link to [[The Drow]]. See [[The Dusk Hag's Dreams]].
 
-## Open questions
-- What the connection to [[The Maiden]] actually is, and which came first, the woman or the stars
-- What [[Orithian Blackspire]] has to do with either
-- How a constellation marks a spot on the ground
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Maiden]], known as the Laughing Princess

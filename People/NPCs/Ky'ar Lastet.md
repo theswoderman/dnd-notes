@@ -23,9 +23,7 @@ When [[Torin Turen|Torin]] rode out for the [[Sage Thorn Forest|Sagethorn]] befo
 ## The raider he saw
 The [[Mossclaw]] he described matches the goblin [[The Good Ones]] spared in an earlier session, so the raider circling the camp is someone the party has already met and let go. The Mossclaw are also [[Gribnik Mossfoot]]'s former tribe.
 
-## Open questions
-- Whether the ambition is a problem or just succession
-- Whether he will hold the camp against the [[Mossclaw]] without [[Torin Turen|Torin]]
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Bettermans Guild]], where he has taken up leadership

@@ -28,11 +28,7 @@ See [[The Dusk Hag's Dreams]].
 ## Known abilities
 [[Thol]] used Know Your Enemy on her. She is immune to blinded, charmed and frightened.
 
-## Open questions
-- The spelling of her name
-- Why [[Beemo]] alone is excluded from the dreams she appears in, when he is the one the coven wants dead
-- Whether "I'll stay a while" means she is now lodged in someone's mind, and whose
-- Whether she is behind [[Torin Turen]]'s worsening dreams as well (the party thinks a hag lured him into the [[Sage Thorn Forest|Sagethorn]])
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Beemo]], her nephew and the coven's target

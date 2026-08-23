@@ -146,7 +146,7 @@ Raw notes arrive in `Session Notes/<campaign>/`, named `Session N`. When asked t
 2. Create new notes for new entities; update existing ones in place.
 3. Add `## Sessions` backlinks on every note touched.
 4. Add a row to the **session log** table in the campaign timeline listing what was created and updated.
-5. Update the timeline's event list and **loose threads**.
+5. Update the timeline's event list and the campaign's loose ends note (**[[Panrelta Loose Ends]]** or **[[Campaign 1 Loose Ends]]** in `Loose Ends/`).
 6. Update the campaign index if the event list or cast changed.
 7. Update `index.md` — **Where things stand**, the chronology, and the recorded-events list if the session added one.
 8. Run the verification script below.
@@ -279,4 +279,4 @@ Until it arrives, the Campaign 1 notes are frozen in a **mid-campaign** state an
 - [[Campaign 1 Timeline]] ends at [[Into the Beastlands]] — *current*
 - [[The Sons of Thunder]] carries a stale "Current objective" section
 
-**When it arrives:** create event notes in `Events/Campaign 1/Events/`, file new people and places into existing folders, and update [[Campaign 1 Timeline]], [[Queensbane]] and [[00 - Campaign Index]]. Work through the loose threads on [[Campaign 1 Timeline]] and mark which the ending resolves — including **why [[Aeralath]] wanted [[Queensbane]] collected**, which is the big one. Replace the stale sections listed above.
+**When it arrives:** create event notes in `Events/Campaign 1/Events/`, file new people and places into existing folders, and update [[Campaign 1 Timeline]], [[Queensbane]] and [[00 - Campaign Index]]. Work through [[Campaign 1 Loose Ends]] and mark which the ending resolves — including **why [[Aeralath]] wanted [[Queensbane]] collected**, which is the big one. Replace the stale sections listed above.

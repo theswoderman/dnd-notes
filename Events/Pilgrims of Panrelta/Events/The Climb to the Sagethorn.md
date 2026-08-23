@@ -28,10 +28,7 @@ Between the party and the forest stood a cliff, eight hundred to a thousand feet
 
 [[Gegga]] and [[Beemo]] placed her: [[Sila Frostblood]], a bheur hag, and the third member of the [[Sisters of the Gnarled Veil]]. It is the first time she has come into anyone's sleep.
 
-## Open questions
-- What [[The Abyssal Orb]] is asking to be freed from, and what it becomes if it is
-- Whether the sirens in the cliff caves are a fixed hazard or were placed there
-- Why [[Sila Frostblood]] has surfaced only now, and whether the dream was a warning, a threat or an invitation
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Abyssal Orb]], spoke for the first time

@@ -14,11 +14,7 @@ Interrogated after death, [[The Collector]] said that Bane's followers are not a
 
 The party then found an icy riverbank strewn with the corpses of Bane's soldiers alongside a great many beasts, none of them fresh and none of them old. See [[The Frozen Riverbank]].
 
-## Open questions
-- Who the other two of "the Dead Three" are
-- Whether the presence pressing in on [[Torin Turen|Torin]] is Bane
-- What a soldier of Bane was doing buried in the [[Sage Thorn Forest|Sagethorn]]
-- Whether the soldiers and beasts dead at the riverbank killed each other, and how long ago
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Torm]], Bane is a major enemy of his

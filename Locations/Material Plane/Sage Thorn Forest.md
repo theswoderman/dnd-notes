@@ -24,8 +24,7 @@ Inside, the forest is frozen and full of werewolves, and a full moon is close. I
 
 Somewhere in it are [[The Tree of Pain]] and [[The Abbey]], which a map places beneath [[The Laughing Princess Constellation|the Laughing Princess constellation]].
 
-## Open questions
-- How a temple of [[Illmater]] and a foothold of [[Bane]] came to share a forest
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Illmater]], has a temple here

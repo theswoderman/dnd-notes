@@ -18,11 +18,7 @@ The shade was described as an "unsuccessful" creation of the coven, where [[Beem
 
 Either way, the coven still wants [[Beemo]] dead, and the reason is not known.
 
-## Open questions
-- Which of the two was the successful creation
-- Why the [[Sisters of the Gnarled Veil]] want [[Beemo]] dead if he was the success
-- What they were trying to create in the first place
-- Whether this connects to whatever they are planning in the [[Dragonspine Mountains]]
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Beemo]], the target

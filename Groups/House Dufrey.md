@@ -15,10 +15,7 @@ The [[The Iron Oak Woods|Iron Oak]] is also where [[The Bettermans Guild]] has m
 
 See [[The Dusk Hag's Dreams]].
 
-## Open questions
-- Whether [[The Bettermans Guild]] has any standing relationship with the house
-- Whether the [[Mossclaw]] incursions on the camp are connected to the dispute over [[Yorrisk]]
-- Whether the battle in the dream has happened, will happen, or is invention
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Iron Oak Woods]], its territory

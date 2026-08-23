@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loose Ends/Panrelta Loose Ends.md",
+                "file": "Loose Ends/Campaign 1 Loose Ends.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Panrelta Loose Ends"
+              "title": "Campaign 1 Loose Ends"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -43,7 +43,7 @@
           {
             "id": "616fb221e7e6cd63",
             "type": "tabs",
-            "dimension": 61.99712643678161,
+            "dimension": 61.997126436781606,
             "children": [
               {
                 "id": "3c75b250aa647dd0",
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Loose Ends/Panrelta Loose Ends.md",
+                    "file": "Loose Ends/Campaign 1 Loose Ends.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Panrelta Loose Ends"
+                  "title": "Graph of Campaign 1 Loose Ends"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -388,6 +388,7 @@
   "active": "422715ec20929148",
   "lastOpenFiles": [
     "Loose Ends/Panrelta Loose Ends.md",
+    "Events/Totally safe boat trip one shot/Awakening of the turtle.md",
     "Loose Ends/Campaign 1 Loose Ends.md",
     "Suggestions/Suggestion Box.md",
     "CLAUDE.md",
@@ -415,7 +416,6 @@
     "Suggestions/Suggestion History/2026-08-07 - Diggory, the Van Hark rumor, and Thalrik's dream.md",
     "Suggestions/Suggestion History/2026-08-07 - Campaign 1's length and why Aeralath wanted Queensbane.md",
     "Suggestions/Suggestion History/2026-08-07 - Arthur Van Hark belongs to The Good Ones.md",
-    "Groups/Black Blood Pack.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",

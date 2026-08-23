@@ -12,12 +12,7 @@ Interrogated after death, [[The Collector]] said [[Malar]] had sent him to "coll
 
 [[Bane]]'s followers want it too, and are not allies of [[Malar]]'s. [[Malar]] told his pack "their steel would sharpen our talons, but they seek the grail for themselves."
 
-## Open questions
-- What it is, and what drinking from it does
-- What "within the small gnome" means literally, and whether [[Torin Turen|Torin]] knows he is carrying it
-- Whether the tomb in his dream is a place the party can find
-- Whether the grail is why the presence displaced [[Illmater]] in him
-- Whether [[The Collector]] was telling the truth to someone he believed was a packmate
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Torin Turen]], said to hold it

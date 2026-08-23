@@ -16,7 +16,7 @@ Session notes live in `Session Notes/Pilgrims of Panrelta/nic's notes/`, named `
 ### 2. Read the sources
 
 - **The raw session note.** The last few lines are the main source for end-of-session state.
-- **The Panrelta Timeline** (`Lore/Panrelta Timeline.md`). Read the **Loose threads** section for open campaign threads.
+- **Panrelta Loose Ends** (`Loose Ends/Panrelta Loose Ends.md`). The consolidated list of open campaign threads.
 
 ### 3. Write the prep note
 
@@ -46,7 +46,7 @@ The test: if the party already knows the answer, it does not belong here. When i
 
 **No last-session recap.** The "where we left off" section is enough to jog memory, and the event notes are a click away.
 
-**Keep it short.** The open threads section is not a copy of the timeline's loose threads. It is a filtered, compressed selection of the unknowns and unresolved questions. Drop established facts, known threats, and anything that is purely background. If a bullet would need two sentences, it's too long. If something is borderline, ask.
+**Keep it short.** The open threads section is not a copy of [[Panrelta Loose Ends]]. It is a filtered, compressed selection of the unknowns and unresolved questions. Drop established facts, known threats, and anything that is purely background. If a bullet would need two sentences, it's too long. If something is borderline, ask.
 
 ### 4. Present the file
 

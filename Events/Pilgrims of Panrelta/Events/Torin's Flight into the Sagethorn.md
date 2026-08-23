@@ -31,11 +31,7 @@ Torin then wandered deeper into the forest.
 
 The party's read at the end of the session: they are going to have to fight [[Bane]].
 
-## Open questions
-- Whether the presence [[Torin Turen|Torin]] feels is [[Bane]]
-- What he wants from a dead soldier of [[Bane]]
-- What the black grail and the stone tomb mean
-- Whether [[Mirna Gribwood]] or another of the [[Sisters of the Gnarled Veil]] planted the dream that sent him
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[Torin Turen]]

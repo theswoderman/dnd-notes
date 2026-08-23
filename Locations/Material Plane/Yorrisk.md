@@ -19,10 +19,7 @@ The spelling is still as first recorded and has not been confirmed in writing.
 - [[The Dawning]] reads as the deadline
 - The town is already the subject of a war between a Grekoshan house and an Iron Oak house, and [[The Bettermans Guild]] sits in the Iron Oak
 
-## Open questions
-- Where Yorrisk actually is
-- Whether [[The Maiden]] is backing one of the two houses
-- Whether the battle [[Thol]], [[Beemo]] and [[Gribnik Mossfoot]] fought in their dream is the battle for Yorrisk
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
 - [[The Maiden]], has acquaintances here and named it as the meeting place
