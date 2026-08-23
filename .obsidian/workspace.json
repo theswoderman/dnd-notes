@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loose Ends/Campaign 1 Loose Ends.md",
+                "file": "Lore/The Five Heroes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campaign 1 Loose Ends"
+              "title": "The Five Heroes"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Loose Ends/Campaign 1 Loose Ends.md",
+                    "file": "Lore/The Five Heroes.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Loose Ends"
+                  "title": "Graph of The Five Heroes"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -387,9 +387,16 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Lore/The Laughing Princess Constellation.md",
+    "Lore/The Planar Realignment.md",
+    "Lore/The Five Heroes.md",
+    "Lore/The Dawning.md",
+    "Lore/The Blood War.md",
+    "Lore/Panrelta Timeline.md",
+    "Lore/Campaign 1 Timeline.md",
+    "Loose Ends/Campaign 1 Loose Ends.md",
     "Loose Ends/Panrelta Loose Ends.md",
     "Events/Totally safe boat trip one shot/Awakening of the turtle.md",
-    "Loose Ends/Campaign 1 Loose Ends.md",
     "Suggestions/Suggestion Box.md",
     "CLAUDE.md",
     "Locations/Material Plane/Whisperwood.md",
@@ -409,13 +416,6 @@
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
     "Events/Campaign 1/00 - Campaign Index.md",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "Suggestions/Suggestion History/2026-08-07 - Status of Reed's Campaign 1 summary.md",
-    "Suggestions/Suggestion History/2026-08-07 - Session note filenames and the 1016 question.md",
-    "Suggestions/Suggestion History/2026-08-07 - Placing Thalrik's dream in sequence.md",
-    "Suggestions/Suggestion History/2026-08-07 - Diggory, the Van Hark rumor, and Thalrik's dream.md",
-    "Suggestions/Suggestion History/2026-08-07 - Campaign 1's length and why Aeralath wanted Queensbane.md",
-    "Suggestions/Suggestion History/2026-08-07 - Arthur Van Hark belongs to The Good Ones.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
