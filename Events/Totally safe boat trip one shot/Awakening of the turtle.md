@@ -30,11 +30,7 @@ Chasing the villagers who had run, they went into a cave, fought the creatures l
 
 They escaped by working together to pick a route down to the beach, and got away. As they rode out, the whole island began to move and an enormous turtle's head rose from the ocean. The island was not an island. It was a single turtle-shaped elemental, large enough to be mistaken for land, which is why its position on any map kept changing.
 
-## Loose ends
-
-- Where the turtle is now, and whether it has settled anywhere
-- What the shaman's ritual was for, and whether the villagers were feeding the volcano deliberately
-- Whether the island's wandering is the turtle's own movement or something stranger
+See [[Panrelta Loose Ends]] for open questions.
 
 > In a one shot we maaaaaaay have accidentally awoken a giant turtle shaped elemental the size of an island — surely there will be no negative ramifications to that.
 

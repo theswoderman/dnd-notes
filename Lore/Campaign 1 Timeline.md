@@ -40,17 +40,7 @@ The whole of Campaign 1 spans roughly one year of in-game time. [[Aeralath]]'s d
 21. [[Into Mechanus]]
 22. [[The Slaying of Minthur]]
 
-## Loose threads
-- Scrying on [[Yosco]] aboard the boat revealed [[Dolghast]] is planning something soon; [[King Berrigan]] ordered [[Loryn Malcovitch|Loryn]] to find [[Yosco]] and lead Alnorian forces to [[Dolghast]] to end the war.
-- Modify Memory to review the night [[Jäkel Aleister le Rouge|Jakel]] fled his father: pink light.
-- [[Davynn Brindleknot|Davynn]]'s brother has been revived.
-- Two Viera watched [[Loryn Malcovitch|Loryn]] leave the [[Whisperwood]]: a woman his age, and an older male who looks like him.
-- Who is "the child of the stars"? ([[The Execution of Melvin]])
-- The elder brain knew [[Aeralath]]'s name, and spoke of "two siblings playing god."
-- The Star Spawn Voidling: "the progenitors of this world would return to their rightful place over all things."
-- [[Casimir]] is still in the [[Cube of Carrying]].
-- [[Zargon the Immortal]] is sealed inside [[Jäkel Aleister le Rouge|Jakel]]'s soul. If [[Jäkel Aleister le Rouge|Jakel]] dies first, the soul is forfeit.
-- [[Aeralath]] was helping [[The Sons of Thunder]] gain power, because she wanted them to collect the pieces of [[Queensbane]]. Why she wanted it reassembled is unexplained.
+See [[Campaign 1 Loose Ends]].
 
 ## Ten years on
 [[Panrelta Timeline]]: the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign picks up a decade after Campaign 1 ends.

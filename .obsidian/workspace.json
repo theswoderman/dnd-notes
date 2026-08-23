@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 70.61281337047355,
+        "dimension": 68.99728997289974,
         "children": [
           {
             "id": "422715ec20929148",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suggestions/Suggestion Box.md",
+                "file": "Loose Ends/Panrelta Loose Ends.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Suggestion Box"
+              "title": "Panrelta Loose Ends"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -38,12 +38,12 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 29.387186629526457,
+        "dimension": 31.00271002710027,
         "children": [
           {
             "id": "616fb221e7e6cd63",
             "type": "tabs",
-            "dimension": 72.41379310344827,
+            "dimension": 61.99712643678161,
             "children": [
               {
                 "id": "3c75b250aa647dd0",
@@ -76,7 +76,7 @@
           {
             "id": "eaf4b09cba40c1be",
             "type": "tabs",
-            "dimension": 27.586206896551722,
+            "dimension": 38.002873563218394,
             "children": [
               {
                 "id": "b9003bcd601ba41e",
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Suggestions/Suggestion Box.md",
+                    "file": "Loose Ends/Panrelta Loose Ends.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Suggestion Box"
+                  "title": "Graph of Panrelta Loose Ends"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -387,14 +387,16 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Loose Ends/Panrelta Loose Ends.md",
     "Loose Ends/Campaign 1 Loose Ends.md",
+    "Suggestions/Suggestion Box.md",
+    "CLAUDE.md",
+    "Locations/Material Plane/Whisperwood.md",
     "Loose Ends",
     "index.md",
-    "Suggestions/Suggestion Box.md",
     "People/NPCs/Campaign 1 Notable NPCs/Vhal Nimzur.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
-    "CLAUDE.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
@@ -414,8 +416,6 @@
     "Suggestions/Suggestion History/2026-08-07 - Campaign 1's length and why Aeralath wanted Queensbane.md",
     "Suggestions/Suggestion History/2026-08-07 - Arthur Van Hark belongs to The Good Ones.md",
     "Groups/Black Blood Pack.md",
-    "People/NPCs/Antagonists/Mirna Gribwood.md",
-    "Events/Pilgrims of Panrelta/Events/The Dusk Hag's Dreams.md",
     "Suggestions/Suggestion History",
     "Suggestions",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
