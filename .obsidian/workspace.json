@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Merkari",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
