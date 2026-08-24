@@ -1,7 +1,6 @@
 ---
 tags:
   - lore
-  - ignore
 aliases: []
 ---
 # Campaign 1 Loose Ends

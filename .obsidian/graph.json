@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates -path:Suggestions  ",
+  "collapse-filter": true,
+  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates -path:Suggestions  -path:\"Loose Ends\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,

@@ -70,7 +70,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CLAUDE.md",
+                    "file": "Loose Ends/Panrelta Loose Ends.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -176,7 +176,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of CLAUDE"
+                  "title": "Graph of Panrelta Loose Ends"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -373,6 +373,8 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Loose Ends/Panrelta Loose Ends.md",
+    "Loose Ends/Campaign 1 Loose Ends.md",
     "CLAUDE.md",
     "Lore/The Five Heroes.md",
     "Lore/The Laughing Princess Constellation.md",
@@ -381,8 +383,6 @@
     "Lore/The Blood War.md",
     "Lore/Panrelta Timeline.md",
     "Lore/Campaign 1 Timeline.md",
-    "Loose Ends/Campaign 1 Loose Ends.md",
-    "Loose Ends/Panrelta Loose Ends.md",
     "Events/Totally safe boat trip one shot/Awakening of the turtle.md",
     "Suggestions/Suggestion Box.md",
     "Locations/Material Plane/Whisperwood.md",
