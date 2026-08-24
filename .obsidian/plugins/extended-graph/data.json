@@ -498,7 +498,7 @@
   "selectNodeModifier": "Shift",
   "filterAbstractFiles": [],
   "ignoreInlineLinks": false,
-  "collapseState": false,
+  "collapseState": true,
   "collapseLegend": true,
   "resetAfterChanges": false,
   "collapsedSettings": {

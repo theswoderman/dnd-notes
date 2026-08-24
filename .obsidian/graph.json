@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
+  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates -path:Suggestions  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -87,14 +87,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 1.11849585471773,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 1,
-  "repelStrength": 20,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
+  "linkDistance": 250,
   "scale": 0.27268599173600633,
   "close": false
 }
