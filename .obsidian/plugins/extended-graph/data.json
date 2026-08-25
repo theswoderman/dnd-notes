@@ -293,10 +293,10 @@
         "nodeSizeMultiplier": 1.11849585471773,
         "showArrow": false,
         "textFadeMultiplier": 3,
-        "centerStrength": 0.518713248970312,
-        "linkDistance": 250,
+        "centerStrength": 0.150829268292683,
+        "linkDistance": 500,
         "linkStrength": 1,
-        "repelStrength": 10
+        "repelStrength": 9.9886746250383
       },
       "toggleTypes": {
         "tag": [],

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates -path:Suggestions  -path:\"Loose Ends\"  ",
   "showTags": false,
   "showAttachments": false,
@@ -90,11 +90,11 @@
   "textFadeMultiplier": 3,
   "nodeSizeMultiplier": 1.11849585471773,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.150829268292683,
+  "repelStrength": 9.9886746250383,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.27268599173600633,
+  "linkDistance": 500,
+  "scale": 0.0989543021863711,
   "close": false
 }
