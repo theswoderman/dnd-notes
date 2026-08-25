@@ -1,10 +1,9 @@
 {
-  "collapse-filter": false,
-  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  -path:Templates -path:Suggestions  -path:\"Loose Ends\"  ",
+  "collapse-filter": true,
+  "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -87,14 +86,18 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 1.11849585471773,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.150829268292683,
-  "repelStrength": 9.9886746250383,
+  "collapse-forces": true,
+  "centerStrength": 1,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.0989543021863711,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.13873223932666032,
+  "close": false,
+  "localBacklinks": true,
+  "localForelinks": true,
+  "localInterlinks": true,
+  "localJumps": 1
 }

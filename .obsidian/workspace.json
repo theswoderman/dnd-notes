@@ -6,74 +6,39 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 89.15989159891599,
+        "dimension": 81.6260162601626,
         "children": [
           {
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 29"
             },
             "group": "5f6a3ec99364036b"
-          },
-          {
-            "id": "e853a01fe453ce9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deities/Bane.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bane"
-            }
-          },
-          {
-            "id": "1ed768c2e4a88510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/NPCs/Antagonists/Sila Frostblood.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sila Frostblood"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 10.840108401084011,
+        "dimension": 18.3739837398374,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -119,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Loose Ends/Panrelta Loose Ends.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -225,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Panrelta Loose Ends"
+                  "title": "Graph of Session 29"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -420,10 +385,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e853a01fe453ce9f",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Items and Artifacts/The Black Grail.md",
     "People/NPCs/Antagonists/Sila Frostblood.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
+    "People/NPCs/Campaign 1 Notable NPCs/Ensira.md",
+    "Items and Artifacts/The Abyssal Orb.md",
+    "Locations/Material Plane/Dogodr.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "People/NPCs/The Collector.md",
+    "Suggestions/Suggestion History/2026-08-12.md",
+    "Deities/Bane.md",
+    "Items and Artifacts/The Black Grail.md",
     "Blood Raven.md",
     "Groups/Sisters of the Gnarled Veil.md",
     "Groups/The Blood Ravens.md",
@@ -440,15 +413,7 @@
     "Loose Ends/Panrelta Loose Ends.md",
     "Loose Ends/Campaign 1 Loose Ends.md",
     "CLAUDE.md",
-    "Lore/Campaign 1 Timeline.md",
-    "Suggestions/Suggestion Box.md",
-    "Locations/Material Plane/Whisperwood.md",
     "Loose Ends",
-    "People/NPCs/Campaign 1 Notable NPCs/Vhal Nimzur.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
-    "Session Notes/Campaign 1/Campaign 1 Summary.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
     "Suggestions/Suggestion History",
