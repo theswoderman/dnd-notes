@@ -20,6 +20,30 @@
             "group": "5f6a3ec99364036b"
           },
           {
+            "id": "e853a01fe453ce9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deities/Bane.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bane"
+            }
+          },
+          {
             "id": "1ed768c2e4a88510",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               "title": "Sila Frostblood"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f84238e61591256",
@@ -395,10 +420,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "e853a01fe453ce9f",
   "lastOpenFiles": [
-    "Groups/Sisters of the Gnarled Veil.md",
+    "Items and Artifacts/The Black Grail.md",
     "People/NPCs/Antagonists/Sila Frostblood.md",
+    "Blood Raven.md",
+    "Groups/Sisters of the Gnarled Veil.md",
     "Groups/The Blood Ravens.md",
     "Lore/The Planar Realignment.md",
     "Lore/The Laughing Princess Constellation.md",
@@ -406,7 +433,6 @@
     "Lore/The Blood War.md",
     "Lore/Panrelta Timeline.md",
     "Lore/The Five Heroes.md",
-    "Blood Raven.md",
     "People/Totally safe boat trip one shot/Grug.md",
     "Groups/The Island Adventurers.md",
     "Events/Totally safe boat trip one shot/Awakening of the turtle.md",
@@ -423,7 +449,6 @@
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
     "Suggestions/Suggestion History",
