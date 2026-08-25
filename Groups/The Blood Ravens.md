@@ -1,7 +1,7 @@
 ---
 tags: [faction, mercenary]
 ---
-# The Blood Raven
+# The Blood Ravens
 
 [[Jäkel Aleister le Rouge|Jakel]]'s old mercenary company, based out of [[Bloodraven Keep]] in [[Grekosha]]. They helped [[The Sons of Thunder]] break into the queen's palace in [[Baristos]] and kill [[Onias Kane]].
 

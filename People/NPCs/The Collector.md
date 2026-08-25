@@ -26,7 +26,7 @@ He woke up furious that they had cured him. He called himself a servant of [[Mal
 
 [[Gegga]] killed him.
 
-The party then found boxes of black dragon scales in the back of his cart, packed like a smuggling run. The only black dragon anyone knows to have died was killed by the [[Blood Raven|Blood Ravens]], and a second dragon death seems unlikely, so the scales are probably from that one.
+The party then found boxes of black dragon scales in the back of his cart, packed like a smuggling run. The only black dragon anyone knows to have died was killed by the [[The Blood Ravens|Blood Ravens]], and a second dragon death seems unlikely, so the scales are probably from that one.
 
 His body went into the bag, alongside [[The Abyssal Orb]]. The party's own assessment: probably a horrible idea.
 

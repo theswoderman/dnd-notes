@@ -18,7 +18,7 @@ married to the former military commander of [[Rorinden]]
 # Jäkel
 
 **Class:** Warlock, later paladin of the Oath of the Red Knight
-**Affiliation:** [[The Sons of Thunder]], [[Blood Raven]], armies of [[Grekosha]]
+**Affiliation:** [[The Sons of Thunder]], [[The Blood Ravens]], armies of [[Grekosha]]
 **Status:** Alive
 **Titles:** Raven Lord, High General of [[Grekosha]]; the Scarlet Raven
 

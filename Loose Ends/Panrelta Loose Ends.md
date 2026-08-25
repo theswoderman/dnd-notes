@@ -42,7 +42,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 
 ## From the Collector
 
-- Boxes of black dragon scales in his cart, packed like a smuggling run. The only known black dragon kill was the [[Blood Raven|Blood Ravens]]', so the scales are probably from that one. Who was buying is unknown, and whether the [[Black Blood Pack]] is involved
+- Boxes of black dragon scales in his cart, packed like a smuggling run. The only known black dragon kill was the [[The Blood Ravens|Blood Ravens]]', so the scales are probably from that one. Who was buying is unknown, and whether the [[Black Blood Pack]] is involved
 - The [[Black Blood Pack]] he swore would come for [[The Good Ones]]. Where the pack is, whether the threat was real, and whether they know [[The Collector]] is dead
 - What to do with the remaining animal parts, and what [[Beemo]]'s experimental brew does. The parts were trophies for [[Malar]]'s rite, not merchandise
 - [[Starfall Clearing]] was his destination, confirmed by his corpse but never explained. Whether it is still worth visiting

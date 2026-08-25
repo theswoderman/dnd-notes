@@ -13,7 +13,7 @@ stirred with a manticore spine
   
 [[Malar]] is the beastlord, god of hunters, god of lycanthropes.  
   
-we find boxes of black dragon scales in the back of his cart in boxes, like he had been smuggling them. we know a black dragon had been killed by the [[Blood Raven|blood ravens]] (basically seal team six for [[Grekosha|grekosha]]) seems unlikely that another dragon died  
+we find boxes of black dragon scales in the back of his cart in boxes, like he had been smuggling them. we know a black dragon had been killed by the [[The Blood Ravens|blood ravens]] (basically seal team six for [[Grekosha|grekosha]]) seems unlikely that another dragon died  
   
 correction to [[Arthur Van Hark|arthur van hark]]: it was [[Jäkel Aleister le Rouge|jakel]] who tried to revive him and also they tried to revive him but the revive spell requirements were not met  
   

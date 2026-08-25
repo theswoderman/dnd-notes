@@ -20,12 +20,12 @@
             "group": "5f6a3ec99364036b"
           },
           {
-            "id": "84aec62740c7c540",
+            "id": "1ed768c2e4a88510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Blood Raven.md",
+                "file": "Groups/Sisters of the Gnarled Veil.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blood Raven"
+              "title": "Sisters of the Gnarled Veil"
             }
           }
         ],
@@ -228,7 +228,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -396,8 +396,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84aec62740c7c540",
+  "active": "1ed768c2e4a88510",
   "lastOpenFiles": [
+    "Groups/The Blood Ravens.md",
+    "Lore/The Planar Realignment.md",
+    "Lore/The Laughing Princess Constellation.md",
+    "Lore/The Dawning.md",
+    "Lore/The Blood War.md",
+    "Lore/Panrelta Timeline.md",
+    "Lore/The Five Heroes.md",
+    "Blood Raven.md",
     "People/Totally safe boat trip one shot/Grug.md",
     "Groups/The Island Adventurers.md",
     "Events/Totally safe boat trip one shot/Awakening of the turtle.md",
@@ -405,12 +413,6 @@
     "Loose Ends/Panrelta Loose Ends.md",
     "Loose Ends/Campaign 1 Loose Ends.md",
     "CLAUDE.md",
-    "Lore/The Five Heroes.md",
-    "Lore/The Laughing Princess Constellation.md",
-    "Lore/The Planar Realignment.md",
-    "Lore/The Dawning.md",
-    "Lore/The Blood War.md",
-    "Lore/Panrelta Timeline.md",
     "Lore/Campaign 1 Timeline.md",
     "Suggestions/Suggestion Box.md",
     "Locations/Material Plane/Whisperwood.md",
@@ -423,8 +425,6 @@
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
     "Suggestions/Suggestion History/2026-08-18.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30 notes.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Prelude for Thalrik Lastfeast.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Early session catch up notes.md",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
     "Suggestions/Suggestion History",

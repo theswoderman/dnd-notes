@@ -56,7 +56,7 @@ Ten years on from [[The Sundering]]-era business and the fall of [[Aeralath]]. C
 - Locations sit inside the same nations: [[The Iron Oak Woods]] and [[Hor Garam]] in [[Stonehold]], [[Khulask Hollow]] and [[Kaz'an Hold]] in [[Dolghast]]
 - The pantheon is shared: [[Torm]], [[Illmater]], [[Nebulu]], and now [[Malar]], [[Bane]] and [[Sylvanus]]
 - [[Jäkel Aleister le Rouge|Jakel]] is the one who tried and failed to resurrect [[Arthur Van Hark]]
-- The [[Blood Raven|Blood Ravens]] are [[Grekosha]]'s elite unit a decade on, and killed the black dragon whose scales turned up in [[The Collector]]'s cart
+- The [[The Blood Ravens|Blood Ravens]] are [[Grekosha]]'s elite unit a decade on, and killed the black dragon whose scales turned up in [[The Collector]]'s cart
 - A necrohulk from [[The Abyss]] ([[Aeralath]]'s home plane) surfaced beneath the deep mines. [[The Abyssal Orb]] found inside it is bound for [[The Sons of Thunder]]
 
 ## Sessions

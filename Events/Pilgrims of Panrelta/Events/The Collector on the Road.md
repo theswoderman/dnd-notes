@@ -25,7 +25,7 @@ Then [[The Collector]] woke up, furious that they had cured him. He called himse
 
 [[Gegga]] killed him. Everyone was forced to make wisdom saves. All succeeded except [[Gegga]], who took a level of exhaustion and became afraid of lycanthropes for four days. [[Thol]] and [[Gegga]] talked afterward about keeping better control of their instincts in stressful situations, and the party had further conversation with her about her remorse on the road.
 
-Searching the cart, they found boxes of black dragon scales in the back, packed like a smuggling run. A black dragon had been killed by the [[Blood Raven|Blood Ravens]] ([[Grekosha]]'s elite unit) and it seems unlikely a second dragon died, so the scales are probably from that kill.
+Searching the cart, they found boxes of black dragon scales in the back, packed like a smuggling run. A black dragon had been killed by the [[The Blood Ravens|Blood Ravens]] ([[Grekosha]]'s elite unit) and it seems unlikely a second dragon died, so the scales are probably from that kill.
 
 They put his body in the bag, with [[The Abyssal Orb]]. Their own assessment: probably a horrible idea.
 
