@@ -19,7 +19,7 @@ Whatever they are planning is happening in the [[Dragonspine Mountains]]. What i
 
 Two things sit alongside that, neither confirmed as connected:
 
-- [[Diggory Psalm]] of [[The Sons of Thunder]] built his temple to [[Torm]] in the [[Dragonspine Mountains]] and trains a band of heroes there
+- [[Diggory Psalm]] built his temple to [[Torm]] in the [[Dragonspine Mountains]] and trains a band of heroes there
 - The coven may be trying to resurrect a dragon, and the range is named for one
 
 ## The dream campaign

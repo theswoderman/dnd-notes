@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Sisters of the Gnarled Veil.md",
+                "file": "People/NPCs/Antagonists/Sila Frostblood.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,11 +40,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sisters of the Gnarled Veil"
+              "title": "Sila Frostblood"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2f84238e61591256",
@@ -396,8 +395,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ed768c2e4a88510",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Groups/Sisters of the Gnarled Veil.md",
+    "People/NPCs/Antagonists/Sila Frostblood.md",
     "Groups/The Blood Ravens.md",
     "Lore/The Planar Realignment.md",
     "Lore/The Laughing Princess Constellation.md",
@@ -423,8 +424,6 @@
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
-    "Suggestions/Suggestion History/2026-08-18.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30 notes.md",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
     "Suggestions/Suggestion History",
