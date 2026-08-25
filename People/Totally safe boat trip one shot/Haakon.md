@@ -6,7 +6,7 @@ tags: [character, one-shot]
 **Player:** [[Cameron]]
 **Race:** Aarakocra
 **Class:** Warlock
-**Affiliation:** the one-shot party (no recorded name)
+**Affiliation:** [[The Island Adventurers]]
 **Status:** Unknown
 
 ## Summary
@@ -16,7 +16,7 @@ One of the five adventurers who sailed out to find the wandering island and woke
 - Was shipwrecked, captured and nearly sacrificed, then broke out and fought clear. See [[Awakening of the turtle]]
 
 ## Connections
-- [[Alyris]], [[Orist]], [[Grug]], [[Kael'zar]], the rest of the party
+- [[The Island Adventurers]]
 
 ## Sessions
 - A single one-shot session, date unrecorded

@@ -10,13 +10,7 @@ tags: [event, one-shot]
 
 ## The party
 
-Five adventurers, none of whom appear in either main campaign:
-
-- [[Alyris]], half-elf bard
-- [[Orist]], high elf paladin
-- [[Grug]], goliath monk
-- [[Kael'zar]], tiefling sorceress
-- [[Haakon]], aarakocra warlock
+[[The Island Adventurers]], five adventurers none of whom appear in either main campaign.
 
 ## What happened
 
