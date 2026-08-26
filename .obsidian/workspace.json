@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Campaign 1 Timeline.md",
+                "file": "Events/Campaign 1/Events/The Goblin Caves and the Hilt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campaign 1 Timeline"
+              "title": "The Goblin Caves and the Hilt"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Lore/Campaign 1 Timeline.md",
+                    "file": "Events/Campaign 1/Events/The Goblin Caves and the Hilt.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Timeline"
+                  "title": "Graph of The Goblin Caves and the Hilt"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -387,9 +387,12 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Campaign 1/Campaign 1 Summary.md",
+    "Events/Campaign 1/Events/The Goblin Caves and the Hilt.md",
     "Events/Campaign 1/Events/The Attack on Mudbend.md",
-    "index.md",
     "Lore/Campaign 1 Timeline.md",
+    "Locations/Material Plane/Mudbend.md",
+    "index.md",
     "Events/Campaign 1/Events/The Hunt for the Peddler.md",
     "Groups/The Sons of Thunder.md",
     "Events/Campaign 1/00 - Campaign Index.md",
@@ -410,9 +413,6 @@
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
     "People/NPCs/Campaign 1 Notable NPCs/Ensira.md",
     "Items and Artifacts/The Abyssal Orb.md",
-    "Locations/Material Plane/Dogodr.md",
-    "People/NPCs/The Collector.md",
-    "Suggestions/Suggestion History/2026-08-12.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
