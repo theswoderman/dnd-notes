@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Planar Realignment.md",
+                "file": "Events/Campaign 1/Events/The Mural and the Gem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Planar Realignment"
+              "title": "The Mural and the Gem"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Lore/The Planar Realignment.md",
+                    "file": "Events/Campaign 1/Events/The Mural and the Gem.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of The Planar Realignment"
+                  "title": "Graph of The Mural and the Gem"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -387,9 +387,11 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Events/Campaign 1/Events/The Sundering.md",
-    "Suggestions/Suggestion History/2026-08-18.md",
+    "Groups/Nezerai Empire.md",
     "Lore/Campaign 1 Timeline.md",
+    "Events/Campaign 1/Events/The Sundering.md",
+    "Lore/The Planar Realignment.md",
+    "Suggestions/Suggestion History/2026-08-18.md",
     "Events/Campaign 1/00 - Campaign Index.md",
     "Suggestions/Suggestion Box.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
@@ -405,14 +407,12 @@
     "Blood Raven.md",
     "Groups/Sisters of the Gnarled Veil.md",
     "Groups/The Blood Ravens.md",
-    "Lore/The Planar Realignment.md",
     "Lore/The Laughing Princess Constellation.md",
     "Lore/The Dawning.md",
     "Lore/The Blood War.md",
     "Lore/Panrelta Timeline.md",
     "Lore/The Five Heroes.md",
     "People/Totally safe boat trip one shot/Grug.md",
-    "Groups/The Island Adventurers.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",

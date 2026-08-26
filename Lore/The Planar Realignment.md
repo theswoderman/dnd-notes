@@ -12,15 +12,15 @@ The colored rifts appearing across the world are temporary overlaps between plan
 [[Queensbane]] seals them on contact.
 
 ## Rifts recorded so far
-| Color | Where | Leads to |
-|---|---|---|
-| Pink | Goblin caves near [[Mudbend]] | Unknown |
-| Emerald green | Road to [[Whitehall]] | Unknown |
-| Orange | Mines beneath [[Silverwell]] | [[Nine Hells of Baator]] |
-| Bright yellow | Gnoll lands west of [[Whitehall]] | Unknown |
-| Deep purple | Road near [[Dogodr]] | Pandemonium / [[Limbo]] |
-| Gold | [[Deepforge]] | Unknown |
-| Pink | Beneath the ziggurat, [[Unclaimed Isle]] | [[The Abyss]], opened deliberately by [[Anathimus the Abhorrent]] |
+| Color         | Where                                    | Leads to                                                          |
+| ------------- | ---------------------------------------- | ----------------------------------------------------------------- |
+| Pink          | Goblin caves near [[Mudbend]]            | Unknown                                                           |
+| Emerald green | Road to [[Whitehall]]                    | Unknown                                                           |
+| Orange        | Mines beneath [[Silverwell]]             | [[Nine Hells of Baator]]                                          |
+| Bright yellow | Gnoll lands west of [[Whitehall]]        | Unknown                                                           |
+| Deep purple   | Road near [[Dogodr]]                     | Pandemonium / [[Limbo]]                                           |
+| Gold          | [[Deepforge]]                            | Unknown                                                           |
+| Pink          | Beneath the ziggurat, [[Unclaimed Isle]] | [[The Abyss]], opened deliberately by [[Anathimus the Abhorrent]] |
 
 ## Why it matters
 When the planes fully align, [[Aeralath]] returns with an army, within months per the gods in the [[Platinum Palace]]. [[The Black Crown]] and [[Dolghast]] are spending lives to strengthen her for the moment she arrives.
