@@ -2,50 +2,40 @@
 
 Our story takes place in the material realm of Estrana, home to humans, elves, dwarves, halflings, gnomes, and many other intelligent races. The year is 1016 A.P., a little over 1,000 years since the end of the great war that encompassed the entire world. That war was between Alnoria and Rorinden, the empire nation to the south, and that war ended when the Prince of Alnoria confessed his love for the princess of Rorinden, and a bridge was built between the two capital cities to represent their ongoing alliance. The story begins in a time of great uncertainty - there are whispers of war with Dolghast in the east and Ornuth to the far south. Plus, there have been reports of strange lights all over Alnoria, and sightings of strange and dangerous creatures not seen for decades or even centuries.
 
-  
 
 ## [[The Attack on Mudbend]]
 
 Our heroes came together in the town of Mudbend, a backwoods border village on the western border between Alnoria and the Dwarven kingdom of Vallenhein. Pig wrestling and merriment were had during the annual fall harvest festival. But, peace was shattered when a band of goblins assaulted the village. Our group of strangers banded together and fought them off, and were then asked to venture into the swamps after the goblins to recover the food stolen by the goblins. Without that food, the village would likely not make it through winter. A young girl, a fighter named Soraya Hawthorne, guided them through the swamps until they made it to the goblin village.
 
-  
 
 ## [[The Goblin Caves and the Hilt]]
 
 Under the goblin village, the party slew the goblin leader, only to see a shadow demon rise from its corpse. The demon was defeated, and the party ventured further into the caves and found a strange pink rift to what could only be some other plane or realm. Something drew Bathoz’s attention to a pile of bones, and he found an ancient handle and hilt to a dark iron blade. Upon touching the hilt, he had visions of his homeland in flames, a giant bestial roar in the distance. His vision over, a beam of energy leapt from the hilt and slammed the rift shut. 
 
   
-
 ## [[The Hunt for the Peddler]]
 
 Everyone decided to carry on as a group, then headed for Runswick, a large city east of Mudbend, hoping to catch a criminal by the name of the Peddler, whom Loryn had been searching for. The Peddler was responsible for several murders and killings throughout Alnoria. After a brief adventure into the Tomb of Evendor, a knight who slew a wicked king of Alnoria 400 years ago, the party caught up with the Peddler at the home of Runswick’s mayor. The party did battle with the Pedder, but he escaped through a hidden exit. They caught up to the Peddler outside of town, where he was conversing with a mysterious figure in black armor, with a helmet adorned with antlers. The mysterious man killed the Peddler with one deadly spell, then proceeded to summon two demons to fend off the party as he fled. Investigating the corpse of the Peddler, the party discovered a large tattoo on the murderer’s back, a manifesto proclaiming death and destruction is an offering to “their matron”, as well as a tattoo of a black skull with a crown antlers. The party, now called the Sons of Thunder, barely defeated the demons, and then set out for Whitehall, the capital city, to collect their reward for stopping the Peddler.
 
 
-
-  
-
 ## [[The King's Tournament]]
 
 Along the way they came across other heroes who were headed to the city for a tournament the king was holding. They encountered another rift, this one an emerald green color, as well as some talking rhinos and a small celestial elephant-like creature. The party was unsure where this green rift led to, but Bathoz’s sword hilt again was able to seal the rift.
-
   
 
 ## [[The Voyage to Vallenhein]]
 
 The party arrived in Whitehall, collected their money, and won the kings tournament, earning them a bit of fame, some powerful rewards, and an audience with King Berrigan. Having seen their combat prowess and investigative skills, he asked them to travel to Vallenhein to find out why the Alnorian ambassador was forcefully ousted and the borders were closed. The party set sail for Vallenhein, a 3 week journey, and fought off some Weresharks along the way. Arriving in Hödlhafen, the party continued on with a caravan towards Silverwell, the capital. They were attacked by orcs, and met two new friends, Myrn Lim (Lizardfolk Shaman), and Badger Barkbeard (Dwarf Druid). They defeated the orcs, and continued on foot, having to confront a frost giant and a white dragon in order to escape the frozen valley.
-
   
 
 ## [[The Mines of Silverwell]]
 
 Having finally made it to Silverwell, the party went about collecting information to determine why the king of Vallenhein, Oberin Steeleborn, was locking down the kingdom and removing foreign ambassadors. They decided to delve into the mines to investigate the disappearance of gold and silver, in the hopes of gaining favor with the powers-that-be in exchange for information. Turns out some Duergar were offering large portions of gold and silver to an Archdevil, the Lord of Greed known as Mammon, so that he would bless them with devilish power so the scorned Duergar could retake Silverwell. The party found a second piece of the sword that Bathoz found, and this time Davynn found the piece, having a vision of his home town of Blubberpike in flames. They then freed a dragonborn prisoner named Arjan Taneresh, who helped them stop the Duergar, defeat a fallen devilish paladin, and close yet another rift, this time an orange one leading to the Nine Hells of Baator. 
 
-  
 
 ## [[The Consumed and the Vallenhein Civil War]]
 
 Having prevented an invasion, the party was able to speak with Prince Fargrim, who told them his father went on a hunting trip to the Isle of Eismir about two months prior. He came back alone, without his guards, and had been acting differently since. The Sons of Thunder sailed to Eismir and uncovered that King Oberin and his men got into an altercation with a hag, which resulted in the hag’s death. But, the hag had 3 sisters who killed the king’s men, and summoned an ancient aberration known as the Consumed. The Consumed ate the king, took the form of the dead king, and assumed his role on the throne of Silverwell, sewing pain and misery while slowly consuming more dwarves and taking their places. The party informed Prince Fargrim, and a civil war broke out in the city. They fought their way to the throne room, and alongside the prince, and defeated the Consumed, but not before Bathoz was slain by the monster. 
-
   
 
 ## [[Knighthood and the Haunted Manor]]
