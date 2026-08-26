@@ -19,7 +19,7 @@ The whole of Campaign 1 spans roughly one year of in-game time. [[Aeralath]]'s d
 
 1. [[The Attack on Mudbend]]
 2. [[The Goblin Caves and the Hilt]]
-3. [[The Hunt for the Peddler]]. [[The Sons of Thunder]] names itself
+3. [[The Hunt for the Peddler]]
 4. [[The King's Tournament]]
 5. [[The Voyage to Vallenhein]]
 6. [[The Mines of Silverwell]]
