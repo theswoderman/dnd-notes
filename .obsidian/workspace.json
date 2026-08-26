@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Campaign 1/Events/The Mural and the Gem.md",
+                "file": "Lore/Panrelta Timeline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Mural and the Gem"
+              "title": "Panrelta Timeline"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Events/Campaign 1/Events/The Mural and the Gem.md",
+                    "file": "Lore/Panrelta Timeline.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of The Mural and the Gem"
+                  "title": "Graph of Panrelta Timeline"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -217,7 +217,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -387,8 +387,14 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Groups/Nezerai Empire.md",
+    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
     "Lore/Campaign 1 Timeline.md",
+    "People/NPCs/Antagonists/Golzokroth.md",
+    "People/NPCs/Antagonists/Kyron Delinor.md",
+    "Locations/Material Plane/Stonehold.md",
+    "Locations/Material Plane/Tomb of Evendor.md",
+    "Groups/Nezerai Empire.md",
+    "Events/Campaign 1/Events/The Mural and the Gem.md",
     "Events/Campaign 1/Events/The Sundering.md",
     "Lore/The Planar Realignment.md",
     "Suggestions/Suggestion History/2026-08-18.md",
@@ -407,12 +413,6 @@
     "Blood Raven.md",
     "Groups/Sisters of the Gnarled Veil.md",
     "Groups/The Blood Ravens.md",
-    "Lore/The Laughing Princess Constellation.md",
-    "Lore/The Dawning.md",
-    "Lore/The Blood War.md",
-    "Lore/Panrelta Timeline.md",
-    "Lore/The Five Heroes.md",
-    "People/Totally safe boat trip one shot/Grug.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",

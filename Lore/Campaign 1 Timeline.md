@@ -7,12 +7,12 @@ tags:
 # Campaign 1 Timeline
 
 ## Ancient history
-- **~10,000 years ago**: [[The Sundering]]. [[Aeralath]] summoned and sealed by [[The Five Heroes]]; the planes severed; [[Queensbane]] shattered. Three of the five die; only [[Dryzmir Aletall]] and [[Vhal Nimzur]] survive.
-- **~9,000 years ago**: the [[Nezerai Empire]] goes extinct.
-- **~400 years ago**: [[Atrios Wyrmslayer]] saves [[Stonehold]] from an earth titan. Evendor slays a wicked king of [[Alnoria]] ([[Tomb of Evendor]]).
-- **~1,000 years ago**: the war between [[Alnoria]] and [[Rorinden]] ends in a royal marriage. Year 0 of the A.P. calendar. A.P. stands for *At Peace*, counted from that ending. See [[Estrana]].
-- **~50 years ago**: [[Kyron Delinor]] escapes imprisonment. The [[Ruby Palace]] is last sighted in the [[Astral Sea]].
-- **~40 years ago**: [[Golzokroth]] kills [[Elyon Ivasil]]'s friends and [[Mehea Talth]]'s father.
+- **~9,000 years before 0 A.P.**: [[The Sundering]]. [[Aeralath]] summoned and sealed by [[The Five Heroes]]; the planes severed; [[Queensbane]] shattered. Three of the five die; only [[Dryzmir Aletall]] and [[Vhal Nimzur]] survive.
+- **~8,000 years before 0 A.P.**: the [[Nezerai Empire]] goes extinct.
+- **0 A.P.**: the war between [[Alnoria]] and [[Rorinden]] ends in a royal marriage. The A.P. calendar begins. A.P. stands for *At Peace*, counted from that ending. See [[Estrana]].
+- **~600 A.P.**: [[Atrios Wyrmslayer]] saves [[Stonehold]] from an earth titan. Evendor slays a wicked king of [[Alnoria]] ([[Tomb of Evendor]]).
+- **~970 A.P.**: [[Kyron Delinor]] escapes imprisonment. The [[Ruby Palace]] is last sighted in the [[Astral Sea]].
+- **~980 A.P.**: [[Golzokroth]] kills [[Elyon Ivasil]]'s friends and [[Mehea Talth]]'s father.
 
 ## The campaign: 1016 to 1017 A.P.
 The whole of Campaign 1 spans roughly one year of in-game time. [[Aeralath]]'s defeat at the end of it closes the A.P. calendar and begins the Dawning Era (D.E.), making 1017 A.P. also 1 D.E. See [[Estrana]].
