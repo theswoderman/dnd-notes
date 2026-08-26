@@ -12,10 +12,24 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Lore/The Planar Realignment.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Planar Realignment"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -70,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Suggestions/Suggestion Box.md",
+                    "file": "Lore/The Planar Realignment.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -176,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Suggestion Box"
+                  "title": "Graph of The Planar Realignment"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -373,6 +387,10 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Events/Campaign 1/Events/The Sundering.md",
+    "Suggestions/Suggestion History/2026-08-18.md",
+    "Lore/Campaign 1 Timeline.md",
+    "Events/Campaign 1/00 - Campaign Index.md",
     "Suggestions/Suggestion Box.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "People/NPCs/Antagonists/Sila Frostblood.md",
@@ -395,10 +413,6 @@
     "Lore/The Five Heroes.md",
     "People/Totally safe boat trip one shot/Grug.md",
     "Groups/The Island Adventurers.md",
-    "Events/Totally safe boat trip one shot/Awakening of the turtle.md",
-    "index.md",
-    "Loose Ends/Panrelta Loose Ends.md",
-    "Loose Ends/Campaign 1 Loose Ends.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",

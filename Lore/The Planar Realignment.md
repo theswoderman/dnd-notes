@@ -3,7 +3,7 @@ tags: [lore, major]
 ---
 # The Planar Realignment
 
-The central mystery of campaign 1, and its ticking clock.
+The central mystery of campaign 1.
 
 Since [[The Sundering]], the outer planes have drifted in the [[Astral Sea]], severed from [[Estrana]]. They are now reconverging.
 
