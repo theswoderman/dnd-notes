@@ -4,37 +4,59 @@ Our story takes place in the material realm of Estrana, home to humans, elves, d
 
   
 
+## [[The Attack on Mudbend]]
+
 Our heroes came together in the town of Mudbend, a backwoods border village on the western border between Alnoria and the Dwarven kingdom of Vallenhein. Pig wrestling and merriment were had during the annual fall harvest festival. But, peace was shattered when a band of goblins assaulted the village. Our group of strangers banded together and fought them off, and were then asked to venture into the swamps after the goblins to recover the food stolen by the goblins. Without that food, the village would likely not make it through winter. A young girl, a fighter named Soraya Hawthorne, guided them through the swamps until they made it to the goblin village.
 
   
+
+## [[The Goblin Caves and the Hilt]]
 
 Under the goblin village, the party slew the goblin leader, only to see a shadow demon rise from its corpse. The demon was defeated, and the party ventured further into the caves and found a strange pink rift to what could only be some other plane or realm. Something drew Bathoz’s attention to a pile of bones, and he found an ancient handle and hilt to a dark iron blade. Upon touching the hilt, he had visions of his homeland in flames, a giant bestial roar in the distance. His vision over, a beam of energy leapt from the hilt and slammed the rift shut. 
 
   
 
+## [[The Hunt for the Peddler]]
+
 Everyone decided to carry on as a group, then headed for Runswick, a large city east of Mudbend, hoping to catch a criminal by the name of the Peddler, whom Loryn had been searching for. The Peddler was responsible for several murders and killings throughout Alnoria. After a brief adventure into the Tomb of Evendor, a knight who slew a wicked king of Alnoria 400 years ago, the party caught up with the Peddler at the home of Runswick’s mayor. The party did battle with the Pedder, but he escaped through a hidden exit. They caught up to the Peddler outside of town, where he was conversing with a mysterious figure in black armor, with a helmet adorned with antlers. The mysterious man killed the Peddler with one deadly spell, then proceeded to summon two demons to fend off the party as he fled. Investigating the corpse of the Peddler, the party discovered a large tattoo on the murderer’s back, a manifesto proclaiming death and destruction is an offering to “their matron”, as well as a tattoo of a black skull with a crown antlers. The party, now called the Sons of Thunder, barely defeated the demons, and then set out for Whitehall, the capital city, to collect their reward for stopping the Peddler.
 
   
+
+## [[The King's Tournament]]
 
 Along the way they came across other heroes who were headed to the city for a tournament the king was holding. They encountered another rift, this one an emerald green color, as well as some talking rhinos and a small celestial elephant-like creature. The party was unsure where this green rift led to, but Bathoz’s sword hilt again was able to seal the rift.
 
   
 
+## [[The Voyage to Vallenhein]]
+
 The party arrived in Whitehall, collected their money, and won the kings tournament, earning them a bit of fame, some powerful rewards, and an audience with King Berrigan. Having seen their combat prowess and investigative skills, he asked them to travel to Vallenhein to find out why the Alnorian ambassador was forcefully ousted and the borders were closed. The party set sail for Vallenhein, a 3 week journey, and fought off some Weresharks along the way. Arriving in Hödlhafen, the party continued on with a caravan towards Silverwell, the capital. They were attacked by orcs, and met two new friends, Myrn Lim (Lizardfolk Shaman), and Badger Barkbeard (Dwarf Druid). They defeated the orcs, and continued on foot, having to confront a frost giant and a white dragon in order to escape the frozen valley.
 
   
+
+## [[The Mines of Silverwell]]
 
 Having finally made it to Silverwell, the party went about collecting information to determine why the king of Vallenhein, Oberin Steeleborn, was locking down the kingdom and removing foreign ambassadors. They decided to delve into the mines to investigate the disappearance of gold and silver, in the hopes of gaining favor with the powers-that-be in exchange for information. Turns out some Duergar were offering large portions of gold and silver to an Archdevil, the Lord of Greed known as Mammon, so that he would bless them with devilish power so the scorned Duergar could retake Silverwell. The party found a second piece of the sword that Bathoz found, and this time Davynn found the piece, having a vision of his home town of Blubberpike in flames. They then freed a dragonborn prisoner named Arjan Taneresh, who helped them stop the Duergar, defeat a fallen devilish paladin, and close yet another rift, this time an orange one leading to the Nine Hells of Baator. 
 
   
 
+## [[The Consumed and the Vallenhein Civil War]]
+
 Having prevented an invasion, the party was able to speak with Prince Fargrim, who told them his father went on a hunting trip to the Isle of Eismir about two months prior. He came back alone, without his guards, and had been acting differently since. The Sons of Thunder sailed to Eismir and uncovered that King Oberin and his men got into an altercation with a hag, which resulted in the hag’s death. But, the hag had 3 sisters who killed the king’s men, and summoned an ancient aberration known as the Consumed. The Consumed ate the king, took the form of the dead king, and assumed his role on the throne of Silverwell, sewing pain and misery while slowly consuming more dwarves and taking their places. The party informed Prince Fargrim, and a civil war broke out in the city. They fought their way to the throne room, and alongside the prince, and defeated the Consumed, but not before Bathoz was slain by the monster. 
 
   
 
-Fargrim was named King, and to thank the party, swore that when war finally came, the people of Vallenhein would come to Alnoria’s aid. They then set sail back to Whitehall, and upon arrival, King Berrigan knighted each member of the party, and gave them property within the city. Turns out the property was “haunted”, but the party uncovered that it was really just a few orphaned kids hiding out in the abandoned house. Jakel then took a few days to gather allies for the future fight against his father, and the rest of the party took a side job to investigate some wagon attacks to the west of town. There, they met a half-orc ranger named Io, and discovered that the wagon attacks were being caused by a group of gnolls. Upon confronting the gnolls, they promised to leave the area if the party could kill a rogue gnoll who had gone mad and was killing other gnolls. The party slayed the creature, which according to a gnoll who survived an attack, had been exposed to a bright yellow rift that just opened in thin air that drove it mad and gave it unnatural strength and magical powers. The party returned to the gnolls for their reward and were ambushed. The gnoll leader, a human calling himself the Ravager, killed Loryn during the fight. Diggory polymorphed into a giant eagle and flew Loryn back to Whitehall where a Dragonborn cleric named Kehl Brokenhorn revived him. 
+## [[Knighthood and the Haunted Manor]]
+
+Fargrim was named King, and to thank the party, swore that when war finally came, the people of Vallenhein would come to Alnoria’s aid. They then set sail back to Whitehall, and upon arrival, King Berrigan knighted each member of the party, and gave them property within the city. Turns out the property was “haunted”, but the party uncovered that it was really just a few orphaned kids hiding out in the abandoned house.
+
+## [[The Gnoll Contract]]
+
+Jakel then took a few days to gather allies for the future fight against his father, and the rest of the party took a side job to investigate some wagon attacks to the west of town. There, they met a half-orc ranger named Io, and discovered that the wagon attacks were being caused by a group of gnolls. Upon confronting the gnolls, they promised to leave the area if the party could kill a rogue gnoll who had gone mad and was killing other gnolls. The party slayed the creature, which according to a gnoll who survived an attack, had been exposed to a bright yellow rift that just opened in thin air that drove it mad and gave it unnatural strength and magical powers. The party returned to the gnolls for their reward and were ambushed. The gnoll leader, a human calling himself the Ravager, killed Loryn during the fight. Diggory polymorphed into a giant eagle and flew Loryn back to Whitehall where a Dragonborn cleric named Kehl Brokenhorn revived him. 
 
   
+
+## [[The Siege of the Ashen Hideout]]
 
 After Loryn recovered from his wounds, the party gathered in their manor to determine what to do next. That night, Diggory was attacked by an assassin while he slept. The assassin wore a necklace of a fist wreathed in flame. Davynn was able to ascertain that his symbol represented the Ashes of Kemnan, or the Gray Saints, an order of criminals who used to help those in need by taking from those in power, but for the last several decades, the organization has only served its own interests. Loryn used his connections with the guard and criminal underworld to find a woman he had worked with before who may know something about the Saints. She led them to an ambush, and the party fought off members of the Saints, and discovered a note on one of the bodies reading “Three dragon egg omelets - Borly’s Fresh-baked Goods”.
 
@@ -48,9 +70,17 @@ Once in Rothefell, Davynn met with an old professor to see if he could get back 
 
   
 
-The party gave this information to King Berrigan of Alnoria, and he officially declared war on Dolghast and its allies. The king then invited the party to attend his daughter, Princess Kara’s birthday in two days. They attended, and ran into Jakel’s father and brother, who were adamant that Jakel was out of his mind claiming he found his mother chained up in a dungeon. Amid this discussion, it was discovered that someone had kidnapped Princess Kara. The king promised whoever found the princess would be given 50,000 gold. The party found evidence that the kidnapper hailed from Xinar, a city in the faraway kingdom of Isembard, and took off on horseback after her. 
+## [[The Declaration of War]]
+
+The party gave this information to King Berrigan of Alnoria, and he officially declared war on Dolghast and its allies.
+
+## [[The Kidnapping of Princess Kara]]
+
+The king then invited the party to attend his daughter, Princess Kara’s birthday in two days. They attended, and ran into Jakel’s father and brother, who were adamant that Jakel was out of his mind claiming he found his mother chained up in a dungeon. Amid this discussion, it was discovered that someone had kidnapped Princess Kara. The king promised whoever found the princess would be given 50,000 gold. The party found evidence that the kidnapper hailed from Xinar, a city in the faraway kingdom of Isembard, and took off on horseback after her. 
 
   
+
+## [[The Mural and the Gem]]
 
 Along the way, Io decided to head back to his homeland to help in the war effort, and after a week or so of travel, the party made it to the edge of the Neziri desert, the last obstacle between them and Xinar. While crossing the desert, the party fended off a giant Roc bird, bandits, and scorpion-men. Having lost their horses, the party stumbled across an ancient blue dragon sleeping in the sands. At the same time, the bandits they met earlier caught up with the party. The ancient dragon attacked the party and the bandits, and the party fled into some ruins that the winds had revealed to be hidden in the sands. The dragon tried to chase them tinto the ruins and the entrance collapsed behind them. 
 
@@ -78,6 +108,8 @@ The mural and gem were watched over by an androsphinx named Ahmeses. The sphinx 
 
   
 
+## [[Xinar and the Harbinger Revealed]]
+
 Ahmeses gave Davynn some radiant spells and sent the party on their way. Teleporting out of Ahmeses’s sanctuary, the party met Mehea Talth, and set off to Xinar together to find the princess. After some side jobs to gain information on the kidnapper, the party caught the kidnapper, who took them to the princess, where they again met the mysterious black-armored being with an antler-adorned helmet. The kidnapper, a tabaxi woman named Umbra, told the party that the man was known as the Harbinger. 
 
   
@@ -90,6 +122,8 @@ According to the elves of Thalonir, capital of Loradris, the Harbinger was once 
 
   
 
+## [[The Cleansing of the Eldergleam]]
+
 The party struck a deal to then gain passage to the Arcanus Sanctum so they could ask Kyron’s old master, Grand Magister Elyon Ivasil, what else he could tell them about the Harbinger, and what he knew of the strange and colorful rifts opening around the world. The deal required them to stop whatever was corrupting the Eldergleam tree, which turned out to be a force of fiendish Yugoloths from the realm of Hades. The party fought their way into the heart of the tree, and fought the Sibriex demon that was leading the Yugoloths. The demon claimed the lives of Jakel, Mehea, Diggory’s friends Prim and Ray’el, and Diggory, but a necklace that mysteriously appeared on Diggory after a dream encounter with a divine being was shattered, releasing a holy light that revived the fallen party members. The Yugoloth monstrosity was slain, and the tree was cleansed of evil.
 
   
@@ -97,6 +131,8 @@ The party struck a deal to then gain passage to the Arcanus Sanctum so they coul
 The party returned to the elves, learned the names of Kyron’s family (Wife - Vedonia, daughter - Bryn), and set sail for the Arcanus Sanctum…
 
   
+
+## [[Elyon's Revelation]]
 
 Arriving in the Arcanus Sanctum, the party spoke with Elyon Ivasil, Grand Magister of the Sanctum, who is widely regarded as the most powerful wizard in the world. During the conversation, Elyon explained that Kyron delved into dark magic to find a way to bring back his dead family, and that darkness is what corrupted him. The party then explained what they saw in the lost Nezerai city under the desert sands, and this drew Elyon’s interest.
 
@@ -116,6 +152,8 @@ As for the blade that was used to seal the Demon Queen away, it was deemed too p
 
 The party saw a depiction of the Sundering in that mural they found in the lost city. The timing of the strange colorful rifts to other planes and Kyron’s reappearance couldn’t be a coincidence. The planes must be reconverging, that is why rifts are opening. They’re temporary overlaps between the planes, and sometimes creatures are pulled from one of the outer planes into ours. Kyron’s involvement with the Black Crown and their demonic worship can only mean one thing, they have something planned for when the planes fully align in the coming wants. 
 
+## [[Jiren's Rock and the Duel with Krintak]]
+
 The party then convinced Elyon to give them access to several teleportation circles throughout the world, and they teleported to the seldom visited town of Dogodr on their way to check in on Bathoz’s family and tribe, who had mentioned a brewing conflict with some Dragonborn. Along the road, the party encountered another rift, this one a deep purple color, and from it came a massive airship that crashed into the forest. The party investigated and found a group of Gith who were transporting a Mindflayer when their ship was attacked. The surviving Gith woman, Ensira, mentioned they had just come from the plane of Pandemonium, but were originally from the plane of Limbo, a realm of pure chaos and wild magic, and then proceeded to plane shift home.  
 
 Arriving in the Golden Planes, the party rescued two Leonin whose tribe had been wiped out by dragonborn. They explained that they had seen the dragonborn taking prisoners north to Jiren’s Rock. The party fought off some dragonborn and took one prisoner to ask questions. The prisoner revealed that the Dragonborn leading their group was none other than Krintak Cinderheart, a Dragonborn Barbarian that fought the party in the King’s Tournament months earlier (Krintak was also an ally of Davynn’s rival, Dimble Flintbatter). 
@@ -124,13 +162,19 @@ The party ventured to Jiren’s Rock and found Bathoz’s sister, Kelara, held c
 
 With Kelara’s help, the group made their way to the Tulari Hot Springs, and while sneaking into the Hot Springs via the underground caves, they stumbled upon an ancient celestial tiger-like dragon named Nugasu who was guarding the long-dormant interplanar gate to some unknown realm. They then surprised the Dragonborn holding Bathoz’s people hostage, and with the help of Nugasu and some centaur allies, fought their way to Krintak. Bathoz and Krintak engaged in a duel, but Bathoz was able to convince Krintak to set aside his hatred in order to combat the looming danger of what would likely be a demonic invasion. Krintak tentatively agreed, and Bathoz was given the legendary Lündhaidr great hammer and given the rank of Dreadclaw, a great honor for his people.
 
+## [[The Lair of Yskarat]]
+
 From there, the party teleported to Zardoba to visit Loryn’s family before chartering a ship to the middle of the ocean and venturing below the waves to find the next piece of the ancient blade Bathoz holds. At the bottom of the sea, the party fought past a Kraken and into the layer of a mad Beholder named Yskarat, and after Davynn was nearly killed, they collected the artifact. This time it was Jakel who had visions of his homeland, and he touched a piece of the sword he saw his home city of Nostra overrun by the undead.
+
+## [[Av'orel's Tomb]]
 
 The party then teleported back to Zardoba for supplies and then set sail for the Uncharted Isle, an island so wild and full of danger that no nation bothered to rule it. Along the way, the ship became somehow magically trapped on a strange island with a single ancient building by the shore. The stone doors were guarded by Valkyrie angels and the ghosts of Oathsworn knights. Fighting angels was a harrowing and unsettling experience for the party, but Jakel was somehow able to open the magically sealed doors with the strange symbol on his palm. Within the structure, the party encountered Av’orel, a Planetar angel (a being of incredible might) who was loyal to Asmodeus, or as he called him, “the True Light”. 
 
 This shocked the party, because they all knew Asmodeus to be the greatest of the Archdevils and High Lord of the Nine Hells of Baator. No one knows the origin of Asmodeus, but some say he was once a powerful celestial who fell from grace, and Av’orel had no knowledge of Asmodeus being a devil or an evil being, so that would indicate that Av’orel had likely been guarding this tomb for several thousand years in isolation. 
 
 Upon defeating Av’orel, Jakel touched the altar in the center of the room and found himself in a strange temple with a glass ceiling. Through the ceiling Jakel saw Estrana, and soon realized he had been somehow transported to a temple on the moon. There, he was drawn to a black, bone-like spear, and upon grasping it, he found himself unable to let go. Jakel heard the voice of Sina’Draiel, his mysterious patron deity, and the spear burned away the flesh of his arm, all the way up to the elbow. The spear then dematerialized and took the appearance of Jakel’s now-missing arm. Suddenly Jakel was sent back to the temple on the island which shortly after began to sink. The party escaped and continued on to the Unclaimed Isle.
+
+## [[The Unclaimed Isle and Anathimus]]
 
 Once they reached the Isle, the party stopped in Siren’s Rest where they met another Veera named Deeba, and a Leonin named Morbach, who turned out to be Naiorie’s (orphan Leonin girl from the mansion in Whitehall) missing father. The party sent him to Whitehall and headed into the jungle.
 
@@ -142,15 +186,21 @@ The party finally reached the Yuan-ti city, and snuck in under the guise of slav
 
 Loryn had visions of Zardoba in ruins, with part of the city having fallen into the sea. But, they had fulfilled their duty to the amethyst dragon in returning her mate, and were rewarded with a powerful bow for Mehea and a potential future ally.
 
+## [[The Siege of Stonehold]]
+
 The party then teleported to Stonehold to help prepare for the coming battle. Leaving the central Hall of Magic within the city, the party ran into an old friend, Soraya Hawthorne, a young woman who many months ago led them through the swamps west of Mudbend to a little cave under a goblin village. It was in that cave that the hilt of Bathoz’s ancient sword was found, and this strange journey truly began…
 
 After catching up with Soraya, the party was recruited by Captain Magus Trollbeater to assist in defending the western wall from the forces of Dolghast. Diggory took the time to scry on the Harbinger, and then used the Project Image spell to speak with him. During the conversation, Diggory mentioned that Kyron’s wife and daughter (Vedonia and Bryn), would not be proud of his actions. This made Kyron furious and he quickly dispelled Diggory’s spell.
 
 The following day came, and as the enemy approached, Magus pointed out that the Dolghasti forces were being led by General Vadahm, a seemingly human man who had somehow been alive for well over 400 years and had been a terror in every battle he fought in. The party used Terralite canons along the wall to keep the approaching siege towers at bay, but once the towers arrived at the wall, a hard battle ensued. Before long a horn was blown and the Dolghasti forces pulled back, only for Kyron to step forward and cast Earthquake, and then Meteor Swarm, completely obliterating the main gate into the city.
 
+## [[The Death of Soraya]]
+
 The party took up defenses in the courtyard by the gate and Bathoz crushed a gem that he had taken off of an evil dragonborn wizard during his fight with Krintak’s forces, giving him the powers of a black dragon for a short time. With Bathoz’s increased power and with the help of Krintak’s dragonborn and some of the dwarves, the party fended off several war mammoths. But, dozens and dozens of war mammoths followed and the party retreated into the inner portion of the city under the mountain. As the mountain gate was closing and portions of the city above were falling down to trap everyone inside, the party looked on in horror as Kyron appeared on the wall, holding the barely breathing form of Soraya Hawthorne as he cast Disintegrate on her, killing her instantly.  
 
 Angry, heartbroken, and tired, the party was informed that the Council of Moradin (governing body of Stonehold) devised a plan to still win the battle. The party and some elite forces would sneak through a hidden mining tunnel that let out behind the enemy lines, and then find and kill General Vadahm. The party followed the dwarves and flanked the Dolghasti army and slew Vadham in a brutal battle. As Vadahm lay dead in the muddy battlefield, the party was taunted by Queen Nocticula, using the general’s dead body as a puppet to inform them that the war was far from over.
+
+## [[Bathoz's Mindscape]]
 
 The party left Stonehold as heroes, and Bathoz decided to settle his feud with Krintak once and for all. A few miles south of Stonehold he and Krintak dueled once again, but this time Krintak was severely outmatched. Fueled by the hateful spirit of the dragon within him, Bathoz tore Krintak in two, before banishing the rest of the dragonborn back to their home in the Ishtir Marsh of west Kalibad. 
 
@@ -160,9 +210,13 @@ After teleporting to Loradris, the party was led by Cauladra to an altar in the 
 
 With Cauladra’s help, the party was able to slay the ghostly dragon and save Bathoz’s soul, but Davynn was killed in the battle. Thankfully, Jakel had the components needed to revive him.
 
+## [[The Doppelganger and Loryn's Parents]]
+
 Having just been brought back to life, Davynn teleported the party to Zardoba to check in on Loryn. They found him sitting in a stupor in the home of his parents, dumb struck by the loss of his brother. Stirred to action by the arrival of his friends, Loryn went about investigating what happened to his brother. Investigating the body, Loryn learned that Melvin was impaled on something with several circular punctures. The party used a speak with dead spell to ask Melvin what happened, and he explained that he met a being known as the Shrike (a serial killer the party passed on the road a month prior) in order to hire him to kill the queen of Grekosha, Marislova Domeshka. Jakel assumed his father may be involved in the order, since the death of the queen would open up the throne of Grekosha. For some reason though, the Shrike killed Melvin by impaling him on the antler wrack of a deer trophy. Confused, Loryn returned home only to find his parents tied up in their rooms. When Loryn opened the door to help them, a magical trap was triggered, killing his parents instantly and setting his home ablaze.
 
 The party magically revived Loryn’s parents, but upon seeing Loryn they were terrified of him. They claimed that Loryn had tied them up and set the trap. Clearly, some sort of doppelganger was toying with Loryn, trying to turn them against him. His parents revealed that the doppelganger said that after killing Loryn’s parents, he would then “take care of his real family”. Loryn knew this could only be the Viera people of his home in the Whisperwood- a home he was banished from. 
+
+## [[Melvin's Poison and the Whisperwood]]
 
 The party traveled north from Zardoba to the Whisperwood, a dark and dangerous forest that Loryn’s original people hail from. They were quickly spotted and surrounded by Viera scouts, who remained unseen in the trees. Loryn explained why he had returned, and one Viera woman emerged to lead him to their hidden village. The village elder, Zalema, explained that some of the local Viera, namely the young and elderly, were falling ill after drinking from the lake. Having no magic capabilities, the Viera did not know how to help their dying family members. Bathoz used his connection to the spirits of nature to sense a cave on the far side of the lake, and the party investigated to find the Shrike, as well as a rogue’s gallery of familiar villains. John Longwater (bounty hunter), Diggory’s old employer Callus Halterstock, Davynn’s rival Dimble Flintbatter, the Loxodon Cleric Prince Golimov Brighthorn of Ornuth, as well as Melvin. 
 
@@ -172,7 +226,11 @@ The Viera people were grateful to Loryn and no longer considered him banished. T
 
 IMPORTANT PARAGRAPH BELOW
 
+## [[The Execution of Melvin]]
+
 The party took Melvin to Whitehall. Before he was executed for his crimes as the leader of the Ashen Saints, Melvin revealed that all the mass murder he had planned was not just to weaken moral for the opponents of Dolghast, and the people who were being kidnapped also served a purpose once they arrived in Silnothas (capital of Dolghast). They would “ensure the party got started on time,” as foretold by “the child of the stars.” Loryn and Diggory put two and two together and released these people were likely being sacrificed to Aeralath in an effort to aid the demons once the Outer Planes aligned and the demons attacked in a few months. Melvin was then promptly beheaded and his body destroyed.
+
+## [[The Liberation of Grekosha]]
 
 With Loryn’s family issues resolved, the party then set out to handle one last bit of family business: Jakel’s father, Ifan Le Rouge. The party needed the last piece of Bathoz’s ancient sword, and it was being guarded by Golzokroth the Blood Tyrant dragon in the Black Wastes of northern Grekosha. Ifan had to be dealt with first.
 
@@ -188,11 +246,15 @@ Free of Lorilai’s tricks, Jakel led his army and allies further east until the
 
 With his old keep won, and new orc soldiers under his banner, Jakel called a feast to honor the fallen and celebrate their new alliance. After the feast, Jakel’s brother Casimir appeared to him in his old room. Casimir explained that their father did not want to hurt Jakel or his friends, he was just trying to secure the best future for vampires, and that he didn’t want his family to leave in fear of being hunted down for being who they are. Casimir also warned Jakel not to fight their father, for he was powerful enough to grant Casimir magical power by making him a warlock. To make someone a warlock requires magical power at a near godly level, but Jakel would not be convinced to give up his mission. Unable to convince his brother to stop the bloodshed, Casimir left.
 
+## [[The Death of Ifan Le Rouge]]
+
 Acting as a messenger, Diggory projected an image of himself to speak with Ifan, saying Jakel wanted to meet at a neutral location to talk without violence. Ifan knew it was a poor decision, as he would be out in the open, but the love he had for his son was enough to compel him to accept the chance to speak. Meeting in the woods outside Nostra, the party along with Lady Zethros and King Fargrim met with Ifan, Casimir, and Jakel’s mother Chessa. Ifan revealed that Jakel had not seen his mother in years because she was sick from having carried two vampire children to birth, and the other way to save her was to turn her into a vampire. She would not allow it for years, and so Ifan locked her away and kept her alive until she was willing to accept the “gift” of vampirism and avoid dying.
 
 Even after his father begged him to try to understand, and knowing he would have to kill his own mother, Jakel knew he had no other choice. He attacked his family. Despite being a vampire of unimaginable power, Ifan was unable to keep Chessa safe from the eight powerful heroes. Seeing her turned to ash by the hands of Lady Zethros, Ifan flew into a rage, killing Diggory and nearly killing lady Z as well. But, the party slowly overpowered Ifan, and finally Jakel drove his spear through Ifan’s heart and watched as the setting sun turned his body to ash. With his mother and father dead, Jakel ordered Davynn to lock his unconscious brother in the Cube of Carrying, and for the first time in years, Jakel was without purpose. He stormed off into the snowy woods, letting out a scream of both rage and relief.
 
 The party gave Jakel the space he needed, but eventually Lady Zethros spoke to Jakel. With his mission complete, Jakel decided to renounce his oath of vengeance and instead swear the same oath as Diana, the Oath of the Red Knight. Now dubbed the Scarlet Raven, Jakel and the rest of the party returned to Baristos to inform the queen of their victory. Now the only thing between Jakel and a liberated homeland was the blood dragon, Golzokroth.
+
+## [[The Slaying of Golzokroth]]
 
 Seeking knowledge and allies in their fight against Golzokroth, the party met with a man named Mathias Ohstal, owner of the museum of draconic history, in Whitehall. He stated that Golzokroth is one of several hybrid dragons, dragons born of two different colors. Golzokroth is part red and part black dragon, and other dragons of different color combinations exist in the world, though they tend to stay hidden and avoid becoming the target of some grand hunt. The party then went to see Elyon Ivasil, Grand Magister of the Arcanus Sanctum. He revealed that Golzokroth had killed some of his closest friends, including Mehea’s father, when they tried to slay Golzokroth 40 years ago. Not wanting to see the party fail, Elyon allowed Davynn to borrow his Robes of the Archmagi, and advised them to seek out Rendibrïl, Golzokroth’s sister, a purple dragon, in the mountains near Dragon’s Pass on the border of Rorinden and Loradris.
 
@@ -200,7 +262,11 @@ The party sought her out, and after slaying several giants, they were snuck up o
 
 With their end of the bargain complete, the party met their new draconic ally in Baristos and headed north to the Blackwaste. Facing fiery dangers along the way, the party reached the volcano that Golzokroth chose as his lair. The volcano was home to a lost city of fire giants, a city that Golzokroth had no doubt destroyed and killed the giants himself. Cutting through fire salamanders and other dangers, the party reached the heart of the volcano, and upon a giant throne held aloft by chains, the party fought the Blood Tyrant. There were moments where Mehea, Davynn, Diggory, and Loryn were all on death’s door, but somehow the party managed to get Golzokroth to focus on his sister Rendibrïl, and both dragons were slain.
 
+## [[The Reforging of Queensbane]]
+
 Amidst Golzokroth’s horde, worth well over one million gold, Davynn found an artifact-level magical hat, and Diggory found the final piece of the sword. Upon grasping the sword, he saw a vision of the mountain of Heaven’s Altar being sundered and falling onto a burning forrest below. But, the sword was assembled, and a ghostly chorus of voices spoke to Bathoz, revealing the sword to be known as Queensbane. The sword then projected an image from the large gem in its hilt to reveal a vision of Heaven’s Altar, spurring the adventurers to seek answers at its peak.
+
+## [[The Ascent of Heaven's Altar]]
 
 Stopping in the dwarven city state of Deepforge, the party had to face off against a monstrous Ice Titan and frost wyverns that emerged from a gold-colored rift, before going to see King Fargrim, who was forging armor from Golzokroth’s hide for Jakel. Upon meeting Fargrim, the party was attacked by a disguised Mohabi, who had Fargrim captive, and this time they killed the devil. With Fargrim rescued, the party gained the blessing to ascend the holy mountain from the Council of Mystics, and traveled into the Valley of First life at the base of the mountain.
 
@@ -208,11 +274,15 @@ The valley’s beauty was unlike anything the party had ever seen, but as they a
 
 Loryn was knocked unconscious, but the party bested Kovir and earned the right to enter the gate that sat atop the mountain - a gate that would send them to heaven itself, the celestial plane of Mount Celesia. The astral gate opened, revealing a portal of pure white energy, and the party stepped through.
 
+## [[Audience at the Platinum Palace]]
+
 On the other side, the party found themselves standing in front of a city of white marble, under an infinite sky of brilliant stars, along the shore of an endless sea full of magical life. An angel, specifically a Trumpet Archon, greeted them and led them to a chariot being pulled by unicorn-like celestial creatures. The chariot flew through the night sky, taking them to a palace made of solid platinum and diamonds, the Platinum Palace of Bahamut, the Platinum Dragon god of metallic dragons, wisdom, and mercy.
 
 After being led past seven metallic greatwyrms and seeing hundreds of angels in the grand central halls, the party met face to face with the most holy of gods. Bahamut, Torm, god of honor and truth, and Tyr, god of law and justice. One solar, the most powerful of the celestial angels, accompanied each god. The trinity of gods explained that the heroes had been brought to the palace for a reason. Aaralath would return with an army of demons in a few months, and while Queensbane had been found, it was still not at its full strength. Only one being was trusted by both good and evil gods to know the secrets of how to properly reforge the sword, the Ruby Dragon, Sardior, neutral god of the gem dragons, psionics, and secret knowledge. His ruby palace was known to shift throughout the planes, but it had been missing for some time. The last place it was sighted was in the Astral Sea roughly 50 years ago. 
 
 Diggory finally met Torm face to face, and he was given Torm’s personal sword, the Hand of Truth. A feast was held to honor the mortal heroes who now held the fate of the universe in their hands. The following day, the party departed, returned to the Astral Gate, and stepped out into the Astral Sea, the space that exists between all planes of existence. 
+
+## [[The Betrayal of Banithi]]
 
 Using their minds to propel themselves through the void of the Astral Plane, the party was soon picked up by what looked like a sea-faring ship that could somehow fly, a Spelljammer. Led by Captain Banithi, the crew said they would take the party to the largest city they knew of, Luxaria. The party fell asleep, and when they woke up they were surrounded by Githyanki warriors and dozens of enemy ships. Banithi had betrayed them and sold them as slaves to the Githyanki Empire, and the Gith took them to their capital city of Tu’Narath - a monstrous city built into the body of a dead 6-armed god.
 
@@ -222,6 +292,8 @@ The party was then thrown into prison cells. But, Jakel was able to summon his m
 
 The party tracked down the Commissar, the one who took their items, and killed him in his mansion. Before more guards could arrive, Davynn used a splinter of wood that Loryn took from Captain Banithi’s ship to teleport them out of the city and back aboard the ship. They easily took the ship, and with Sal at the helm, flew to Luxaria, the city known as the Everlight.
 
+## [[The Voyage to the Ruby Palace]]
+
 Built around a massive asteroid, the city was easily three times larger than Whitehall, making it the largest city in existence, as far as the party knew. The city was full of the most eclectic kinds of life, colorful alien creatures as well as slightly altered versions of other creatures that exist in the material plane. They met a contact of Sal’s who could help them find a ship, and chose a captain by the name of Stella Enrulon, an accomplished Astral Elf who was accompanied by her first mate, a wereboar named Bürd. Lastly, they happened upon a guide, an intelligent but awkward crystal dragonborn named Pentaius Mendivroth. Pentaius had mapped all recent sightings of the Ruby Palace, and based on its trajectory was able to calculate where it should be. It would be a two month journey.
 
 Aboard the Blackwater Jewel, the party met Stella’s crew, and set off into the unknown. They faced an ambush by two Giff warships, as well as a titanic asteroid spider, in an asteroid field known as the Shattered Strand. They passed through an empty section of space known as the Great Nothing, and noticed Stella seemed to be behaving oddly, becoming extremely pale and wide-eyed. 
@@ -229,6 +301,8 @@ Aboard the Blackwater Jewel, the party met Stella’s crew, and set off into the
 Next they traversed the Silvered Nebulas. One night while passing through the nebulas, the party was awoken by the sounds of movement on the ship. One of the crew had been transformed into a feral wereraven, and Bürd said that Stella was missing. They went to the deck of the ship and were surprised to find that Stella had transformed into a massive Lunar Dragon. She attacked the party, but Bürd convinced them to help her, as this wasn’t her true self. Jakel and Diggory used their holy magic to dispel a curse on her, and she returned to her true self. She revealed she was in fact a lunar dragon who had been cursed with madness by a Druid she slew many years ago.
 
 With the curse now broken, the party and crew then passed into deep uncharted space. Before long, they were overtaken by a storm. Once they were pulled into the eye of the storm, it was revealed that they were in the clutches of a living spellstorm, a sentient embodiment of pure wild magic. With Stella’s help, the party fought off the storm before as the spell started to die and collapse, it went supernova and exploded in a blinding flash of white light…
+
+## [[Sardior's Revelation]]
 
 The party awoke in a crater of gray stone with no sign of their ship in sight. After gathering themselves, they saw a massive swarm of Flumphs flying through the air at a great pace. Looking in the direction of where the swarm was headed, they climbed out of the crater and found themselves on a floating asteroid, with Sardior’s gigantic ruby palace on the horizon. The ship was just outside the crater, in hundreds of pieces with the crew scattered about. Stella had shielded the party with her wings just before the blast, and she was badly wounded, but would survive. The rest of the crew, aside from Pentaius, survived because they were inside the ship when the explosion occurred. 
 
@@ -282,11 +356,15 @@ Remembering the deal that he had made with the devil from Hell, Diggory told eve
 
 Having returned from their long and arduous journey across the Astral Plane, the party decided they needed some down time. They teleported back to Whitehall, bringing the crew of the Blackwater Jewel with them. Stella and her crew decided to stay on the material plane, wanting to see the wonders it held and learn to sail on this “strange blue sea of water” rather than the astral sea they were used to sailing. 
 
+## [[The Exorcism of Zargon]]
+
 After a few days of rest, everyone agreed that they should deal with Sina’Draiel, now known to actually be Zargon. They decided the best course of action would be to visit the House of War in Rorinden’s capitol city of Gildurn, the realm’s greatest temple to the Red Lady, as well as a training grounds for new recruits in the Rorindenian army. There, they met with Lady Z (who was quickly becoming a serious love interest for Jakel) and Warmaster Hayden Trask, highest ranking member of the church dedicated to the teachings of the Red Lady. After being filled in by the party, Trask suggested a sort of exorcism/binding ceremony. Trask would perform a ritual to drive Zargon out of Jakel, but he knew he would not be able to fully rid Jakel of Zargon’s presence, given the sheer power of an Elder Evil being like Zargon. Unable to completely banish Zargon from Jakel, Trask asked Davynn to cast the ninth level Imprisonment spell, which would zeal what portion of Zargon remained in Jakel after the ritual within Jakel’s soul. While this sounded like a bad thing, it would prevent Zargon from corrupting Jakel’s mind any further, but it would still require the party to find a way to destroy Zargon forever, otherwise Jakel’s soul would likely be consumed by Zargon once Jakel died. 
 
 The ritual was successful, but Zargon resisted Davynn’s Imprisonment spell and instead possessed Jakel, forcing him to attack his allies as well as Lady Z and Warmaster Trask. The corrupted and extremely powerful form of Jakel summoned a demi-plane linked to the Nine Hells around the party, and even summoned two ancient Baatorians, creatures that inhabited hell before the devils.
 
 But, the party defeated this Zargon-afflicted Jakel, and Bathoz cut off the arm of Jakel that housed the Horn of Zargon, which Trask was soon able to replace with a new arm via the Regeneration spell. Much merriment was had and a celebration was held to honor Jakel as a relatively new but incredibly accomplished follower of the Red Lady. During the later hours of the night, Lady Z would eventually confess her feelings for Jakel before they snuck off to be alone (CHRIST ON A BIKE WAS THIS UNCOMFORTABLE TO DM).
+
+## [[The Journey to Ysgard]]
 
 After recovering from their alcohol poisoning, our heroes prepared to depart for their interplanar journey to the realm of heroes, Ysgard. On the eve of their departure, Diggory decided to use the Dream spell to contact the Harbinger, Kyron Delinor. Diggory attempted to dissuade Kyron from his current path, begging him to come back to the ways of righteousness. Kyron said this was impossible, and what he was doing was for the greater good. With one last trick up his sleeve, Diggory told Kyron that his late wife and daughter would not approve of his current actions. This enraged Kryon, and he stated that if Diggory or anyone else ever mentioned his family again, he would “butcher every man, woman, and child” in the party’s mansion within Whitehall. Calling his bluff, Diggory insulted Kyron further, calling him a failure of a father and husband and that Vedonia and Bryn (his wife and daughter) would be ashamed of him. Kyron immediately ended the dream.
 
@@ -304,7 +382,11 @@ They faced a red dragon and a mighty fire giant who rode atop it, but they soon 
 
 A hard and bloody battle ensued, but the five heroes were victorious over the three einherjar warriors, and thus were allowed to enter Asgard. The party explained why they were there, which prompted Dryzmir to reveal that he was one of the five mortal heroes who fought Aeralath alongside the first wielder of Queensbane nearly 10,000 years ago. Given the immense amount of time that had passed, he did not recall the names of his allies aside from Vhal Nimzur, a Nezerai elf wizard. That name was familiar to the party, as they had learned that he was the personal understudy of Sardior when they visited the Ruby Palace. Dryzmir revealed that only he and Vhal survived the fight with Aeralath, and the few things he remembered about her made him visibly frightened. He said she could manipulate all things to be as she wished. She could be in more than one place at a single time, and she could be whatever she wished at any moment. No amount of preparation would be sufficient, but Queensbane did limit her omnipotence to the point where she could be harmed.
 
+## [[The Trial of Kord]]
+
 Then Dryzmir, Gwendolin, and Atrios suggested the party could attune Queensbane to a powerful source of magic at the Fountain of Remembrance within the Pools of Memorium, which would only be a short journey away. Before departing from Asgard, the party decided to test their metal against Kord himself. Atop the lone icy peak within the heart of Asgard, the party made a valiant stand against the avatar of the God of Bravery and Storms, but their were no match for his sheer strength. They party fell one by one, but awoke along the bank of a river below the mountain, with no scratches on them.  
+
+## [[The Titan of Stonehold]]
 
 The party then made the short trip to the Pools of Memorium, which resided within a mountain back in the lower portion of Ysgard. With the fountain in sight, the party was assailed by ghostly spirits of drowned heroes who had lost themselves within the pools. After taking care of their attackers, each member of the party took a single drink from the fountain and soon fell asleep.
 
@@ -312,11 +394,17 @@ They awoke in a dark cave, with dwarven miners all around them. Then, from the o
 
 A hard battle was fought, with Soraya displaying many of her new combat skills, and our heroes defeated the mighty earth titan, with Davynn’s Meteor Swarm spell providing the killing blow. The titan released a burst of energy as its body fell apart, and Bathoz held his sword aloft and harnessed its immense magical power, finally attuning the sword to the plane of Ysgard. 
 
+## [[Soraya's Resurrection]]
+
 After returning to the village where they had first entered Ysgard, the party was able to convince Soraya to allow them to resurrect her. She made them promise to kill Kyron for what he did to her, and to not allow him to claim the lives of any more innocent people. After some heartfelt goodbyes between Soraya and her late father, Lucas, the party planeshifted back to Mudbend, where our tale first began. There, they left Soraya to tend to a few things and teleported back to Whitehall. They were met with unfortunate news.
+
+## [[The Harbinger's Reprisal]]
 
 Sitting on the steps in front of their mansion was Sebastion, the young tiefling sorcerer and oldest of the orphaned children that resided in the mansion with their caretaker, Harold. While the party had been in Ysgard, the Harbinger visited their mansion in the night. He came through the door, cut down Harold and his sister Patrice, then cast a powerful spell on Morbach, killing him instantly while bringing his corpse back as an undead creature. The Harbinger then left, allowing the undead Morbach to finish off the orphans. By some stroke of luck, Sebastion happened to be home that day, as he usually stayed at the local magic university. With tears streaming down his face, he explained to the party that he set the undead Morbach ablaze with his own spell, no doubt saving the lives of all the children, including Morbach’s own daughter Naori. Thankfully, none of the other children heard the sounds of fighting, and Sebastion was able to get some guards to come watch the house until the party returned a few days later.
 
 Sebastian blamed Diggory and the rest of the party for dragging everyone else through their troubles. They may be saving the world, but they leave a wake of destruction behind them. Realizing it was a terrible idea to try to get under the Harbinger’s skin, Diggory vowed to be more cautious going forward, and then set about resurrecting Harold and Patrice. Resurrecting Morbach would be more difficult, being that he had been brought back as an undead creature already. Such a feat of restorative magic would require the True Resurrection spell, and carry with it the hefty price of 25,000 gold worth of diamonds. Diggory gathered the requirements, brought Morbach back, explained what had happened, and profusely apologized to Harold, Patrice, Morbach, and Sebastion. Harold wanted to leave the mansion, but did not have the heart to abandon the children. He did, however, ask for a raise. 
+
+## [[Into the Beastlands]]
 
 The party spent a few days of downtime and collecting supplies for their next interplanar journey - into the wild and feral Beastlands. Once ready, they teleported back to the home of Raiorma, the ancient amethyst dragon whose mate they saved from the Yuan-Ti on the Unclaimed Isle, as her village was only a few hours travel from the planar gate to the Beastlands. After a short journey, they neared the gate, only to find no life larger than the tiniest insects and frogs within two miles of it. Even more unnerving, the bones of a colossal dinosaur lay picked completely clean nearby. 
 
@@ -352,6 +440,8 @@ With the Erdking dead, the remaining members of the Wild Hunt swore to honor the
 
 Abrovand swore to always aid the Sons of Thunder should they need it, and that he would always know them as true friends and brothers for saving him. He returned to the Feywild but promised to regularly return to Whitehall in the form of Darrius and check in on the orphans. The party then returned to the material plane.
 
+## [[Into Mechanus]]
+
 After some much needed downtime, the party set off on their third extraplanar excursion. This time, they were headed for the Clockwork Nirvana of Mechanus. The gate to Mechanus lay in Gudjag Canyon, home of the same Red Orcs that now served Jakel and had once served the Vampire Lord of War Ogzuuk Torah’kor. Near the gate, the party met a withered old red orc woman, a devout priestess of Gruumsh, god of orcs. She was nearly blind, and claimed she alone was the sole surviving red orc who was loyal to Gruumsh, and that a great champion called the Eye of Gruumsh guarded the strange ruins where the party knew the gate lay. She led them to the ruins, openly telling the party that the Eye would kill them for the glory of Gruumsh, and there the party was stunned to see the “Eye of Gruumsh” was in fact a massive metal construct with a singular eye in its chest. The construct was a Marut, an ultra powerful lawful creature loyal only to Primus, and referred to itself as Astynom Alpha 009. The intelligent construct said it would allow the party to enter Mechanus only if they first handed over their weapons, including Queensbane, first. Obviously, the party said no, and a fight ensued. 
 
 Astynom Alpha 009 knocked Loryn out cold and promptly teleported both of them away. Having no choice but to assume the creature had taken Loryn to Limbo, the party stepped through the gate and found themselves immediately confronted by dozens of powerful Modrons within the supercity of Regulus, home to well over 350 million modrons. This time the party chose not to fight, and presented their reason for coming to Mechanus to the Modron interplanar customs, which took well over a full day of paperwork and interviews. Meanwhile, Loryn was being interrogated in a Modron prison, but was eventually released to his friends before all of them were ordered to meet with the Secundi, the Modrons who report directly to Primus. The three Secundi told the party they knew why they had come to Mechanus, and that they would aid the party in the final battle against Aeralath, but they needed the party to help them first. One of the four Secundi had gone rogue and taken an entire quarter of the Modron army with him. Without those forces, the Modron forces would not be at their full strength. Each of the Secundi governed an aspect of reality in Mechanus, space, matter, energy, and time. The rogue Secundi was Chronus, lord of time. The remaining three Secundi asked the party to find and slay Chronus. They said that Chronus believed he could turn back time to ensure Aeralath’s defeat and the salvation of the universe, but if such a thing was done it would tear reality apart from the inside out. He had taken refuge in the far reaches of Mechanus, past the edge of Modron controlled space, past a great expanse of unruled scraps and broken machinery called the Wastes of Gravegear, or the Scrapland. 
@@ -385,6 +475,8 @@ Jakel: He chose not to flee that fateful night when he found his mother and his 
 The party finally found and faced off with Chronus who used his powers of time manipulation to great effect and gave the party an extremely difficult fight. Theh Kah provided the edge they needed to be victorious, but Davynn was nearly slain after Chronus struck him with a 9th level Time Ravage spell (aging him to within 30 days of dying of old age). Bathoz absorbed Chronus’s power into Queensbane, therein attuning the blade to Mechanus, before they teleported back to the city of Regulus. 
 
 Safely back in the Modron city, the party was brought before Primus, Supreme God of Law and Lord over all Modrons. He expressed his greatest thanks to the party for eliminating Chronus, which in turn destroyed all rogue Modrons who reported to him. Those same Modrons would be remade by Primus from the endless pools of Lifeblood energy that he waded through. He also personally thanked Theh Kah by enhancing his wrist-mounted crossbow up to artifact-level power. They Kah requested to come to the Material Plane, as he was tired of life in the hive and wished to see what the rest of the world held for him. With one last reminder that his Modrons would be there to fight with mortal kind when the demons came, he sent the party back to the Material Plane. They arrived outside the gate to Mechanus in Gudjag Canyon, where they parted ways with Theh Kah, as he decided to explore this new world on his own. 
+
+## [[The Slaying of Minthur]]
 
 After a few days of rest in Whitehall, where they saw Abrovand in his cat/Darrius form for a bit, the party decided to take a bit of a detour before heading to Limbo for their fourth outer plane. The Sons of Thunder had already slain two of the hybrid dragons, Golzokroth and Rendibrïl. Convincing themselves it was to “protect the realm”, and not just because they wanted to let off some steam before heading to what would certainly be their most dangerous outer plane yet, the party decided to hunt down another hybrid dragon. They set their sights on the blue-green, or turquoise dragon: Minthur, the Mindbreaker. Their notes from Mathias Ohstal said that Minthur breathed a "psychedelic gas” for a breath weapon, and he could be found by a large waterfall that overlooked the Dreaming Jungle on the border of Rorinden and Isembard.
 
