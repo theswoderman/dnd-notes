@@ -6,30 +6,16 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 81.6260162601626,
+        "dimension": 68.17548746518106,
         "children": [
           {
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 29"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -38,7 +24,7 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 18.3739837398374,
+        "dimension": 31.82451253481894,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -84,7 +70,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+                    "file": "Suggestions/Suggestion Box.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +176,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 29"
+                  "title": "Graph of Suggestion Box"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -385,14 +371,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Suggestions/Suggestion Box.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "People/NPCs/Antagonists/Sila Frostblood.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 27.md",
     "People/NPCs/Campaign 1 Notable NPCs/Ensira.md",
     "Items and Artifacts/The Abyssal Orb.md",
     "Locations/Material Plane/Dogodr.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "People/NPCs/The Collector.md",
     "Suggestions/Suggestion History/2026-08-12.md",
     "Deities/Bane.md",
@@ -412,7 +399,6 @@
     "index.md",
     "Loose Ends/Panrelta Loose Ends.md",
     "Loose Ends/Campaign 1 Loose Ends.md",
-    "CLAUDE.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
