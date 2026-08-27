@@ -67,9 +67,6 @@ Prose.
 ## Key moments
 - Bullet — see [[Event Note]]
 
-## Connections
-- [[Someone]] — relationship
-
 ## Sessions
 - [[Session N]]
 ```
