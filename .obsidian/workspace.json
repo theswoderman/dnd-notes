@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 28"
+              "title": "Session 30"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 28"
+                  "title": "Graph of Session 30"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -385,10 +385,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "People/NPCs/Antagonists/Sila Frostblood.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+    "Items and Artifacts/The Black Grail.md",
+    "People/NPCs/Orithian Blackspire.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "People/NPCs/Antagonists/Mirna Gribwood.md",
     "Loose Ends/Campaign 1 Loose Ends.md",
     "Lore/Campaign 1 Timeline.md",
@@ -412,10 +416,6 @@
     "Events/Campaign 1/Events/The Voyage to Vallenhein.md",
     "Events/Campaign 1/Events/The King's Tournament.md",
     "Events/Campaign 1/Events/The Hunt for the Peddler.md",
-    "Events/Campaign 1/Events/The Goblin Caves and the Hilt.md",
-    "Events/Campaign 1/Events/The Attack on Mudbend.md",
-    "Locations/Material Plane/Mudbend.md",
-    "Groups/The Sons of Thunder.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
