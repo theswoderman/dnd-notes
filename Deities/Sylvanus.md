@@ -7,11 +7,5 @@ A nature god. His worshipper [[Hiram Oakbrow]] gave [[The Good Ones]] the [[Sylv
 
 When [[Falstad Firebeard]] named Sylvanus during the fight at [[The Frozen Riverbank]], the Beast of [[Malar]] scoffed at the name.
 
-## Connections
-- [[Hiram Oakbrow]], his worshipper, who handed the parcel over
-- [[Sylvan Parcel]], the gift
-- [[The Good Ones]], the recipients
-- [[Malar]], the Beast of Malar scoffed at his name
-
 ## Sessions
 - [[Session 30]]

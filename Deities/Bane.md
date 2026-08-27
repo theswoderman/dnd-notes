@@ -21,15 +21,6 @@ Near the tree, a garrison of Bane's undead soldiers defeated a pack of werewolve
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Torm]], Bane is a major enemy of his
-- [[Malar]], a rival for [[The Black Grail]], not an ally
-- [[The Black Grail]], what his followers are after
-- [[Sage Thorn Forest]], where his soldier was found
-- [[Torin Turen]], high priest of [[Illmater]], and heading straight for it
-- [[The Drow]], three drow captains lead his garrison
-- [[The Tree of Pain]], his monument
-
 ## Sessions
 - [[Session 28]]
 - [[Session 29]]

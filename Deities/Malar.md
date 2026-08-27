@@ -17,14 +17,6 @@ The werewolves and werebears at [[The Frozen Riverbank]] are his. The enormous p
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Collector]], a self-declared servant
-- [[Black Blood Pack]], invoked in the same breath; presumably his
-- [[The Black Grail]], what the trophies are for
-- [[Bane]], a rival for it, explicitly not an ally
-- [[The Beastlands]], where the Beast of Malar came from
-- [[Sylvanus]], the beast scoffed at his name
-
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]

@@ -14,11 +14,5 @@ The three are [[Bane]]'s captains: one carries a sickle, one is a purple-armored
 
 The party then fought the garrison on a bridge. [[Falstad Firebeard]] turned undead, which disabled many of the soldiers during the fight.
 
-## Connections
-- [[Bane]], his captains and soldiers
-- [[The Drow]], three drow lead the garrison
-- [[Malar]], the werewolves are his
-- [[The Tree of Pain]], nearby
-
 ## Sessions
 - [[Session 30]]

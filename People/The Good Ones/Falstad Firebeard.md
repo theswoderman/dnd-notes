@@ -38,12 +38,6 @@ After the third night's battle dream, Falstad is the one who recognized the two 
 ## At the riverbank and beyond
 Named [[Sylvanus]] during the fight at [[The Frozen Riverbank]], which made the Beast of [[Malar]] scoff. Later, at [[The Battle at the Bridge]], turned undead and disabled many of [[Bane]]'s soldiers.
 
-## Connections
-- [[Berrenar]], his deity
-- [[Torin Turen]], scried on him
-- [[Yorrisk]], identified it
-- [[Sylvanus]], named him in battle
-
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]

@@ -18,14 +18,6 @@ The panther was a Beast of [[Malar]], a servant from [[The Beastlands]]. When [[
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Bane]], his soldiers are among the dead
-- [[Malar]], the Beast of Malar and the werewolves are his
-- [[Torin Turen]], the gnomish scream
-- [[The Tree of Pain]], where they were heading
-- [[Sila Frostblood]], dreamed this riverbank to them the night before
-- [[Sylvanus]], named during the fight; the beast scoffed
-
 ## Sessions
 - [[Session 29]]
 - [[Session 30]]
