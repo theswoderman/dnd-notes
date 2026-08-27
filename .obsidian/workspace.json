@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bane",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,12 +252,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -388,8 +388,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "Deities/Bane.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Untitled.md",
@@ -414,7 +415,6 @@
     "Locations/Material Plane/Tomb of Evendor.md",
     "Groups/Nezerai Empire.md",
     "Events/Campaign 1/Events/The Mural and the Gem.md",
-    "Events/Campaign 1/Events/The Sundering.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
