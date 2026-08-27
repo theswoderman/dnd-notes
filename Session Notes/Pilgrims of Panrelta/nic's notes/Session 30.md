@@ -18,3 +18,5 @@
 - Why [[Sila Frostblood]] entered the party's dreams for the first time now, and what her three dire wolves are
 - Whether the battle for [[Yorrisk]] the hag showed [[Thol]], [[Beemo]], and [[Gribnik Mossfoot]] is memory, prophecy, or fabrication
 - What [[The Black Grail]] is, what drinking from it does, and whether it's why the presence displaced [[Illmater]] in [[Torin Turen|Torin]]
+
+## Notes

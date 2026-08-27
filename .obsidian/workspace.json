@@ -12,10 +12,24 @@
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 30"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -70,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -176,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 29"
+                  "title": "Graph of Session 30"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -242,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2eccb5a57877791e",
