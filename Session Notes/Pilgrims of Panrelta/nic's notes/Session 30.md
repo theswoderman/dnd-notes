@@ -22,3 +22,4 @@
 ## Notes
 -- picking up in combat
 grant re-iterated that we have 8 adult black dragon scales
+
