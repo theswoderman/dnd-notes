@@ -20,3 +20,4 @@
 - What [[The Black Grail]] is, what drinking from it does, and whether it's why the presence displaced [[Illmater]] in [[Torin Turen|Torin]]
 
 ## Notes
+-- picking up in combat
