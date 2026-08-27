@@ -34,3 +34,4 @@ we witness the tree of pain, a tree completely covered in bodies in various stat
 
 we come across a pack of werewolves fighting against a garrison of undead soldiers, led by 3 drow men who were spectacular fighters, like nothing we had seen before. one of them wore armor we had seen before. These are bane's captain's, the soldiers of bane win the fight without much difficulty. a guy with a sickle, a purple soldier/knight with a slowing aura, and an enormous barbarian.
 
+we did battle with them on a bridge, falstad turned undead which disabled many enemies during the fight
