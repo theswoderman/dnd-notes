@@ -35,3 +35,5 @@ we witness [[The Tree of Pain|the tree of pain]], a tree completely covered in b
 we come across a pack of werewolves fighting against a garrison of undead soldiers, led by 3 [[The Drow|drow]] men who were spectacular fighters, like nothing we had seen before. one of them wore armor we had seen before. These are [[Bane|bane]]'s captain's, the soldiers of [[Bane|bane]] win the fight without much difficulty. a guy with a sickle, a purple soldier/knight with a slowing aura, and an enormous barbarian.
 
 we did battle with them on a bridge, [[Falstad Firebeard|falstad]] turned undead which disabled many enemies during the fight
+
+session ended mid fight, some enemies are still under the effect of turn undead. the skeleton warriors can only die to damage that one shots them so they are high priority, a few are left but we are running out of ways to kill them. the captains are still very healthy
