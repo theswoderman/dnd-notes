@@ -17,7 +17,7 @@ The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with cla
 | **Party** | [[The Sons of Thunder]] | [[The Good Ones]] |
 | **When** | 1016–1017 A.P. | 10 D.E. |
 | **Where** | [[Anendal]], and outward through the planes | [[Panrelta]] |
-| **Status** | Concluded at level 20 | Ongoing, ~session 29 |
+| **Status** | Concluded at level 20 | Ongoing, ~session 30 |
 | **Index** | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
 | **Timeline** | [[Campaign 1 Timeline]] | [[Panrelta Timeline]] |
 
@@ -80,7 +80,8 @@ The earliest sessions were never written down, so what follows is the order thin
 9. [[Torin's Flight into the Sagethorn]]
 10. [[Speak with Dead with the Collector]]
 11. [[The Climb to the Sagethorn]]
-12. [[The Frozen Riverbank]], most recent, unfinished
+12. [[The Frozen Riverbank]]
+13. [[The Battle at the Bridge]], most recent
 
 Full detail and the session log are on [[Panrelta Timeline]].
 
@@ -90,7 +91,7 @@ One session of play sits outside both campaigns and outside the chronology: a bo
 
 ## Where things stand
 
-[[The Good Ones]] are inside the [[Sage Thorn Forest|Sagethorn]], mid-fight on a frozen riverbank against werewolves, werebears and an enormous panther, with three of them being dragged toward the water. They went in after [[Torin Turen]], who rode there alone and was last seen digging up a soldier of [[Bane]]. They carry [[The Abyssal Orb]], pulled from a creature out of [[The Abyss]] and meant for [[The Sons of Thunder]] to deal with. It has begun to speak, and what it says is "free me".
+[[The Good Ones]] are deep in the [[Sage Thorn Forest|Sagethorn]], near [[The Tree of Pain]], a tree covered in decomposing bodies that serves as a monument to [[Bane]]. They killed a Beast of [[Malar]] at [[The Frozen Riverbank]], reached the tree, and then fought a garrison of [[Bane]]'s undead soldiers, led by three [[The Drow|drow]] captains, on a bridge. They went in after [[Torin Turen]], who rode there alone and was last seen digging up a soldier of [[Bane]]. They carry [[The Abyssal Orb]], pulled from a creature out of [[The Abyss]] and meant for [[The Sons of Thunder]] to deal with. It has begun to speak, and what it says is "free me".
 
 The reason for the chase changed shape on the way in. Questioned after death, [[The Collector]] said [[Malar]] had him gathering trophies so his pack could drink from [[The Black Grail]], and that the grail is inside [[Torin Turen|Torin]]. [[Bane]]'s followers want it too and are no allies of [[Malar]]'s. Both mean to take it to [[The Abbey]], which a map places beneath [[The Laughing Princess Constellation|the Laughing Princess constellation]].
 
@@ -116,6 +117,6 @@ Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circ
 - `Session Notes/`, raw notes as taken at the table, kept unedited as an archive
 - `Suggestions/`, a shared suggestion box, and the record of what came of each one
 
-About 430 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+About 410 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
 
 **Spotted something wrong, or remember it differently?** Add it to the [[Suggestion Box]] and it gets worked in at the next update.

@@ -14,6 +14,11 @@ Interrogated after death, [[The Collector]] said that Bane's followers are not a
 
 The party then found an icy riverbank strewn with the corpses of Bane's soldiers alongside a great many beasts, none of them fresh and none of them old. See [[The Frozen Riverbank]].
 
+## The Tree of Pain and his captains
+[[The Tree of Pain]] is Bane's monument: a tree completely covered in bodies in various states of decomposition. [[Malar]]'s servants are too disorganized to have made it.
+
+Near the tree, a garrison of Bane's undead soldiers defeated a pack of werewolves without much difficulty. The garrison is led by three [[The Drow|drow]] captains, spectacular fighters unlike anything the party had seen. One carries a sickle, one is a purple-armored knight with a slowing aura, and one is an enormous barbarian. One of them wore armor the party recognized. The party fought them on a bridge. See [[The Battle at the Bridge]].
+
 See [[Panrelta Loose Ends]] for open questions.
 
 ## Connections
@@ -22,7 +27,10 @@ See [[Panrelta Loose Ends]] for open questions.
 - [[The Black Grail]], what his followers are after
 - [[Sage Thorn Forest]], where his soldier was found
 - [[Torin Turen]], high priest of [[Illmater]], and heading straight for it
+- [[The Drow]], three drow captains lead his garrison
+- [[The Tree of Pain]], his monument
 
 ## Sessions
 - [[Session 28]]
 - [[Session 29]]
+- [[Session 30]]

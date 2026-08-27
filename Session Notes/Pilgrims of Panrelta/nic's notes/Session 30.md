@@ -21,17 +21,17 @@
 
 ## Notes
 -- picking up in combat
-grant re-iterated that we have 8 adult black dragon scales
+[[Grant|grant]] re-iterated that we have 8 adult black dragon scales
 
-smite and use channel divinity to give thol temp health
-falstad mentioned sylvanus during the fight and the beast scoffed at the name. we learned that the main beast was a servant of malar from the beast lands. it is called a beast of malar
-beast of malar escaped and he can quickly heal so we expect him to be fully recovered when we see him again
-grant asked us if we wanted to chase it or not and we chose to chase it and we chased it to a new battle zone, with the tree of pain on the horizon
-we beat the beast of malar
+smite and use channel divinity to give [[Thol|thol]] temp health
+[[Falstad Firebeard|falstad]] mentioned [[Sylvanus|sylvanus]] during the fight and the beast scoffed at the name. we learned that the main beast was a servant of [[Malar|malar]] from [[The Beastlands|the beast lands]]. it is called a beast of [[Malar|malar]]
+beast of [[Malar|malar]] escaped and he can quickly heal so we expect him to be fully recovered when we see him again
+[[Grant|grant]] asked us if we wanted to chase it or not and we chose to chase it and we chased it to a new battle zone, with [[The Tree of Pain|the tree of pain]] on the horizon
+we beat the beast of [[Malar|malar]]
 
-we witness the tree of pain, a tree completely covered in bodies in various states of decomposition, it's a monument to bane. not made by the servants of malar, they're too disorganized to accomplish something like this
+we witness [[The Tree of Pain|the tree of pain]], a tree completely covered in bodies in various states of decomposition, it's a monument to [[Bane|bane]]. not made by the servants of [[Malar|malar]], they're too disorganized to accomplish something like this
 
 
-we come across a pack of werewolves fighting against a garrison of undead soldiers, led by 3 drow men who were spectacular fighters, like nothing we had seen before. one of them wore armor we had seen before. These are bane's captain's, the soldiers of bane win the fight without much difficulty. a guy with a sickle, a purple soldier/knight with a slowing aura, and an enormous barbarian.
+we come across a pack of werewolves fighting against a garrison of undead soldiers, led by 3 [[The Drow|drow]] men who were spectacular fighters, like nothing we had seen before. one of them wore armor we had seen before. These are [[Bane|bane]]'s captain's, the soldiers of [[Bane|bane]] win the fight without much difficulty. a guy with a sickle, a purple soldier/knight with a slowing aura, and an enormous barbarian.
 
-we did battle with them on a bridge, falstad turned undead which disabled many enemies during the fight
+we did battle with them on a bridge, [[Falstad Firebeard|falstad]] turned undead which disabled many enemies during the fight

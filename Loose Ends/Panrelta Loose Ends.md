@@ -8,9 +8,9 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 
 ## Immediate
 
-- The fight at [[The Frozen Riverbank]] is unresolved. Werewolves, werebears and an enormous panther, with [[Gribnik Mossfoot]], [[Thol]] and [[Thalrik Lastfeast]] being pulled toward the water. Something is calling people into the river
 - A gnomish scream came out of the moving corpses at the riverbank. [[Torin Turen]] is a gnome and went into this forest alone
-- What killed a field of [[Bane]]'s soldiers and that many beasts at the riverbank, and how recently. Whether the panther is a were-creature, a servant of [[Malar]], or something else
+- What killed a field of [[Bane]]'s soldiers and that many beasts at the riverbank, and how recently
+- Who the three [[The Drow|drow]] captains leading [[Bane]]'s undead garrison are, and why one wore armor the party recognized. See [[The Battle at the Bridge]]
 - [[The Black Grail]] is said to be inside [[Torin Turen|Torin]], and both [[Malar]] and [[Bane]]'s followers want it and mean to carry it to [[The Abbey]]
 - [[The Abyssal Orb]] spoke for the first time. It told [[Thalrik Lastfeast]] "free me"
 - The party needs a clear night to read [[The Laughing Princess Constellation|the Laughing Princess constellation]] and locate [[The Abbey]]. A full moon is a night away and the forest is full of werewolves
@@ -56,7 +56,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - How a temple of [[Illmater]] and a foothold of [[Bane]] came to share the [[Sage Thorn Forest]]. What a soldier of [[Bane]] was doing buried in the [[Sage Thorn Forest|Sagethorn]]
 - Who the other two of "the Dead Three" are
 - Whether the lost temple on the party's map is the temple of [[Illmater]] that [[Torin Turen]] asked to be taken to, or a different ruin. Whose [[The Abbey|abbey]] it was
-- What [[The Tree of Pain]] is, whether it is a tree at all, and how far it lies from the riverbank
+- [[The Tree of Pain]] is confirmed as [[Bane]]'s monument, a tree covered in decomposing bodies. What purpose it serves beyond marking the way to [[The Abbey]]
 - [[The Abbey]] lies beneath [[The Laughing Princess Constellation|a constellation]] carrying [[The Maiden]]'s other name. What the connection between the two actually is, which came first, and how a constellation marks a spot on the ground. See [[The Laughing Princess Constellation]]
 - Whether the sirens in the cliff caves on the climb are a fixed hazard or were placed there. See [[The Climb to the Sagethorn]]
 

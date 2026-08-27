@@ -35,12 +35,17 @@ After the third night's battle dream, Falstad is the one who recognized the two 
 ## Scrying on Torin
 [[Ky'ar Lastet]] singled out Falstad and [[Thalrik Lastfeast]] as the two who should talk to [[Torin Turen]]. After Torin rode out, Falstad scried on his pegasus [[Lightfoot]] and found him digging up a soldier of [[Bane]] in the [[Sage Thorn Forest|Sagethorn]]. See [[Torin's Flight into the Sagethorn]].
 
+## At the riverbank and beyond
+Named [[Sylvanus]] during the fight at [[The Frozen Riverbank]], which made the Beast of [[Malar]] scoff. Later, at [[The Battle at the Bridge]], turned undead and disabled many of [[Bane]]'s soldiers.
+
 ## Connections
 - [[Berrenar]], his deity
 - [[Torin Turen]], scried on him
 - [[Yorrisk]], identified it
+- [[Sylvanus]], named him in battle
 
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]
+- [[Session 30]]

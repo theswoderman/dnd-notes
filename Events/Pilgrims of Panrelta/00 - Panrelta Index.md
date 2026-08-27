@@ -39,7 +39,8 @@ Six travelers bound by [[The Pilgrimage]]'s tenets, chief among them an obligati
 9. [[Torin's Flight into the Sagethorn]]
 10. [[Speak with Dead with the Collector]]
 11. [[The Climb to the Sagethorn]]
-12. [[The Frozen Riverbank]], *most recent, unfinished*
+12. [[The Frozen Riverbank]]
+13. [[The Battle at the Bridge]], *most recent*
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 

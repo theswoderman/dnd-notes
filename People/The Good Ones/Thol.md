@@ -43,3 +43,4 @@ On the third night he fought in the battle dream alongside [[Beemo]] and [[Gribn
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]
+- [[Session 30]]
