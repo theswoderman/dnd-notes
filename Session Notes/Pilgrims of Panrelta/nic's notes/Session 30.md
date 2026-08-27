@@ -32,4 +32,4 @@ we beat the beast of malar
 we witness the tree of pain, a tree completely covered in bodies in various states of decomposition, it's a monument to bane. not made by the servants of malar, they're too disorganized to accomplish something like this
 
 
-we come across a pack of werewolves fighting against a garrison of undead soldiers, led by 3 drow men who were spectacular fighters, like nothing we had seen before. one of them wore armor we had seen before. These are bane's generals (?), the soldiers of bane win the fight without much difficulty
+we come across a pack of werewolves fighting against a garrison of undead soldiers, led by 3 drow men who were spectacular fighters, like nothing we had seen before. one of them wore armor we had seen before. These are bane's captain's, the soldiers of bane win the fight without much difficulty. a guy with a sickle, a purple soldier/knight, and an enormous barbarian.
