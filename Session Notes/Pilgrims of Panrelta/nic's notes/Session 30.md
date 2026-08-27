@@ -36,4 +36,4 @@ we come across a pack of werewolves fighting against a garrison of undead soldie
 
 we did battle with them on a bridge, [[Falstad Firebeard|falstad]] turned undead which disabled many enemies during the fight
 
-session ended mid fight, some enemies are still under the effect of turn undead. the skeleton warriors can only die to damage that one shots them so they are high priority, a few are left but we are running out of ways to kill them. the captains are still very healthy
+session ended mid fight, some enemies are still under the effect of turn undead. the skeleton warriors can only die to damage that one shots them so they are high priority, there are 6 left and we are running out of ways to kill them. the captains are still very healthy

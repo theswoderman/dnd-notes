@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Pilgrims of Panrelta/Events/The Frozen Riverbank.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Frozen Riverbank"
+              "title": "Session 30"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Events/Pilgrims of Panrelta/Events/The Frozen Riverbank.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of The Frozen Riverbank"
+                  "title": "Graph of Session 30"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -390,6 +390,8 @@
   "active": "422715ec20929148",
   "lastOpenFiles": [
     "Lore/Panrelta Timeline.md",
+    "Events/Pilgrims of Panrelta/Events/The Frozen Riverbank.md",
+    "Loose Ends/Panrelta Loose Ends.md",
     "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "index.md.tmp.26256.6f802d22f817",
@@ -416,7 +418,6 @@
     "People/NPCs/Antagonists/Golzokroth.md",
     "People/NPCs/Antagonists/Kyron Delinor.md",
     "Locations/Material Plane/Stonehold.md",
-    "Locations/Material Plane/Tomb of Evendor.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
