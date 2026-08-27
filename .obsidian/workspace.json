@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                "file": "Events/Pilgrims of Panrelta/Events/The Frozen Riverbank.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 30"
+              "title": "The Frozen Riverbank"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                    "file": "Events/Pilgrims of Panrelta/Events/The Frozen Riverbank.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 30"
+                  "title": "Graph of The Frozen Riverbank"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -389,11 +389,12 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "index.md.tmp.26256.6f802d22f817",
+    "Lore/Panrelta Timeline.md",
     "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+    "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
     "Deities/Bane.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
@@ -412,7 +413,6 @@
     "Groups/The Sons of Thunder.md",
     "Events/Campaign 1/00 - Campaign Index.md",
     "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "Lore/Panrelta Timeline.md",
     "People/NPCs/Antagonists/Golzokroth.md",
     "People/NPCs/Antagonists/Kyron Delinor.md",
     "Locations/Material Plane/Stonehold.md",
@@ -425,7 +425,6 @@
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
     "Session Notes/Pilgrims of Panrelta/nic's notes",
     "Session Notes/Pilgrims of Panrelta",
-    "Session Notes/Campaign 1",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
