@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loose Ends/Campaign 1 Loose Ends.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campaign 1 Loose Ends"
+              "title": "Session 28"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Loose Ends/Campaign 1 Loose Ends.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Loose Ends"
+                  "title": "Graph of Session 28"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bane",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -385,13 +385,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+    "People/NPCs/Antagonists/Mirna Gribwood.md",
+    "Loose Ends/Campaign 1 Loose Ends.md",
     "Lore/Campaign 1 Timeline.md",
     "Events/Campaign 1/00 - Campaign Index.md",
     "CLAUDE.md",
     "Locations/Material Plane/The Tree of Pain.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Lore/Panrelta Timeline.md",
     "Events/Pilgrims of Panrelta/Events/The Frozen Riverbank.md",
     "Loose Ends/Panrelta Loose Ends.md",
@@ -399,7 +402,6 @@
     "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
     "Deities/Bane.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Untitled.md",
@@ -414,8 +416,6 @@
     "Events/Campaign 1/Events/The Attack on Mudbend.md",
     "Locations/Material Plane/Mudbend.md",
     "Groups/The Sons of Thunder.md",
-    "Events/Pilgrims of Panrelta/00 - Panrelta Index.md",
-    "People/NPCs/Antagonists/Golzokroth.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
