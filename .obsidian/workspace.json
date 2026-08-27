@@ -70,7 +70,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -176,7 +176,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Summary"
+                  "title": "Graph of Session 29"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -373,6 +373,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Untitled.md",
     "index.md",
@@ -397,8 +400,6 @@
     "Groups/Nezerai Empire.md",
     "Events/Campaign 1/Events/The Mural and the Gem.md",
     "Events/Campaign 1/Events/The Sundering.md",
-    "Lore/The Planar Realignment.md",
-    "Suggestions/Suggestion History/2026-08-18.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
@@ -408,7 +409,6 @@
     "Session Notes/Pilgrims of Panrelta/nic's notes",
     "Session Notes/Pilgrims of Panrelta",
     "Session Notes/Campaign 1",
-    "Session Notes",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
