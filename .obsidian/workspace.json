@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                "file": "Locations/Material Plane/The Tree of Pain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 30"
+              "title": "The Tree of Pain"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                    "file": "Locations/Material Plane/The Tree of Pain.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 30"
+                  "title": "Graph of The Tree of Pain"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -389,11 +389,11 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Lore/Panrelta Timeline.md",
     "Events/Pilgrims of Panrelta/Events/The Frozen Riverbank.md",
     "Loose Ends/Panrelta Loose Ends.md",
     "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
     "Deities/Bane.md",

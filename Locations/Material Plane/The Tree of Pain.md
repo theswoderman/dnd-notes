@@ -13,12 +13,6 @@ A tree completely covered in bodies in various states of decomposition. It is a 
 
 [[Thol]] cast find the path to steer the party toward it, which is what took them to the riverbank in [[The Frozen Riverbank]]. After the fight there they chased the Beast of [[Malar]] to a new battle zone with the tree on the horizon, and then reached it.
 
-## Connections
-- [[The Abbey]], what it marks
-- [[The Collector]], named it
-- [[Bane]], his monument
-- [[Sage Thorn Forest]], where it stands
-
 ## Sessions
 - [[Session 29]]
 - [[Session 30]]
