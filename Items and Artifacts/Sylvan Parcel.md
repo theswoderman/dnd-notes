@@ -25,10 +25,5 @@ Opening it also gave each of the party a spell to cast.
 - Others: speak with animals
 - [[Thol]]: find the path, with a one day duration
 
-## Connections
-- [[Hiram Oakbrow]], who gave it to them
-- [[Sylvanus]], the god he worships
-- [[The Good Ones]], the recipients
-
 ## Sessions
 - [[Session 28]]

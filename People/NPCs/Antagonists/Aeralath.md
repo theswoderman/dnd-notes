@@ -26,10 +26,3 @@ She was helping [[The Sons of Thunder]] gain power because she wanted them to ga
 She was defeated at the end of [[The Demon War]], in [[Estrana|1017 A.P.]] That defeat is reckoned as the start of the Dawning Era (D.E.) and is celebrated every year as [[The Dawning]], the tenth of which is approaching in the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign, in 10 D.E.
 
 Her home plane has not gone quiet. A necrohulk from [[The Abyss]] surfaced beneath a [[Panrelta]] mountain a decade on, and [[The Abyssal Orb]] came out of it.
-
-## Connections
-- [[The Sundering]], the event that sealed her away 10,000 years ago
-- [[Queensbane]], the only weapon that can harm her, and the one she wanted collected
-- [[The Black Crown]], the cult that worships her as "their matron"
-- [[The Planar Realignment]], the mechanism of her return
-- [[The Dawning]], the celebration of her defeat

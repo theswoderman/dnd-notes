@@ -13,7 +13,3 @@ After defeating the thieves and recovering his prized possessions, he took [[The
 
 ## Why it matters
 This is how the party first reached [[The Bettermans Guild]], which has been their base and patron since.
-
-## Connections
-- [[Ky'ar Lastet]]
-- [[The Bettermans Guild]]

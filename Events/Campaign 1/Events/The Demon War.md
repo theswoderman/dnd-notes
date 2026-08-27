@@ -22,12 +22,5 @@ The demons arrived at the end of a conflict that had already drawn in nearly eve
 
 [[Grekosha]] was never on the "bad side." [[Reed]] has corrected this: *"Grekosha hadn't declared a side. [[Jäkel Aleister le Rouge|Jakel]]'s dad wanted the queen dead so he could take power and join [[Dolghast]]. Once they took him out, Grekosha joined the good guys."* The nation stayed undeclared; it was [[Jäkel Aleister le Rouge|Jakel]]'s father who wanted to throw in with [[Dolghast]], and killing [[Queen Marislova Domeshka]] was how he meant to do it. [[Prelude for Thalrik Lastfeast]] lists Grekosha as an enemy nation, which is wrong.
 
-## Connections
-- [[Aeralath]], the war's cause and its end
-- [[The Sons of Thunder]], won it
-- [[The Dawning]], the annual celebration of her defeat
-- [[The Siege of Stonehold]], a decisive battle
-- [[The Rosefields]], named for a different, far older war between [[Alnoria]] and [[Rorinden]]
-
 ## Sessions
 - [[Prelude for Thalrik Lastfeast]]

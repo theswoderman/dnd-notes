@@ -36,13 +36,6 @@ His patron "[[Zargon the Immortal|Sina'Draiel]]" turned out to be [[Zargon the I
 - Possessed by [[Zargon the Immortal|Zargon]] during [[The Exorcism of Zargon]]; the arm holding the horn was cut off by [[Bathoz Manefell]] and regrown
 - Traded the horn for the [[Rose of Asmodeus]], gifted by [[Sardior]]
 
-## Connections
-- [[Ifan Le Rouge]], father, Lord of Death
-- [[Chessa]], mother
-- [[Casimir]], brother, currently sealed in the [[Cube of Carrying]]
-- [[Diana Zethros]], fellow Red Knight and lover
-- Judged by [[Kovir]] for stubbornness and willingness to sacrifice others
-
 ## Ten years later
 Appears in the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign, set a decade after Campaign 1: [[The Good Ones]] met him at a dinner in [[Stonehold]].
 

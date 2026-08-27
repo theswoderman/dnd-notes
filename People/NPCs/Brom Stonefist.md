@@ -12,10 +12,5 @@ The former [[Bronze Rams]] warrior who trained [[Thalrik Lastfeast]] in the comb
 
 When he learned [[Thalrik Lastfeast|Thalrik]] was setting out on [[The Pilgrimage]], he urged him to make contact with his own old mentor, [[Magus Trollbeater|Maygus Trollbeater]], who would see that Thalrik at least had a place to stay in [[Stonehold]].
 
-## Connections
-- [[Thalrik Lastfeast]], his student
-- [[Magus Trollbeater]], his old mentor
-- [[Bronze Rams]], his brotherhood
-
 ## Sessions
 - [[Prelude for Thalrik Lastfeast]]

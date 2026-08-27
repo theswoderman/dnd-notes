@@ -26,11 +26,6 @@ Somewhere in it are [[The Tree of Pain]] and [[The Abbey]], which a map places b
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Illmater]], has a temple here
-- [[Bane]], has soldiers buried here
-- [[Torin Turen]], went in alone
-
 ## Sessions
 - [[Session 28]]
 - [[Session 29]]

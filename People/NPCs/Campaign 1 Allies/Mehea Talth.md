@@ -11,7 +11,3 @@ aliases: [Mehea]
 Joined [[The Sons of Thunder]] after they teleported out of [[Ahmeses]]'s sanctuary, traveling with them to [[Xinar]] in search of [[Princess Kara]]. Her father was among the friends of [[Elyon Ivasil]] killed by [[Golzokroth]] forty years ago, which made the hunt for [[Golzokroth|the Blood Tyrant]] personal.
 
 Rewarded with a powerful bow by the amethyst dragon [[Raiorma]] for the rescue of her mate.
-
-## Connections
-- [[Golzokroth]], killed her father
-- [[Elyon Ivasil]], knew her father

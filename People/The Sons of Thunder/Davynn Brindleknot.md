@@ -28,11 +28,6 @@ aliases:
 - Nearly killed by [[Chronus]]'s 9th-level Time Ravage in [[Mechanus]], aging him to within thirty days of death
 - Reportedly involved in the death of his own brother, a guilt [[Kovir]] judged him for; the brother was later revived
 
-## Connections
-- [[Hariett Hinkapot]], old friend and love interest
-- [[Dimble Flintbatter]], academic rival, later found among [[Melvin]]'s conspirators
-- [[Elyon Ivasil]], benefactor at the [[Arcanus Sanctum]]
-
 ## Ten years later
 He is a gnome evocation wizard, among the most preeminent of his time, and may have no true rival on the material plane.
 

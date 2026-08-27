@@ -32,13 +32,6 @@ member of [[The Sons of Thunder]]
 - Knocked unconscious and teleported to a Modron prison by [[Astynom Alpha 009]] at the gate to [[Mechanus]]
 - Spotted [[Minthur]]'s invisible wingbeats disturbing the trees, saving the city of Mushala
 
-## Connections
-- [[Melvin]], brother and nemesis, leader of the [[Ashes of Kemnan]]
-- [[Lien]], birth mother
-- [[Zalema]], village elder of the [[Whisperwood]] Viera
-- [[Darrius|Abrovand]], the Archfey gave [[Razor's Grace]] to his grandfather Johan Malcovitch
-- Judged by [[Kovir]] for overindulgence in physical desire
-
 ## Ten years later
 He made a career for himself as a detective in [[Whitehall]] and now serves under [[King Berrigan]] as chief inspector. After the first [[The Dawning|Dawning]] he founded a restaurant. He still serves the Alnorian crown.
 

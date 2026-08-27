@@ -16,11 +16,5 @@ That puts [[The Bettermans Guild]]'s camp, and therefore the party's home base, 
 
 See [[The Dusk Hag's Dreams]].
 
-## Connections
-- [[The Bettermans Guild]], camped here
-- [[House Dufrey]], the house of these woods
-- [[Grekosha]], encroaching
-- [[Yorrisk]], what the war is over
-
 ## Sessions
 - [[Session 28]]

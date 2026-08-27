@@ -49,14 +49,6 @@ A gnomish scream came out of the moving corpses at [[The Frozen Riverbank]]. Nob
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Bettermans Guild]], his organization
-- [[Illmater]], his god, and the relationship is failing
-- [[Ky'ar Lastet]], his likely successor, who is worried about him and also wants the job
-- [[Lightfoot]], his pegasus
-- [[Bane]], whose soldier he dug up
-- [[Beemo]], whom he called "little shadow"
-
 ## Sessions
 - [[Session 28]]
 - [[Session 29]]

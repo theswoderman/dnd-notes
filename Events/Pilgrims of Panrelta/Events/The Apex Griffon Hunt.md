@@ -14,7 +14,3 @@ The apex griffon was hunted deliberately: [[The Maiden]] had demanded its heart 
 
 ## Status
 The debt is still outstanding. [[The Good Ones]] have not encountered [[The Maiden]] again since [[The Centaur Poachers]], so nothing has changed hands. The heart has not been delivered and the 10,000 gold has not been settled.
-
-## Connections
-- [[The Maiden]], who set the condition
-- [[The Centaur Poachers]], where the debt was incurred

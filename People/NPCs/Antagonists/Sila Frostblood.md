@@ -17,10 +17,5 @@ The next morning the party reached the riverbank she had shown them. See [[The C
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Sisters of the Gnarled Veil]], her coven
-- [[Mirna Gribwood]], a dusk hag of the same coven
-- [[Gribnik Mossfoot]], [[Thol]], [[Falstad Firebeard]]: the three she appeared to
-
 ## Sessions
 - [[Session 29]]

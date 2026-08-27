@@ -12,12 +12,6 @@ One raider in particular, a goblin with a black mohawk, was chased off but is ex
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Gribnik Mossfoot]], a former member
-- [[The Bettermans Guild]], the target of the incursions
-- [[Aisha]], reported the one with the black mohawk
-- [[Ky'ar Lastet]], told the party about the incursions, and appears to have been stepping into leadership while [[Torin Turen|Torin]] wears down
-
 ## Sessions
 - [[Session 28]]
 - [[Session 29]]

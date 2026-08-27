@@ -17,8 +17,3 @@ Told [[The Good Ones]] about [[The Maiden]], and said she is also known as the L
 
 ## Why he matters
 So far he is the only figure who has given both parties information about the other's side of the world: [[Dolghast]] to one, [[The Maiden]] to the other.
-
-## Connections
-- [[The Maiden]], he identified her as the Laughing Princess
-- [[Dolghast]], subject of the Campaign 1 scrying
-- [[Loryn Malcovitch|Loryn]], ordered to find him

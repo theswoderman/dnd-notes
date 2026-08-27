@@ -58,14 +58,6 @@ He never knew what he gave up that night. [[Torm]] has now answered it through [
 ## Open threads
 - Told to seek out [[The Order of the Golden Gauntlet]] when possible
 
-## Connections
-- [[Torm]], his god, by oath and by pact
-- [[Brom Stonefist]], the man who trained him
-- [[Dwendall Dhormas]], childhood friend, survived the bulette, remained in [[Saltport]]
-- [[Sven]], [[Clara]], [[Hansel]], companions killed by the bulette
-- [[Mirgen Roe]], owes him goodwill
-- [[Bane]], an enemy of [[Torm]], now a live problem
-
 ## Sessions
 - [[Prelude for Thalrik Lastfeast]]
 - [[Session 27]]

@@ -9,7 +9,3 @@ aliases: [Zusa]
 
 ## Summary
 [[Bathoz Manefell|Bathoz]]'s late mother. The party encountered her as a ranger ally in Brux, the second layer of [[The Beastlands]], where she helped them slay two lieutenants of the [[Wild Hunt]]. She led them to [[Jungle Sovereign]].
-
-## Connections
-- [[Bathoz Manefell]] (son)
-- [[The Sons of Thunder]] (ally)

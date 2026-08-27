@@ -30,7 +30,3 @@ She said they owed her for killing a great many of her men, and let them live on
 - This is the debt that still hangs over [[The Good Ones]], and the reason they expect to meet [[The Maiden]] again
 - The apex griffon was killed in [[The Apex Griffon Hunt]], but the heart has not been delivered. The party has not seen [[The Maiden]] since
 - Centaur hooves turned up again years later in [[The Collector]]'s cart, which is what set off [[The Collector on the Road]]
-
-## Connections
-- [[The Maiden]], poacher boss
-- [[Thol]], personally invested; the centaurs came from his homeland

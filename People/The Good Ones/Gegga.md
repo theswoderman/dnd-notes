@@ -33,11 +33,6 @@ She is an origami wizard with a mask stuck fast to her face that she cannot remo
 ## The killing
 [[Thol]] talked with her afterward about keeping better control of their instincts in stressful situations, and the party had further conversation with her about her remorse on the road back. It is the first time her instincts have cost the party something they might have used. [[The Collector]] died before anyone could ask him about the [[Black Blood Pack]] or the black dragon scales in his cart.
 
-## Connections
-- [[Corvus Arcanum]], the [[Grekosha]]n school of magic she is interested in, though probably not where she studied
-- [[The Collector]], killed by her
-- [[Thol]], talked her through it
-
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]

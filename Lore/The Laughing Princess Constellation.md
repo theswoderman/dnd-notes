@@ -11,12 +11,6 @@ It shares its name with [[The Maiden]]. [[Yosco]] identified her as the Laughing
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Maiden]], known as the Laughing Princess
-- [[The Abbey]], which lies beneath it
-- [[Gribnik Mossfoot]], who dreamed of it
-- [[Orithian Blackspire]], the name that came with the dream
-
 ## Sessions
 - [[Session 28]]
 - [[Session 29]]

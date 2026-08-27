@@ -13,13 +13,6 @@ A Marut, an ultra-powerful lawful construct loyal only to [[Primus]], guarding t
 
 The Marut demanded [[The Sons of Thunder]] surrender their weapons, including [[Queensbane]], before entering [[Mechanus]]. When they refused, it knocked [[Loryn Malcovitch|Loryn]] unconscious and teleported them both away to a Modron prison. [[Loryn Malcovitch|Loryn]] was eventually released to his companions.
 
-## Connections
-
-- [[Primus]], serves him
-- [[Loryn Malcovitch]], kidnapped him
-- [[Mechanus]], guards the gate
-- [[Gudjag Canyon]], stationed at the gate there
-
 ## Sessions
 
 - [[Into Mechanus]]

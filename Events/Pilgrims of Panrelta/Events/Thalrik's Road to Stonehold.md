@@ -33,7 +33,3 @@ The two sheltered in [[Saltport]] for a few days before [[Dwendall Dhormas|Dwend
 Unmoored by the loss, [[Thalrik Lastfeast|Thalrik]] found himself adrift in the massive dwarven city. He has not managed to find [[Magus Trollbeater|Maygus Trollbeater]], the [[Bronze Rams|Bronze Ram]] [[Brom Stonefist|Brom]] urged him to seek. For nearly a fortnight he took odd jobs and minor holy responsibilities while gathering his spirits for the second leg of the pilgrimage.
 
 This is where he met [[The Good Ones]].
-
-## Connections
-- [[Brom Stonefist]], his teacher, who set him on this road
-- [[Dwendall Dhormas]], his companion, who stopped at [[Saltport]]

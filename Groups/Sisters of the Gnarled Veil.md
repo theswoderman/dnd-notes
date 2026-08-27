@@ -36,12 +36,6 @@ Full account in [[The Dusk Hag's Dreams]].
 ## Possibly also
 The party thinks a hag lured [[Torin Turen]] out of [[The Bettermans Guild]]'s camp with a false dream, sending him alone into the [[Sage Thorn Forest|Sagethorn]]. That is unconfirmed, and his dreams are different in kind from theirs. See [[Torin's Flight into the Sagethorn]].
 
-## Connections
-- [[Festra]], leader
-- [[Mirna Gribwood]], dusk hag, [[Beemo]]'s aunt
-- [[Sila Frostblood]], bheur hag, the third member
-- [[Beemo]], their target
-
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]

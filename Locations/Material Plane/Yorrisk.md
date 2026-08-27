@@ -21,12 +21,6 @@ The spelling is still as first recorded and has not been confirmed in writing.
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Maiden]], has acquaintances here and named it as the meeting place
-- [[House Keroskav]] and [[House Dufrey]], at war over it
-- [[The Dawning]], the apparent date
-- [[The Collector]], first mentioned it
-
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]

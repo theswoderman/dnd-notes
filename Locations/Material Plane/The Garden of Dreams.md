@@ -10,6 +10,3 @@ A location deep beneath the mountain, sacred to the stone giants. This is where 
 The broken [[Giant Memory Gemstones]] [[The Good Ones]] slept with came from here.
 
 A purple worm was infesting the mountain above it until [[The Good Ones]] helped kill it. See [[Exploration of the deep mines]].
-
-## Connections
-- [[The Rockspeaker]], its guardian

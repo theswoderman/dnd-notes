@@ -37,10 +37,3 @@ They put his body in the bag, with [[The Abyssal Orb]]. Their own assessment: pr
 - Whether he was working for [[The Maiden]]
 
 **Resolved since:** "yorrisk upon the dawning." [[Yorrisk]] is a developing town contested by [[House Keroskav]] and [[House Dufrey]], and [[The Maiden]] told the party she would meet them there. See [[Return to the Bettermans Guild]].
-
-## Connections
-- [[The Collector]]
-- [[The Maiden]]
-- [[Malar]]
-- [[Black Blood Pack]]
-- [[Yorrisk]]

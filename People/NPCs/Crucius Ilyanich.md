@@ -10,8 +10,3 @@ aliases: [The Bitter Baron]
 
 ## Summary
 The previous ruler of [[Khulask Hollow]], who held the town under totalitarian rule and was working with [[The Drow]]. [[The Good Ones]] overthrew him in a great battle. See [[Liberation of Khulask Hollow]].
-
-## Connections
-- [[Khulask Hollow]], his seat
-- [[The Drow]], his allies
-- [[Mirgen Roe]], took over leadership after his death

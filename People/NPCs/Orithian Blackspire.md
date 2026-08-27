@@ -12,11 +12,6 @@ See [[The Dusk Hag's Dreams]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Gribnik Mossfoot]], dreamed the name
-- [[The Laughing Princess Constellation]], the dream's subject
-- [[The Drow]], the only stated association
-
 ## Sessions
 - [[Session 28]]
 - [[Session 29]]

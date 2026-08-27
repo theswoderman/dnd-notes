@@ -30,11 +30,6 @@ he came to [[Thalrik Lastfeast]] in a dream and provided him with a new weapon w
 - Used Temple of the Gods to create a fortress in [[The Beastlands]] where the party made their stand against [[Cerrunos|the Erdking]]
 - True Polymorphed into a dragon to chase [[Minthur]] when the hybrid dragon fled for the city of Mushala
 
-## Connections
-- [[Callus Halterstock]], former employer and enemy
-- [[Sebastion]], the orphan who blames him, with reason
-- Judged by [[Kovir]] for the fear of losing his friends again
-
 ## Ten years later
 He is a satyr, Eloquence bard and cleric, bearer of the [[Hand of Truth]], and current mortal champion of [[Torm]]. He was raised in the woods of [[Thalonir]] before joining [[The Sons of Thunder]].
 

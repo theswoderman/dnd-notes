@@ -36,14 +36,6 @@ The debt is still outstanding.
 ## The constellation
 [[The Laughing Princess Constellation|A constellation]] carries her other name, and the party takes the two to be connected. It matters because a map they picked up early in the campaign places [[The Abbey]] and the lost temple beneath those stars, which is where [[Bane]] and [[Malar]]'s followers are both taking [[The Black Grail]]. Her constellation hangs over the place they are walking toward. See [[The Climb to the Sagethorn]].
 
-## Connections
-- [[The Laughing Princess Constellation]], shares her other name
-- [[The Centaur Poachers]], how the party met her
-- [[The Apex Griffon Hunt]], one of her two conditions
-- [[The Collector]], likely still connected to her operation; now dead
-- [[Yorrisk]], where she said she would meet them
-- [[Thol]], the centaurs came from his homeland
-
 ## Sessions
 - [[Early session catch up notes]]
 - [[Session 27]]

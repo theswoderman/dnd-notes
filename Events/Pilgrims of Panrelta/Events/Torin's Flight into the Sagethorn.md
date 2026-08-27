@@ -32,11 +32,3 @@ Torin then wandered deeper into the forest.
 The party's read at the end of the session: they are going to have to fight [[Bane]].
 
 See [[Panrelta Loose Ends]] for open questions.
-
-## Connections
-- [[Torin Turen]]
-- [[Lightfoot]]
-- [[Bane]]
-- [[Sage Thorn Forest]]
-- [[Illmater]]
-- [[Ky'ar Lastet]]

@@ -15,8 +15,3 @@ The Erdking challenged [[The Sons of Thunder]] to a 24-hour hunt. Over that time
 - [[Vilerrus]] (wolf commander, Archfey, fled)
 - Rotgut (goblin, killed by [[The Sons of Thunder]] and [[Zusa Manefell]])
 - Ojiro (oni spellblade, killed by [[The Sons of Thunder]] and [[Zusa Manefell]])
-
-## Connections
-- [[Cerrunos]] (leader)
-- [[The Beastlands]]
-- [[The Sons of Thunder]]

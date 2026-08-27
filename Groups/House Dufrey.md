@@ -17,11 +17,5 @@ See [[The Dusk Hag's Dreams]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Iron Oak Woods]], its territory
-- [[House Keroskav]], its opponent over [[Yorrisk]]
-- [[Yorrisk]], the town in dispute
-- [[The Bettermans Guild]], camped in the same woods
-
 ## Sessions
 - [[Session 28]]

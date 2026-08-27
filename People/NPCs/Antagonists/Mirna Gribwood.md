@@ -30,11 +30,5 @@ See [[The Dusk Hag's Dreams]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Beemo]], her nephew and the coven's target
-- [[Festra]], the hag who raised [[Beemo]]; the family relation is the obvious link
-- [[Sisters of the Gnarled Veil]], the coven circle casting with her
-- [[Torin Turen]], possibly lured out by her or one of her sisters
-
 ## Sessions
 - [[Session 28]]

@@ -20,10 +20,5 @@ The hag who created and raised [[Beemo]]. She leads a coven called the [[Sisters
 ## The family
 [[Beemo]] identified [[Mirna Gribwood]] as his aunt, which makes [[Mirna Gribwood|Mirna]] Festra's sister in some sense.
 
-## Connections
-- [[Beemo]], her creation
-- [[Mirna Gribwood]], [[Beemo]]'s aunt and the hag in the party's dreams
-- [[Sisters of the Gnarled Veil]], her coven
-
 ## Sessions
 - [[Session 28]]

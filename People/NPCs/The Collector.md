@@ -37,14 +37,6 @@ His body went into the bag, alongside [[The Abyssal Orb]]. The party's own asses
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Maiden]], he had met her
-- [[Malar]], the god he served
-- [[Black Blood Pack]], the threat he made
-- [[Gegga]], killed him
-- [[Starfall Clearing]], his destination
-- [[The Black Grail]], what the trophies were for
-
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]

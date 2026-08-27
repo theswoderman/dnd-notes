@@ -31,13 +31,6 @@ In the second night of [[The Dusk Hag's Dreams]] he watched his adoptive father 
 
 On the third night he fought in the battle dream alongside [[Beemo]] and [[Gribnik Mossfoot]], and used Know Your Enemy on the hag: [[Mirna Gribwood]] is immune to blinded, charmed and frightened.
 
-## Connections
-- [[Bathoz Manefell]], adoptive father
-- [[Jäkel Aleister le Rouge]], adopted uncle
-- [[Kalibad]] and the [[Golden Plains]], where he was raised
-- [[The Maiden]], beat him twice
-- [[Gegga]], talked her through the killing
-
 ## Sessions
 - [[Early session catch up notes]]
 - [[Session 27]]

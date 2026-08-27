@@ -61,10 +61,3 @@ This is a different hag. [[Gegga]] and [[Beemo]] named her [[Sila Frostblood]], 
 - [[Thol]] used Know Your Enemy: [[Mirna Gribwood|Mirna]] is immune to blinded, charmed and frightened
 
 See [[Panrelta Loose Ends]] for open questions.
-
-## Connections
-- [[Mirna Gribwood]]
-- [[Sisters of the Gnarled Veil]]
-- [[Festra]]
-- [[Beemo]]
-- [[Yorrisk]]

@@ -22,9 +22,3 @@ He is [[The Sons of Thunder]]'s most persistent enemy and the public face of the
 - Confronted the party in [[Xinar]] over [[Princess Kara]], killing [[Umbra]] in front of them
 - Shattered the gate of [[Stonehold]] with Earthquake and Meteor Swarm, then murdered [[Soraya Hawthorne]]
 - Warned [[Diggory Psalm|Diggory]] never to mention his family again, and when goaded a second time carried out [[The Harbinger's Reprisal]]
-
-## Connections
-- [[Vedonia]] and [[Bryn]], his dead wife and daughter, the one subject that reliably breaks his composure
-- [[Elyon Ivasil]], his old master
-- [[Queen Nocticula]], fellow servant of the demonic cause
-- [[Aeralath]], the matron his cult serves

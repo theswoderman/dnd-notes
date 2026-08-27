@@ -12,10 +12,5 @@ Childhood friend of [[Thalrik Lastfeast]], who originally set out on [[The Pilgr
 
 Saving Dwendall is the reason [[Thalrik Lastfeast|Thalrik]] made his pact with [[Torm]].
 
-## Connections
-- [[Thalrik Lastfeast]], childhood friend
-
-He stayed to save enough gold for passage by sea back to [[Hor Garam]], and would neither finish the pilgrimage nor walk the road home. See [[Thalrik's Road to Stonehold]].
-
 ## Sessions
 - [[Prelude for Thalrik Lastfeast]]

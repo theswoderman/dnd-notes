@@ -13,9 +13,5 @@ See [[Return to the Bettermans Guild]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Bettermans Guild]], her organization
-- [[Mossclaw]], the raiders she reported
-
 ## Sessions
 - [[Session 28]]

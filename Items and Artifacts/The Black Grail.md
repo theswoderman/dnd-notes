@@ -14,12 +14,6 @@ Interrogated after death, [[The Collector]] said [[Malar]] had sent him to "coll
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Torin Turen]], said to hold it
-- [[Malar]] and [[Bane]], rivals for it
-- [[The Collector]], the source of nearly everything above
-- [[The Abbey]] and [[The Tree of Pain]], where it is meant to be taken
-
 ## Sessions
 - [[Session 28]]
 - [[Session 29]]

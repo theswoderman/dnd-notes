@@ -44,13 +44,6 @@ He did fight in the third night's battle dream, alongside [[Thol]] and [[Gribnik
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Festra]], the hag who created and raised him
-- [[Mirna Gribwood]], his aunt, the dusk hag in the party's dreams
-- [[Sisters of the Gnarled Veil]], [[Festra]]'s coven, hunting him
-- [[Nebulu]], his god, probably
-- [[Torin Turen]], called him "little shadow"
-
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]

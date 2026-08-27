@@ -12,10 +12,5 @@ He still had it when he woke.
 
 Its purpose, as given: to light the way to [[Temple Trueheart]], and to ensure safe passage toward an eventual invitation to the [[The Order of the Golden Gauntlet|Knights of the Golden Gauntlet]].
 
-## Connections
-- [[Thalrik Lastfeast]], its bearer
-- [[Torm]], its source
-- [[Diggory Psalm]]: delivered it, and himself bears the [[Hand of Truth]]
-
 ## Sessions
 - [[Thalrik's Dream]]

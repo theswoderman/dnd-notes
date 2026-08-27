@@ -12,10 +12,5 @@ A worshipper of [[Sylvanus]] who gave [[The Good Ones]] the [[Sylvan Parcel]], a
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Sylvanus]], the god he worships
-- [[Sylvan Parcel]], his gift
-- [[The Good Ones]], the recipients
-
 ## Sessions
 - [[Session 28]]

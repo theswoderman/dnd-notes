@@ -7,6 +7,3 @@ tags: [character, panrelta, holy]
 **Status:** Alive
 
 A follower of [[Torm]] and a member of [[The Order of the Golden Gauntlet]].
-
-## Connections
-- [[Arthur Van Hark]], his mentor

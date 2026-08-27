@@ -37,8 +37,3 @@ The two with the widest implications are [[Thalrik Lastfeast|Thalrik]]'s and [[G
 
 ## The crone
 Separately, [[Gegga]], [[Beemo]] and [[Gribnik Mossfoot]] had a horrible dream of a crone eating a griffin, who then attacked the dreamer directly. They took damage and woke exhausted. The crone may have been one of the [[Sisters of the Gnarled Veil]].
-
-## Connections
-- [[The Rockspeaker]], guardian of the garden
-- [[The Garden of Dreams]]
-- [[Annum]], all-father of the giants

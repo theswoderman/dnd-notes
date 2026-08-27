@@ -27,12 +27,5 @@ This turns three separate threads into one. The animal parts [[The Collector]] w
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Collector]], the corpse
-- [[Malar]], the god he served
-- [[Bane]], the rival his answers named
-- [[The Black Grail]], [[The Abbey]], [[The Tree of Pain]], what his answers pointed at
-- [[Torin Turen]], the small gnome
-
 ## Sessions
 - [[Session 29]]

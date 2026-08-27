@@ -23,12 +23,6 @@ The session notes call it the ichor deep engine at this point, which is the firs
 See [[Panrelta Loose Ends]] for open questions.
 - Whether either has anything to do with this orb, or with [[Aeralath]]
 
-## Connections
-- [[The Abyss]], where the necrohulk came from
-- [[Aeralath]], also from the Abyss
-- [[The Sons of Thunder]], intended recipients
-- [[Thalrik Lastfeast]], the one it spoke to
-
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]

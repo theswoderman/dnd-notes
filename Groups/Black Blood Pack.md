@@ -10,9 +10,5 @@ A lycanthrope pack in the service of [[Malar]], god of hunters and lycanthropes.
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Collector]]: named them; whether he was one of them was never established, and he is dead
-- [[Malar]], the god he served
-
 ## Sessions
 - [[Session 28]]

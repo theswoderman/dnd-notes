@@ -21,13 +21,5 @@ The camp has grown from roughly 100 people to 300, gathered around a guild of ab
 - [[Ky'ar Lastet]] is stepping up, and wants full leadership
 - One of the guild's stonemasons did not come back from the deep mines
 
-## Connections
-- [[Torin Turen]], leader
-- [[Ky'ar Lastet]], brought the party here after [[Raid on the Thieves Guild]]; now taking up leadership
-- [[Aisha]], met the party at the camp outskirts
-- [[Mirgen Roe]], came here with the [[Khulask Hollow]] survivors
-- [[Mossclaw]], raiding the camp
-- [[House Dufrey]], the Iron Oak house whose territory the camp sits in
-
 ## Sessions
 - [[Session 28]]

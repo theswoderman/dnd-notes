@@ -15,14 +15,6 @@ He took refuge in the far reaches of [[Mechanus]], past the Wastes of Gravegear.
 
 In [[Chronus]]'s visions of alternate timelines, each party member saw a version of their life where their defining choices went differently.
 
-## Connections
-
-- [[Primus]], his creator and the ruler he rebelled against
-- [[The Sons of Thunder]], killed him
-- [[Theh Kha]], formian warrior who fought against him
-- [[Queensbane]], his power attuned the blade to [[Mechanus]]
-- [[Aeralath]], his plan was to reverse time to prevent her return
-
 ## Sessions
 
 - [[Into Mechanus]]

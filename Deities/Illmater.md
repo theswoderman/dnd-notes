@@ -15,11 +15,5 @@ There is a temple of Illmater in the [[Sage Thorn Forest]]. [[Torin Turen|Torin]
 ## What Torin told the party
 Call to Illmater when you are at your lowest.
 
-## Connections
-- [[Torin Turen]], his high priest
-- [[The Bettermans Guild]], led in his name
-- [[Sage Thorn Forest]], holds a temple of his
-- [[Bane]], has taken a foothold in that same forest
-
 ## Sessions
 - [[Session 28]]

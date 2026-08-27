@@ -15,8 +15,5 @@ One of the five adventurers who sailed out to find the wandering island and woke
 ## Key moments
 - Was shipwrecked, captured and nearly sacrificed, then broke out and fought clear. See [[Awakening of the turtle]]
 
-## Connections
-- [[The Island Adventurers]]
-
 ## Sessions
 - A single one-shot session, date unrecorded

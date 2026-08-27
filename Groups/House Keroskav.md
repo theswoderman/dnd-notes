@@ -14,10 +14,5 @@ See [[The Dusk Hag's Dreams]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[Grekosha]], its nation
-- [[House Dufrey]], its opponent over [[Yorrisk]]
-- [[Yorrisk]], the town in dispute
-
 ## Sessions
 - [[Session 28]]

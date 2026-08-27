@@ -30,12 +30,5 @@ Between the party and the forest stood a cliff, eight hundred to a thousand feet
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Abyssal Orb]], spoke for the first time
-- [[Sila Frostblood]], identified
-- [[The Laughing Princess Constellation]], how they intend to find [[The Abbey]]
-- [[The Bettermans Guild]], where the horses were left
-- [[Sage Thorn Forest]], the destination
-
 ## Sessions
 - [[Session 29]]

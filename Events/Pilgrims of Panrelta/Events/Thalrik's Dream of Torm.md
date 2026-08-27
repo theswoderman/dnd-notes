@@ -37,8 +37,3 @@ Diggory told him:
 - Whatever the [[Sisters of the Gnarled Veil]] are planning there was hidden from a god
 
 See [[Panrelta Loose Ends]] for open questions.
-
-## Connections
-- [[Torm]], granted the dream
-- [[Diggory Psalm]], delivered the gift
-- [[Jäkel Aleister le Rouge]], raised the alarm

@@ -19,8 +19,3 @@ The shade was described as an "unsuccessful" creation of the coven, where [[Beem
 Either way, the coven still wants [[Beemo]] dead, and the reason is not known.
 
 See [[Panrelta Loose Ends]] for open questions.
-
-## Connections
-- [[Beemo]], the target
-- [[Sisters of the Gnarled Veil]], made both the shade and [[Beemo]]
-- [[Festra]], the hag who created and raised [[Beemo]]

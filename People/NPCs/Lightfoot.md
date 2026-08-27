@@ -14,9 +14,5 @@ Torin rode out of [[The Bettermans Guild]]'s camp on Lightfoot before dawn, leav
 
 See [[Torin's Flight into the Sagethorn]].
 
-## Connections
-- [[Torin Turen]], his rider
-- [[Falstad Firebeard]], scried on him to locate [[Torin Turen|Torin]]
-
 ## Sessions
 - [[Session 28]]

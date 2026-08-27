@@ -9,6 +9,3 @@ aliases: [Nobanian, "King of Beasts"]
 
 ## Summary
 God of lions and great cats in [[The Beastlands]]. Slain by the [[Wild Hunt]] led by the Erdking.
-
-## Connections
-- [[Cerrunos]] (killed by his Hunt)

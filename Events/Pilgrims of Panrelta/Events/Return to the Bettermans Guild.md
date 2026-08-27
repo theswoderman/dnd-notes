@@ -58,12 +58,3 @@ After the second night's dream, [[Falstad Firebeard]] recognized the two heraldr
 That closes a thread. [[The Maiden]] had told [[The Collector]] she had acquaintances "on yorrisk upon the dawning", and had told the party earlier that she would meet them in [[Yorrisk]].
 
 See [[Panrelta Loose Ends]] for open questions.
-
-## Connections
-- [[The Bettermans Guild]]
-- [[Torin Turen]]
-- [[Ky'ar Lastet]]
-- [[Aisha]]
-- [[Mossclaw]]
-- [[Sylvan Parcel]]
-- [[Yorrisk]]

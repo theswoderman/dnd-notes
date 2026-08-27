@@ -25,11 +25,6 @@ The [[Mossclaw]] he described matches the goblin [[The Good Ones]] spared in an 
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Connections
-- [[The Bettermans Guild]], where he has taken up leadership
-- [[Torin Turen]], the man he is worried about and expects to replace
-- [[The Good Ones]], brought them to the guild
-
 ## Sessions
 - [[Session 28]]
 - [[Session 29]]
