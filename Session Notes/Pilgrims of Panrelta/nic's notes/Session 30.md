@@ -26,3 +26,4 @@ grant re-iterated that we have 8 adult black dragon scales
 smite and use channel divinity to give thol temp health
 falstad mentioned sylvanus during the fight and the beast scoffed at the name. we learned that the main beast was a servant of malar from the beast lands. it is called a beast of malar
 beast of malar escaped and he can quickly heal so we expect him to be fully recovered when we see him again
+grant asked us if we wanted to chase it or not and we chose to chase it and we chased it to a new battle zone: the tree of pain
