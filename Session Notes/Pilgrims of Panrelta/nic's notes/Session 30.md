@@ -29,6 +29,7 @@ beast of malar escaped and he can quickly heal so we expect him to be fully reco
 grant asked us if we wanted to chase it or not and we chose to chase it and we chased it to a new battle zone, with the tree of pain on the horizon
 we beat the beast of malar
 
-we witness the tree of pain, a tree completely covered in bodies in various states of decomposition
+we witness the tree of pain, a tree completely covered in bodies in various states of decomposition, it's a monument to bane. not made by the servants of malar, they're too disorganized to accomplish something like this
 
-it's a monument to bane
+
+
