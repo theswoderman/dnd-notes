@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 68.17548746518106,
+        "dimension": 46.82926829268293,
         "children": [
           {
             "id": "422715ec20929148",
@@ -32,53 +32,18 @@
               "title": "Session 30"
             },
             "group": "5f6a3ec99364036b"
-          },
-          {
-            "id": "833ae5ec31c8a13b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/The Sons of Thunder.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Sons of Thunder"
-            }
-          },
-          {
-            "id": "2111f50e5a7e7f63",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 31.82451253481894,
+        "dimension": 53.170731707317074,
         "children": [
           {
             "id": "616fb221e7e6cd63",
             "type": "tabs",
-            "dimension": 61.997126436781606,
+            "dimension": 50,
             "children": [
               {
                 "id": "3c75b250aa647dd0",
@@ -111,7 +76,7 @@
           {
             "id": "eaf4b09cba40c1be",
             "type": "tabs",
-            "dimension": 38.002873563218394,
+            "dimension": 50,
             "children": [
               {
                 "id": "b9003bcd601ba41e",
@@ -422,12 +387,16 @@
       "fathom-starmap:Fathom Starmap": false
     }
   },
-  "active": "2111f50e5a7e7f63",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Groups/The Sons of Thunder.md",
+    "test/test 1.md",
+    "test/test.md",
     "index.md",
+    "test",
+    "test.md",
     "Suggestions/Suggestion History/2026-08-18.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
-    "Groups/The Sons of Thunder.md",
     "People/NPCs/Antagonists/Sila Frostblood.md",
     "Items and Artifacts/The Black Grail.md",
     "People/NPCs/Orithian Blackspire.md",
@@ -448,11 +417,8 @@
     "Deities/Bane.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
-    "Untitled.md",
     "People/The Sons of Thunder/Davynn Brindleknot.md",
     "Locations/Material Plane/Blubberpike.md",
-    "Events/Campaign 1/Events/The Mines of Silverwell.md",
-    "Events/Campaign 1/Events/The Voyage to Vallenhein.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
@@ -460,7 +426,6 @@
     "Suggestions",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc",
     "Session Notes/Pilgrims of Panrelta/nic's notes",
-    "Session Notes/Pilgrims of Panrelta",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
