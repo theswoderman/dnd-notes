@@ -32,8 +32,53 @@
               "title": "Session 30"
             },
             "group": "5f6a3ec99364036b"
+          },
+          {
+            "id": "833ae5ec31c8a13b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groups/The Sons of Thunder.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Sons of Thunder"
+            }
+          },
+          {
+            "id": "2111f50e5a7e7f63",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "0ebe002d15a8cf4b",
+            "type": "leaf",
+            "state": {
+              "type": "fathom-starmap-view",
+              "state": {},
+              "icon": "star",
+              "title": "Fathom Starmap"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2f84238e61591256",
@@ -382,13 +427,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "fathom-starmap:Fathom Starmap": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "0ebe002d15a8cf4b",
   "lastOpenFiles": [
-    "People/NPCs/Antagonists/Sila Frostblood.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+    "Groups/The Sons of Thunder.md",
+    "People/NPCs/Antagonists/Sila Frostblood.md",
     "Items and Artifacts/The Black Grail.md",
     "People/NPCs/Orithian Blackspire.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
@@ -415,7 +463,6 @@
     "Events/Campaign 1/Events/The Mines of Silverwell.md",
     "Events/Campaign 1/Events/The Voyage to Vallenhein.md",
     "Events/Campaign 1/Events/The King's Tournament.md",
-    "Events/Campaign 1/Events/The Hunt for the Peddler.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
