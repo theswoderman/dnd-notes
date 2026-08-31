@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                "file": "Players/Ian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 30"
+              "title": "Ian"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                    "file": "Players/Ian.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 30"
+                  "title": "Graph of Ian"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -389,6 +389,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "People/The Good Ones/Gribnik Mossfoot.md",
+    "Players/Ian.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Groups/The Sons of Thunder.md",
     "test/test 1.md",
     "test/test.md",
@@ -396,7 +399,6 @@
     "test",
     "test.md",
     "Suggestions/Suggestion History/2026-08-18.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "People/NPCs/Antagonists/Sila Frostblood.md",
     "Items and Artifacts/The Black Grail.md",
     "People/NPCs/Orithian Blackspire.md",
@@ -417,8 +419,6 @@
     "Deities/Bane.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
-    "People/The Sons of Thunder/Davynn Brindleknot.md",
-    "Locations/Material Plane/Blubberpike.md",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
     "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
