@@ -43,7 +43,7 @@
           {
             "id": "616fb221e7e6cd63",
             "type": "tabs",
-            "dimension": 50,
+            "dimension": 60.70402298850575,
             "children": [
               {
                 "id": "3c75b250aa647dd0",
@@ -76,7 +76,7 @@
           {
             "id": "eaf4b09cba40c1be",
             "type": "tabs",
-            "dimension": 50,
+            "dimension": 39.29597701149425,
             "children": [
               {
                 "id": "b9003bcd601ba41e",
@@ -193,8 +193,19 @@
                   "title": "Graph of Campaign 1 Summary"
                 },
                 "group": "5f6a3ec99364036b"
+              },
+              {
+                "id": "337333a6081e7c57",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -255,8 +266,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -368,14 +378,34 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9aaad84e7efe0a14",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1788283685660-cjhx60t",
+                      "conversationId": "conv-1788283718732-83caim378"
+                    }
+                  ],
+                  "activeTabId": "tab-1788283685660-cjhx60t"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 487,
-    "collapsed": true
+    "width": 487
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,13 +418,14 @@
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "fathom-starmap:Fathom Starmap": false
+      "fathom-starmap:Fathom Starmap": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "75d47b73134916c7",
+  "active": "9aaad84e7efe0a14",
   "lastOpenFiles": [
-    "Events/Campaign 1/Events/The Gnoll Contract.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
+    "Events/Campaign 1/Events/The Gnoll Contract.md",
     "Events/Campaign 1/Events/The Consumed and the Vallenhein Civil War.md",
     "Events/Campaign 1/Events/The Mines of Silverwell.md",
     "Players/Ian.md",

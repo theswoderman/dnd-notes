@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788283718732-83caim378",
+  "providerId": "claude",
+  "title": "Check login status",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788283718734,
+  "lastActivityAt": 1788283934700,
+  "sessionId": "5b79597a-4be8-4a8e-9d07-f1b458afdcd8",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "5b79597a-4be8-4a8e-9d07-f1b458afdcd8"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 330,
+    "cacheReadInputTokens": 44301,
+    "contextWindow": 1000000,
+    "contextTokens": 44633,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

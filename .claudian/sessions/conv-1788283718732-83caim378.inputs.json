@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788283718732-83caim378",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788283719240-4s1vwdw",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788283718729-9tb8ls0",
+      "timestamp": 1788283718729,
+      "rawDisplayText": "am i logged in?",
+      "canonicalText": "am i logged in?",
+      "images": [],
+      "contentDigest": "eff83e16d36f131fb46e4c5793ee93b4cfe6576df0673fa8932a76521bf52f21",
+      "providerUserMessageId": "ff63968b-77c8-4640-a056-1ca7f936558e",
+      "providerAssistantMessageId": "82de13df-a07e-4663-9b6a-606cd8be1a70"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788283786332-bzy6e4j",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788283786330-c70jfrz",
+      "timestamp": 1788283786330,
+      "rawDisplayText": "can you see my past history of conversations with claude in this vault?",
+      "canonicalText": "can you see my past history of conversations with claude in this vault?",
+      "images": [],
+      "contentDigest": "ba970940b72efda19b013fb1029629e47fd21a721810e468cb19c61fb9eeb67b",
+      "providerUserMessageId": "dd962d50-650a-4fc4-8617-758a713d6374",
+      "providerAssistantMessageId": "c0392dda-e11c-4140-a449-13720a46be74"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788283866441-2csjvul",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1788283866439-alm5vyd",
+      "timestamp": 1788283866439,
+      "rawDisplayText": "okay cool, not trying to find anything specific. just installed a plugin to work with claude directly in obsidian and wanted to make sure it was set up correctly. looks like it is",
+      "canonicalText": "okay cool, not trying to find anything specific. just installed a plugin to work with claude directly in obsidian and wanted to make sure it was set up correctly. looks like it is",
+      "images": [],
+      "contentDigest": "6d1bd79dd789ee64f00f00cec57c9b96dcb1e90ecdd25faedc1275b186f44f5e",
+      "providerUserMessageId": "6fbd7f1e-731b-4e31-ad8f-f7f26beb95b2",
+      "providerAssistantMessageId": "cc4e32ac-6eb0-4025-8b35-bb0ecc2589fe"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788283932094-j6cm88t",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1788283932092-rzr8f4c",
+      "timestamp": 1788283932092,
+      "rawDisplayText": "those shouldn't be relevant. only time they would be would be if someone emailed me notes but i can just paste them in here that's trivial",
+      "canonicalText": "those shouldn't be relevant. only time they would be would be if someone emailed me notes but i can just paste them in here that's trivial",
+      "images": [],
+      "contentDigest": "5d2788ea323a193a36971975f89b27d6efab62ee0a2f3c47dd6335dc17d678d4",
+      "providerUserMessageId": "2d250598-cc82-455e-b5ef-349a32b436e4",
+      "providerAssistantMessageId": "5547555c-fa98-47d0-be0e-58544a39d9ff"
+    }
+  ]
+}
