@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campaign 1 Summary"
+              "title": "Session 30"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -422,7 +422,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9aaad84e7efe0a14",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Events/Campaign 1/Events/The Gnoll Contract.md",
