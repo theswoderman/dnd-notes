@@ -389,11 +389,12 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1788283685660-cjhx60t",
-                      "conversationId": "conv-1788283718732-83caim378"
+                      "tabId": "tab-1788370966680-bmvlnji",
+                      "conversationId": null,
+                      "draftModel": "opus"
                     }
                   ],
-                  "activeTabId": "tab-1788283685660-cjhx60t"
+                  "activeTabId": "tab-1788370966680-bmvlnji"
                 }
               },
               "icon": "bot",
@@ -422,7 +423,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "9aaad84e7efe0a14",
   "lastOpenFiles": [
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Events/Campaign 1/Events/The Gnoll Contract.md",
