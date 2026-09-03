@@ -30,3 +30,6 @@ notable combat events:
 	beemo hasted gribnik
 	then gribnik missed all 3 attacks
 	2nd turn with it was clutch though, he killed 2 skeletons and landed a huge hit on one of the hand of hate
+	beemo held an action to teleport the hand of oppression down near everyone else where they all attacked at once, rapidly weakening him before finishing him off
+	the fist of tyranny came back from being hit with turn undead and the party took him on alone
+	
