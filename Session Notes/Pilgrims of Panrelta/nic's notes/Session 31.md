@@ -26,3 +26,5 @@
 
 notable combat events:
 	gegga actually used fireball!
+	falstad put holy weapon on gribnik's bow
+	
