@@ -83,7 +83,7 @@ The earliest sessions were never written down, so what follows is the order thin
 12. [[The Frozen Riverbank]]
 13. [[The Battle at the Bridge]], most recent
 
-Full detail and the session log are on [[Panrelta Timeline]].
+Full detail is on [[Panrelta Timeline]].
 
 ### Outside the campaigns
 

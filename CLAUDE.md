@@ -141,12 +141,11 @@ Raw notes arrive in `Session Notes/<campaign>/`, named `Session N`. When asked t
 
 1. Read it. Identify what's new versus what updates an existing note.
 2. Create new notes for new entities; update existing ones in place.
-3. Add `## Sessions` backlinks on every note touched.
-4. Add a row to the **session log** table in the campaign timeline listing what was created and updated.
-5. Update the timeline's event list and the campaign's loose ends note (**[[Panrelta Loose Ends]]** or **[[Campaign 1 Loose Ends]]** in `Loose Ends/`).
-6. Update the campaign index if the event list or cast changed.
-7. Update `index.md` — **Where things stand**, the chronology, and the recorded-events list if the session added one.
-8. Run the verification script below.
+3. Add `## Sessions` backlinks on every note touched. These backlinks are the only record of what a session fed into; there is no session log table.
+4. Update the timeline's event list and the campaign's loose ends note (**[[Panrelta Loose Ends]]** or **[[Campaign 1 Loose Ends]]** in `Loose Ends/`).
+5. Update the campaign index if the event list or cast changed.
+6. Update `index.md` — **Where things stand**, the chronology, and the recorded-events list if the session added one.
+7. Run the verification script below.
 
 **Raw session notes are an archive.** Only ever *add link syntax* to them — never change wording. Verify by stripping links from both versions and asserting the text is identical.
 

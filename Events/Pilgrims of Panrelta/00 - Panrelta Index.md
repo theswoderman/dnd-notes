@@ -18,7 +18,7 @@ Six travelers bound by [[The Pilgrimage]]'s tenets, chief among them an obligati
 > Records begin partway through. [[Thalrik Lastfeast]] joined the campaign in progress, and the earliest sessions were not written down. [[The Good Ones]] and [[Thalrik Lastfeast|Thalrik]]'s own group were walking the same pilgrimage separately before meeting in [[Stonehold]]. Event numbers below are **recorded order**, not true campaign order.
 
 ## Start here
-- [[Panrelta Timeline]], events in order, session log, and open threads
+- [[Panrelta Timeline]], events in order and open threads
 - [[The Good Ones]], the party
 - [[The Pilgrimage]], the tenets and the point of the journey
 - [[The Bettermans Guild]], the party's base and patron
@@ -61,7 +61,7 @@ Ten years on from [[The Sundering]]-era business and the fall of [[Aeralath]]. C
 - A necrohulk from [[The Abyss]] ([[Aeralath]]'s home plane) surfaced beneath the deep mines. [[The Abyssal Orb]] found inside it is bound for [[The Sons of Thunder]]
 
 ## Sessions
-Raw session notes live in `Session Notes/pilgrims of panrelta/`. They are kept unedited as an archive; the session log in [[Panrelta Timeline]] records what each one fed into.
+Raw session notes live in `Session Notes/pilgrims of panrelta/`. They are kept unedited as an archive, and every note built out of one links back to it under `## Sessions`.
 
 ## Written by the DM
 [[Prelude for Thalrik Lastfeast]], [[Grant]]'s background document. Authoritative on world history, the origin of [[The Pilgrimage]], [[Thalrik Lastfeast|Thalrik]]'s origin, and where [[The Sons of Thunder]] ended up.

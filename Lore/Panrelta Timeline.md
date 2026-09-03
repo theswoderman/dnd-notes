@@ -52,23 +52,9 @@ Where the Sons of Thunder are now: [[Bathoz Manefell|Bathoz]] is with his tribe,
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 
-## Session log
-Each raw session note is kept unedited in `Session Notes/pilgrims of panrelta/`. This table records what each one fed into.
-
-| Session | Created | Updated |
-|---|---|---|
-| [[Thalrik's Dream]] | [[Thalrik's Dream of Torm]], [[Hand of Valor]], [[Temple Trueheart]] | [[Thalrik Lastfeast]], [[Diggory Psalm]], [[Jäkel Aleister le Rouge]], [[The Order of the Golden Gauntlet]], [[Dragonspine Mountains]], [[Sisters of the Gnarled Veil]], [[Arthur Van Hark]] |
-| [[Prelude for Thalrik Lastfeast]] | [[The Dawning]], [[Thalrik's Road to Stonehold]], [[Brom Stonefist]], [[Bronze Rams]], [[The Shiftweave]], [[Skyfang Lake]], [[Dragonspine Mountains]] | [[Thalrik Lastfeast]], [[The Pilgrimage]], [[Panrelta]], [[Anendal]], [[Estrana]], [[Dwendall Dhormas]], [[Sven]], [[Hansel]], [[Clara]], [[Kelara]], [[Magus Trollbeater]], [[Bathoz Manefell]], [[Davynn Brindleknot]], [[Diggory Psalm]], [[Jäkel Aleister le Rouge]], [[Loryn Malcovitch]], [[Dolghast]], [[Blackwaste]], [[Tulari Hot Springs]], [[Ishtir Marsh]], [[Hor Garam]], [[Saltport]], [[Nilstraad]], [[The Planar Realignment]] |
-| [[Early session catch up notes]] | [[The Centaur Poachers]], [[The Apex Griffon Hunt]] | [[The Maiden]], [[The Collector]], [[The Collector on the Road]], [[Thol]], [[Kalibad]], [[Golden Plains]] |
-| [[Session 27]] | [[The Collector on the Road]], [[The Collector]], [[Thelgadrïm, the Inevitable]], [[Hand of Annum]], [[Starfall Clearing]], [[Giant Memory Gemstones]], [[Skystones]], [[The Abyssal Orb]], [[Annum]] | [[Exploration of the deep mines]], [[Beemo]], [[Thalrik Lastfeast]], [[Gegga]], [[Gribnik Mossfoot]], [[Falstad Firebeard]], [[Thol]], [[The Good Ones]], [[The Maiden]], [[The Rockspeaker]], [[Sisters of the Gnarled Veil]], [[The Garden of Dreams]] |
-| [[Session 28]] | [[Return to the Bettermans Guild]], [[The Dusk Hag's Dreams]], [[Torin's Flight into the Sagethorn]], [[Mirna Gribwood]], [[Aisha]], [[Lightfoot]], [[Bane]], [[Malar]], [[Sylvanus]], [[Hiram Oakbrow]], [[Black Blood Pack]], [[Mossclaw]], [[House Keroskav]], [[House Dufrey]], [[Yorrisk]], [[Sylvan Parcel]] | [[Torin Turen]], [[Ky'ar Lastet]], [[The Bettermans Guild]], [[Illmater]], [[Torm]], [[Sage Thorn Forest]], [[The Iron Oak Woods]], [[Grekosha]], [[The Blood Ravens]], [[Khulask Hollow]], [[The Collector]], [[The Collector on the Road]], [[The Abyssal Orb]], [[Sisters of the Gnarled Veil]], [[Festra]], [[The Maiden]], [[The Dawning]], [[Arthur Van Hark]], [[Diggory Psalm]], [[Jäkel Aleister le Rouge]], [[The Good Ones]], [[Beemo]], [[Gegga]], [[Thol]], [[Falstad Firebeard]], [[Gribnik Mossfoot]], [[Thalrik Lastfeast]] |
-| [[Session 29]] | [[Speak with Dead with the Collector]], [[The Climb to the Sagethorn]], [[The Frozen Riverbank]], [[Sila Frostblood]], [[Orithian Blackspire]], [[The Black Grail]], [[The Abbey]], [[The Tree of Pain]], [[The Laughing Princess Constellation]] | [[The Collector]], [[Malar]], [[Bane]], [[Gribnik Mossfoot]], [[Mossclaw]], [[The Abyssal Orb]], [[Sisters of the Gnarled Veil]], [[The Maiden]], [[Torin Turen]], [[Sage Thorn Forest]], [[The Dusk Hag's Dreams]], [[Ky'ar Lastet]], [[Starfall Clearing]], [[The Drow]], [[The Good Ones]], [[Beemo]], [[Gegga]], [[Falstad Firebeard]], [[Thol]], [[Thalrik Lastfeast]], [[Nic]], [[Tyler]], [[Ian]] |
-| [[Session 30]] | [[The Battle at the Bridge]] | [[The Frozen Riverbank]], [[The Tree of Pain]], [[Malar]], [[Bane]], [[The Drow]], [[Sylvanus]], [[The Beastlands]], [[Falstad Firebeard]], [[The Good Ones]], [[Thalrik Lastfeast]], [[Thol]], [[Gribnik Mossfoot]], [[Beemo]], [[Gegga]], [[Panrelta Loose Ends]] |
-| [[Session 31]] | [[The Fists of Bane]], [[The Fist of Tyranny's Ring]] | [[The Battle at the Bridge]], [[Bane]], [[The Drow]], [[The Tree of Pain]], [[The Good Ones]], [[Thol]], [[Gegga]], [[Beemo]], [[Gribnik Mossfoot]], [[Falstad Firebeard]], [[Thalrik Lastfeast]], [[Panrelta Loose Ends]] |
-
 See [[Panrelta Loose Ends]].
 
 ## See also
 
 - [[00 - Panrelta Index]]
-- [[Campaign 1 Timeline]], the Campaign 1 timeline, same world
+- [[Campaign 1 Timeline]]
