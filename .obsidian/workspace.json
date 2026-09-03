@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 30"
+              "title": "Session 31"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -406,7 +406,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -423,16 +424,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9aaad84e7efe0a14",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Deities/Bane.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Events/Campaign 1/Events/The Gnoll Contract.md",
     "Events/Campaign 1/Events/The Consumed and the Vallenhein Civil War.md",
     "Events/Campaign 1/Events/The Mines of Silverwell.md",
     "Players/Ian.md",
     "People/The Good Ones/Gribnik Mossfoot.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Groups/The Sons of Thunder.md",
     "test/test 1.md",
     "test/test.md",
@@ -451,7 +453,6 @@
     "Events/Campaign 1/00 - Campaign Index.md",
     "CLAUDE.md",
     "Locations/Material Plane/The Tree of Pain.md",
-    "Lore/Panrelta Timeline.md",
     "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",

@@ -5,11 +5,11 @@
 - Mid-fight at [[The Battle at the Bridge]] against [[Bane]]'s undead garrison and three [[The Drow|drow]] captains: a fighter with a sickle, a purple-armored soldier with a slowing aura, and an enormous barbarian
 - [[Falstad Firebeard]]'s turn undead disabled several enemies, but 6 skeleton warriors remain, killable only by damage that outright destroys them, and the party is running low on ways to do that
 - The three captains are still at full health
-- Play resumes mid-combat with that decision
 
 ## Open threads
 
 - Who the three drow captains are, and why one wore armor the party recognized
+	-  the captains are Bane's captains, the Fist of Oppression, the Fist of Hate, and Fist of Tyranny
 - A gnomish scream came from the corpses that rose at [[The Frozen Riverbank]]; [[Torin Turen]] is alone in that same forest. Why?
 - What killed a field of [[Bane]]'s soldiers and that many beasts at the riverbank, and how recently
 - [[The Abyssal Orb]] said "free me" to [[Thalrik Lastfeast]] alone. Why him, and what does it want freeing from?
@@ -20,3 +20,7 @@
 - Why [[Sila Frostblood]] entered the party's dreams for the first time now, and what her three dire wolves are
 - Whether the battle for [[Yorrisk]] the hag showed [[Thol]], [[Beemo]], and [[Gribnik Mossfoot]] is memory, prophecy, or fabrication
 - What [[The Black Grail]] is, what drinking from it does, and whether it displaced [[Illmater]] in [[Torin Turen|Torin]]
+
+
+## Notes
+
