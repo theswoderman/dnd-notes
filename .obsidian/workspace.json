@@ -380,8 +380,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1788370966680-bmvlnji",
-                      "conversationId": null,
-                      "draftModel": "opus"
+                      "conversationId": "conv-1788413538006-ot58sk6r7"
                     }
                   ],
                   "activeTabId": "tab-1788370966680-bmvlnji"
@@ -396,8 +395,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487,
-    "collapsed": true
+    "width": 487
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -414,7 +412,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "9aaad84e7efe0a14",
   "lastOpenFiles": [
     "Deities/Bane.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",

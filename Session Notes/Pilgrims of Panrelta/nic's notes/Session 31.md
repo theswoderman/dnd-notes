@@ -38,3 +38,4 @@ notable combat events:
 	the is the spectre of bane
 	the spectre has taunts us, threatening to dishonor the paladin and cleric by destroying them and taking their souls (lol he doesn't know thalrik already sold his soul to torm)
 	the spectre has abilities that turn us on each other, sowing chaos in the party
+	we defeated the spectre, taunted it as it died and it exploded with necrotic energy

@@ -1,0 +1,13 @@
+{
+  "id": "conv-1788413538006-ot58sk6r7",
+  "providerId": "claude",
+  "title": "Process combat session notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788413538008,
+  "lastActivityAt": 1788413538008,
+  "sessionId": "50684e5f-c579-46d6-b62f-2088d5dce667",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "50684e5f-c579-46d6-b62f-2088d5dce667"
+  }
+}
