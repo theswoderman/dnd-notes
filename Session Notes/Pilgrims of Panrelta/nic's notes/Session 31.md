@@ -32,4 +32,8 @@ notable combat events:
 	2nd turn with it was clutch though, he killed 2 skeletons and landed a huge hit on one of the hand of hate
 	beemo held an action to teleport the hand of oppression down near everyone else where they all attacked at once, rapidly weakening him before finishing him off
 	the fist of tyranny came back from being hit with turn undead and the party took him on alone
+	the hand of tyranny's ring fell off when he died 
+	after all three captains die their essences gather over the course of a few minutes and during that time thol equips the ring and can't take it back off. gegga identifies that it is certainly an evil magic ring
+	the fists reform into an abomination of drow necromancy, made of black shadows with armor on
+	the is the spectre of bane
 	
