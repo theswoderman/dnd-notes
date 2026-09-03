@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 46.82926829268294,
+        "dimension": 66.0377358490566,
         "children": [
           {
             "id": "422715ec20929148",
@@ -38,7 +38,7 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 53.17073170731706,
+        "dimension": 33.9622641509434,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,22 +190,11 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Summary"
+                  "title": "Graph of Session 31"
                 },
                 "group": "5f6a3ec99364036b"
-              },
-              {
-                "id": "337333a6081e7c57",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -270,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2eccb5a57877791e",

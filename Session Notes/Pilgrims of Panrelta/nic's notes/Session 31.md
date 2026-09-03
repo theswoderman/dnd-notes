@@ -24,3 +24,5 @@
 
 ## Notes
 
+notable combat events:
+	gegga actually used fireball!
