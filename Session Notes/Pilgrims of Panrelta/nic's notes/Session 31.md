@@ -36,4 +36,5 @@ notable combat events:
 	after all three captains die their essences gather over the course of a few minutes and during that time thol equips the ring and can't take it back off. gegga identifies that it is certainly an evil magic ring
 	the fists reform into an abomination of drow necromancy, made of black shadows with armor on
 	the is the spectre of bane
-	
+	the spectre has taunts us, threatening to dishonor the paladin and cleric by destroying them and taking their souls (lol he doesn't know thalrik already sold his soul to torm)
+	the spectre has abilities that turn us on each other, sowing chaos in the party
