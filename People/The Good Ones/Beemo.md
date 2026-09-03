@@ -18,6 +18,7 @@ He is not the only thing they have made. A shade sent to kill him was another of
 He travels with a companion called Snot.
 
 ## Key moments
+- Hasted [[Gribnik Mossfoot]] at [[The Battle at the Bridge]], then held an action to teleport the Fist of Oppression down among the party, who killed him in a single volley. See [[The Fists of Bane]]
 - Disguised himself as a packmate so [[The Collector]]'s corpse would answer freely, then dropped the disguise as the spell ended. See [[Speak with Dead with the Collector]]
 - Covered roughly sixty miles by treestride, and threw [[The Collector]]'s body off the cliff. See [[The Climb to the Sagethorn]]
 - Had Snot fly a frost bomb straight into the purple worm's mouth beneath [[The Garden of Dreams]], taking off nearly half its health in one turn. See [[Exploration of the deep mines]]
@@ -49,3 +50,4 @@ See [[Panrelta Loose Ends]] for open questions.
 - [[Session 28]]
 - [[Session 29]]
 - [[Session 30]]
+- [[Session 31]]

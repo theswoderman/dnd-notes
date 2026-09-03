@@ -17,7 +17,7 @@ The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with cla
 | **Party** | [[The Sons of Thunder]] | [[The Good Ones]] |
 | **When** | 1016–1017 A.P. | 10 D.E. |
 | **Where** | [[Anendal]], and outward through the planes | [[Panrelta]] |
-| **Status** | Concluded at level 20 | Ongoing, ~session 30 |
+| **Status** | Concluded at level 20 | Ongoing, ~session 31 |
 | **Index** | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
 | **Timeline** | [[Campaign 1 Timeline]] | [[Panrelta Timeline]] |
 
@@ -91,7 +91,7 @@ One session of play sits outside both campaigns and outside the chronology: a bo
 
 ## Where things stand
 
-[[The Good Ones]] are deep in the [[Sage Thorn Forest|Sagethorn]], near [[The Tree of Pain]], a tree covered in decomposing bodies that serves as a monument to [[Bane]]. They killed a Beast of [[Malar]] at [[The Frozen Riverbank]], reached the tree, and then fought a garrison of [[Bane]]'s undead soldiers, led by three [[The Drow|drow]] captains, on a bridge. They went in after [[Torin Turen]], who rode there alone and was last seen digging up a soldier of [[Bane]]. They carry [[The Abyssal Orb]], pulled from a creature out of [[The Abyss]] and meant for [[The Sons of Thunder]] to deal with. It has begun to speak, and what it says is "free me".
+[[The Good Ones]] are deep in the [[Sage Thorn Forest|Sagethorn]], near [[The Tree of Pain]], a tree covered in decomposing bodies that serves as a monument to [[Bane]]. They killed a Beast of [[Malar]] at [[The Frozen Riverbank]], reached the tree, and then destroyed a garrison of [[Bane]]'s undead soldiers on a bridge, along with [[The Fists of Bane|its three drow captains]] and the Spectre of Bane those captains reformed into after they died. One of them left behind [[The Fist of Tyranny's Ring|a ring]] that [[Thol]] put on and cannot take off, and that [[Gegga]] reads as certainly evil. They went in after [[Torin Turen]], who rode there alone and was last seen digging up a soldier of [[Bane]]. They carry [[The Abyssal Orb]], pulled from a creature out of [[The Abyss]] and meant for [[The Sons of Thunder]] to deal with. It has begun to speak, and what it says is "free me".
 
 The reason for the chase changed shape on the way in. Questioned after death, [[The Collector]] said [[Malar]] had him gathering trophies so his pack could drink from [[The Black Grail]], and that the grail is inside [[Torin Turen|Torin]]. [[Bane]]'s followers want it too and are no allies of [[Malar]]'s. Both mean to take it to [[The Abbey]], which a map places beneath [[The Laughing Princess Constellation|the Laughing Princess constellation]].
 

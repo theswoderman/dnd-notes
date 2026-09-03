@@ -45,7 +45,7 @@ Six travelers bound by [[The Pilgrimage]]'s tenets, chief among them an obligati
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 
 ## Recurring figures
-[[The Maiden]] · [[Festra]] · [[Mirna Gribwood]] · [[Sila Frostblood]] · [[Sisters of the Gnarled Veil]] · [[The Drow]] · [[Torin Turen]] · [[Ky'ar Lastet]] · [[The Rockspeaker]] · [[Bane]] · [[Malar]]
+[[The Maiden]] · [[Festra]] · [[Mirna Gribwood]] · [[Sila Frostblood]] · [[Sisters of the Gnarled Veil]] · [[The Drow]] · [[The Fists of Bane]] · [[Torin Turen]] · [[Ky'ar Lastet]] · [[The Rockspeaker]] · [[Bane]] · [[Malar]]
 
 ## Shared with Campaign 1
 Ten years on from [[The Sundering]]-era business and the fall of [[Aeralath]]. Confirmed overlaps:

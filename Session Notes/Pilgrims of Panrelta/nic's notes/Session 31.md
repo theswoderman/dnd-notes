@@ -25,17 +25,17 @@
 ## Notes
 
 notable combat events:
-	gegga actually used fireball!
-	falstad put holy weapon on gribnik's bow
-	beemo hasted gribnik
-	then gribnik missed all 3 attacks
-	2nd turn with it was clutch though, he killed 2 skeletons and landed a huge hit on one of the hand of hate
-	beemo held an action to teleport the hand of oppression down near everyone else where they all attacked at once, rapidly weakening him before finishing him off
-	the fist of tyranny came back from being hit with turn undead and the party took him on alone
-	the hand of tyranny's ring fell off when he died 
-	after all three captains die their essences gather over the course of a few minutes and during that time thol equips the ring and can't take it back off. gegga identifies that it is certainly an evil magic ring
-	the fists reform into an abomination of drow necromancy, made of black shadows with armor on
-	the is the spectre of bane
-	the spectre has taunts us, threatening to dishonor the paladin and cleric by destroying them and taking their souls (lol he doesn't know thalrik already sold his soul to torm)
-	the spectre has abilities that turn us on each other, sowing chaos in the party
-	we defeated the spectre, taunted it as it died and it exploded with necrotic energy
+	[[Gegga|gegga]] actually used fireball!
+	[[Falstad Firebeard|falstad]] put holy weapon on [[Gribnik Mossfoot|gribnik]]'s bow
+	[[Beemo|beemo]] hasted [[Gribnik Mossfoot|gribnik]]
+	then [[Gribnik Mossfoot|gribnik]] missed all 3 attacks
+	2nd turn with it was clutch though, he killed 2 skeletons and landed a huge hit on one of the [[The Fists of Bane|hand of hate]]
+	[[Beemo|beemo]] held an action to teleport the [[The Fists of Bane|hand of oppression]] down near everyone else where they all attacked at once, rapidly weakening him before finishing him off
+	the [[The Fists of Bane|fist of tyranny]] came back from being hit with turn undead and the party took him on alone
+	the [[The Fists of Bane|hand of tyranny]]'s [[The Fist of Tyranny's Ring|ring]] fell off when he died 
+	after all three captains die their essences gather over the course of a few minutes and during that time [[Thol|thol]] equips the [[The Fist of Tyranny's Ring|ring]] and can't take it back off. [[Gegga|gegga]] identifies that it is certainly an evil magic ring
+	the [[The Fists of Bane|fists]] reform into an abomination of [[The Drow|drow]] necromancy, made of black shadows with armor on
+	the is the [[The Fists of Bane|spectre of bane]]
+	the [[The Fists of Bane|spectre]] has taunts us, threatening to dishonor the paladin and cleric by destroying them and taking their souls (lol he doesn't know [[Thalrik Lastfeast|thalrik]] already sold his soul to [[Torm|torm]])
+	the [[The Fists of Bane|spectre]] has abilities that turn us on each other, sowing chaos in the party
+	we defeated the [[The Fists of Bane|spectre]], taunted it as it died and it exploded with necrotic energy

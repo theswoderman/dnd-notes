@@ -22,6 +22,7 @@ A goblin ranger of [[The Good Ones]].
 - Fought in the third night's battle dream alongside [[Beemo]] and [[Thol]]. See [[The Dusk Hag's Dreams]]
 - Spotted the caves, the bird bones and the coming storm at the cliff, and was the only one charmed by the siren song, with no way to act on it. See [[The Climb to the Sagethorn]]
 - Dreamed of [[Sila Frostblood]] alongside [[Thol]] and [[Falstad Firebeard]], then walked into the riverbank he had dreamed. See [[The Frozen Riverbank]]
+- Fought [[The Battle at the Bridge]] with holy weapon on his bow from [[Falstad Firebeard]] and haste from [[Beemo]]. He missed every attack the first round and killed two skeleton warriors the next, along with a heavy hit on the Fist of Hate
 
 ## Note
 [[Ian]] was not playing the night of the second dream in [[The Dusk Hag's Dreams]].
@@ -39,3 +40,4 @@ He dreamed of [[The Laughing Princess Constellation|the Laughing Princess conste
 - [[Session 28]]
 - [[Session 29]]
 - [[Session 30]]
+- [[Session 31]]

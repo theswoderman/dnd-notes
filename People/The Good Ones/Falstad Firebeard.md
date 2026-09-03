@@ -36,10 +36,13 @@ After the third night's battle dream, Falstad is the one who recognized the two 
 [[Ky'ar Lastet]] singled out Falstad and [[Thalrik Lastfeast]] as the two who should talk to [[Torin Turen]]. After Torin rode out, Falstad scried on his pegasus [[Lightfoot]] and found him digging up a soldier of [[Bane]] in the [[Sage Thorn Forest|Sagethorn]]. See [[Torin's Flight into the Sagethorn]].
 
 ## At the riverbank and beyond
-Named [[Sylvanus]] during the fight at [[The Frozen Riverbank]], which made the Beast of [[Malar]] scoff. Later, at [[The Battle at the Bridge]], turned undead and disabled many of [[Bane]]'s soldiers.
+Named [[Sylvanus]] during the fight at [[The Frozen Riverbank]], which made the Beast of [[Malar]] scoff. Later, at [[The Battle at the Bridge]], turned undead and disabled many of [[Bane]]'s soldiers, then put holy weapon on [[Gribnik Mossfoot]]'s bow for the fight against the captains.
+
+The Spectre of Bane singled him and [[Thalrik Lastfeast]] out as it fought, promising to dishonor the cleric and the paladin by destroying them and taking their souls. See [[The Fists of Bane]].
 
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]
 - [[Session 30]]
+- [[Session 31]]

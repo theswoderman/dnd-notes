@@ -17,7 +17,9 @@ The party then found an icy riverbank strewn with the corpses of Bane's soldiers
 ## The Tree of Pain and his captains
 [[The Tree of Pain]] is Bane's monument: a tree completely covered in bodies in various states of decomposition. [[Malar]]'s servants are too disorganized to have made it.
 
-Near the tree, a garrison of Bane's undead soldiers defeated a pack of werewolves without much difficulty. The garrison is led by three [[The Drow|drow]] captains, spectacular fighters unlike anything the party had seen. One carries a sickle, one is a purple-armored knight with a slowing aura, and one is an enormous barbarian. One of them wore armor the party recognized. The party fought them on a bridge. See [[The Battle at the Bridge]].
+Near the tree, a garrison of Bane's undead soldiers defeated a pack of werewolves without much difficulty. The garrison was led by [[The Fists of Bane]], three [[The Drow|drow]] captains named for his three aspects: the Fist of Hate with a sickle, the Fist of Oppression a purple-armored knight with a slowing aura, and the Fist of Tyranny an enormous barbarian. One of them wore armor the party recognized.
+
+[[The Good Ones]] fought them on a bridge and killed all three. Their essences then gathered and reformed into the Spectre of Bane, an abomination of drow necromancy that turned the party on each other before they destroyed it. See [[The Battle at the Bridge]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
@@ -25,3 +27,4 @@ See [[Panrelta Loose Ends]] for open questions.
 - [[Session 28]]
 - [[Session 29]]
 - [[Session 30]]
+- [[Session 31]]

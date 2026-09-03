@@ -5,14 +5,28 @@ tags: [event, panrelta]
 
 **When:** 10 D.E., immediately after [[The Frozen Riverbank]]
 **Part of:** the journey through the [[Sage Thorn Forest|Sagethorn]]
-**Sessions:** [[Session 30]]
+**Sessions:** [[Session 30]], [[Session 31]]
 
 ## What happened
-After reaching [[The Tree of Pain]], the party came across a pack of werewolves fighting a garrison of undead soldiers. The soldiers were led by three [[The Drow|drow]] men, spectacular fighters unlike anything the party had seen. One of them wore armor the party recognized.
+After reaching [[The Tree of Pain]], the party came across a pack of werewolves fighting a garrison of undead soldiers. The soldiers were led by three [[The Drow|drow]] men, spectacular fighters unlike anything the party had seen. One of them wore armor the party recognized. [[Bane]]'s soldiers won that fight without much difficulty.
 
-The three are [[Bane]]'s captains: one carries a sickle, one is a purple-armored knight with a slowing aura, and one is an enormous barbarian. [[Bane]]'s soldiers won the fight against the werewolves without much difficulty.
+The three are [[The Fists of Bane]], his captains: the Fist of Hate with a sickle, the Fist of Oppression a purple-armored knight with a slowing aura, and the Fist of Tyranny an enormous barbarian.
 
-The party then fought the garrison on a bridge. [[Falstad Firebeard]] turned undead, which disabled many of the soldiers during the fight.
+The party then fought the garrison on a bridge. [[Falstad Firebeard]] turned undead, which disabled many of the soldiers, and the fight carried over into a second night of play. The skeleton warriors could only be killed by damage that destroyed them outright, and the party was running short of ways to do that.
+
+## The captains
+[[Gegga]] opened with fireball. [[Falstad Firebeard]] put holy weapon on [[Gribnik Mossfoot]]'s bow and [[Beemo]] hasted him. The first round with both did nothing, all three attacks missing, but the second killed two skeleton warriors and landed a heavy hit on the Fist of Hate.
+
+[[Beemo]] held an action to teleport the Fist of Oppression down among the rest of the party, who attacked all at once, weakened him quickly and finished him off. The Fist of Tyranny recovered from being turned and the party took him on alone. His ring fell off his hand when he died.
+
+## The ring
+The captains' essences gathered over the course of several minutes after the last of them fell. [[Thol]] put the ring on during that time and cannot take it back off. [[Gegga]] identified it as certainly an evil magic ring. See [[The Fist of Tyranny's Ring]].
+
+## The Spectre of Bane
+The gathered essences reformed into an abomination of drow necromancy, black shadows wearing armor: the Spectre of Bane. It taunted the party, threatening to dishonor the paladin and the cleric by destroying them and taking their souls, and it had abilities that turned party members on each other.
+
+The party killed it, taunted it back as it went, and it exploded with necrotic energy.
 
 ## Sessions
 - [[Session 30]]
+- [[Session 31]]
