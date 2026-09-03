@@ -69,7 +69,22 @@
       "canonicalText": "correction to the battle at the bridge (and maybe other mentions as well) the ring fell off of the fist of oppresion. we also got a sword off of the fist of pane and a totem necklace off of the fist of tyranny but none have been identified yet",
       "images": [],
       "contentDigest": "9b853af01327901dd9b2b0c0c890e8e9fb8d0a431fc738e182427e95ba8ba83a",
-      "providerUserMessageId": "c753953f-7e70-47a5-949b-eda464fc6923"
+      "providerUserMessageId": "c753953f-7e70-47a5-949b-eda464fc6923",
+      "providerAssistantMessageId": "6684ec3f-ecdd-4087-8470-d6b2c877c306"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788475620524-lgt1pzx",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1788475620521-vs59120",
+      "timestamp": 1788475620521,
+      "rawDisplayText": "also, i wrote spectre in my notes but it should be \"specter\" everywhere, this is a one off instance where you can correct my notes",
+      "canonicalText": "also, i wrote spectre in my notes but it should be \"specter\" everywhere, this is a one off instance where you can correct my notes",
+      "images": [],
+      "contentDigest": "e8ad8571fedf73aea4fd33503fe1a980fbf53155202ddb3745d360bf4ed8a0c4",
+      "providerUserMessageId": "cd7ceedb-5029-42c0-b36a-d4c85bb6199e",
+      "providerAssistantMessageId": "dfdf8059-cafd-498a-8980-f05945e4d42d"
     }
   ]
 }

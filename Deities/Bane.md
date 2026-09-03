@@ -19,7 +19,7 @@ The party then found an icy riverbank strewn with the corpses of Bane's soldiers
 
 Near the tree, a garrison of Bane's undead soldiers defeated a pack of werewolves without much difficulty. The garrison was led by [[The Fists of Bane]], three [[The Drow|drow]] captains named for his three aspects: the Fist of Hate with a sickle, the Fist of Oppression a purple-armored knight with a slowing aura, and the Fist of Tyranny an enormous barbarian. The iconography the party recognized on one captain's armor was Bane's own fist, the same symbol worn by the buried soldier [[Falstad Firebeard]] saw [[Torin Turen]] digging up.
 
-[[The Good Ones]] fought them on a bridge and killed all three. Their essences then gathered and reformed into the Spectre of Bane, an abomination of drow necromancy that turned the party on each other before they destroyed it. See [[The Battle at the Bridge]].
+[[The Good Ones]] fought them on a bridge and killed all three. Their essences then gathered and reformed into the Specter of Bane, an abomination of drow necromancy that turned the party on each other before they destroyed it. See [[The Battle at the Bridge]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

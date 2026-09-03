@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/NPCs/Antagonists/The Fists of Bane.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Fists of Bane"
+              "title": "Session 31"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "People/NPCs/Antagonists/The Fists of Bane.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of The Fists of Bane"
+                  "title": "Graph of Session 31"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,13 +414,16 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "People/NPCs/Antagonists/The Fists of Bane.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
+    "Items and Artifacts/The Fist of Tyranny's Totem Necklace.md",
+    "Items and Artifacts/The Fist of Hate's Sword.md",
+    "Items and Artifacts/The Fist of Oppression's Ring.md",
     "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
     "Suggestions/Suggestion History/2026-09-03.md",
     "Lore/Panrelta Timeline.md",
     "Suggestions/Suggestion History/2026-09-02.md",
     "Items and Artifacts/The Fist of Tyranny's Ring.md",
-    "People/NPCs/Antagonists/The Fists of Bane.md",
     "Deities/Bane.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
@@ -438,9 +441,6 @@
     "Suggestions/Suggestion History/2026-08-18.md",
     "People/NPCs/Antagonists/Sila Frostblood.md",
     "Items and Artifacts/The Black Grail.md",
-    "People/NPCs/Orithian Blackspire.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 28.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",

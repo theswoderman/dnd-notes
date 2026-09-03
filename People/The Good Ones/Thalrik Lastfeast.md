@@ -55,7 +55,7 @@ He never knew what he gave up that night. [[Torm]] has now answered it through [
 ## Torm and Bane
 [[Torin Turen]], high priest of [[Illmater]], has ridden alone into the [[Sage Thorn Forest|Sagethorn]], where a buried soldier of [[Bane]] has surfaced. [[Bane]] is one of "the Dead Three" and a major enemy of [[Torm]], which makes this Thalrik's fight as much as anyone's. See [[Torin's Flight into the Sagethorn]].
 
-At [[The Battle at the Bridge]] the Spectre of Bane picked him and [[Falstad Firebeard]] out of the party, promising to dishonor the paladin and the cleric by destroying them and taking their souls. Thalrik's soul is already forfeit to [[Torm]]. See [[The Fists of Bane]].
+At [[The Battle at the Bridge]] the Specter of Bane picked him and [[Falstad Firebeard]] out of the party, promising to dishonor the paladin and the cleric by destroying them and taking their souls. Thalrik's soul is already forfeit to [[Torm]]. See [[The Fists of Bane]].
 
 ## Open threads
 - Told to seek out [[The Order of the Golden Gauntlet]] when possible

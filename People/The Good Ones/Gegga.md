@@ -21,7 +21,7 @@ ddb: https://www.dndbeyond.com/characters/152626464
 She is an origami wizard with a mask stuck fast to her face that she cannot remove.
 
 ## Key moments
-- Opened [[The Battle at the Bridge]] with fireball, and afterward identified [[The Fist of Tyranny's Ring]] on [[Thol]]'s hand as certainly an evil magic ring
+- Opened [[The Battle at the Bridge]] with fireball, and afterward read [[The Fist of Oppression's Ring]] on [[Thol]]'s hand as certainly an evil magic ring
 - Cast fly to get the party up the cliff, raised a tower to sit out the storm, and named [[Sila Frostblood]] from the others' dream. See [[The Climb to the Sagethorn]]
 - Gained +1 Intelligence after the descent beneath [[The Garden of Dreams]]. See [[Exploration of the deep mines]]
 - Dreamed through the eyes of a child in a cave, watching a cloaked figure at the cave mouth look out over a plateau as a massive storm gathered. A flash of lightning revealed a colossal thunder dragon; the cloaked figure raised a staff, recognized as someone's storm staff. The dragon may be [[Thelgadrïm, the Inevitable]], and may be living in [[Dolghast]]

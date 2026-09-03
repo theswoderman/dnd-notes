@@ -32,13 +32,13 @@ notable combat events:
 	2nd turn with it was clutch though, he killed 2 skeletons and landed a huge hit on one of the [[The Fists of Bane|hand of hate]]
 	[[Beemo|beemo]] held an action to teleport the [[The Fists of Bane|hand of oppression]] down near everyone else where they all attacked at once, rapidly weakening him before finishing him off
 	the [[The Fists of Bane|fist of tyranny]] came back from being hit with turn undead and the party took him on alone
-	the [[The Fists of Bane|hand of tyranny]]'s [[The Fist of Tyranny's Ring|ring]] fell off when he died 
-	after all three captains die their essences gather over the course of a few minutes and during that time [[Thol|thol]] equips the [[The Fist of Tyranny's Ring|ring]] and can't take it back off. [[Gegga|gegga]] identifies that it is certainly an evil magic ring
+	the [[The Fists of Bane|hand of tyranny]]'s [[The Fist of Oppression's Ring|ring]] fell off when he died 
+	after all three captains die their essences gather over the course of a few minutes and during that time [[Thol|thol]] equips the [[The Fist of Oppression's Ring|ring]] and can't take it back off. [[Gegga|gegga]] identifies that it is certainly an evil magic ring
 	the [[The Fists of Bane|fists]] reform into an abomination of [[The Drow|drow]] necromancy, made of black shadows with armor on
-	the is the [[The Fists of Bane|spectre of bane]]
-	the [[The Fists of Bane|spectre]] has taunts us, threatening to dishonor the paladin and cleric by destroying them and taking their souls (lol he doesn't know [[Thalrik Lastfeast|thalrik]] already sold his soul to [[Torm|torm]])
-	the [[The Fists of Bane|spectre]] has abilities that turn us on each other, sowing chaos in the party
-	we defeated the [[The Fists of Bane|spectre]], taunted it as it died and it exploded with necrotic energy
+	the is the [[The Fists of Bane|specter of bane]]
+	the [[The Fists of Bane|specter]] taunts us, threatening to dishonor the paladin and cleric by destroying them and taking their souls (lol he doesn't know [[Thalrik Lastfeast|thalrik]] already sold his soul to [[Torm|torm]])
+	the [[The Fists of Bane|specter]] has abilities that turn us on each other, sowing chaos in the party
+	we defeated the [[The Fists of Bane|specter]], taunted it as it died and it exploded with necrotic energy
 
 notes for next session:
 	thol received a debilitating strike from the specter of bane, forcing him to pre-emptively fail a death save. this condition lasts til someone casts remove curse on him or we get a long rest

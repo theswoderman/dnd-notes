@@ -18,7 +18,7 @@ He is a half-orc fighter and the adopted son of [[Bathoz Manefell]] of [[The Son
 He was raised in [[Kalibad]] and the [[Golden Plains]], which is where the butchered centaurs came from. That is why he is far angrier about the poaching than anyone else in [[The Good Ones]], and why he fixated on the centaur hooves in [[The Collector]]'s cart.
 
 ## Key moments
-- Put on [[The Fist of Tyranny's Ring]] while the dead captains' essences were still gathering, and cannot take it off. [[Gegga]] identified it as certainly evil. See [[The Battle at the Bridge]]
+- Put on [[The Fist of Oppression's Ring]] while the dead captains' essences were still gathering, and cannot take it off. [[Gegga]] read it as certainly evil. See [[The Battle at the Bridge]]
 - Dreamed of [[Sila Frostblood]] alongside [[Gribnik Mossfoot]] and [[Falstad Firebeard]]. See [[The Climb to the Sagethorn]]
 - Cast find the path toward [[The Tree of Pain]], then ended [[The Frozen Riverbank]] in the water, riding [[Thalrik Lastfeast|Thalrik]]'s mount up the cliff at the panther. [[Nic]] ran him this session while [[Tyler]] was traveling
 - Nearly died fighting the large centaur during [[The Centaur Poachers]], and was beaten badly again by [[The Maiden]]
