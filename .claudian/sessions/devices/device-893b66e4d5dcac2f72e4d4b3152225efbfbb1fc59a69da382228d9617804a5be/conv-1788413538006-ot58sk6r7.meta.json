@@ -4,7 +4,7 @@
   "title": "Process combat session notes",
   "titleGenerationStatus": "success",
   "createdAt": 1788413538008,
-  "lastActivityAt": 1788413810793,
+  "lastActivityAt": 1788415442985,
   "sessionId": "50684e5f-c579-46d6-b62f-2088d5dce667",
   "selectedModel": "opus",
   "providerState": {
@@ -13,10 +13,10 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 774,
-    "cacheReadInputTokens": 78456,
+    "cacheCreationInputTokens": 775,
+    "cacheReadInputTokens": 82389,
     "contextWindow": 1000000,
-    "contextTokens": 79232,
+    "contextTokens": 83166,
     "percentage": 8,
     "contextWindowIsAuthoritative": true
   }

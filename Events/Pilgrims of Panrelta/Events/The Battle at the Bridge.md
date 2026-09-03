@@ -8,7 +8,7 @@ tags: [event, panrelta]
 **Sessions:** [[Session 30]], [[Session 31]]
 
 ## What happened
-After reaching [[The Tree of Pain]], the party came across a pack of werewolves fighting a garrison of undead soldiers. The soldiers were led by three [[The Drow|drow]] men, spectacular fighters unlike anything the party had seen. One of them wore armor the party recognized. [[Bane]]'s soldiers won that fight without much difficulty.
+After reaching [[The Tree of Pain]], the party came across a pack of werewolves fighting a garrison of undead soldiers. The soldiers were led by three [[The Drow|drow]] men, spectacular fighters unlike anything the party had seen. One of them wore armor carrying iconography the party recognized, the fist of [[Bane]]. Bane's soldiers won that fight without much difficulty.
 
 The three are [[The Fists of Bane]], his captains: the Fist of Hate with a sickle, the Fist of Oppression a purple-armored knight with a slowing aura, and the Fist of Tyranny an enormous barbarian.
 

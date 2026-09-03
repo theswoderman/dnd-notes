@@ -12,7 +12,7 @@ They were working with [[Crucius Ilyanich]] in [[Khulask Hollow]], and attacked 
 [[Gribnik Mossfoot]]'s dream of [[The Laughing Princess Constellation|the Laughing Princess constellation]] came with the name [[Orithian Blackspire]] and some connection to the drow. What the connection is has not been said.
 
 ## Bane's captains
-[[The Fists of Bane]] were three drow men leading a garrison of [[Bane]]'s undead soldiers near [[The Tree of Pain]] in the [[Sage Thorn Forest|Sagethorn]], spectacular fighters unlike anything the party had seen. One wore armor the party recognized. [[The Good Ones]] killed all three, and the drow necromancy on them pulled their essences back together as the Spectre of Bane. See [[The Battle at the Bridge]].
+[[The Fists of Bane]] were three drow men leading a garrison of [[Bane]]'s undead soldiers near [[The Tree of Pain]] in the [[Sage Thorn Forest|Sagethorn]], spectacular fighters unlike anything the party had seen. One wore armor marked with the fist of [[Bane]], which is what the party recognized on it. [[The Good Ones]] killed all three, and the drow necromancy on them pulled their essences back together as the Spectre of Bane. See [[The Battle at the Bridge]].
 
 ## Sessions
 - [[Session 28]]

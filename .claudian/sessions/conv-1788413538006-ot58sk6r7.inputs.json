@@ -15,6 +15,34 @@
       "contentDigest": "009a741ed3e4879dd57085bd388c8e1eb64d67971362bb463e83f0688e9b2639",
       "providerUserMessageId": "7ff4e17e-0aaf-41df-8f93-b032d61b8e36",
       "providerAssistantMessageId": "a5483c60-691d-4e57-8947-ffb0acea66d0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788415412158-fi2mkkr",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788415412154-3rp701e",
+      "timestamp": 1788415412154,
+      "rawDisplayText": "they're fists,  hand was just me typing fast and mixing it up with my and diggory's weapons\n\nwe didn't learn about the other points this session",
+      "canonicalText": "they're fists,  hand was just me typing fast and mixing it up with my and diggory's weapons\n\nwe didn't learn about the other points this session",
+      "images": [],
+      "contentDigest": "eaf4d8632218b173744592212813bd602387fcd466ed38f2e6d38a8c884edbe3",
+      "providerUserMessageId": "5c25640a-d69b-416b-8822-769a80375f9a",
+      "providerAssistantMessageId": "8aa30f93-feec-4435-bb38-94bbd990a044"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788415442989-5ps2ere",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1788415442985-ruifx5q",
+      "timestamp": 1788415442985,
+      "rawDisplayText": "actually the armor iconography we recognized was the fist of bane",
+      "canonicalText": "actually the armor iconography we recognized was the fist of bane",
+      "images": [],
+      "contentDigest": "e71ac6fb6106e997cb86459592855338031040ec3b9ecca5957924dc0b358a20",
+      "providerUserMessageId": "dd493a41-7906-4d72-9129-b0fdea5a5f3b",
+      "providerAssistantMessageId": "ef11cc03-934b-43d1-8f78-5256b9d00e20"
     }
   ]
 }

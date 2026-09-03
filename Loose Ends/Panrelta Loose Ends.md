@@ -10,7 +10,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 
 - A gnomish scream came out of the moving corpses at the riverbank. [[Torin Turen]] is a gnome and went into this forest alone
 - What killed a field of [[Bane]]'s soldiers and that many beasts at the riverbank, and how recently
-- The three [[The Drow|drow]] captains are [[The Fists of Bane]], named for his three aspects, and they are dead along with the Spectre of Bane they reformed into. Why one of them wore armor the party recognized was never answered, and where drow captains fit into [[Bane]]'s foothold in the [[Sage Thorn Forest|Sagethorn]] is still open. See [[The Battle at the Bridge]]
+- The three [[The Drow|drow]] captains are [[The Fists of Bane]], named for his three aspects, and they are dead along with the Spectre of Bane they reformed into. The armor the party recognized was marked with the fist of [[Bane]]. Where drow captains fit into his foothold in the [[Sage Thorn Forest|Sagethorn]] is still open. See [[The Battle at the Bridge]]
 - [[The Fist of Tyranny's Ring]] is on [[Thol]]'s hand and will not come off. [[Gegga]] read it as certainly evil, but what it does, and what it costs him, is unknown
 - [[The Black Grail]] is said to be inside [[Torin Turen|Torin]], and both [[Malar]] and [[Bane]]'s followers want it and mean to carry it to [[The Abbey]]
 - [[The Abyssal Orb]] spoke for the first time. It told [[Thalrik Lastfeast]] "free me"
