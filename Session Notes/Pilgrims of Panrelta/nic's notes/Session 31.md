@@ -39,3 +39,6 @@ notable combat events:
 	the [[The Fists of Bane|spectre]] has taunts us, threatening to dishonor the paladin and cleric by destroying them and taking their souls (lol he doesn't know [[Thalrik Lastfeast|thalrik]] already sold his soul to [[Torm|torm]])
 	the [[The Fists of Bane|spectre]] has abilities that turn us on each other, sowing chaos in the party
 	we defeated the [[The Fists of Bane|spectre]], taunted it as it died and it exploded with necrotic energy
+
+notes for next session:
+	thol received a debilitating strike from the specter of bane, forcing him to pre-emptively fail a death save. this condition lasts til someone casts remove curse on him or we get a long rest
