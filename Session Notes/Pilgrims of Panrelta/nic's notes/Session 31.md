@@ -29,4 +29,4 @@ notable combat events:
 	falstad put holy weapon on gribnik's bow
 	beemo hasted gribnik
 	then gribnik missed all 3 attacks
-	
+	2nd turn with it was clutch though, he killed 2 skeletons and landed a huge hit on one of the hand of hate
