@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
+                "file": "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 31"
+              "title": "The Battle at the Bridge"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
+                    "file": "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 31"
+                  "title": "Graph of The Battle at the Bridge"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -395,7 +395,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -414,8 +415,8 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "People/NPCs/Antagonists/The Fists of Bane.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
+    "People/NPCs/Antagonists/The Fists of Bane.md",
     "Items and Artifacts/The Fist of Tyranny's Totem Necklace.md",
     "Items and Artifacts/The Fist of Hate's Sword.md",
     "Items and Artifacts/The Fist of Oppression's Ring.md",
