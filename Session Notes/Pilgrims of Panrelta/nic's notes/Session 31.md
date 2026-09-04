@@ -41,4 +41,5 @@ notable combat events:
 	we defeated the [[The Fists of Bane|specter]], taunted it as it died and it exploded with necrotic energy
 
 notes for next session:
-	thol received a debilitating strike from the specter of bane, forcing him to pre-emptively fail a death save. this condition lasts til someone casts remove curse on him or we get a long rest
+	thol received a debilitating strike from the specter of bane, forcing him to pre-emptively fail a death save. this condition lasts til someone casts remove curse on him or we complete a long rest
+	need to ask grant about the history of the items that we found
