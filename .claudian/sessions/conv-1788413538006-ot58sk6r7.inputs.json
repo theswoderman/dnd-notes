@@ -85,6 +85,19 @@
       "contentDigest": "e8ad8571fedf73aea4fd33503fe1a980fbf53155202ddb3745d360bf4ed8a0c4",
       "providerUserMessageId": "cd7ceedb-5029-42c0-b36a-d4c85bb6199e",
       "providerAssistantMessageId": "dfdf8059-cafd-498a-8980-f05945e4d42d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788547770111-6mo887b",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1788547770092-aazkyi3",
+      "timestamp": 1788547770092,
+      "rawDisplayText": "additional note - bane's captains are collectively referred to as \"the fists of hate\"",
+      "canonicalText": "additional note - bane's captains are collectively referred to as \"the fists of hate\"",
+      "images": [],
+      "contentDigest": "a377e8591ff11fdb1f5da37ecc1b9d533d0414ee1cc67b0960db05e1a068efe5",
+      "providerUserMessageId": "c4b691f6-4837-49a1-b6c9-1b17fb02599c"
     }
   ]
 }
