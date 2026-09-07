@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 31"
+              "title": "Untitled"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
+                    "file": "Untitled.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 31"
+                  "title": "Graph of Untitled"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,8 +414,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
+    "Untitled.md",
+    "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
     "People/NPCs/Antagonists/The Fists of Bane.md",
     "Items and Artifacts/The Fist of Tyranny's Totem Necklace.md",
     "Items and Artifacts/The Fist of Hate's Sword.md",
@@ -440,7 +441,6 @@
     "test.md",
     "Suggestions/Suggestion History/2026-08-18.md",
     "People/NPCs/Antagonists/Sila Frostblood.md",
-    "Items and Artifacts/The Black Grail.md",
     "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",
