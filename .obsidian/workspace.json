@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Session 31"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Untitled.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Untitled"
+                  "title": "Graph of Session 31"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,8 +414,8 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
     "Untitled.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
     "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
     "People/NPCs/Antagonists/The Fists of Bane.md",
     "Items and Artifacts/The Fist of Tyranny's Totem Necklace.md",
