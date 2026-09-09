@@ -28,4 +28,4 @@ we also find a key on a loose rope around the neck of one of the fists of bane -
 we identified the items
 ring of dread command https://www.dndbeyond.com/magic-items/11945543-ring-of-dread-command
 despite's reprisal longsword https://www.dndbeyond.com/magic-items/11942170-despots-reprisal
-tyrant's totem necklace 
+tyrant's totem necklace https://www.dndbeyond.com/magic-items/11946425-tyrants-totem-necklace
