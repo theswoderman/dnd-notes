@@ -19,7 +19,7 @@ He told them he had encountered [[The Maiden]], and that she said she had acquai
 He transformed into a werewolf. [[The Good Ones]] buffed [[Gribnik Mossfoot]] with magic weapon and haste and nearly killed [[The Collector]] in one turn, then cured his lycanthropy and knocked him out.
 
 ## Aftermath: the next morning
-The party buried most of the animal parts. [[Beemo]] tried to brew some of the rest into potions, purely experimenting to see what would happen: griffin beak ground into a fine powder, ankheg acid diluted into a more liquid form, mixed with the bile the werewolf spewed when they cured his lycanthropy, and stirred with a manticore spine. What it does is unrecorded.
+The party buried most of the animal parts. [[Beemo]] tried to brew some of the rest into potions, purely experimenting to see what would happen: griffin beak ground into a fine powder, ankheg acid diluted into a more liquid form, mixed with the bile the werewolf spewed when they cured his lycanthropy, and stirred with a manticore spine.
 
 Then [[The Collector]] woke up, furious that they had cured him. He called himself a servant of [[Malar]], the Beastlord (god of hunters and of lycanthropes) and warned that the [[Black Blood Pack]] would come for them.
 
@@ -29,11 +29,6 @@ Searching the cart, they found boxes of black dragon scales in the back, packed 
 
 They put his body in the bag, with [[The Abyssal Orb]]. Their own assessment: probably a horrible idea.
 
-## Left open
-- What to do with the remaining animal parts, and what [[Beemo]]'s brew does
-- Where the black dragon scales came from and who they were for
-- Whether the [[Black Blood Pack]] is real and whether it will come
-- Whether the [[Starfall Clearing]] destination is worth following up
-- Whether he was working for [[The Maiden]]
-
 **Resolved since:** "yorrisk upon the dawning." [[Yorrisk]] is a developing town contested by [[House Keroskav]] and [[House Dufrey]], and [[The Maiden]] told the party she would meet them there. See [[Return to the Bettermans Guild]].
+
+See [[Panrelta Loose Ends]] for open questions.

@@ -6,7 +6,7 @@ tags: [character, panrelta]
 **Status:** Unknown
 
 ## Summary
-A name from a dream. [[Gribnik Mossfoot]] dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]] and came out of it with this name and some connection to [[The Drow]]. What the connection is, and whether Orithian Blackspire is a person, a place or something else, is unrecorded.
+A name from a dream. [[Gribnik Mossfoot]] dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]] and came out of it with this name and some connection to [[The Drow]].
 
 See [[The Dusk Hag's Dreams]].
 

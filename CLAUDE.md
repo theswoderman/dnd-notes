@@ -254,18 +254,6 @@ When Grant's wording conflicts with Nic's own account, **Nic's account wins.** T
 
 **The calendar.** **A.P. stands for *At Peace***, counted from the end of the [[Alnoria]]–[[Rorinden]] war about a thousand years ago. Campaign 1 ran 1016–1017 A.P., about one year of in-game time. [[Aeralath]]'s defeat closes the A.P. count and starts the **Dawning Era (D.E.)**, named for [[The Dawning]]. 1017 A.P. is 1 D.E.; Panrelta is set in **10 D.E.** Write dates in the `10 D.E.` form, parallel to `1017 A.P.` [[Estrana]] is the authoritative note.
 
-## Open questions
-
-- "shae de claw" and "zogmoi" — spellings unknown, from the elder-entity mention in session 28. Session 29 calls [[The Abyssal Orb]] itself "the ichor deep engine", which may or may not make these the same thing
-- "Orithian Blackspire" — spelling unknown, from [[Gribnik Mossfoot]]'s constellation dream. Who or what it is, and what it has to do with [[The Drow]], is entirely open
-- Whether the "lost temple" on the party's map is the temple of [[Illmater]] in the [[Sage Thorn Forest]] or a different ruin. The map puts it in the same place as [[The Abbey]]
-- **[[Yorrisk]] is identified** — a developing town [[House Keroskav]] and Iron Oak [[House Dufrey]] are at war over, and where [[The Maiden]] said she would meet the party. "Upon the dawning" points at the tenth [[The Dawning|Dawning]], so this is now a place *and* a deadline. Still open: whether the battle [[Mirna Gribwood]] showed [[Thol]], [[Beemo]] and [[Gribnik Mossfoot]] there is memory, prophecy or fabrication
-- Name of the arcane college [[Davynn Brindleknot|Davynn]] founded in the [[Blackwaste]] — the prelude marks it TBD
-- Whether [[The Maiden]]'s 10,000 gold was paid or the apex griffon heart delivered
-- Whether [[The Collector]] works for [[The Maiden]] — the centaur hooves suggest yes
-- [[Beemo]], [[Falstad Firebeard]] and [[Gegga]] previously shared one `ddb:` URL; Nic has since corrected these
-- **Why [[Aeralath]] wanted [[Queensbane]] collected.** She was helping [[The Sons of Thunder]] gain power specifically so they would gather the fragments of the one weapon that can harm her. The reason is unrecorded and should come with the Campaign 1 summary
-
 ## Pending work — the Campaign 1 summary
 
 **Reed** — Campaign 1's DM, the creator of this world, and [[Beemo]]'s player in Panrelta — is writing a summary covering **the final three levels of Campaign 1**. As of August 2026 it is **32 pages** and he estimates it could reach **close to 50** before it is done, so **do not expect it soon.** The empty `Session Notes/Campaign 1/Campaign 1 Summary.md` is the placeholder for it.

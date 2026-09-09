@@ -8,7 +8,7 @@ tags: [event, panrelta]
 **Sessions:** [[Session 32]]
 
 ## What happened
-Where the [[The Fists of Bane|Fists of Bane]] had died, [[Beemo]] found necrotic mold growing on their corpses, a trans-dimensional fungus that grows on the bodies of evil beings, useful for potion crafting. A key on a loose rope turned up around the neck of the one that looked most like a paladin; which of the three that was went unrecorded, and what the key opens is unknown.
+Where the [[The Fists of Bane|Fists of Bane]] had died, [[Beemo]] found necrotic mold growing on their corpses, a trans-dimensional fungus that grows on the bodies of evil beings, useful for potion crafting. A key on a loose rope turned up around the neck of the Fist of Oppression.
 
 While [[Thol]] and [[Gribnik Mossfoot]] looked for shelter, [[Gegga]] identified the three items taken from the captains: [[Ring of Dread Command]], the ring on [[Thol]]'s hand; [[Despot's Reprisal]], a longsword; and [[Tyrant's Totem Necklace]]. All three are cursed. [[Thol]] attuned to Despot's Reprisal and immediately felt it: a disdain for any other weapon.
 

@@ -14,8 +14,6 @@ tags: [event, panrelta]
 ## Successful and unsuccessful
 The shade was described as an "unsuccessful" creation of the coven, where [[Beemo]] was a "successful" one.
 
-> **This may be backwards.** It is possible [[Beemo]] was the unsuccessful creation. Unconfirmed.
-
-Either way, the coven still wants [[Beemo]] dead, and the reason is not known.
+Either way, the coven still wants [[Beemo]] dead.
 
 See [[Panrelta Loose Ends]] for open questions.

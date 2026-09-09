@@ -10,12 +10,12 @@ tags: [faction, panrelta, coven, enemy]
 A coven of hags trying to kill [[Beemo]]. They may also be working to resurrect a dragon.
 
 ## Their creations
-The coven makes things. [[Beemo]] is one of them, and so was the shade they sent to kill him (see [[The Shade Sent for Beemo]]). One was described as "successful" and the other "unsuccessful," though which is which is uncertain.
+The coven makes things. [[Beemo]] is one of them, and so was the shade they sent to kill him (see [[The Shade Sent for Beemo]]). One was described as "successful" and the other "unsuccessful."
 
-They want [[Beemo]] dead regardless, and no reason has been given.
+They want [[Beemo]] dead regardless.
 
 ## The plan
-Whatever they are planning is happening in the [[Dragonspine Mountains]]. What it actually is remains unknown, and it was hidden well enough that both [[Diggory Psalm]] and [[Torm]] failed to see it until [[Jäkel Aleister le Rouge|Jäkel]] raised the alarm. See [[Thalrik's Dream of Torm]].
+Whatever they are planning is happening in the [[Dragonspine Mountains]]. It was hidden well enough that both [[Diggory Psalm]] and [[Torm]] failed to see it until [[Jäkel Aleister le Rouge|Jäkel]] raised the alarm. See [[Thalrik's Dream of Torm]].
 
 Two things sit alongside that, neither confirmed as connected:
 
@@ -34,7 +34,9 @@ On the fourth night a second hag appeared, for the first time: [[Sila Frostblood
 Full account in [[The Dusk Hag's Dreams]].
 
 ## Possibly also
-The party thinks a hag lured [[Torin Turen]] out of [[The Bettermans Guild]]'s camp with a false dream, sending him alone into the [[Sage Thorn Forest|Sagethorn]]. That is unconfirmed, and his dreams are different in kind from theirs. See [[Torin's Flight into the Sagethorn]].
+The party thinks a hag lured [[Torin Turen]] out of [[The Bettermans Guild]]'s camp with a false dream, sending him alone into the [[Sage Thorn Forest|Sagethorn]]. See [[Torin's Flight into the Sagethorn]].
+
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Sessions
 - [[Session 27]]

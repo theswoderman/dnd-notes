@@ -13,7 +13,7 @@ ddb: https://www.dndbeyond.com/characters/157176139
 ## Summary
 An artificer of voidborne make, created by the hag [[Festra]], who raised him. Her coven, the [[Sisters of the Gnarled Veil]], is now trying to kill him, and may also be working to resurrect a dragon.
 
-He is not the only thing they have made. A shade sent to kill him was another of their creations; one of the two was called "successful" and the other "unsuccessful", though which way round is uncertain. See [[The Shade Sent for Beemo]].
+He is not the only thing they have made. A shade sent to kill him was another of their creations; one of the two was called "successful" and the other "unsuccessful." See [[The Shade Sent for Beemo]].
 
 He travels with a companion called Snot.
 
@@ -27,7 +27,7 @@ He travels with a companion called Snot.
 - Used detect thoughts on [[The Collector]] and heard nothing but a wolf growling
 - Survived [[The Shade Sent for Beemo|a shade]] the coven created and sent specifically to kill him
 - Met [[Master Meddler Nadul Daroni]] at the [[House of Nebulu]]
-- Experimented with [[The Collector]]'s animal parts: griffin beak ground to a fine powder, ankheg acid diluted, mixed with the bile the werewolf spewed when they cured his lycanthropy, stirred with a manticore spine. What it does is unrecorded
+- Experimented with [[The Collector]]'s animal parts: griffin beak ground to a fine powder, ankheg acid diluted, mixed with the bile the werewolf spewed when they cured his lycanthropy, stirred with a manticore spine
 - Healed [[Torin Turen]] with lesser restoration at the feast; Torin refused anything more
 - Received treestride from the [[Sylvan Parcel]], alongside [[Thalrik Lastfeast]]
 - Found necrotic mold growing on the corpses of [[The Fists of Bane]], a trans-dimensional fungus that grows on the bodies of evil beings, useful for potion crafting. See [[The Road to the Abbey]]

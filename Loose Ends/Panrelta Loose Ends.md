@@ -13,7 +13,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - The three [[The Drow|drow]] captains are [[The Fists of Bane]], named for his three aspects, and they are dead along with the Specter of Bane they reformed into. The armor the party recognized was marked with the fist of [[Bane]]. Where drow captains fit into his foothold in the [[Sage Thorn Forest|Sagethorn]] is still open. See [[The Battle at the Bridge]]
 - [[Ring of Dread Command]] is on [[Thol]]'s hand and will not come off. It's confirmed cursed, but what it costs him is unknown
 - [[Despot's Reprisal]] curses whoever attunes to it with disdain for any other weapon; [[Thol]] has attuned to it and felt the effect. [[Tyrant's Totem Necklace]] is also cursed, but how its curse works is unclear
-- A key on a loose rope was found around the neck of one of [[The Fists of Bane]], the one that looked most like a paladin. Which one, and what the key opens, is unknown
+- A key on a loose rope was found around the neck of the Fist of Oppression, one of [[The Fists of Bane]]. What it opens is unknown
 - [[The Black Grail]] is said to be inside [[Torin Turen|Torin]], and both [[Malar]] and [[Bane]]'s followers want it and mean to carry it to [[The Abbey]]
 - [[The Abyssal Orb]] spoke for the first time. It told [[Thalrik Lastfeast]] "free me"
 - [[Torin Turen]] is alone in the [[Sage Thorn Forest|Sagethorn]], drained, feeling another presence where [[Illmater]] should be, digging up a soldier of [[Bane]]. The party thinks a hag lured him out and expects to have to fight [[Bane]]. What he wants from the soldier is unknown
@@ -50,6 +50,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - What to do with the remaining animal parts, and what [[Beemo]]'s experimental brew does. The parts were trophies for [[Malar]]'s rite, not merchandise
 - [[Starfall Clearing]] was his destination, confirmed by his corpse but never explained. Whether it is still worth visiting
 - Whether anything his corpse said can be trusted, given it was answering someone it believed was a packmate
+- Whether he was working for [[The Maiden]]. The centaur hooves in his cart suggest yes
 - His body is out of the bag and off a cliff. [[The Abyssal Orb]] is alone in there now
 
 ## The Black Grail and the Abbey

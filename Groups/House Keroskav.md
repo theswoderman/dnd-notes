@@ -6,7 +6,7 @@ tags: [faction, panrelta, house]
 **Disposition:** Unknown
 **Base:** [[Grekosha]]
 
-A Grekoshan house. Its heraldry is a curled black dragon facing down, with beams of light above it. The beams are recorded as "representing two"; the rest of the phrase is lost.
+A Grekoshan house. Its heraldry is a curled black dragon facing down, with beams of light above it, recorded as "representing two."
 
 At war with Iron Oak [[House Dufrey]] over a developing town called [[Yorrisk]]. The party knows of the conflict from a shared nightmare in which [[Thol]], [[Beemo]] and [[Gribnik Mossfoot]] fought in a battle between the two houses' soldiers (see [[The Dusk Hag's Dreams]]).
 

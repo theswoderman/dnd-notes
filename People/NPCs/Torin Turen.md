@@ -45,7 +45,7 @@ Questioned after death, [[The Collector]] was asked whether [[The Black Grail]] 
 
 That recasts almost everything already recorded about him. The grail he has dreamed of every night is not a symbol, the presence displacing [[Illmater]] has a reason to be there, and two rival faiths have a reason to want him alive and portable.
 
-A gnomish scream came out of the moving corpses at [[The Frozen Riverbank]]. Nobody has confirmed it was his.
+A gnomish scream came out of the moving corpses at [[The Frozen Riverbank]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

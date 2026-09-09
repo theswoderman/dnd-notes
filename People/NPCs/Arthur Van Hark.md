@@ -11,7 +11,9 @@ Mentor to [[Vladislav]], and possibly a member of [[The Order of the Golden Gaun
 ## The resurrection attempt
 [[Jäkel Aleister le Rouge|Jakel]] tried to revive him. The attempt failed because the requirements of the revive spell were not met.
 
-His mount was found dead. For reasons not recorded, [[The Good Ones]] are still not certain he actually died.
+His mount was found dead.
+
+See [[Panrelta Loose Ends]] for open questions.
 
 ## Sessions
 - [[Session 28]]
