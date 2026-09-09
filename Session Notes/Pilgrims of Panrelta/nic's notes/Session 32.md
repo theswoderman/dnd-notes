@@ -39,4 +39,5 @@ thalrik and gegga wake during the night and notice that rats of dug through the 
 we defeated the were rats with ease, falstad wiped out most of them with a wall of fire and the rest we took out one by one. luckily no one was infected with lycanthropy
 almost everyone has great dreams tonight! beemo somehow feels lighter in the morning. but gegga sleeps a bit restlessly, confused about the situation with her crane.
 thol dreams of a large leonin chief weilding a sword and ripping a dragonborn in half. <- this is a callback to a moment that bathoz had in campaign 1
-we head out in the morning and after some more travel we come across a fat, silver sparrow, that tweets at us and then flies away
+we head out in the morning and after some more travel we come across a fat, silver sparrow, that tweets at us and then flies away.
+we end the session on our first sight of the abandoned abbey, about 20 minutes away in the distance
