@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 66.0377358490566,
+        "dimension": 76.63043478260869,
         "children": [
           {
             "id": "422715ec20929148",
@@ -38,7 +38,7 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 33.9622641509434,
+        "dimension": 23.369565217391305,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -259,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -412,7 +413,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b36ba2513d70fe66",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
     "Untitled.md",
