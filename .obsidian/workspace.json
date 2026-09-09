@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/NPCs/Antagonists/The Fists of Bane.md",
+                "file": "People/The Good Ones/Falstad Firebeard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Fists of Bane"
+              "title": "Falstad Firebeard"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "People/NPCs/Antagonists/The Fists of Bane.md",
+                    "file": "People/The Good Ones/Falstad Firebeard.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of The Fists of Bane"
+                  "title": "Graph of Falstad Firebeard"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -415,12 +414,13 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Players/Cameron.md",
+    "People/NPCs/Antagonists/The Fists of Bane.md",
     "Items and Artifacts/Ring of Dread Command.md",
     "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
     "Items and Artifacts/Despot's Reprisal.md",
     "People/The Good Ones/Beemo.md",
-    "People/NPCs/Antagonists/The Fists of Bane.md",
     "Suggestions/Suggestion History/2026-09-08.md",
     "index.md.tmp.228.f24d08e3c510",
     "index.md.tmp.228.06bb7d8d20ba",
@@ -444,7 +444,6 @@
     "Events/Campaign 1/Events/The Consumed and the Vallenhein Civil War.md",
     "Events/Campaign 1/Events/The Mines of Silverwell.md",
     "Players/Ian.md",
-    "People/The Good Ones/Gribnik Mossfoot.md",
     "test",
     "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
