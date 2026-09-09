@@ -17,7 +17,7 @@ The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with cla
 | **Party** | [[The Sons of Thunder]] | [[The Good Ones]] |
 | **When** | 1016–1017 A.P. | 10 D.E. |
 | **Where** | [[Anendal]], and outward through the planes | [[Panrelta]] |
-| **Status** | Concluded at level 20 | Ongoing, ~session 31 |
+| **Status** | Concluded at level 20 | Ongoing, ~session 32 |
 | **Index** | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
 | **Timeline** | [[Campaign 1 Timeline]] | [[Panrelta Timeline]] |
 
@@ -81,7 +81,8 @@ The earliest sessions were never written down, so what follows is the order thin
 10. [[Speak with Dead with the Collector]]
 11. [[The Climb to the Sagethorn]]
 12. [[The Frozen Riverbank]]
-13. [[The Battle at the Bridge]], most recent
+13. [[The Battle at the Bridge]]
+14. [[The Road to the Abbey]], most recent
 
 Full detail is on [[Panrelta Timeline]].
 
@@ -91,11 +92,11 @@ One session of play sits outside both campaigns and outside the chronology: a bo
 
 ## Where things stand
 
-[[The Good Ones]] are deep in the [[Sage Thorn Forest|Sagethorn]], near [[The Tree of Pain]], a tree covered in decomposing bodies that serves as a monument to [[Bane]]. They killed a Beast of [[Malar]] at [[The Frozen Riverbank]], reached the tree, and then destroyed a garrison of [[Bane]]'s undead soldiers on a bridge, along with [[The Fists of Bane|its three drow captains]] and the Specter of Bane those captains reformed into after they died. The three left behind [[The Fist of Oppression's Ring|a ring]], [[The Fist of Hate's Sword|a sword]] and [[The Fist of Tyranny's Totem Necklace|a totem necklace]], none of them identified. [[Thol]] put the ring on and cannot take it off, and [[Gegga]] reads it as certainly evil. They went in after [[Torin Turen]], who rode there alone and was last seen digging up a soldier of [[Bane]]. They carry [[The Abyssal Orb]], pulled from a creature out of [[The Abyss]] and meant for [[The Sons of Thunder]] to deal with. It has begun to speak, and what it says is "free me".
+[[The Good Ones]] are deep in the [[Sage Thorn Forest|Sagethorn]], near [[The Tree of Pain]], a tree covered in decomposing bodies that serves as a monument to [[Bane]]. They killed a Beast of [[Malar]] at [[The Frozen Riverbank]], reached the tree, and then destroyed a garrison of [[Bane]]'s undead soldiers on a bridge, along with [[The Fists of Bane|its three drow captains]] and the Specter of Bane those captains reformed into after they died, which exploded as it died daring them to come find [[Bane]] himself. The three left behind [[Ring of Dread Command|a ring]], [[Despot's Reprisal|a cursed longsword]] and [[Tyrant's Totem Necklace|a cursed necklace]], since identified but not fully understood. [[Thol]] cannot remove the ring or the sword he's attuned to. They went in after [[Torin Turen]], who rode there alone and was last seen digging up a soldier of [[Bane]]. They carry [[The Abyssal Orb]], pulled from a creature out of [[The Abyss]] and meant for [[The Sons of Thunder]] to deal with. It has begun to speak, and what it says is "free me".
 
-The reason for the chase changed shape on the way in. Questioned after death, [[The Collector]] said [[Malar]] had him gathering trophies so his pack could drink from [[The Black Grail]], and that the grail is inside [[Torin Turen|Torin]]. [[Bane]]'s followers want it too and are no allies of [[Malar]]'s. Both mean to take it to [[The Abbey]], which a map places beneath [[The Laughing Princess Constellation|the Laughing Princess constellation]].
+The reason for the chase changed shape on the way in. Questioned after death, [[The Collector]] said [[Malar]] had him gathering trophies so his pack could drink from [[The Black Grail]], and that the grail is inside [[Torin Turen|Torin]]. [[Bane]]'s followers want it too and are no allies of [[Malar]]'s. Both mean to take it to [[The Abbey]], now in sight about twenty minutes off after a journey that also cost the party a night's sleep to a were-rat infestation in [[Gegga]]'s conjured tower, and left Gegga chasing a mystery of her own: her origami crane went missing, then reappeared changed, alongside what might be a second one.
 
-Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circle casting on the party's sleep every night and want [[Beemo]] dead, and a third hag, [[Sila Frostblood]], has now joined in. [[The Maiden]] is still owed 10,000 gold and the heart of an apex griffon, and said she would meet them at [[Yorrisk]] "upon the dawning", which makes the tenth [[The Dawning|Dawning]], now approaching, a deadline. And [[Yorrisk]] itself is a town two houses are going to war over.
+Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circle casting on the party's sleep every night and want [[Beemo]] dead, and a third hag, [[Sila Frostblood]], has now joined in, though the party had good dreams for once on the road to the Abbey. [[The Maiden]] is still owed 10,000 gold and the heart of an apex griffon, and said she would meet them at [[Yorrisk]] "upon the dawning", which makes the tenth [[The Dawning|Dawning]], now approaching, a deadline. And [[Yorrisk]] itself is a town two houses are going to war over.
 
 ## Start here
 
@@ -117,6 +118,6 @@ Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circ
 - `Session Notes/`, raw notes as taken at the table, kept unedited as an archive
 - `Suggestions/`, a shared suggestion box, and the record of what came of each one
 
-About 410 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+About 415 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
 
 **Spotted something wrong, or remember it differently?** Add it to the [[Suggestion Box]] and it gets worked in at the next update.

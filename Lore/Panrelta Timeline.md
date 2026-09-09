@@ -48,7 +48,8 @@ Where the Sons of Thunder are now: [[Bathoz Manefell|Bathoz]] is with his tribe,
 10. [[Speak with Dead with the Collector]]
 11. [[The Climb to the Sagethorn]]
 12. [[The Frozen Riverbank]]
-13. [[The Battle at the Bridge]], most recent
+13. [[The Battle at the Bridge]]
+14. [[The Road to the Abbey]], most recent
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 

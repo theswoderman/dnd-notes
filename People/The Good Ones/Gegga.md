@@ -21,7 +21,7 @@ ddb: https://www.dndbeyond.com/characters/152626464
 She is an origami wizard with a mask stuck fast to her face that she cannot remove.
 
 ## Key moments
-- Opened [[The Battle at the Bridge]] with fireball, and afterward read [[The Fist of Oppression's Ring]] on [[Thol]]'s hand as certainly an evil magic ring
+- Opened [[The Battle at the Bridge]] with fireball, and afterward read [[Ring of Dread Command]] on [[Thol]]'s hand as certainly an evil magic ring
 - Cast fly to get the party up the cliff, raised a tower to sit out the storm, and named [[Sila Frostblood]] from the others' dream. See [[The Climb to the Sagethorn]]
 - Gained +1 Intelligence after the descent beneath [[The Garden of Dreams]]. See [[Exploration of the deep mines]]
 - Dreamed through the eyes of a child in a cave, watching a cloaked figure at the cave mouth look out over a plateau as a massive storm gathered. A flash of lightning revealed a colossal thunder dragon; the cloaked figure raised a staff, recognized as someone's storm staff. The dragon may be [[Thelgadrïm, the Inevitable]], and may be living in [[Dolghast]]
@@ -30,9 +30,13 @@ She is an origami wizard with a mask stuck fast to her face that she cannot remo
 - Dreamed of a library full of worshipers freezing, in the second night of [[The Dusk Hag's Dreams]]
 - Cast identify on [[Torin Turen]] at the feast. It returned no real information, but she felt raw spiritual and divine energy pouring out of him
 - Set up the party's usual resting place at the camp, the tower she conjures, recorded as "Gauldur's tower"
+- Identified [[Ring of Dread Command]], [[Despot's Reprisal]] and [[Tyrant's Totem Necklace]], taken from [[The Fists of Bane]]. See [[The Road to the Abbey]]
 
 ## The killing
 [[Thol]] talked with her afterward about keeping better control of their instincts in stressful situations, and the party had further conversation with her about her remorse on the road back. It is the first time her instincts have cost the party something they might have used. [[The Collector]] died before anyone could ask him about the [[Black Blood Pack]] or the black dragon scales in his cart.
+
+## Her crane
+The origami crane figure on her staff went missing. Searching for it gave her a vision of someone else using the same staff in combat, but she could not find it despite her flawless memory. The party later found an identical crane in a forest clearing, now covered in ornate designs and inscribed with a spell scroll, but when Gegga summoned her tower that night, her original crane was waiting inside it too. See [[The Road to the Abbey]].
 
 ## Sessions
 - [[Session 27]]
@@ -40,3 +44,4 @@ She is an origami wizard with a mask stuck fast to her face that she cannot remo
 - [[Session 29]]
 - [[Session 30]]
 - [[Session 31]]
+- [[Session 32]]

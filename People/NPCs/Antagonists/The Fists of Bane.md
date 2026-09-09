@@ -19,9 +19,9 @@ aliases:
 ## Summary
 Three drow captains who led [[Bane]]'s undead garrison in the [[Sage Thorn Forest|Sagethorn]], named for the three aspects of their god: the Fist of Hate, the Fist of Oppression, and the Fist of Tyranny. They were spectacular fighters, unlike anything [[The Good Ones]] had seen, and their soldiers beat a pack of werewolves without much difficulty before the party ever engaged them.
 
-The Fist of Hate carried a sickle. The Fist of Oppression was a purple-armored knight with a slowing aura, and wore [[The Fist of Oppression's Ring|a ring]] that fell off his hand as he died. The Fist of Tyranny was an enormous barbarian.
+The Fist of Hate carried a sickle. The Fist of Oppression was a purple-armored knight with a slowing aura, and wore [[Ring of Dread Command|a ring]] that fell off his hand as he died. The Fist of Tyranny was an enormous barbarian.
 
-The party came away with something from each of them: the ring, [[The Fist of Hate's Sword]] and [[The Fist of Tyranny's Totem Necklace]]. None has been identified.
+The party came away with something from each of them: [[Ring of Dread Command|a ring]], [[Despot's Reprisal|a longsword]] and [[Tyrant's Totem Necklace|a totem necklace]], later identified. A key on a loose rope was also found around the neck of the one that looked the most like a paladin; which of the three that was is unrecorded, and what the key opens is unknown.
 
 One of the three wore armor the party recognized, and what they recognized on it was the fist of [[Bane]], the same iconography carried by the buried soldier [[Falstad Firebeard]] saw [[Torin Turen]] digging up in [[Torin's Flight into the Sagethorn]]. Which of the three it was is unrecorded.
 
@@ -30,8 +30,9 @@ Killing all three did not end the fight. Their essences gathered over the course
 
 It taunted them as it fought, threatening to dishonor the paladin and the cleric ([[Thalrik Lastfeast]] and [[Falstad Firebeard]]) by destroying them and taking their souls. [[Thalrik Lastfeast|Thalrik]]'s soul was already forfeit to [[Torm]], the price of his pact. The specter also had abilities that turned the party on each other and sowed chaos in their ranks.
 
-[[The Good Ones]] killed it. It exploded with necrotic energy as it died. See [[The Battle at the Bridge]].
+[[The Good Ones]] killed it. It exploded with necrotic energy as it died, and dared them to come find [[Bane]] himself. See [[The Battle at the Bridge]].
 
 ## Sessions
 - [[Session 30]]
 - [[Session 31]]
+- [[Session 32]]

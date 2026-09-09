@@ -40,9 +40,13 @@ Named [[Sylvanus]] during the fight at [[The Frozen Riverbank]], which made the 
 
 The Specter of Bane singled him and [[Thalrik Lastfeast]] out as it fought, promising to dishonor the cleric and the paladin by destroying them and taking their souls. See [[The Fists of Bane]].
 
+## Berrenar's interest
+On watch with [[Thol]], he talked about his relationship with [[Berrenar]] and why she seems more interested in him than in her other followers. See [[The Road to the Abbey]].
+
 ## Sessions
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]
 - [[Session 30]]
 - [[Session 31]]
+- [[Session 32]]

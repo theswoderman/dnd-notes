@@ -18,7 +18,7 @@ He is a half-orc fighter and the adopted son of [[Bathoz Manefell]] of [[The Son
 He was raised in [[Kalibad]] and the [[Golden Plains]], which is where the butchered centaurs came from. That is why he is far angrier about the poaching than anyone else in [[The Good Ones]], and why he fixated on the centaur hooves in [[The Collector]]'s cart.
 
 ## Key moments
-- Put on [[The Fist of Oppression's Ring]] while the dead captains' essences were still gathering, and cannot take it off. [[Gegga]] read it as certainly evil. See [[The Battle at the Bridge]]
+- Put on [[Ring of Dread Command]] while the dead captains' essences were still gathering, and cannot take it off. [[Gegga]] read it as certainly evil. See [[The Battle at the Bridge]]
 - Dreamed of [[Sila Frostblood]] alongside [[Gribnik Mossfoot]] and [[Falstad Firebeard]]. See [[The Climb to the Sagethorn]]
 - Cast find the path toward [[The Tree of Pain]], then ended [[The Frozen Riverbank]] in the water, riding [[Thalrik Lastfeast|Thalrik]]'s mount up the cliff at the panther. [[Nic]] ran him this session while [[Tyler]] was traveling
 - Nearly died fighting the large centaur during [[The Centaur Poachers]], and was beaten badly again by [[The Maiden]]
@@ -26,6 +26,8 @@ He was raised in [[Kalibad]] and the [[Golden Plains]], which is where the butch
 - Talked [[Gegga]] through her remorse after she killed [[The Collector]], on the subject of keeping better control of their instincts in stressful situations
 - Entertained the children of [[The Bettermans Guild]]'s camp with stories of the adventure, alongside [[Falstad Firebeard]] and [[Beemo]]
 - Received find the path, with a one day duration, from the [[Sylvan Parcel]]
+- Attuned to [[Despot's Reprisal]], the longsword taken from the Fist of Hate, and immediately felt its curse: a disdain for any other weapon
+- Dreamed of a leonin chief wielding a sword and tearing a dragonborn in two, a callback to [[Bathoz Manefell|Bathoz]] tearing [[Krintak Cinderheart]] apart while possessed by [[Sharess the Black]]. See [[The Road to the Abbey]]
 
 ## The dreams
 In the second night of [[The Dusk Hag's Dreams]] he watched his adoptive father [[Bathoz Manefell]] and his adopted uncle [[Jäkel Aleister le Rouge|Jakel]] freeze, decompose, and the hag crawl out of their remains. Of the whole party his was the most personal.
@@ -39,3 +41,4 @@ On the third night he fought in the battle dream alongside [[Beemo]] and [[Gribn
 - [[Session 29]]
 - [[Session 30]]
 - [[Session 31]]
+- [[Session 32]]

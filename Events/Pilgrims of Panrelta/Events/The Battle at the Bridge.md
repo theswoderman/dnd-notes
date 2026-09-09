@@ -16,7 +16,7 @@ The party then fought the garrison on a bridge. [[Falstad Firebeard]] turned und
 
 [[Beemo]] held an action to teleport the [[The Fists of Bane|Fist of Oppression]] down among the rest of the party, who attacked all at once, weakened him quickly and finished him off. His ring fell off his hand as he died. The [[The Fists of Bane|Fist of Tyranny]] recovered from being turned and the party took him on alone.
 
-Each of the three left something behind: [[The Fist of Oppression's Ring]], [[The Fist of Hate's Sword]] and [[The Fist of Tyranny's Totem Necklace]]. None of them has been identified.
+Each of the three left something behind: [[Ring of Dread Command]], [[Despot's Reprisal]] and [[Tyrant's Totem Necklace]], though none of them was identified at the time. See [[The Road to the Abbey]].
 
 The captains' essences gathered over the course of several minutes after the last of them fell. [[Thol]] put the ring on during that time and cannot take it back off. [[Gegga]] read it as certainly an evil magic ring, which is as far as anyone has gotten with any of the three.
 

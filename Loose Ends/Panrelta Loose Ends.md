@@ -11,11 +11,11 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - A gnomish scream came out of the moving corpses at the riverbank. [[Torin Turen]] is a gnome and went into this forest alone
 - What killed a field of [[Bane]]'s soldiers and that many beasts at the riverbank, and how recently
 - The three [[The Drow|drow]] captains are [[The Fists of Bane]], named for his three aspects, and they are dead along with the Specter of Bane they reformed into. The armor the party recognized was marked with the fist of [[Bane]]. Where drow captains fit into his foothold in the [[Sage Thorn Forest|Sagethorn]] is still open. See [[The Battle at the Bridge]]
-- [[The Fist of Oppression's Ring]] is on [[Thol]]'s hand and will not come off. [[Gegga]] read it as certainly evil, but what it does, and what it costs him, is unknown
-- [[The Fist of Hate's Sword]] and [[The Fist of Tyranny's Totem Necklace]] came off the other two captains and have not been identified
+- [[Ring of Dread Command]] is on [[Thol]]'s hand and will not come off. It's confirmed cursed, but what it costs him is unknown
+- [[Despot's Reprisal]] curses whoever attunes to it with disdain for any other weapon; [[Thol]] has attuned to it and felt the effect. [[Tyrant's Totem Necklace]] is also cursed, but how its curse works is unclear
+- A key on a loose rope was found around the neck of one of [[The Fists of Bane]], the one that looked most like a paladin. Which one, and what the key opens, is unknown
 - [[The Black Grail]] is said to be inside [[Torin Turen|Torin]], and both [[Malar]] and [[Bane]]'s followers want it and mean to carry it to [[The Abbey]]
 - [[The Abyssal Orb]] spoke for the first time. It told [[Thalrik Lastfeast]] "free me"
-- The party needs a clear night to read [[The Laughing Princess Constellation|the Laughing Princess constellation]] and locate [[The Abbey]]. A full moon is a night away and the forest is full of werewolves
 - [[Torin Turen]] is alone in the [[Sage Thorn Forest|Sagethorn]], drained, feeling another presence where [[Illmater]] should be, digging up a soldier of [[Bane]]. The party thinks a hag lured him out and expects to have to fight [[Bane]]. What he wants from the soldier is unknown
 - [[Ky'ar Lastet]] has the camp and wants the guild. [[Torin Turen|Torin]] endorsed him, but the ambition predates the endorsement. Whether he can hold it against the [[Mossclaw]] without [[Torin Turen|Torin]] is unclear
 - The [[Mossclaw]] raids on [[The Bettermans Guild]]'s camp, and the one with the black mohawk who is expected back with reinforcements. The [[Mossclaw]] are [[Gribnik Mossfoot]]'s former tribe, and the raider [[Ky'ar Lastet]] saw matches a goblin the party once spared. Why [[Gribnik Mossfoot|Gribnik]] left them, and whether they know he is with [[The Good Ones]], is unknown. Whether the raids are connected to the [[House Dufrey]]--[[House Keroskav]] dispute over [[Yorrisk]] is also unclear
@@ -27,6 +27,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - She appears to everyone except [[Beemo]], who is the one they want dead. No explanation
 - "I like this mind of yours, I'll stay a while." Whether she is now lodged in someone, and whose
 - [[Torin Turen]] called [[Beemo]] "little shadow", a name only hags have used for him, and then said under zone of truth that he does not know why he knows it and has never spoken to a hag. The other presence he feels where [[Illmater]] should be is the obvious candidate
+- After weeks of the coven's dreams, the party had good dreams for once, and [[Beemo]] woke feeling lighter. Whether the coven's hold has slipped, or something else changed, is unclear
 - The [[Sisters of the Gnarled Veil]] are trying to kill [[Beemo]], and may also be working to resurrect a dragon. Both he and the shade they sent after him are their creations, one "successful" and one not, and it is unclear which is which. Why the coven wants him dead, and what they were trying to create, are unknown. See [[The Shade Sent for Beemo]]
 - Whatever the [[Sisters of the Gnarled Veil]] are planning is happening in the [[Dragonspine Mountains]], the same range where [[Diggory Psalm]] built his temple to [[Torm]]. It went unseen by both [[Diggory Psalm|Diggory]] and [[Torm]] until [[Jäkel Aleister le Rouge|Jäkel]] warned them
 - [[Sila Frostblood]], a bheur hag, is the coven's third member and entered the party's dreams for the first time on the fourth night, showing them a riverbank they reached the next morning. Why now, whether it was warning or bait, what her dire wolves are, and whether she shares the coven's interest in killing [[Beemo]]
@@ -61,6 +62,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - [[The Tree of Pain]] is confirmed as [[Bane]]'s monument, a tree covered in decomposing bodies. What purpose it serves beyond marking the way to [[The Abbey]]
 - [[The Abbey]] lies beneath [[The Laughing Princess Constellation|a constellation]] carrying [[The Maiden]]'s other name. What the connection between the two actually is, which came first, and how a constellation marks a spot on the ground. See [[The Laughing Princess Constellation]]
 - Whether the sirens in the cliff caves on the climb are a fixed hazard or were placed there. See [[The Climb to the Sagethorn]]
+- The Specter of Bane dared [[The Good Ones]] to come find [[Bane]] himself as it died. Whether that means [[Bane]] is at [[The Abbey]], now in sight, is unknown
 
 ## The Abyssal Orb
 
@@ -78,9 +80,12 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - A colossal thunder dragon, possibly [[Thelgadrïm, the Inevitable]], may live in [[Dolghast]], and someone there carries a storm staff the party recognized. Whether this connects to the dragon the [[Sisters of the Gnarled Veil]] may be trying to resurrect is unknown
 - Why [[The Garden of Dreams]] matters so much to [[The Rockspeaker]]
 - [[Gegga]] has a mask stuck to her face that she cannot remove
+- [[Gegga]]'s origami crane went missing from her staff, and searching for it gave her a vision of someone else fighting with the same staff. A near-identical crane, now more ornate and inscribed with a spell scroll, turned up in the forest, but her original crane was still there when she next summoned her tower. Whether there are two now, or something is copying hers, is unclear
+- Why [[Berrenar]] seems more interested in [[Falstad Firebeard]] than in her other followers
 - [[Arthur Van Hark]] is probably dead, but the party is not certain. It was [[Jäkel Aleister le Rouge|Jakel]] who tried to revive him, and the revive spell's requirements were not met
 - [[Hiram Oakbrow]]: almost nothing is known about him beyond his name and his faith in [[Sylvanus]]. Where the party met him and why he gave them the [[Sylvan Parcel]] are unrecorded. Whether [[Sylvanus]] intended the gift is unknown
 
 ## World
 
 - A giant turtle-shaped elemental the size of an island was awoken during [[Awakening of the turtle|a one-shot]]. Where it is now, what the shaman's ritual was for, and whether its wandering is its own movement or something stranger. See [[Estrana]]
+- A fat, silver sparrow tweeted at the party in the [[Sage Thorn Forest|Sagethorn]] and flew off, unexplained

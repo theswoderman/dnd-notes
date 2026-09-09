@@ -40,7 +40,8 @@ Six travelers bound by [[The Pilgrimage]]'s tenets, chief among them an obligati
 10. [[Speak with Dead with the Collector]]
 11. [[The Climb to the Sagethorn]]
 12. [[The Frozen Riverbank]]
-13. [[The Battle at the Bridge]], *most recent*
+13. [[The Battle at the Bridge]]
+14. [[The Road to the Abbey]], *most recent*
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 
@@ -50,7 +51,7 @@ Running alongside most of the above: [[The Dusk Hag's Dreams]].
 ## Shared with Campaign 1
 Ten years on from [[The Sundering]]-era business and the fall of [[Aeralath]]. Confirmed overlaps:
 
-- [[Thol]] is the adopted son of [[Bathoz Manefell]]
+- [[Thol]] is the adopted son of [[Bathoz Manefell]], and dreamed of [[Bathoz Manefell|Bathoz]] tearing [[Krintak Cinderheart]] apart, a moment from Campaign 1
 - The party met [[Jäkel Aleister le Rouge|Jakel]] at a dinner in [[Stonehold]] earlier in the campaign
 - [[Diggory Psalm]] appeared to [[Thalrik Lastfeast]] in a vision and gave him the [[Hand of Valor]]; [[Jäkel Aleister le Rouge|Jäkel]] warned him of the [[Dragonspine Mountains]] threat
 - [[Yosco]] is the same person in both campaigns. He told [[The Good Ones]] about [[The Maiden]]
