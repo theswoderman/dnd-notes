@@ -135,6 +135,8 @@ The vault is a git repo published to GitHub at `theswoderman/dnd-notes` (branch 
 
 **Never invent campaign facts.** If something is unclear, record it as an open question and raise it.
 
+**Track open questions in one place.** Open questions live only in the campaign's loose ends note ([[Panrelta Loose Ends]] or [[Campaign 1 Loose Ends]]), not scattered through individual notes. A character, item, location, group or event note states what's known and stops there — it doesn't append "what it does is unknown", "which one is unrecorded", or similar asides to every uncertain detail. Point to the loose ends note instead: "See [[Panrelta Loose Ends]] for open questions." This doesn't apply to guesses that qualify a fact already stated — "spelling unconfirmed", "probably" — those stay inline, per Preserve uncertainty above.
+
 ## Session note workflow
 
 Raw notes arrive in `Session Notes/<campaign>/`, named `Session N`. When asked to process one:
