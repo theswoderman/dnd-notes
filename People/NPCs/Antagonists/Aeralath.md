@@ -17,7 +17,7 @@ Because every living thing except demons carries a spark of [[Aelor]], every dea
 ## She wanted the sword collected
 She was helping [[The Sons of Thunder]] gain power because she wanted them to gather the scattered pieces of [[Queensbane]]. Their rise was, to some degree, her doing.
 
-[[Queensbane]] is the only weapon that has ever harmed her. Why she wanted it reassembled is unexplained, and is the single largest open question hanging over Campaign 1.
+[[Queensbane]] is the only weapon that has ever harmed her. See [[Campaign 1 Loose Ends]] for why she wanted it reassembled.
 
 ## What is known of her power
 [[Dryzmir Aletall]], one of the five original heroes, remembers her only in fragments and is visibly frightened by them. She could be in more than one place at once. She could be whatever she wished. No preparation would be sufficient. Only [[Queensbane]] limited her enough that she could be harmed at all.
