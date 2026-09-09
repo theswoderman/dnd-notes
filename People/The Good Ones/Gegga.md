@@ -36,7 +36,7 @@ She is an origami wizard with a mask stuck fast to her face that she cannot remo
 [[Thol]] talked with her afterward about keeping better control of their instincts in stressful situations, and the party had further conversation with her about her remorse on the road back. It is the first time her instincts have cost the party something they might have used. [[The Collector]] died before anyone could ask him about the [[Black Blood Pack]] or the black dragon scales in his cart.
 
 ## Her crane
-The origami crane figure on her staff went missing. Searching for it gave her a vision of someone else using the same staff in combat, but she could not find it despite her flawless memory. The party later found an identical crane in a forest clearing, now covered in ornate designs and inscribed with a spell scroll, but when Gegga summoned her tower that night, her original crane was waiting inside it too. See [[The Road to the Abbey]].
+The origami crane figure on her staff went missing. Searching for it gave her a vision of someone else using the same staff in combat, but she could not find it despite her flawless memory. The party later found a near-identical crane in a forest clearing, covered in ornate designs and inscribed with a spell scroll; it incorporated itself into her spellbook rather than staying behind as an object. Her own crane turned up again when she next summoned her tower. See [[The Road to the Abbey]].
 
 ## Sessions
 - [[Session 27]]

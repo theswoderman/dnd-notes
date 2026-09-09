@@ -15,7 +15,7 @@ While [[Thol]] and [[Gribnik Mossfoot]] looked for shelter, [[Gegga]] identified
 ### Gegga's crane
 [[Gegga]] found the origami crane figure missing from her staff. Searching for it gave her a vision of someone else using the same staff in combat, but she could not find the crane itself despite her flawless memory.
 
-Traveling on by treestride the next day, the party found an identical paper crane sitting in a clearing. [[Gegga]] picked it up and noticed it was now covered in ornate designs that had not been there before, with a spell scroll for shared strength inscribed on it. When she summoned her tower that night to rest in, she found her original crane waiting inside. Whether there are now two, or something is copying hers, is unclear.
+Traveling on by treestride the next day, the party found a near-identical paper crane sitting in a clearing. [[Gegga]] picked it up and noticed it was covered in ornate designs that had not been there before, with a spell scroll for shared strength inscribed on it. Rather than staying a physical object, it incorporated itself into her spellbook. When she summoned her tower that night to rest in, she found her own crane waiting inside, right where it had always been.
 
 ### The night in the tower
 On watch, [[Thol]] and [[Falstad Firebeard]] talked about Falstad's relationship with [[Berrenar]], and why she seems more interested in him than in her other followers. [[Thol]] doesn't have much respect for deities.
