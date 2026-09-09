@@ -41,3 +41,5 @@ almost everyone has great dreams tonight! beemo somehow feels lighter in the mor
 thol dreams of a large leonin chief weilding a sword and ripping a dragonborn in half. <- this is a callback to a moment that bathoz had in campaign 1
 we head out in the morning and after some more travel we come across a fat, silver sparrow, that tweets at us and then flies away.
 we end the session on our first sight of the abandoned abbey, about 20 minutes away in the distance
+
+end of session reminder for next session: my steed is alive again, i summoned it as a celestial
