@@ -27,4 +27,5 @@ beemo finds necrotic mold growing where the corpses of the fists of bane were, i
 we also find a key on a loose rope around the neck of one of the fists of bane - the one that is more like a paladin, don't remember the name
 we identified the items
 ring of dread command https://www.dndbeyond.com/magic-items/11945543-ring-of-dread-command
-despite's reprisal 
+despite's reprisal longsword https://www.dndbeyond.com/magic-items/11942170-despots-reprisal
+tyrant's totem necklace 
