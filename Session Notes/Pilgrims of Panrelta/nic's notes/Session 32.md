@@ -32,7 +32,7 @@ tyrant's totem necklace https://www.dndbeyond.com/magic-items/11946425-tyrants-t
 thol and gribnik go looking for shelter while gegga was identifying items. 
 gegga realizes that the origami crane figure on her staff is missing, searching it she has a vision of someone using her same staff in combat. no matter how hard she looks she can't find it despite having a flawless memory
 after resting we continue through the forest via tree stride, occasionally finding evidence of other conflicts between the soldiers of bane and the horrors of the forest. we find a paper crane just like the one gegga was missing in the middle of a clearing, gegga hesitantly picks it up. Gegga notices that the previously simple crane is covered in ornate designs. upon examination, gegga realizes that it has had a spell scroll inscribed upon it. a scroll for the spell https://www.dndbeyond.com/spells/3366598-shared-strength
-when gegga summons her tower, we find her original crane again.
+when gegga summons her tower to take a rest in, we find her original crane again.
 thol attunes to despite's reprisal, and immediately feels the effect of the curse, coming to immediately feel distain for other weaponry
 during their watch during the night, thol and falstad discuss falstad's relationship with his deity, thol asking about how she seems uniquely interested in falstad over her other followers. thol doesn't have much respect for deities
 thalrik and gegga wake during the night and notice that rats of dug through the walls of the first floor of gegga's tower, and it transforms into a giant hulking creature. it's some sort of were-rat, they attack on all floors of the tower and swarm from the outside
