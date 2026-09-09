@@ -34,3 +34,4 @@ gegga realizes that the origami crane figure on her staff is missing, searching 
 after resting we continue through the forest via tree stride, occasionally finding evidence of other conflicts between the soldiers of bane and the horrors of the forest. we find a paper crane just like the one gegga was missing in the middle of a clearing, gegga hesitantly picks it up. Gegga notices that the previously simple crane is covered in ornate designs. upon examination, gegga realizes that it has had a spell scroll inscribed upon it. a scroll for the spell https://www.dndbeyond.com/spells/3366598-shared-strength
 when gegga summons her tower, we find her original crane again.
 thol attunes to despite's reprisal
+during their watch during the night, thol and falstad discuss falstad's relationship with his diety, thol asking about how she seems uniquely interested in falstad over her other followers
