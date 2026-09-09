@@ -28,7 +28,7 @@ we also find a key on a loose rope around the neck of one of the fists of bane -
 we identified the items
 ring of dread command https://www.dndbeyond.com/magic-items/11945543-ring-of-dread-command
 despite's reprisal longsword https://www.dndbeyond.com/magic-items/11942170-despots-reprisal
-tyrant's totem necklace https://www.dndbeyond.com/magic-items/11946425-tyrants-totem-necklace
+tyrant's totem necklace https://www.dndbeyond.com/magic-items/11946425-tyrants-totem-necklace - i have questions for grant about how this curse works that i will clarify after the session
 thol and gribnik go looking for shelter while gegga was identifying items. 
 gegga realizes that the origami crane figure on her staff is missing, searching it she has a vision of someone using her same staff in combat. no matter how hard she looks she can't find it despite having a flawless memory
 after resting we continue through the forest via tree stride, occasionally finding evidence of other conflicts between the soldiers of bane and the horrors of the forest. we find a paper crane just like the one gegga was missing in the middle of a clearing, gegga hesitantly picks it up. Gegga notices that the previously simple crane is covered in ornate designs. upon examination, gegga realizes that it has had a spell scroll inscribed upon it. a scroll for the spell https://www.dndbeyond.com/spells/3366598-shared-strength
