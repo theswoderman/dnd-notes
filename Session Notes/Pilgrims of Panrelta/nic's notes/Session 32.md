@@ -30,4 +30,4 @@ ring of dread command https://www.dndbeyond.com/magic-items/11945543-ring-of-dre
 despite's reprisal longsword https://www.dndbeyond.com/magic-items/11942170-despots-reprisal
 tyrant's totem necklace https://www.dndbeyond.com/magic-items/11946425-tyrants-totem-necklace
 thol and gribnik go looking for shelter while gegga was identifying items. 
-gegga realizes that the butterfly on her staff is missing, searching it she has a vision of someone using her same staff in combat
+gegga realizes that the butterfly on her staff is missing, searching it she has a vision of someone using her same staff in combat. no matter how hard she looks she can't find it despite having a flawless memory
