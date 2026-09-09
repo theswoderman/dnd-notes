@@ -36,3 +36,4 @@ when gegga summons her tower to take a rest in, we find her original crane again
 thol attunes to despite's reprisal, and immediately feels the effect of the curse, coming to immediately feel distain for other weaponry
 during their watch during the night, thol and falstad discuss falstad's relationship with his deity, thol asking about how she seems uniquely interested in falstad over her other followers. thol doesn't have much respect for deities
 thalrik and gegga wake during the night and notice that rats of dug through the walls of the first floor of gegga's tower, and it transforms into a giant hulking creature. it's some sort of were-rat, they attack on all floors of the tower and swarm from the outside
+we defeated the were rats with ease, falstad wiped out most of them with a wall of fire and the rest we took out one by one. luckily no one was infected with lycanthropy
