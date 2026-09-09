@@ -21,9 +21,9 @@ Three drow captains who led [[Bane]]'s undead garrison in the [[Sage Thorn Fores
 
 The Fist of Hate carried a sickle. The Fist of Oppression was a purple-armored knight with a slowing aura, and wore [[Ring of Dread Command|a ring]] that fell off his hand as he died. The Fist of Tyranny was an enormous barbarian.
 
-The party came away with something from each of them: [[Ring of Dread Command|a ring]], [[Despot's Reprisal|a longsword]] and [[Tyrant's Totem Necklace|a totem necklace]], later identified. A key on a loose rope was also found around the neck of the one that looked the most like a paladin; which of the three that was is unrecorded, and what the key opens is unknown.
+The party came away with something from each of them: [[Ring of Dread Command|a ring]], [[Despot's Reprisal|a longsword]] and [[Tyrant's Totem Necklace|a totem necklace]], later identified. A key on a loose rope was also found around the neck of the [[The Fists of Bane|Fist of Oppression]];  what the key opens is unknown.
 
-The fist of oppression wore armor that bore the image of the fist of [[Bane]], the same iconography carried by the buried soldier [[Falstad Firebeard]] saw [[Torin Turen]] digging up in [[Torin's Flight into the Sagethorn]]. Which of the three it was is unrecorded.
+The fist of oppression wore armor that bore the image of the fist of [[Bane]], the same iconography carried by the buried soldier [[Falstad Firebeard]] saw [[Torin Turen]] digging up in [[Torin's Flight into the Sagethorn]]. 
 
 ## The Specter of Bane
 Killing all three did not end the fight. Their essences gathered over the course of several minutes and reformed into an abomination of drow necromancy, black shadows wearing armor, which the party knew as the Specter of Bane.
