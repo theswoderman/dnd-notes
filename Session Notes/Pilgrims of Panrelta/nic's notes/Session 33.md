@@ -17,3 +17,5 @@
 - Whether "I like this mind of yours, I'll stay a while" means [[Mirna Gribwood]] is lodged in someone's head, and whose
 - What [[The Black Grail]] is, what drinking from it does, and whether it displaced [[Illmater]] in [[Torin Turen|Torin]]
 - Who or what [[Orithian Blackspire]] is, and its link to [[The Drow]]
+
+

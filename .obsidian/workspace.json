@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/NPCs/Antagonists/Queen Nocticula.md",
+                "file": "Suggestions/Suggestion Box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Queen Nocticula"
+              "title": "Suggestion Box"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "People/NPCs/Antagonists/Queen Nocticula.md",
+                    "file": "Suggestions/Suggestion Box.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Queen Nocticula"
+                  "title": "Graph of Suggestion Box"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nocticula",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,8 +255,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -416,6 +415,8 @@
   "active": "422715ec20929148",
   "lastOpenFiles": [
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
+    "People/NPCs/Orithian Blackspire.md",
+    "People/NPCs/Antagonists/Queen Nocticula.md",
     "People/The Good Ones/Falstad Firebeard.md",
     "Players/Cameron.md",
     "People/NPCs/Antagonists/The Fists of Bane.md",
@@ -443,8 +444,6 @@
     "Deities/Bane.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
-    "Events/Campaign 1/Events/The Gnoll Contract.md",
-    "Events/Campaign 1/Events/The Consumed and the Vallenhein Civil War.md",
     "test",
     "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
