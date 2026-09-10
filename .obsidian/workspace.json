@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/The Good Ones/Falstad Firebeard.md",
+                "file": "People/NPCs/Antagonists/Queen Nocticula.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Falstad Firebeard"
+              "title": "Queen Nocticula"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "People/The Good Ones/Falstad Firebeard.md",
+                    "file": "People/NPCs/Antagonists/Queen Nocticula.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Falstad Firebeard"
+                  "title": "Graph of Queen Nocticula"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nocticula",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,7 +255,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -414,6 +415,7 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "People/The Good Ones/Falstad Firebeard.md",
     "Players/Cameron.md",
     "People/NPCs/Antagonists/The Fists of Bane.md",
     "Items and Artifacts/Ring of Dread Command.md",
@@ -443,7 +445,6 @@
     "Events/Campaign 1/Events/The Gnoll Contract.md",
     "Events/Campaign 1/Events/The Consumed and the Vallenhein Civil War.md",
     "Events/Campaign 1/Events/The Mines of Silverwell.md",
-    "Players/Ian.md",
     "test",
     "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
