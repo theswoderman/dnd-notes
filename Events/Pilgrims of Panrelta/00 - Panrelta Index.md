@@ -23,7 +23,7 @@ Six travelers bound by [[The Pilgrimage]]'s tenets, chief among them an obligati
 - [[The Pilgrimage]], the tenets and the point of the journey
 - [[The Bettermans Guild]], the party's base and patron
 
-## Before [[Thalrik Lastfeast|Thalrik]] joined
+## Before Thalrik joined
 - [[The Centaur Poachers]], the butchered centaurs, the poacher hunt, and the first meeting with [[The Maiden]]
 - [[Thalrik's Road to Stonehold]], [[Thalrik Lastfeast|Thalrik]]'s own pilgrimage and the bulette that ended it
 

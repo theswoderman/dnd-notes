@@ -17,4 +17,4 @@ Unresolved threads from Campaign 1. Most are frozen until [[Reed]]'s summary of 
 - [[Casimir]] is still in the [[Cube of Carrying]]
 - [[Zargon the Immortal]] is sealed inside [[Jäkel Aleister le Rouge|Jakel]]'s soul. If [[Jäkel Aleister le Rouge|Jakel]] dies first, the soul is forfeit
 - Why [[Aeralath]] wanted [[The Sons of Thunder]] to collect the pieces of [[Queensbane]]. She was helping them gain power specifically so they would reassemble the one weapon that can harm her. The reason is unrecorded
-- Name of the arcane college [[Davynn Brindleknot|Davynn]] founded in the restored [[Blackwaste]] — the prelude marks it TBD
+- Name of the arcane college [[Davynn Brindleknot|Davynn]] founded in the restored [[Blackwaste]], marked TBD in the prelude

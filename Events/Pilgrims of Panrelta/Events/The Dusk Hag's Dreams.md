@@ -12,7 +12,7 @@ A hag has been entering [[The Good Ones]]' sleep. She is [[Mirna Gribwood]], a d
 
 The dreams have escalated across all four nights.
 
-## Night one, beneath [[The Garden of Dreams]]
+## Night one, beneath the Garden of Dreams
 [[Gegga]], [[Beemo]] and [[Gribnik Mossfoot]] dreamed of a crone eating a griffin. She then attacked the dreamer directly. They took damage and woke exhausted. See [[Exploration of the deep mines]].
 
 At the time she was unidentified.
@@ -34,7 +34,7 @@ In all of the dreams every member of the party is present except [[Beemo]]. She 
 
 Each of them woke inside the dream. [[Beemo]] did not see her at all.
 
-## Night three, at [[The Bettermans Guild]]
+## Night three, at the Bettermans Guild
 [[Gribnik Mossfoot]], [[Beemo]] and [[Thol]] dreamed of a bloody battle. Soldiers from many different armies, two heraldries notable:
 
 - [[House Keroskav]] of [[Grekosha]], a curled black dragon facing down, with beams of light above it, recorded as "representing two"

@@ -22,5 +22,5 @@ A sixteen-sided gem, glowing with energy, that fits the hilt perfectly. Set in p
 | 4th | The middle of the [[Unclaimed Isle]] |
 | 5th | The [[Blackwaste]], guarded by [[Golzokroth]] |
 
-## [[Ahmeses]]'s warning
+## Ahmeses's warning
 The sphinx [[Ahmeses]] named the symbol: the mark of [[The Black Crown]]. What alarmed him most was that the mural shows demons united under a single banner, unheard of since demons serve only themselves and their lords never cooperate. Only a single demon of immense power could command such an army.

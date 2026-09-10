@@ -7,7 +7,7 @@ tags: [character, villain, deceased]
 **Status:** Executed in [[Whitehall]]
 
 ## Summary
-[[Loryn Malcovitch|Loryn]]'s adoptive brother, and the unfavoured son. His entire campaign of mass murder was rooted in resentment that [[Loryn Malcovitch|Loryn]] had taken their parents' love from him.
+[[Loryn Malcovitch|Loryn]]'s adoptive brother, and the unfavored son. His entire campaign of mass murder was rooted in resentment that [[Loryn Malcovitch|Loryn]] had taken their parents' love from him.
 
 He hired [[The Shrike]] to kill [[Queen Marislova Domeshka]], then faked his own death, having [[Dimble Flintbatter]] cast Clone so he could step into a fresh body while no one looked for him. He planned to test a toxic poison on the Viera of the [[Whisperwood]] out of spite, then deploy it against every city that opposed [[Dolghast]] and [[Ornuth]].
 

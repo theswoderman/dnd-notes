@@ -13,4 +13,4 @@ It is not a divine gift. It is the horn of [[Zargon the Immortal]], the prison [
 **To destroy it:** carry it to the bottom of the ninth layer of the
 [[Nine Hells of Baator]] and cast it into the flames of the deepest pit.
 
-[[Jäkel Aleister le Rouge|Jakel]] gave up using it in favour of the [[Rose of Asmodeus]]. [[Bathoz Manefell|Bathoz]] cut the horn-bearing arm off during [[The Exorcism of Zargon]]; [[Hayden Trask]] regrew it.
+[[Jäkel Aleister le Rouge|Jakel]] gave up using it in favor of the [[Rose of Asmodeus]]. [[Bathoz Manefell|Bathoz]] cut the horn-bearing arm off during [[The Exorcism of Zargon]]; [[Hayden Trask]] regrew it.

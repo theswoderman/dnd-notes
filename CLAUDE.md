@@ -184,7 +184,6 @@ The vault is published via GitHub (`theswoderman/dnd-notes`, branch `main`) and 
 - `.obsidian/` — exception: graph color groups on request, with Obsidian closed
 - `cssclass: timeline` on [[The Demon War]]
 - `ddb:` frontmatter (D&D Beyond links)
-- `Templates/` — update content if conventions change, but don't rename or move files
 - `Suggestions/Suggestion Box.md` header and divider — only clear text below the divider
 - `Suggestions/Suggestion History/` — append-only, never edit or delete
 - After Nic renames files: Obsidian fixes wikilinks but not prose mentions — sweep for those
