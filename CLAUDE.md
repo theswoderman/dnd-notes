@@ -8,47 +8,33 @@ Working instructions for this Obsidian vault. Not a campaign note.
 
 ## What this vault is
 
-D&D notes for **two campaigns set in the same world**, roughly a decade apart.
+D&D notes for two campaigns set in the same world, roughly a decade apart. Campaign 1 is concluded; Pilgrims of Panrelta is ongoing. The world, geography, and pantheon are shared — link into existing notes rather than duplicating them. Locations live under `Locations/`, not under a campaign folder, for this reason.
 
-| | Campaign 1 | Pilgrims of Panrelta |
-|---|---|---|
-| Party | [[The Sons of Thunder]] | [[The Good Ones]] |
-| Nic's character | — did not play | [[Thalrik Lastfeast]] |
-| Status | Concluded at level 20 | Ongoing, ~session 29 |
-| Index | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
-| Timeline | [[Campaign 1 Timeline]] | [[Panrelta Timeline]] |
+Each campaign has an index ([[00 - Campaign Index]], [[00 - Panrelta Index]]), a timeline, and a loose ends note. Nic did not play in Campaign 1; his Panrelta character is [[Thalrik Lastfeast]].
 
-**Panrelta is set ten years after Campaign 1 ends.** The Sons of Thunder are alive and famous. Confirmed crossovers: [[Thol]] is [[Bathoz Manefell]]'s adopted son; [[Yosco]] appears in both; [[The Good Ones]] met [[Jäkel Aleister le Rouge|Jakel]] at a dinner in [[Stonehold]]; [[The Abyssal Orb]] is bound for the Sons of Thunder. Geography and pantheon are shared — link into existing notes rather than duplicating them.
+## Every edit
 
-## Folder layout
+These rules apply to all note work, every time.
 
-```
-Deities/
-Events/Campaign 1/Events/
-Events/Pilgrims of Panrelta/Events/
-Groups/
-Items and Artifacts/
-Locations/Material Plane/
-Locations/Planes and Extraplanar/
-Lore/                     timelines and world lore
-Suggestions/              shared Suggestion Box.md + Suggestion History/
-People/NPCs/              + Antagonists/, Campaign 1 Allies/, Campaign 1 Notable NPCs/
-People/The Good Ones/     Panrelta party
-People/The Sons of Thunder/
-Players/                  the real people at the table, tagged ignore
-Session Notes/<campaign>/ raw session notes, archival
-Templates/
-Events/Totally safe boat trip one shot/   one-shot, outside both campaigns
-People/Totally safe boat trip one shot/   the one-shot party
-```
+- **Encyclopedic voice.** Lead with what the subject IS, not the scene where the party learned about it.
+- **Link every instance**, not just the first mention. Pipe when display text differs: `[[Thalrik Lastfeast|Thalrik]]`.
+- **No em dashes.** Use a comma, colon, parentheses, or separate sentence.
+- **American English.** Not colour/honour/travelled/centre/recognised/grey/armour.
+- **Third person, no main character.** No "my character" on a character note. `index.md` is read by strangers — this applies hardest there.
+- **Preserve uncertainty.** Keep guesses as guesses — "unconfirmed", "spelling unknown", "probably". Never silently promote a guess to fact.
+- **Never invent campaign facts.** If something is unclear, record it as an open question and raise it.
+- **Bold earns its place.** Key/value fields at the top of a note and the occasional thing that genuinely needs to stop the eye. Not emphasis several times a paragraph.
+- **Don't say "nothing else is known."** End the passage where the information ends.
+- **Don't restate what was just said.** No spelling out obvious deductions, restating with convoluted epithets, or adding summary lines that repeat the paragraph.
+- **Raw session notes are archive.** Only add link syntax — never change wording. Quoted text stays exactly as spoken or written.
 
-Locations live under `Locations/`, not under a campaign folder, because the world is shared.
+## Linking
 
-The vault is framed around two campaigns, but play outside them gets its own `Events/` subfolder.
+**Do not link inside:** frontmatter, code spans and file paths, headings, blockquotes, a note's own "Also known as" line, or chat speaker labels in session notes.
 
 ## Note conventions
 
-Campaign 1 style is the standard for everything. YAML frontmatter, `#` H1 matching the filename, bold key/value lines, then sections.
+YAML frontmatter, `#` H1 matching the filename, bold key/value lines, then sections.
 
 ```markdown
 ---
@@ -75,139 +61,86 @@ Locations use `**Region:**` and `**Disposition:**`. Events use `**When:**`, `**P
 
 Common tags: `character, location, event, faction, item, deity, lore` plus qualifiers (`party, villain, ally, major, deceased, panrelta, crossover`). Tag Panrelta notes `panrelta` so the two campaigns can be filtered apart.
 
-Give characters **short-name aliases** (`Thalrik`, `Gribnik`, `Jakel`) so informal session notes link cleanly.
+Give characters short-name aliases so informal session notes link cleanly.
 
-## House voice
+Character notes carry a `**Player:**` line linking to the player note in `Players/`, as the first field. **[[Loryn Malcovitch]] is [[Nick]]'s character, not Nic's** — the names are one letter apart and this has been gotten wrong before.
 
-Plain, direct prose. Contractions are fine. Vary sentence length. Prefer a full sentence to a fragment where it reads better.
+## Voice details
 
-**No em dashes.** Use a comma, a colon, parentheses, or a separate sentence.
+The "every edit" checklist covers the core rules. These expand on them.
 
-**Bold and headings have to earn their place.** The older notes lean on bold for emphasis several times a paragraph; that is the habit being moved away from. Keep bold for the key/value fields at the top of a note and for the occasional thing that genuinely needs to stop the eye.
+**Encyclopedic voice, not narrative of discovery:**
+Bad: "Named by The Collector as he woke, furious that The Good Ones had cured his lycanthropy: the Black Blood Pack would come for them."
+Good: "A lycanthrope pack in the service of Malar. The Collector presumably belonged to it, and warned that the pack would come for The Good Ones in the moments before his death."
 
-**Encyclopedic voice, not narrative of discovery.** A note's opening description should say what the subject IS, not narrate the scene where the party learned about it. Lead with the encyclopedic description; mention the discovery context briefly afterward if needed. Bad: "Named by The Collector as he woke, furious that The Good Ones had cured his lycanthropy: the Black Blood Pack would come for them." Good: "A lycanthrope pack in the service of Malar. The Collector presumably belonged to it, and warned that the pack would come for The Good Ones in the moments before his death."
+Plain, direct prose. Contractions fine. Vary sentence length.
 
-**Don't say "nothing else is known."** If the note contains everything that is known, the reader can see that. Sentences like "nothing else was learned from him", "no further details are available", or "little else is known" are filler. End the passage where the information ends.
+**No main character exception:** the early Panrelta record is missing because Thalrik joined partway through. That is worth explaining where the recorded order needs it.
 
-**Don't restate what was just said.** If a sentence establishes a fact, the next sentence should not rephrase it. Common forms: spelling out a deduction that is already obvious from the premise ("Mirna is Beemo's aunt. That places her in the same family as Festra."), restating a conclusion with a convoluted epithet instead of using the name ("The being the sword was forged to kill wanted..."), or adding a summary line that says what the paragraph already said ("The griffon is dead; the condition is not yet discharged" after three sentences saying the debt is outstanding). Say it once and move on.
+**Open questions live only in the campaign's loose ends note** ([[Panrelta Loose Ends]] or [[Campaign 1 Loose Ends]]), not scattered through individual notes. Entity notes state what's known and stop. Point to the loose ends note: "See [[Panrelta Loose Ends]] for open questions."
 
-**Scope: the full vault has been rewritten.** The rewrite was completed on 2026-08-18. All notes now follow the new voice. New and edited notes should match it going forward.
+## Source authority
 
-Two things this never applies to. Raw session notes in `Session Notes/` are archive and only ever gain link syntax. Quoted text stays exactly as it was said or written, which covers the suggestion quotes in `Suggestions/Suggestion History/`, in-world quotes, and [[Grant]]'s prelude.
+**Nic's account wins** over other sources when they conflict. [[Grant]]'s [[Prelude for Thalrik Lastfeast]] spells some names differently; the vault spellings are canonical, with losing spellings kept as aliases.
 
-## Player notes
+**The map wins on place names.** `Map of Estrana.webp` on [[Estrana]] is authoritative.
 
-`Players/` holds one note per real person at the table — [[Nic]], [[Nick]], [[Reed]], [[Grant]], [[Ian]], [[Cameron]], [[Tyler]] — each tagged `ignore` and `player`, each with a table of the characters that person has played and which campaign each belongs to.
+**Campaign 1 notes are frozen.** Reed is writing a summary of the final three levels. Until it arrives, Campaign 1 notes reflect a mid-campaign state — do not "fix" them by inference. When it arrives: create event notes, update [[Campaign 1 Timeline]], [[Queensbane]], [[00 - Campaign Index]], and work through [[Campaign 1 Loose Ends]].
 
-Character notes carry a `**Player:**` line linking to the player note, as the first field. Prose that names a player links too — "[[Grant]]'s old character", "[[Ian]] was not playing that night".
+---
 
-**Two deliberate exceptions.** Chat speaker labels in session notes stay unlinked, per the linking rules above. And this file stays unlinked: it names Nic constantly as the person giving instructions, not as a player.
+## Workflows
 
-There is no Player template in `Templates/`; the seven notes were written by hand and are the pattern.
+Everything below applies only when a specific workflow is triggered.
 
-**[[Loryn Malcovitch]] is [[Nick]]'s character, not Nic's.** The two names are one letter apart and this has been gotten wrong before. Nic did not play in Campaign 1 at all.
+### Session note processing
 
-## The published site
+Raw notes arrive in `Session Notes/<campaign>/`. When asked to process one:
 
-The vault is a git repo published to GitHub at `theswoderman/dnd-notes` (branch `main`) and rendered as a site by Flowershow. Three consequences:
-
-**`index.md` at the vault root is the homepage.** A reader-facing overview, not a campaign note. It restates the campaign table, the chronology from [[The Sundering]] to the current session, a **Where things stand** section, and a note count. All of that drifts the moment notes change, so it is a maintenance target on every session and every update run. Treat the note count as approximate — round it rather than chasing exactness.
-
-**Anything written here is public.** Names, open questions and half-guesses are all visible. This doesn't change the rules below, but it raises the cost of a bad guess.
-
-**Git is read-only by default.** Use `git log` and `git diff` freely. Nic's backup plugin already commits *and* pushes on its own, so vault edits reach the site without any help — check `git fetch` and compare `origin/main...main` before assuming anything needs publishing.
-
-**Commit or push only when Nic says so in that session.** Standing permission is not implied by a past yes. Even then, never `checkout`, `reset`, `rebase`, or anything else that rewrites history or discards working state. Commit as Nic (`git -c user.name=... -c user.email=...`) rather than writing a git identity into the repo config, and leave `.obsidian/` churn out of the commit — the backup plugin handles it.
-
-**`git mv` fails in the sandbox** — it cannot take `.git/index.lock` and leaves a stale lock behind, which then blocks the backup plugin from committing at all, silently. Use plain `mv`, and if a lock appears, delete `.git/index.lock`.
-
-**The repo is case-insensitive** (`core.ignorecase` is true, on a Windows-backed filesystem). Renaming a file or folder to fix only its capitalization changes nothing as far as git is concerned, so the old casing stays in the published URLs. Forcing it through takes two moves via a temporary name.
-
-## Rules
-
-**Link every instance**, not just the first mention. Do not link inside: frontmatter, code spans and file paths, headings, blockquotes, a note's own "Also known as" line, or chat speaker labels in session notes. Pipe when the display text differs: `[[Thalrik Lastfeast|Thalrik]]`.
-
-**American English.** Not colour/honour/travelled/centre/recognised/grey/armour.
-
-**No main character.** Notes are written in the third person, about the world and the parties, not from Nic's point of view. No "my character" on a character note, and no cross-links between characters that exist only because the same person played both; the `**Player:**` field and the `Players/` notes carry that already. This applies hardest to `index.md`, which strangers read. **One exception:** the early Panrelta record is missing because [[Thalrik Lastfeast]] joined the campaign partway through, and that is worth explaining wherever the recorded order needs it.
-
-**Preserve uncertainty.** Nic's notes contain guesses. Keep them as guesses — "unconfirmed", "spelling unknown", "probably". Never silently promote a guess to fact or normalize a name he flagged as uncertain.
-
-**Never invent campaign facts.** If something is unclear, record it as an open question and raise it.
-
-**Track open questions in one place.** Open questions live only in the campaign's loose ends note ([[Panrelta Loose Ends]] or [[Campaign 1 Loose Ends]]), not scattered through individual notes. A character, item, location, group or event note states what's known and stops there — it doesn't append "what it does is unknown", "which one is unrecorded", or similar asides to every uncertain detail. Point to the loose ends note instead: "See [[Panrelta Loose Ends]] for open questions." This doesn't apply to guesses that qualify a fact already stated — "spelling unconfirmed", "probably" — those stay inline, per Preserve uncertainty above.
-
-## Session note workflow
-
-Raw notes arrive in `Session Notes/<campaign>/`, named `Session N`. When asked to process one:
-
-1. Read it. Identify what's new versus what updates an existing note.
-2. Create new notes for new entities; update existing ones in place.
-3. Add `## Sessions` backlinks on every note touched. These backlinks are the only record of what a session fed into; there is no session log table.
-4. Update the timeline's event list and the campaign's loose ends note (**[[Panrelta Loose Ends]]** or **[[Campaign 1 Loose Ends]]** in `Loose Ends/`).
+1. Read it. Identify new entities versus updates to existing notes.
+2. Create new notes; update existing ones in place.
+3. Add `## Sessions` backlinks on every note touched.
+4. Update the timeline and the campaign's loose ends note.
 5. Update the campaign index if the event list or cast changed.
-6. Update `index.md` — **Where things stand**, the chronology, and the recorded-events list if the session added one.
-7. Run the verification script below.
+6. Update `index.md` — **Where things stand**, chronology, recorded-events list.
+7. Run the verification script.
 
-**Raw session notes are an archive.** Only ever *add link syntax* to them — never change wording. Verify by stripping links from both versions and asserting the text is identical.
+Verify archive integrity: strip links from the raw note before and after, assert text is identical.
 
-## Update runs
+### Update runs
 
-"Run an update" or "update the wiki" means the full sweep below, not just one file. Do all five steps in order.
+"Run an update" means the full sweep, not just one file.
 
-**1. Read the suggestion box.** `Suggestions/Suggestion Box.md`. Any text *below the divider line* is unprocessed player input. The file is shared — other players edit it directly, so expect informal, misspelled, or partial entries, and expect several unrelated suggestions at once. Treat each as its own suggestion.
+**1. Read the suggestion box.** `Suggestions/Suggestion Box.md`. Text below the divider is unprocessed. Treat each entry as its own suggestion.
 
-**2. Find what else changed.** The vault is a git repo with automatic `vault backup: <timestamp>` commits, so git is the source of truth for "since last time." Get the date of the newest note in `Suggestions/Suggestion History/`, then diff from the commit at that point:
+**2. Find what else changed.** Diff git from the date of the newest `Suggestions/Suggestion History/` note. Ignore `.obsidian/` churn. If Nic renamed files, sweep for stale prose mentions.
 
-```bash
-cd "/sessions/<session>/mnt/dnd notes"
-git log --oneline --since="<date of last suggestion history note>" -- . ':(exclude).obsidian'
-git diff --stat "HEAD@{<date>}" HEAD -- . ':(exclude).obsidian'
-```
+**3. Incorporate each suggestion.** Three outcomes:
+- **New information** — add to every note where it belongs.
+- **Already covered** — change nothing, record where it lived.
+- **Conflicts with canon or invents a fact** — stop and ask Nic. Collect all questionable suggestions and raise them together.
 
-Ignore `.obsidian/` churn entirely — plugin files rewrite themselves constantly and mean nothing. If Nic renamed or moved files, sweep for stale plain-text prose mentions (see Do not touch). If he added notes by hand, check they follow the conventions above and are linked from the relevant index and timeline.
+**4. Write a history entry.** One note per day (`YYYY-MM-DD.md`) in `Suggestions/Suggestion History/`, tagged `ignore` and `suggestion`. Each suggestion is an H2 with verbatim quote, **Status**, and H3 subsections for **Incorporated into**, **Already covered**, **Notes**. No attribution field. Then clear processed text from the box, leaving header and divider.
 
-**3. Incorporate each suggestion.** Cross-reference against what already exists before writing anything. Three outcomes:
+**5. Refresh `index.md`.**
 
-- **New information** — add it to every note where it belongs, not just the most obvious one. A suggestion about a character usually also touches their group, their location, and the relevant event note.
-- **Already covered** — change nothing. Record where the information already lived.
-- **Conflicts with canon, or invents a fact** — **stop and ask Nic.** Do not apply it and do not guess. Player suggestions are not canon; the `Never invent campaign facts` and `Preserve uncertainty` rules outrank a suggestion. Collect all questionable suggestions and raise them together at the start of the run rather than one at a time.
+### Corrections in chat
 
-**4. Write a history entry.** Suggestion history uses one note per day, filed as `YYYY-MM-DD.md` in `Suggestions/Suggestion History/`. Each suggestion or correction becomes an H2 section within that day's note. If the day's note already exists, append the new section; if not, create it with the standard frontmatter (`tags: [ignore, suggestion]`) and an H1 of the date.
+Corrections Nic gives in conversation are canon immediately. Every one gets a history entry same as box entries — an H2 in that day's `Suggestions/Suggestion History/` note with verbatim quote and links to notes touched.
 
-Each H2 section records the suggestion verbatim (quote it, typos and all, as a record of what was said), a **Status** line, and subsections for **Incorporated into**, **Already covered**, and **Notes**, all at H3. Wikilink every note touched. **No attribution field** — the box arrives via Nic, so who submitted it is not recoverable and not worth guessing at. If nothing was touched because the information already existed, link to where it lives instead. Then **clear the processed text from the box**, leaving the header and divider so it is an empty inbox again.
+The unit is the message: one message with three corrections = one entry. Style and process changes count when they rewrite notes. Entries backfilled from transcripts say so in **Notes**.
 
-History notes are tagged `ignore` and `suggestion`. Do **not** add attribution lines to the campaign notes themselves — the history note's links are the audit trail, and the notes stay clean.
+### Verification
 
-**5. Refresh `index.md`.** Same targets as the session workflow — **Where things stand**, the chronology, the note count. If the run only touched a character detail this may be a no-op; check rather than assume.
-
-Run the verification script when the whole sweep is done.
-
-## Corrections given in chat
-
-Nic corrects things in conversation as often as through the box, and those corrections are canon the moment he gives them. **Every one gets a history entry, same as a box entry.** Add an H2 section to that day's note in `Suggestions/Suggestion History/`, quote him verbatim, and link every note touched. Do this in the same session, not at the next update run.
-
-**The unit is the message, not the fact.** One message carrying three unrelated corrections gets one entry, with the three listed under **Incorporated into**. Splitting them produces noise and loses the context they arrived in.
-
-Style and process changes count too, not just campaign facts, when they rewrite a note wholesale. [[2026-08-12#Rewrite the Panrelta Timeline in a plainer style]] is the worked example.
-
-Everything else is unchanged: tagged `ignore` and `suggestion`, no attribution line, never edited after the fact. A correction that reverses an earlier one gets a new entry pointing at the old.
-
-Entries backfilled from chat transcripts say so in **Notes**, since what was touched is reconstructed rather than observed. The `mcp__session_info__` tools can read past session transcripts, which is where a backfill gets its verbatim quotes.
-
-## Verification
-
-Run after any batch of edits. Checks broken links, YAML errors, and duplicate filenames.
-
-The `/sessions/<session>/mnt/` path below changes every session — read it from the folder-access confirmation rather than copying the example. A wrong path fails loudly, so this is a stumble, not a risk.
+Run after any batch of edits. Checks broken links, YAML errors, duplicate filenames.
 
 ```bash
-cd "/sessions/<session>/mnt/dnd notes" && python3 -c "
+python3 -c "
 import re,glob,os,collections,yaml
 files=[p for p in glob.glob('**/*.md',recursive=True) if not p.startswith('.obsidian')]
-strip=lambda t: re.sub(r'```.*?```','',t,flags=re.S)   # ignore code fences
+strip=lambda t: re.sub(r'```.*?```','',t,flags=re.S)
 names={}; dupes=collections.defaultdict(list)
-for a in glob.glob('**/*',recursive=True):             # attachments are valid link targets
+for a in glob.glob('**/*',recursive=True):
     if os.path.isfile(a) and not a.endswith('.md') and not a.startswith('.obsidian'):
         names[os.path.basename(a).lower()]=a
 for p in files:
@@ -226,43 +159,34 @@ print('dupes:',{k:v for k,v in dupes.items() if len(v)>1})
 "
 ```
 
-**Assert on find-and-replace.** A silent no-op has bitten before: a chronology rewrite failed to apply because an earlier auto-linking pass had changed the text, while other edits in the same script succeeded. Use `assert old in s` before replacing.
+**Assert on find-and-replace.** Use `assert old in s` before replacing — a silent no-op has caused missed edits before.
 
-## Do not touch
+---
 
-- `.obsidian/` — plugin config. Breadcrumbs uses `up/down/same/next/prev`; `types.json` registers the recognized frontmatter fields. Exception: graph color groups in `graph.json` and `plugins/extended-graph/data.json` are managed on request. **Obsidian must be closed when writing these** — it flushes in-memory state over the file on quit and silently discards the edit.
-- `cssclass: timeline` on [[The Demon War]] — used by a theme.
-- `ddb:` frontmatter — D&D Beyond character links.
-- `Templates/` — Person, Location, Group, Event, Suggestion. These match the conventions above and are wired to both the core Templates plugin and Templater, where Nic has hotkeys bound to them. **If a convention changes, update these too**, and don't rename or move the files or the hotkeys break.
-- `Suggestions/Suggestion Box.md` — the header and divider line are instructions for other players. Only ever clear text *below* the divider; never rewrite the header.
-- `Suggestions/Suggestion History/` — a permanent record. Never edit or delete an entry after the fact; if a suggestion is later reversed or ruled on, write a new entry.
-- Nic reorganizes and renames files himself. After a rename, Obsidian fixes wikilinks but **not plain-text prose mentions** — sweep for those.
+## Guardrails
 
-`Area:` and `Favorability:` are *not* wired to any plugin. When converting old notes, fold them into the body as `**Region:**` and `**Disposition:**` rather than dropping the data.
+### Git and publishing
 
-## Name discrepancies — settled
+The vault is published via GitHub (`theswoderman/dnd-notes`, branch `main`) and rendered by Flowershow. Everything written here is public.
 
-Grant's [[Prelude for Thalrik Lastfeast]] spells several names differently from the vault. Nic has ruled on all of them. **Canonical forms:**
+**`index.md` is the homepage** — a maintenance target on every session and update run. Keep the note count approximate.
 
-[[Aeralath]] · **[[Golden Plains|The Golden Plains]]** · [[Magus Trollbeater]] · [[Loryn Malcovitch|Malcovitch]] · [[Whisperwood]] · [[Kelara]] · [[Ishtir Marsh|Ishtir]] · [[Blackwaste]]
+**Git is read-only by default.** Use `git log` and `git diff` freely. Nic's backup plugin commits and pushes automatically — check `git fetch` and compare before assuming anything needs publishing.
 
-The vault spelling won everywhere except **Golden Plains**, which was renamed from "Golden Planes" to match the prelude. Each losing spelling is kept as an alias so older links still resolve — do not "fix" them by renaming.
+**Commit or push only when Nic says so in that session.** Never `checkout`, `reset`, `rebase`, or anything that rewrites history. Commit as Nic (`git -c user.name=... -c user.email=...`), leave `.obsidian/` out.
 
-When Grant's wording conflicts with Nic's own account, **Nic's account wins.** The bulette night in [[Thalrik's Road to Stonehold]] is the worked example.
+**`git mv` fails in the sandbox** — use plain `mv`. If a `.git/index.lock` appears, delete it.
 
-**The map wins on place names.** `Map of Estrana.webp`, embedded on [[Estrana]], is authoritative for the spelling of locations. **[[Silnothas]]** was renamed from "Silnothis" to match it, with the old spelling kept as an alias — same pattern as Golden Plains. Places drawn on the map with no note simply have not come up in play; that is expected and not a gap to fill.
+**Case-insensitive repo.** Renaming to fix only capitalization requires two moves via a temporary name.
 
-**The calendar.** **A.P. stands for *At Peace***, counted from the end of the [[Alnoria]]–[[Rorinden]] war about a thousand years ago. Campaign 1 ran 1016–1017 A.P., about one year of in-game time. [[Aeralath]]'s defeat closes the A.P. count and starts the **Dawning Era (D.E.)**, named for [[The Dawning]]. 1017 A.P. is 1 D.E.; Panrelta is set in **10 D.E.** Write dates in the `10 D.E.` form, parallel to `1017 A.P.` [[Estrana]] is the authoritative note.
+### Do not touch
 
-## Pending work — the Campaign 1 summary
+- `.obsidian/` — exception: graph color groups on request, with Obsidian closed
+- `cssclass: timeline` on [[The Demon War]]
+- `ddb:` frontmatter (D&D Beyond links)
+- `Templates/` — update content if conventions change, but don't rename or move files
+- `Suggestions/Suggestion Box.md` header and divider — only clear text below the divider
+- `Suggestions/Suggestion History/` — append-only, never edit or delete
+- After Nic renames files: Obsidian fixes wikilinks but not prose mentions — sweep for those
 
-**Reed** — Campaign 1's DM, the creator of this world, and [[Beemo]]'s player in Panrelta — is writing a summary covering **the final three levels of Campaign 1**. As of August 2026 it is **32 pages** and he estimates it could reach **close to 50** before it is done, so **do not expect it soon.** The empty `Session Notes/Campaign 1/Campaign 1 Summary.md` is the placeholder for it.
-
-Until it arrives, the Campaign 1 notes are frozen in a **mid-campaign** state and that is deliberate. Do not "fix" these by inference:
-
-- [[Aeralath]] is listed as sealed and "expected to return within months"
-- [[Queensbane]]'s attunement checklist has [[The Beastlands]] marked *current arc*, with four planes unchecked
-- [[Campaign 1 Timeline]] ends at [[Into the Beastlands]] — *current*
-- [[The Sons of Thunder]] carries a stale "Current objective" section
-
-**When it arrives:** create event notes in `Events/Campaign 1/Events/`, file new people and places into existing folders, and update [[Campaign 1 Timeline]], [[Queensbane]] and [[00 - Campaign Index]]. Work through [[Campaign 1 Loose Ends]] and mark which the ending resolves — including **why [[Aeralath]] wanted [[Queensbane]] collected**, which is the big one. Replace the stale sections listed above.
+`Area:` and `Favorability:` are not plugin-wired. When converting old notes, fold into body as `**Region:**` and `**Disposition:**`.
