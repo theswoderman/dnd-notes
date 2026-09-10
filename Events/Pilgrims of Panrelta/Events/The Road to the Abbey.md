@@ -26,7 +26,7 @@ Rats had already dug through the walls of the tower's first floor. Overnight the
 Nearly everyone had good dreams for the first time in a while. [[Beemo]] woke feeling lighter. [[Gegga]] slept restlessly, still unsettled about her crane. [[Thol]] dreamed of a leonin chief wielding a sword and tearing a dragonborn in two, a callback to [[Bathoz Manefell|Bathoz]] tearing [[Krintak Cinderheart]] apart while possessed by [[Sharess the Black]]. See [[Bathoz's Mindscape]].
 
 ### First sight of the Abbey
-The party set out the next morning, passed a fat silver sparrow that tweeted at them and flew off, and by the end of the session had their first sight of [[The Abbey]], about twenty minutes away in the distance.
+The party set out the next morning, passed a fat silver sparrow that tweeted at them and flew off (one of several such sightings going back to before [[Khulask Hollow]]), and by the end of the session had their first sight of [[The Abbey]], about twenty minutes away in the distance.
 
 See [[Panrelta Loose Ends]] for open questions.
 

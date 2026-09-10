@@ -81,7 +81,6 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - A colossal thunder dragon, possibly [[Thelgadrïm, the Inevitable]], may live in [[Dolghast]], and someone there carries a storm staff the party recognized. Whether this connects to the dragon the [[Sisters of the Gnarled Veil]] may be trying to resurrect is unknown
 - Why [[The Garden of Dreams]] matters so much to [[The Rockspeaker]]
 - [[Gegga]] has a mask stuck to her face that she cannot remove
-- [[Gegga]]'s origami crane went missing from her staff, and searching for it gave her a vision of someone else fighting with the same staff. A near-identical crane, ornate and inscribed with a spell scroll, turned up in the forest and incorporated itself into her spellbook; her own crane turned up again when she next summoned her tower. What the second crane was, and who else might be using a staff like hers, is unclear
 - Why [[Berrenar]] seems more interested in [[Falstad Firebeard]] than in her other followers
 - [[Arthur Van Hark]] is probably dead, but the party is not certain. It was [[Jäkel Aleister le Rouge|Jakel]] who tried to revive him, and the revive spell's requirements were not met
 - [[Hiram Oakbrow]]: almost nothing is known about him beyond his name and his faith in [[Sylvanus]]. Where the party met him and why he gave them the [[Sylvan Parcel]] are unrecorded. Whether [[Sylvanus]] intended the gift is unknown
@@ -89,4 +88,4 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 ## World
 
 - A giant turtle-shaped elemental the size of an island was awoken during [[Awakening of the turtle|a one-shot]]. Where it is now, what the shaman's ritual was for, and whether its wandering is its own movement or something stranger. See [[Estrana]]
-- A fat, silver sparrow tweeted at the party in the [[Sage Thorn Forest|Sagethorn]] and flew off, unexplained
+- A fat, silver sparrow has appeared to the party at least four or five times, going back to before they first arrived at [[Khulask Hollow]]. The most recent sighting was in the [[Sage Thorn Forest|Sagethorn]], where it tweeted at them and flew off. Earlier appearances may not have made it into the session notes
