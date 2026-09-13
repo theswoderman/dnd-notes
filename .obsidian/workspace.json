@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "changeling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,7 +255,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -412,7 +413,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "2730ff74bae74d4e",
   "lastOpenFiles": [
     "Suggestions/Suggestion History/2026-09-10.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
