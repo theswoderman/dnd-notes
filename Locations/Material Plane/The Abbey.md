@@ -13,6 +13,6 @@ A map [[The Good Ones]] picked up early in the campaign shows the abbey and the 
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 29]]
 - [[Session 32]]

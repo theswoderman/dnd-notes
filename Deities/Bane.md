@@ -23,7 +23,7 @@ Near the tree, a garrison of Bane's undead soldiers defeated a pack of werewolve
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]
 - [[Session 29]]
 - [[Session 30]]

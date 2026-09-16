@@ -12,6 +12,6 @@ See [[The Dusk Hag's Dreams]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]
 - [[Session 29]]

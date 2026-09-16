@@ -5,7 +5,7 @@ tags: [event, panrelta]
 
 **When:** 10 D.E., immediately after [[The Battle at the Bridge]]
 **Part of:** the journey through the [[Sage Thorn Forest|Sagethorn]]
-**Sessions:** [[Session 32]]
+**Sources:** [[Session 32]]
 
 ## What happened
 Where the [[The Fists of Bane|Fists of Bane]] had died, [[Beemo]] found necrotic mold growing on their corpses, a trans-dimensional fungus that grows on the bodies of evil beings, useful for potion crafting. A key on a loose rope turned up around the neck of the Fist of Oppression.
@@ -30,5 +30,5 @@ The party set out the next morning, passed a fat silver sparrow that tweeted at 
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 32]]

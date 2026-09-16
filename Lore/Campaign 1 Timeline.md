@@ -61,6 +61,9 @@ The whole of Campaign 1 spans roughly one year of in-game time. [[Aeralath]]'s d
 42. [[Into the Beastlands]]
 43. [[Into Mechanus]]
 44. [[The Slaying of Minthur]]
+45. [[The Voyage South]]
+46. [[The Hidden Continent]]
+47. [[Into Limbo]]
 
 See [[Campaign 1 Loose Ends]].
 

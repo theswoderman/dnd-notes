@@ -25,6 +25,6 @@ The [[Mossclaw]] he described matches the goblin [[The Good Ones]] spared in an 
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]
 - [[Session 29]]

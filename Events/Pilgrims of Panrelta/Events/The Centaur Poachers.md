@@ -5,7 +5,7 @@ tags: [event, panrelta, major]
 
 **When:** The first few sessions, before [[Thalrik Lastfeast]] joined
 **Part of:** [[The Pilgrimage]]
-**Sessions:** [[Early session catch up notes]]
+**Sources:** [[Early session catch up notes]]
 
 > Reconstructed from the rest of [[The Good Ones]]'s recollections, not from notes taken at the time.
 

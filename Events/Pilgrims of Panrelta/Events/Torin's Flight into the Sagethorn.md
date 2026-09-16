@@ -6,7 +6,7 @@ tags: [event, panrelta, major]
 **Event:** #6 recorded
 **When:** The morning after the feast at [[The Bettermans Guild]]
 **Part of:** [[The Pilgrimage]]
-**Sessions:** [[Session 28]]
+**Sources:** [[Session 28]]
 
 ## What happened
 [[Torin Turen]] left the camp before the party did. He and his pegasus [[Lightfoot]] rode out early, leaving behind a pegasus feather and a note:

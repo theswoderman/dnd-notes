@@ -12,5 +12,5 @@ They killed a black dragon. [[The Good Ones]] found boxes of black dragon scales
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]

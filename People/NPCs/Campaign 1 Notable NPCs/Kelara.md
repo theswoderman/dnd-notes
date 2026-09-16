@@ -13,5 +13,5 @@ Recorded in the Panrelta prelude as Lioness Kalara Clawborne, sister of [[Bathoz
 
 > Spelling unresolved: the vault has **Kelara**, the prelude has **Kalara Clawborne**.
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

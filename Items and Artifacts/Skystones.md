@@ -7,5 +7,5 @@ A rare crafting material gathered by stone giants at the [[Hand of Annum]], wher
 
 They are known only from [[Thalrik Lastfeast]]'s vision in the [[Giant Memory Gemstones]], and none have been recovered yet.
 
-## Sessions
+## Sources
 - [[Session 27]]

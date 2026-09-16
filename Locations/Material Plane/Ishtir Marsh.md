@@ -8,5 +8,5 @@ new home of dragonborn clans after [[Bathoz Manefell]] "brokered peace" and kick
 ## Ten years later
 The current home of the chief dragonborn clan, and one of the two locations from which [[The Pilgrimage]] can begin. [[The Good Ones]] started here.
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

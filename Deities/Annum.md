@@ -11,5 +11,5 @@ Known almost entirely through the memories held in the [[Giant Memory Gemstones]
 - Stone giants at a mountaintop temple overlooking an expansive desert, chanting his name. A master craftsman was honored by being turned to stone as part of a ritual ([[Falstad Firebeard]]'s dream)
 - Dozens of stone giants at the [[Hand of Annum]] making an offering to the night sky as shooting stars fell, gathering [[Skystones]] and thanking Annum for the gift of that rare crafting material ([[Thalrik Lastfeast]]'s dream)
 
-## Sessions
+## Sources
 - [[Session 27]]

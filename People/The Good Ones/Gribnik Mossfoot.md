@@ -35,7 +35,7 @@ That puts him on both sides of the raids on [[The Bettermans Guild]]'s camp. The
 ## The constellation dream
 He dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]] and came out of it with the name [[Orithian Blackspire]] and some connection to [[The Drow]].
 
-## Sessions
+## Sources
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]

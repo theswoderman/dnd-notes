@@ -7,6 +7,6 @@ The destination [[The Collector]] named when [[The Good Ones]] met him on the ro
 
 Since his errand turns out to have been collecting bestial trophies for [[Malar]]'s rite, whatever is here is probably part of that rather than a market. Nobody has been.
 
-## Sessions
+## Sources
 - [[Session 27]]
 - [[Session 29]]

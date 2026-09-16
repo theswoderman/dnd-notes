@@ -5,7 +5,7 @@ tags: [event, panrelta]
 
 **Event:** #4 recorded
 **Part of:** [[The Pilgrimage]]
-**Sessions:** [[Session 27]], [[Session 28]]
+**Sources:** [[Session 27]], [[Session 28]]
 
 ## What happened
 On the way back to [[The Bettermans Guild]] from the deep mines, [[The Good Ones]] encountered a merchant traveling with a cart full of animal body parts. He called himself a "collector" of them. The cart smelled horrible and he seemed very spooky.

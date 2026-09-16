@@ -14,5 +14,5 @@ See [[Liberation of Khulask Hollow]].
 ## The survivors
 They have settled. At [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]] the Khulask Hollow settlers have been welcomed into the community and seem to be enjoying the gentler climate. The camp has grown from roughly 100 people to 300 in large part because of them. See [[Return to the Bettermans Guild]].
 
-## Sessions
+## Sources
 - [[Session 28]]

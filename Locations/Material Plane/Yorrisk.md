@@ -21,6 +21,6 @@ The spelling is still as first recorded and has not been confirmed in writing.
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 27]]
 - [[Session 28]]

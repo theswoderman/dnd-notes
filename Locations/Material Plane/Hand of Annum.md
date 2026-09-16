@@ -9,5 +9,5 @@ A cold dark field ringed by colossal rock pillars, the hand of [[Annum]]. Seen b
 
 In the vision, dozens of stone giants gathered to make an offering toward the night sky. Shooting stars flew closer and closer overhead, and the giants gathered [[Skystones]] and thanked [[Annum]] for the gift of that rare crafting material.
 
-## Sessions
+## Sources
 - [[Session 27]]

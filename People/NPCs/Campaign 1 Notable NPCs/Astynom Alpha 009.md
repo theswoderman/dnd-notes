@@ -13,6 +13,6 @@ A Marut, an ultra-powerful lawful construct loyal only to [[Primus]], guarding t
 
 The Marut demanded [[The Sons of Thunder]] surrender their weapons, including [[Queensbane]], before entering [[Mechanus]]. When they refused, it knocked [[Loryn Malcovitch|Loryn]] unconscious and teleported them both away to a Modron prison. [[Loryn Malcovitch|Loryn]] was eventually released to his companions.
 
-## Sessions
+## Sources
 
 - [[Into Mechanus]]

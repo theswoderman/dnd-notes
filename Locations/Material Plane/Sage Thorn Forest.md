@@ -26,6 +26,6 @@ Somewhere in it are [[The Tree of Pain]] and [[The Abbey]], which a map places b
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]
 - [[Session 29]]

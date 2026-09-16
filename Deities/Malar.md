@@ -17,7 +17,7 @@ The werewolves and werebears at [[The Frozen Riverbank]] are his. The enormous p
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]

@@ -5,7 +5,7 @@ tags: [event, panrelta]
 
 **When:** Before [[Thalrik Lastfeast]] joined [[The Good Ones]]
 **Part of:** [[The Pilgrimage]]
-**Sessions:** [[Prelude for Thalrik Lastfeast]]
+**Sources:** [[Prelude for Thalrik Lastfeast]]
 
 ## What happened
 [[Thalrik Lastfeast]] set out from [[Hor Garam]] with his childhood friend [[Dwendall Dhormas]] to walk [[The Pilgrimage]], to "walk the lion's path," with the [[Tulari Hot Springs]] so near to home.

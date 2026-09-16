@@ -5,7 +5,7 @@ tags: [event, panrelta]
 
 **When:** Alongside event #2, traveling to and from [[Khulask Hollow]]
 **Part of:** [[The Pilgrimage]]
-**Sessions:** [[Early session catch up notes]]
+**Sources:** [[Early session catch up notes]]
 
 ## What happened
 While traveling through [[Dolghast]] on the way to and from [[Khulask Hollow]], [[The Good Ones]] killed an apex griffon and several other griffins.

@@ -40,5 +40,5 @@ After the war he returned to his tribe, finished the peace talks with the dragon
 
 He adopted a son, [[Thol]], a half-orc orphan from [[Whitehall]] whom [[The Sons of Thunder]] met early in their travels, now a member of [[The Good Ones]].
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

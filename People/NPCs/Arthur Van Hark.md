@@ -15,5 +15,5 @@ His mount was found dead.
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]

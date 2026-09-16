@@ -26,5 +26,5 @@ The journey can begin at either of two places, and runs to the lands once known 
 - [[00 - Panrelta Index]]
 - [[Panrelta Timeline]]
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

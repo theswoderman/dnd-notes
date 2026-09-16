@@ -6,15 +6,36 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 76.63043478260869,
+        "dimension": 64.69359331476323,
         "children": [
           {
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "5f6a3ec99364036b"
+          },
+          {
+            "id": "d456b2c36f0ee0c3",
+            "type": "leaf",
+            "state": {
+              "type": "vault-graph-view",
+              "state": {},
+              "icon": "vault-graph-disc",
+              "title": "Vault graph"
+            }
+          },
+          {
+            "id": "07d0dc3a553c5435",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Campaign 1/Events/The Demon War.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,16 +50,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Demon War"
-            },
-            "group": "5f6a3ec99364036b"
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 23.369565217391305,
+        "dimension": 35.306406685236766,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -84,7 +105,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Events/Campaign 1/Events/The Demon War.md",
+                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +211,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of The Demon War"
+                  "title": "Graph of Campaign 1 Summary"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -217,7 +238,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -231,7 +252,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "demon war",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,8 +276,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -391,12 +411,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 487,
-    "collapsed": true
+    "width": 487
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -409,22 +428,30 @@
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "fathom-starmap:Fathom Starmap": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "vault-graph:Vault graph": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "468b4658739229dc",
   "lastOpenFiles": [
+    "Suggestions/Suggestion Box.md",
+    "Session Notes/Campaign 1/Campaign 1 Summary.md",
+    "CLAUDE.md.tmp.20984.2a890056b731",
+    "index.md.tmp.19652.9124af287ce4",
+    "Loose Ends/Campaign 1 Loose Ends.md.tmp.19652.78260235447e",
+    "CLAUDE.md.tmp.20984.a5ff8d74309e",
+    "index.md.tmp.20984.dea788248bcd",
+    "People/NPCs/Antagonists/Aeralath.md.tmp.20984.30c53902d702",
+    "Events/Campaign 1/Events/The Demon War.md",
+    "Events/Campaign 1/Events/The Great War.md",
     "Events/Campaign 1/Events/Into Limbo.md",
     "Events/Campaign 1/Events/The Hidden Continent.md",
-    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Events/Campaign 1/Events/The Voyage South.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md.tmp.19652.bfbe9939a0b8",
     "Session Notes/Campaign 1/Campaign 1 Summary.md.tmp.19652.e5f5a0993649",
     "Session Notes/Campaign 1/Campaign 1 Summary.md.tmp.19652.d6e477e9ec58",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md.tmp.21032.2c270ed34ca0",
-    "Suggestions/Suggestion Box.md",
     "Suggestions/Suggestion History/2026-09-10.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
     "People/NPCs/Orithian Blackspire.md",
@@ -438,19 +465,10 @@
     "Items and Artifacts/Despot's Reprisal.md",
     "People/The Good Ones/Beemo.md",
     "Suggestions/Suggestion History/2026-09-08.md",
-    "index.md.tmp.228.f24d08e3c510",
-    "index.md.tmp.228.06bb7d8d20ba",
-    "index.md.tmp.228.94c477cc6005",
-    "Loose Ends/Panrelta Loose Ends.md.tmp.228.ed8cb4b077ac",
     "Events/Pilgrims of Panrelta/Events/The Road to the Abbey.md",
     "Items and Artifacts/Tyrant's Totem Necklace.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
     "Untitled.md",
-    "Items and Artifacts/The Fist of Tyranny's Totem Necklace.md",
-    "Items and Artifacts/The Fist of Hate's Sword.md",
-    "Items and Artifacts/The Fist of Oppression's Ring.md",
-    "test",
-    "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",

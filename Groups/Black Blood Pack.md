@@ -10,5 +10,5 @@ A lycanthrope pack in the service of [[Malar]], god of hunters and lycanthropes.
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]

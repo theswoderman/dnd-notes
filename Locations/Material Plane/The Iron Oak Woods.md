@@ -16,5 +16,5 @@ That puts [[The Bettermans Guild]]'s camp, and therefore the party's home base, 
 
 See [[The Dusk Hag's Dreams]] and [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]

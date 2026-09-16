@@ -29,5 +29,5 @@ The second tenet is a standing obligation to help anyone who asks, which is why 
 - [[00 - Panrelta Index]]
 - [[Panrelta Timeline]]
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

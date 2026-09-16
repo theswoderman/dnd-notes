@@ -17,5 +17,5 @@ The next morning the party reached the riverbank she had shown them. See [[The C
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 29]]

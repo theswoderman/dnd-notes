@@ -33,5 +33,5 @@ He is a gnome evocation wizard, among the most preeminent of his time, and may h
 
 After the war he founded an arcane college in the restored and verdant lands of the [[Blackwaste]]. *College name not yet given.*
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

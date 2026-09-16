@@ -13,6 +13,6 @@ An elderly wizard and the previous owner of [[The Sons of Thunder]]'s mansion in
 
 The party found him among a group of stranded, clearly insane beings living underground in the Wastes of Gravegear. The group would not let the party leave, and [[The Sons of Thunder]] were forced to fight and kill them.
 
-## Sessions
+## Sources
 
 - [[Into Mechanus]]

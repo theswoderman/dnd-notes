@@ -12,5 +12,5 @@ Childhood friend of [[Thalrik Lastfeast]], who originally set out on [[The Pilgr
 
 Saving Dwendall is the reason [[Thalrik Lastfeast|Thalrik]] made his pact with [[Torm]].
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

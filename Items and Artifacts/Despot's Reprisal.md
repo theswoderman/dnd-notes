@@ -8,6 +8,6 @@ A longsword taken from the Fist of Hate, one of [[The Fists of Bane]], after [[T
 
 [[Thol]] attuned to it and immediately felt its curse: a disdain for any other weapon. 
 
-## Sessions
+## Sources
 - [[Session 31]]
 - [[Session 32]]

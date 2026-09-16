@@ -35,5 +35,5 @@ member of [[The Sons of Thunder]]
 ## Ten years later
 He made a career for himself as a detective in [[Whitehall]] and now serves under [[King Berrigan]] as chief inspector. After the first [[The Dawning|Dawning]] he founded a restaurant. He still serves the Alnorian crown.
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

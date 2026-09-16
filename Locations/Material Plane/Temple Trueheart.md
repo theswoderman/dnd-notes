@@ -9,5 +9,5 @@ The portal in the dream opened onto a snowy mountain peak where [[Diggory Psalm]
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Thalrik's Dream]]

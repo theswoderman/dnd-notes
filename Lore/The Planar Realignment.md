@@ -28,5 +28,5 @@ When the planes fully align, [[Aeralath]] returns with an army, within months pe
 ## Ten years later
 [[Aeralath]] took advantage of a once-a-millennia planar convergence to open a multitude of gates to [[The Abyss]] for her armies. In defeating her, those gates were sealed, and so were many others. Direct travel to other planes is now next to impossible for mortal beings.
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

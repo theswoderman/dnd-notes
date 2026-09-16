@@ -5,10 +5,10 @@ tags: [event, panrelta]
 
 **When:** 10 D.E., immediately after [[The Frozen Riverbank]]
 **Part of:** the journey through the [[Sage Thorn Forest|Sagethorn]]
-**Sessions:** [[Session 30]], [[Session 31]]
+**Sources:** [[Session 30]], [[Session 31]]
 
 ## What happened
-After reaching [[The Tree of Pain]], the party came across a pack of werewolves fighting a garrison of undead soldiers. The soldiers were led by three [[The Drow|drow]] men, spectacular fighters unlike anything the party had seen. One of them wore armor carrying iconography the party recognized, the fist of [[Bane]]. Bane's soldiers won that fight without much difficulty.
+After reaching [[The Tree of Pain]], the party came across a pack of werewolves fighting a garrison of undead soldiers. The soldiers were led by three [[The Drow|drow]] men, spectacular fighters unlike anything the party had seen. One of them wore armor marked with the fist of [[Bane]]. Bane's soldiers won that fight without much difficulty.
 
 The three are [[The Fists of Bane]], his captains: the Fist of Hate with a sickle, the Fist of Oppression a purple-armored knight with a slowing aura, and the Fist of Tyranny an enormous barbarian.
 
@@ -25,6 +25,6 @@ The gathered essences reformed into an abomination of drow necromancy, black sha
 
 The party killed it, taunted it back as it went, and it exploded with necrotic energy.
 
-## Sessions
+## Sources
 - [[Session 30]]
 - [[Session 31]]

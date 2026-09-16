@@ -60,7 +60,7 @@ At [[The Battle at the Bridge]] the Specter of Bane picked him and [[Falstad Fir
 ## Open threads
 - Told to seek out [[The Order of the Golden Gauntlet]] when possible
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]
 - [[Session 27]]
 - [[Session 28]]

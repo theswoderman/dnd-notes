@@ -16,6 +16,6 @@ In the visions [[Chronus]] showed of alternate timelines, [[Theh Kha]]'s other s
 
 After [[Chronus]] was defeated, [[Theh Kha]] asked to come to the material plane, tired of hive life. The party returned through the gate at [[Gudjag Canyon]] and he set off on his own.
 
-## Sessions
+## Sources
 
 - [[Into Mechanus]]

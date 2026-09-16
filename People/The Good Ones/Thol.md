@@ -34,7 +34,7 @@ In the second night of [[The Dusk Hag's Dreams]] he watched his adoptive father 
 
 On the third night he fought in the battle dream alongside [[Beemo]] and [[Gribnik Mossfoot]], and used Know Your Enemy on the hag: [[Mirna Gribwood]] is immune to blinded, charmed and frightened.
 
-## Sessions
+## Sources
 - [[Early session catch up notes]]
 - [[Session 27]]
 - [[Session 28]]

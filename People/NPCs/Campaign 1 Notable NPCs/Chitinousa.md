@@ -14,6 +14,6 @@ Queen Regent of a formian hive in [[Mechanus]]. Her throne sits at the bottom of
 
 She gave [[The Sons of Thunder]] her blessing, commanded her warriors to clear a path through [[Chronus]]'s rogue modrons, and sent [[Theh Kha]] to fight alongside them.
 
-## Sessions
+## Sources
 
 - [[Into Mechanus]]

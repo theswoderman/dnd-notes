@@ -31,7 +31,7 @@ They are closing in on [[The Abbey]], where both [[Malar]] and [[Bane]]'s follow
 - The opened [[Sylvan Parcel]] and its four effects
 - Hags in their dreams. [[Mirna Gribwood]] and now [[Sila Frostblood]], with the whole [[Sisters of the Gnarled Veil|coven]] circle casting nightly (see [[The Dusk Hag's Dreams]])
 
-## Sessions
+## Sources
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]

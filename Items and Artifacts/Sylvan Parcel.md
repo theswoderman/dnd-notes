@@ -25,5 +25,5 @@ Opening it also gave each of the party a spell to cast.
 - Others: speak with animals
 - [[Thol]]: find the path, with a one day duration
 
-## Sessions
+## Sources
 - [[Session 28]]

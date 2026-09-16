@@ -11,6 +11,6 @@ It shares its name with [[The Maiden]]. [[Yosco]] identified her as the Laughing
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]
 - [[Session 29]]

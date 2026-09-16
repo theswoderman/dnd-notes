@@ -14,5 +14,5 @@ Torin rode out of [[The Bettermans Guild]]'s camp on Lightfoot before dawn, leav
 
 See [[Torin's Flight into the Sagethorn]].
 
-## Sessions
+## Sources
 - [[Session 28]]

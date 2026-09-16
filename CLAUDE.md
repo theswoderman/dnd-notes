@@ -53,11 +53,11 @@ Prose.
 ## Key moments
 - Bullet — see [[Event Note]]
 
-## Sessions
+## Sources
 - [[Session N]]
 ```
 
-Locations use `**Region:**` and `**Disposition:**`. Events use `**When:**`, `**Part of:**`, `**Sessions:**`, then `## What happened`.
+Locations use `**Region:**` and `**Disposition:**`. Events use `**When:**`, `**Part of:**`, `**Sources:**`, then `## What happened`.
 
 Common tags: `character, location, event, faction, item, deity, lore` plus qualifiers (`party, villain, ally, major, deceased, panrelta, crossover`). Tag Panrelta notes `panrelta` so the two campaigns can be filtered apart.
 
@@ -74,6 +74,12 @@ Bad: "Named by The Collector as he woke, furious that The Good Ones had cured hi
 Good: "A lycanthrope pack in the service of Malar. The Collector presumably belonged to it, and warned that the pack would come for The Good Ones in the moments before his death."
 
 Plain, direct prose. Contractions fine. Vary sentence length.
+
+**State facts, not the party's experience of them.** "The party recognized," "the party learned," "at the time she was unidentified" narrate the party's knowledge state, not the world's. On wiki notes, state what is true: "One wore armor marked with the fist of Bane," not "armor carrying iconography the party recognized." Event notes can describe reactions when the reaction is the point (a fight was terrifying, a revelation was a surprise), but the default is plain statement.
+
+**Source corrections stay in the background.** When Reed or Grant has clarified a fact, state the corrected fact plainly. Don't frame paragraphs around the correction ("Grekosha was never on the 'bad side.' Reed has corrected this:..."). If the conflict between sources matters, note it briefly; if it doesn't, just state what's true and move on. Reed's word is canon, so once it's recorded it doesn't need to keep being attributed.
+
+**No commentary about the notes themselves.** "The session notes call it X at this point" or "this is the first time that name appears" is editorial annotation, not world content.
 
 **No main character exception:** the early Panrelta record is missing because Thalrik joined partway through. That is worth explaining where the recorded order needs it.
 
@@ -99,7 +105,7 @@ Raw notes arrive in `Session Notes/<campaign>/`. When asked to process one:
 
 1. Read it. Identify new entities versus updates to existing notes.
 2. Create new notes; update existing ones in place.
-3. Add `## Sessions` backlinks on every note touched.
+3. Add `## Sources` backlinks on every note touched.
 4. Update the timeline and the campaign's loose ends note.
 5. Update the campaign index if the event list or cast changed.
 6. Update `index.md` — **Where things stand**, chronology, recorded-events list.
@@ -182,7 +188,7 @@ The vault is published via GitHub (`theswoderman/dnd-notes`, branch `main`) and 
 ### Do not touch
 
 - `.obsidian/` — exception: graph color groups on request, with Obsidian closed
-- `cssclass: timeline` on [[The Demon War]]
+- `cssclass: timeline` on [[The Great War]]
 - `ddb:` frontmatter (D&D Beyond links)
 - `Suggestions/Suggestion Box.md` header and divider — only clear text below the divider
 - `Suggestions/Suggestion History/` — append-only, never edit or delete

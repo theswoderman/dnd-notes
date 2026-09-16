@@ -49,6 +49,6 @@ A gnomish scream came out of the moving corpses at [[The Frozen Riverbank]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]
 - [[Session 29]]

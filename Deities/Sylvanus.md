@@ -9,5 +9,5 @@ When [[Falstad Firebeard]] named Sylvanus during the fight at [[The Frozen River
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 30]]

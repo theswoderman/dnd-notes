@@ -40,7 +40,7 @@ He now acts as counsel to the King of [[Grekosha]] ([[Jäkel Aleister le Rouge|J
 ## In the Panrelta campaign
 Appeared to [[Thalrik Lastfeast]] through a portal in [[Thalrik's Dream of Torm]], sent by [[Torm]] to deliver the [[Hand of Valor]]. He told Thalrik that [[Jäkel Aleister le Rouge|Jäkel]] had warned him of a threat in the [[Dragonspine Mountains]] that both he and [[Torm]] had failed to see, and revealed that Thalrik's pact cost him his soul.
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]
 - [[Thalrik's Dream]]
 - [[Session 28]]

@@ -11,5 +11,5 @@ A [[Bronze Rams|Bronze Ram]], and the old mentor of [[Brom Stonefist]]. [[Brom S
 
 > Spelling unresolved: the vault has **Magus**, the prelude has **Maygus**.
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

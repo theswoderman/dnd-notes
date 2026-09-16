@@ -5,7 +5,7 @@ tags: [event, panrelta, major]
 
 **Event:** #3 recorded
 **Part of:** [[The Pilgrimage]]
-**Sessions:** [[Session 27]]
+**Sources:** [[Session 27]]
 
 ## What happened
 [[The Bettermans Guild]] sent [[The Good Ones]] into the deep mines to retrieve a few miners who had delved too greedily and too deep.

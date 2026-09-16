@@ -7,5 +7,5 @@ tags: [location, region, panrelta]
 
 [[Thalrik Lastfeast]] and [[Dwendall Dhormas]] traveled southwest through the Shiftweave for nearly a week to reach the [[Tulari Hot Springs]], facing more than one dangerous encounter on the way. They later traveled along its borders and the northern banks of [[Skyfang Lake]] toward [[Saltport]].
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

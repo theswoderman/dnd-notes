@@ -5,7 +5,7 @@ tags: [event, panrelta]
 
 **When:** 10 D.E., immediately before [[The Climb to the Sagethorn]]
 **Part of:** the journey into the [[Sage Thorn Forest|Sagethorn]] after [[Torin Turen]]
-**Sessions:** [[Session 29]]
+**Sources:** [[Session 29]]
 
 ## What happened
 [[The Good Ones]] still had [[The Collector]]'s body in the bag of holding, so they cast speak with dead on it. [[Beemo]] cast disguise self first, posing as a member of the dead man's pack so the corpse would answer as though to an ally, and framed the questions as an offer to finish his work.
@@ -27,5 +27,5 @@ This turns three separate threads into one. The animal parts [[The Collector]] w
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 29]]

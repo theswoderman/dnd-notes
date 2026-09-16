@@ -14,6 +14,6 @@ Interrogated after death, [[The Collector]] said [[Malar]] had sent him to "coll
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]
 - [[Session 29]]

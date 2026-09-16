@@ -37,7 +37,7 @@ His body went into the bag, alongside [[The Abyssal Orb]]. The party's own asses
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]

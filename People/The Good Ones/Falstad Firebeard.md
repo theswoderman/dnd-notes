@@ -43,7 +43,7 @@ The Specter of Bane singled him and [[Thalrik Lastfeast]] out as it fought, prom
 ## Berrenar's interest
 On watch with [[Thol]], he talked about his relationship with [[Berrenar]] and why she seems more interested in him than in her other followers. See [[The Road to the Abbey]].
 
-## Sessions
+## Sources
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]

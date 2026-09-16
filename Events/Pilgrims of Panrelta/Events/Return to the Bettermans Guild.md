@@ -6,7 +6,7 @@ tags: [event, panrelta]
 **Event:** #5 recorded
 **When:** Two days out of the deep mines
 **Part of:** [[The Pilgrimage]]
-**Sessions:** [[Session 28]]
+**Sources:** [[Session 28]]
 
 ## What happened
 [[The Good Ones]] buried most of [[The Collector]]'s animal parts and set out for [[The Bettermans Guild]], two days' travel from the mines. The nights of that journey belong to [[The Dusk Hag's Dreams]]; the days are below.

@@ -38,7 +38,7 @@ She is an origami wizard with a mask stuck fast to her face that she cannot remo
 ## Her crane
 The origami crane figure on her staff went missing. Searching for it gave her a vision of someone else using the same staff in combat, but she could not find it despite her flawless memory. The party later found a near-identical crane in a forest clearing, covered in ornate designs and inscribed with a spell scroll; it incorporated itself into her spellbook rather than staying behind as an object. Her own crane turned up again when she next summoned her tower. See [[The Road to the Abbey]].
 
-## Sessions
+## Sources
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]

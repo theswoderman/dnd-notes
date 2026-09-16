@@ -14,5 +14,5 @@ After the peace brokered by [[Bathoz Manefell|Bathoz]], this is now the primary 
 
 [[Kelara|Lioness Kalara Clawborne]] welcomed [[Thalrik Lastfeast]] and [[Dwendall Dhormas]] here as pilgrims. See [[Thalrik's Road to Stonehold]].
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

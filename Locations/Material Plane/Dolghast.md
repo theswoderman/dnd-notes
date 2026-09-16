@@ -12,5 +12,5 @@ The once powerful empire is defeated. With the death of [[Queen Nocticula]] a gr
 
 Many common folk long crushed under Nocticulan rule have fled anywhere they can, mainly to [[Grekosha]] and [[Nilstraad]]/[[Stonehold]]. Their arrival has stirred heated debate in both countries. Some welcome them as abused refugees, others still see the faces of recent enemies.
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

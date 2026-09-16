@@ -10,5 +10,5 @@ God of honor and truth, and the god [[Diggory Psalm|Diggory]] follows. They met 
 
 [[Bane]] is a major enemy of Torm, and one of "the Dead Three". A buried soldier of [[Bane]] has surfaced in the [[Sage Thorn Forest]], where [[Torin Turen]] has gone alone. See [[Torin's Flight into the Sagethorn]].
 
-## Sessions
+## Sources
 - [[Session 28]]

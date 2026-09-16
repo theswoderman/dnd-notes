@@ -5,7 +5,7 @@ tags: [event, panrelta]
 
 **When:** 10 D.E., the morning after [[The Climb to the Sagethorn]]
 **Part of:** the journey after [[Torin Turen]]
-**Sessions:** [[Session 29]], [[Session 30]]
+**Sources:** [[Session 29]], [[Session 30]]
 
 ## What happened
 [[Thol]] cast find the path to steer them toward [[The Tree of Pain]], [[Thalrik Lastfeast]] cast treestride, and the party crossed the frozen forest until they reached the icy riverbank the three of them had dreamed about the night before.
@@ -18,6 +18,6 @@ The panther was a Beast of [[Malar]], a servant from [[The Beastlands]]. When [[
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 29]]
 - [[Session 30]]

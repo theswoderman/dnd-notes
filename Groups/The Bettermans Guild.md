@@ -21,5 +21,5 @@ The camp has grown from roughly 100 people to 300, gathered around a guild of ab
 - [[Ky'ar Lastet]] is stepping up, and wants full leadership
 - One of the guild's stonemasons did not come back from the deep mines
 
-## Sessions
+## Sources
 - [[Session 28]]

@@ -34,7 +34,7 @@ It taunted them as it fought, threatening to dishonor the paladin and the cleric
 
 [[The Good Ones]] killed it. It exploded with necrotic energy as it died, and dared them to come find [[Bane]] himself. See [[The Battle at the Bridge]].
 
-## Sessions
+## Sources
 - [[Session 30]]
 - [[Session 31]]
 - [[Session 32]]

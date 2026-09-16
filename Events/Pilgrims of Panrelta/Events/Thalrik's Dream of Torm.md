@@ -5,7 +5,7 @@ tags: [event, panrelta, major, crossover]
 
 **When:** After [[The Shade Sent for Beemo]], before [[Exploration of the deep mines]]
 **Part of:** [[The Pilgrimage]]
-**Sessions:** [[Thalrik's Dream]]
+**Sources:** [[Thalrik's Dream]]
 
 ## The vision
 [[Torm]] granted [[Thalrik Lastfeast]] a dream. He woke not among his friends but in an endless field of grain in the last golden hour of the day, facing a foreboding range of slate ridges and snowy peaks mired in cold shadow. Above them sat dark, boiling thunderheads too tall to see the end of.

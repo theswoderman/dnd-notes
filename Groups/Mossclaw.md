@@ -12,6 +12,6 @@ One raider in particular, a goblin with a black mohawk, was chased off but is ex
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]
 - [[Session 29]]

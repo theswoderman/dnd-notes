@@ -9,5 +9,5 @@ A dwarven brotherhood of warriors. Members can be granted a semicentury release 
 - [[Brom Stonefist]], former member, retired to [[Hor Garam]]
 - [[Magus Trollbeater|Maygus Trollbeater]], [[Brom Stonefist|Brom]]'s old mentor, in [[Stonehold]]
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

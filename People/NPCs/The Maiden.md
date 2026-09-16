@@ -38,7 +38,7 @@ The debt is still outstanding.
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Early session catch up notes]]
 - [[Session 27]]
 - [[Session 28]]

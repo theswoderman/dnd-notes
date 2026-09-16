@@ -38,7 +38,7 @@ The party thinks a hag lured [[Torin Turen]] out of [[The Bettermans Guild]]'s c
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]

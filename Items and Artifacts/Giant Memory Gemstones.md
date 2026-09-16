@@ -19,5 +19,5 @@ Broken gemstones holding the memories of giants, recovered at [[The Garden of Dr
 
 [[Beemo]], [[Gegga]] and [[Gribnik Mossfoot]] additionally suffered a dream of a crone eating a griffin who then attacked the dreamer directly. They took damage and woke exhausted (possibly the [[Sisters of the Gnarled Veil]]).
 
-## Sessions
+## Sources
 - [[Session 27]]

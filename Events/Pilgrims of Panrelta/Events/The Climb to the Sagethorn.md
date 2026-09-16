@@ -5,7 +5,7 @@ tags: [event, panrelta]
 
 **When:** 10 D.E., after [[Speak with Dead with the Collector]] and before [[The Frozen Riverbank]]
 **Part of:** the journey after [[Torin Turen]]
-**Sessions:** [[Session 29]]
+**Sources:** [[Session 29]]
 
 ## What happened
 Before setting out, the party pieced together where they were going. A map they picked up early in the campaign shows [[The Abbey|the abbey]] and the lost temple as one and the same place, lying beneath [[The Laughing Princess Constellation|the Laughing Princess constellation]]. Finding it means waiting for a clear night to see the stars.
@@ -30,5 +30,5 @@ Between the party and the forest stood a cliff, eight hundred to a thousand feet
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 29]]

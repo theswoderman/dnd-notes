@@ -15,5 +15,5 @@ There is a temple of Illmater in the [[Sage Thorn Forest]]. [[Torin Turen|Torin]
 ## What Torin told the party
 Call to Illmater when you are at your lowest.
 
-## Sessions
+## Sources
 - [[Session 28]]

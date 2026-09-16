@@ -13,5 +13,5 @@ See [[Return to the Bettermans Guild]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 28]]

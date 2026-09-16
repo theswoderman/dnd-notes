@@ -5,7 +5,7 @@ tags: [event, panrelta, major]
 
 **When:** Ongoing. Four nights so far, from the deep mines to the cliff below the [[Sage Thorn Forest|Sagethorn]]
 **Part of:** [[The Pilgrimage]]
-**Sessions:** [[Session 27]], [[Session 28]], [[Session 29]]
+**Sources:** [[Session 27]], [[Session 28]], [[Session 29]]
 
 ## What happened
 A hag has been entering [[The Good Ones]]' sleep. She is [[Mirna Gribwood]], a dusk hag who works in the realm of dreams, and [[Beemo]] recognized her as his aunt. The hags are circle casting the spell together.
@@ -14,8 +14,6 @@ The dreams have escalated across all four nights.
 
 ## Night one, beneath the Garden of Dreams
 [[Gegga]], [[Beemo]] and [[Gribnik Mossfoot]] dreamed of a crone eating a griffin. She then attacked the dreamer directly. They took damage and woke exhausted. See [[Exploration of the deep mines]].
-
-At the time she was unidentified.
 
 ## Night two, one day out of the mines
 Everyone had peaceful dreams at first.
@@ -55,7 +53,7 @@ On waking, [[Falstad Firebeard]] recognized the heraldries and remembered that t
 
 This is a different hag. [[Gegga]] and [[Beemo]] named her [[Sila Frostblood]], a bheur hag and the coven's third member, appearing for the first time. The party reached the riverbank she had shown them the next morning. See [[The Climb to the Sagethorn]] and [[The Frozen Riverbank]].
 
-## What the party learned
+## Identification
 - [[Beemo]] identified her as [[Mirna Gribwood]], his aunt, a dusk hag of the realm of dreams. The spelling is unconfirmed
 - The hags are all circle casting the spell together on the party
 - [[Thol]] used Know Your Enemy: [[Mirna Gribwood|Mirna]] is immune to blinded, charmed and frightened

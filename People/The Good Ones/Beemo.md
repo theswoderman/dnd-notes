@@ -46,7 +46,7 @@ He did fight in the third night's battle dream, alongside [[Thol]] and [[Gribnik
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]

@@ -6,7 +6,7 @@ tags: [event, one-shot]
 **When:** Unknown
 **Where:** An island somewhere in [[Estrana]], location unfixed
 **Part of:** a one-shot, outside either main campaign
-**Sessions:** a single session
+**Sources:** a single session
 
 ## The party
 

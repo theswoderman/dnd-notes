@@ -11,5 +11,5 @@ The threat here is serious enough that [[Jäkel Aleister le Rouge|Jäkel]] warne
 
 [[Torm]] has directed [[Thalrik Lastfeast]] toward [[Temple Trueheart]], which may be Diggory's temple in this range.
 
-## Sessions
+## Sources
 - [[Prelude for Thalrik Lastfeast]]

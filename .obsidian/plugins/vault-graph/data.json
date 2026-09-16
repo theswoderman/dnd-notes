@@ -1,0 +1,25 @@
+{
+  "ghosts": false,
+  "templates": false,
+  "flatMonths": false,
+  "words": true,
+  "folderColors": {},
+  "subfolderColors": {},
+  "tagColors": {},
+  "subtagColors": {},
+  "tagShown": {},
+  "folderShown": {},
+  "pinned": [
+    "\u0000vault-graph:pins:2"
+  ],
+  "panEnabled": true,
+  "compactAxis": true,
+  "unlinkedByFolder": true,
+  "unlinkedTintByFolder": false,
+  "countBars": true,
+  "fitCap": true,
+  "dim": "folder",
+  "liveRefresh": true,
+  "lastSeenVersion": "2.8.0",
+  "lastSeen": 1789580885251
+}

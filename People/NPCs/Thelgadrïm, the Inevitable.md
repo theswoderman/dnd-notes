@@ -21,5 +21,5 @@ The dragon may be Thelgadrïm, the Inevitable, and may be living in [[Dolghast]]
 
 See [[Panrelta Loose Ends]] for open questions.
 
-## Sessions
+## Sources
 - [[Session 27]]

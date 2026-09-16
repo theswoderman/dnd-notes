@@ -41,7 +41,7 @@ The second campaign is set ten years after the first ends, in the same world wit
 
 ### Campaign 1, 1016 to 1017 A.P.
 
-Five strangers meet at a harvest festival in a border village called [[Mudbend]]. One of them picks up a rusted hilt in a goblin cave; it is a fragment of [[Queensbane]]. Over roughly one year of in-game time they gather the remaining fragments, reforge the sword, and are drawn into [[The Demon War]]: first the nations' war against [[Dolghast]] and [[Ornuth]], then [[Aeralath]]'s demons arriving on its heels.
+Five strangers meet at a harvest festival in a border village called [[Mudbend]]. One of them picks up a rusted hilt in a goblin cave; it is a fragment of [[Queensbane]]. Over roughly one year of in-game time they gather the remaining fragments, reforge the sword, and are drawn into [[The Great War]]: first the nations' war against [[Dolghast]] and [[Ornuth]], then [[Aeralath]]'s demons arriving on its heels.
 
 Running underneath all of it is [[The Planar Realignment]]. The severed planes are reconverging, colored rifts are opening across the world, and when the alignment completes [[Aeralath]] returns with an army.
 
@@ -49,11 +49,11 @@ The twist, revealed late: **[[Aeralath]] was helping them gain power the whole t
 
 The full event-by-event sequence is on [[Campaign 1 Timeline]].
 
-> **A note on the record.** [[Reed]] is still writing the summary covering the campaign's final three levels. The detailed notes now cover through [[The Slaying of Minthur]], but are still frozen before the endgame. Several pages therefore describe [[Aeralath]] as sealed and expected to return, and [[Queensbane]] as still needing its final attunements. The outcome below is known from the second campaign, not yet from Campaign 1's own notes.
+> **A note on the record.** [[Reed]] is still writing the summary covering the campaign's final three levels. The detailed notes now cover through the party's arrival in [[Limbo]] ([[Into Limbo]]), but are still frozen before the endgame. Several pages therefore describe [[Aeralath]] as sealed and expected to return, and [[Queensbane]] as still needing its final attunements. The outcome below is known from the second campaign, not yet from Campaign 1's own notes.
 
 ### The turn of the era, 1017 A.P. / 1 D.E.
 
-[[The Sons of Thunder]] win [[The Demon War]], defeating [[Aeralath]]. In sealing the gates she had opened to [[The Abyss]], many other planar gates close too. Direct travel between planes becomes next to impossible for mortals.
+[[The Sons of Thunder]] win [[The Great War]], defeating [[Aeralath]]. In sealing the gates she had opened to [[The Abyss]], many other planar gates close too. Direct travel between planes becomes next to impossible for mortals.
 
 Her defeat is reckoned as the start of a new era, the Dawning Era, abbreviated D.E. The A.P. count stops and the new one begins, making 1017 A.P. the same year as 1 D.E. It is marked each year by [[The Dawning]], a celebration observed across the material plane as much for the unification of the peoples who stood together as for the victory itself. The celebration gives the era its name.
 
@@ -118,6 +118,6 @@ Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circ
 - `Session Notes/`, raw notes as taken at the table, kept unedited as an archive
 - `Suggestions/`, a shared suggestion box, and the record of what came of each one
 
-About 415 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+About 420 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
 
 **Spotted something wrong, or remember it differently?** Add it to the [[Suggestion Box]] and it gets worked in at the next update.

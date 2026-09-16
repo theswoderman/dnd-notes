@@ -12,6 +12,6 @@ See [[Panrelta Loose Ends]] for open questions.
 
 It was first recorded as the Fist of Tyranny's ring and then the Fist of Oppression's ring, before it was identified. Both old names are kept as aliases.
 
-## Sessions
+## Sources
 - [[Session 31]]
 - [[Session 32]]

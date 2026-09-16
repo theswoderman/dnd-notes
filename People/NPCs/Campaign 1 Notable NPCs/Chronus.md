@@ -15,6 +15,6 @@ He took refuge in the far reaches of [[Mechanus]], past the Wastes of Gravegear.
 
 In [[Chronus]]'s visions of alternate timelines, each party member saw a version of their life where their defining choices went differently.
 
-## Sessions
+## Sources
 
 - [[Into Mechanus]]
