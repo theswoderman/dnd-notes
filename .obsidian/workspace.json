@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suggestions/Suggestion Box.md",
+                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Suggestion Box"
+              "title": "Campaign 1 Summary"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Suggestions/Suggestion Box.md",
+                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Suggestion Box"
+                  "title": "Graph of Campaign 1 Summary"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "changeling",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,8 +255,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -413,8 +412,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2730ff74bae74d4e",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md.tmp.21032.2c270ed34ca0",
+    "Suggestions/Suggestion Box.md",
     "Suggestions/Suggestion History/2026-09-10.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
     "People/NPCs/Orithian Blackspire.md",
@@ -443,15 +445,12 @@
     "Lore/Panrelta Timeline.md",
     "Suggestions/Suggestion History/2026-09-02.md",
     "Items and Artifacts/The Fist of Tyranny's Ring.md",
-    "Deities/Bane.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md",
     "test",
     "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",
     "Loose Ends",
     "CLAUDE.md.tmp.22124.f8be6292051d",
-    "Items and Artifacts/Queensbane.md.tmp.22124.cc8526030ff4",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
