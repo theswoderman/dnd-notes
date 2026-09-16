@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                "file": "Events/Campaign 1/Events/The Demon War.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campaign 1 Summary"
+              "title": "The Demon War"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                    "file": "Events/Campaign 1/Events/The Demon War.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Summary"
+                  "title": "Graph of The Demon War"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "demon war",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,7 +255,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -414,11 +415,14 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Events/Campaign 1/Events/Into Limbo.md",
+    "Events/Campaign 1/Events/The Hidden Continent.md",
+    "Session Notes/Campaign 1/Campaign 1 Summary.md",
+    "Events/Campaign 1/Events/The Voyage South.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md.tmp.19652.bfbe9939a0b8",
     "Session Notes/Campaign 1/Campaign 1 Summary.md.tmp.19652.e5f5a0993649",
     "Session Notes/Campaign 1/Campaign 1 Summary.md.tmp.19652.d6e477e9ec58",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
-    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md.tmp.21032.2c270ed34ca0",
     "Suggestions/Suggestion Box.md",
     "Suggestions/Suggestion History/2026-09-10.md",
@@ -445,12 +449,9 @@
     "Items and Artifacts/The Fist of Tyranny's Totem Necklace.md",
     "Items and Artifacts/The Fist of Hate's Sword.md",
     "Items and Artifacts/The Fist of Oppression's Ring.md",
-    "Suggestions/Suggestion History/2026-09-03.md",
-    "Lore/Panrelta Timeline.md",
     "test",
     "index.md.tmp.26256.6f802d22f817",
     "Pasted image 20260826212416.jpg",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 30.md.tmp.23024.b9d5fdb7441e",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
     "Locations/Material Plane/IMG_9345 (1).JPG",
