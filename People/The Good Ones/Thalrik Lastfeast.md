@@ -51,6 +51,7 @@ He never knew what he gave up that night. [[Torm]] has now answered it through [
 
 - Singled out by [[Ky'ar Lastet]], along with [[Falstad Firebeard]], as one of the two who should go and talk to [[Torin Turen]] about what is happening to him. See [[Return to the Bettermans Guild]]
 - Received treestride from the [[Sylvan Parcel]], alongside [[Beemo]]
+- Detected a secret passage inside [[The Abbey]] that opened into a tunnel. See [[The Crypt of Hate]]
 
 ## Torm and Bane
 [[Torin Turen]], high priest of [[Illmater]], has ridden alone into the [[Sage Thorn Forest|Sagethorn]], where a buried soldier of [[Bane]] has surfaced. [[Bane]] is one of "the Dead Three" and a major enemy of [[Torm]], which makes this Thalrik's fight as much as anyone's. See [[Torin's Flight into the Sagethorn]].
@@ -67,3 +68,4 @@ At [[The Battle at the Bridge]] the Specter of Bane picked him and [[Falstad Fir
 - [[Session 29]]
 - [[Session 30]]
 - [[Session 31]]
+- [[Session 33]]

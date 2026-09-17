@@ -14,5 +14,9 @@ See [[Liberation of Khulask Hollow]].
 ## The survivors
 They have settled. At [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]] the Khulask Hollow settlers have been welcomed into the community and seem to be enjoying the gentler climate. The camp has grown from roughly 100 people to 300 in large part because of them. See [[Return to the Bettermans Guild]].
 
+## On the cultists' map
+A map found among cultists at [[The Abbey]] marks [[Khulask Hollow]]'s former location in the Bitter Expanse with an X and a note reading "who beat us to it," suggesting the cultists had their own interest in the town. See [[The Crypt of Hate]].
+
 ## Sources
 - [[Session 28]]
+- [[Session 33]]

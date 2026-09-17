@@ -17,7 +17,7 @@ The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with cla
 | **Party** | [[The Sons of Thunder]] | [[The Good Ones]] |
 | **When** | 1016–1017 A.P. | 10 D.E. |
 | **Where** | [[Anendal]], and outward through the planes | [[Panrelta]] |
-| **Status** | Concluded at level 20 | Ongoing, ~session 32 |
+| **Status** | Concluded at level 20 | Ongoing, ~session 33 |
 | **Index** | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
 | **Timeline** | [[Campaign 1 Timeline]] | [[Panrelta Timeline]] |
 
@@ -82,7 +82,8 @@ The earliest sessions were never written down, so what follows is the order thin
 11. [[The Climb to the Sagethorn]]
 12. [[The Frozen Riverbank]]
 13. [[The Battle at the Bridge]]
-14. [[The Road to the Abbey]], most recent
+14. [[The Road to the Abbey]]
+15. [[The Crypt of Hate]], most recent
 
 Full detail is on [[Panrelta Timeline]].
 
@@ -92,11 +93,11 @@ One session of play sits outside both campaigns and outside the chronology: a bo
 
 ## Where things stand
 
-[[The Good Ones]] are deep in the [[Sage Thorn Forest|Sagethorn]], near [[The Tree of Pain]], a tree covered in decomposing bodies that serves as a monument to [[Bane]]. They killed a Beast of [[Malar]] at [[The Frozen Riverbank]], reached the tree, and then destroyed a garrison of [[Bane]]'s undead soldiers on a bridge, along with [[The Fists of Bane|its three drow captains]] and the Specter of Bane those captains reformed into after they died, which exploded as it died daring them to come find [[Bane]] himself. The three left behind [[Ring of Dread Command|a ring]], [[Despot's Reprisal|a cursed longsword]] and [[Tyrant's Totem Necklace|a cursed necklace]], since identified but not fully understood. [[Thol]] cannot remove the ring or the sword he's attuned to. They went in after [[Torin Turen]], who rode there alone and was last seen digging up a soldier of [[Bane]]. They carry [[The Abyssal Orb]], pulled from a creature out of [[The Abyss]] and meant for [[The Sons of Thunder]] to deal with. It has begun to speak, and what it says is "free me".
+[[The Good Ones]] have entered [[The Abbey]] in the [[Sage Thorn Forest|Sagethorn]], a ruin they have been chasing since [[The Collector]]'s corpse named it as the destination for [[The Black Grail]]. Also called the Crypt of Hate, the abbey was once a temple to [[Illmater]]. A note left by his followers describes an empty darkness in the land that eats faith, saying "Our Martyred Father does not walk here." The party fought through undead and cultists to reach the lower levels, where they found a map showing the cultists have been abducting people from towns in southern [[Dolghast]], including [[Brashta]] and [[Brinemire]]. The map also marks [[Khulask Hollow]] with "who beat us to it." [[Thalrik Lastfeast]] has found a secret passage leading to a tunnel deeper underground.
 
-The reason for the chase changed shape on the way in. Questioned after death, [[The Collector]] said [[Malar]] had him gathering trophies so his pack could drink from [[The Black Grail]], and that the grail is inside [[Torin Turen|Torin]]. [[Bane]]'s followers want it too and are no allies of [[Malar]]'s. Both mean to take it to [[The Abbey]], now in sight about twenty minutes off after a journey that also cost the party a night's sleep to a were-rat infestation in [[Gegga]]'s conjured tower.
+They went in after [[Torin Turen]], high priest of [[Illmater]], who rode into the forest alone and was last seen digging up a soldier of [[Bane]]. [[The Collector]]'s corpse said [[The Black Grail]] is inside [[Torin Turen|Torin]], and both [[Bane]] and [[Malar]]'s followers want it. The party still carries [[The Abyssal Orb]], meant for [[The Sons of Thunder]], which has said "free me" to [[Thalrik Lastfeast|Thalrik]] alone. [[Thol]] cannot remove [[Ring of Dread Command|the cursed ring]] or put down [[Despot's Reprisal|the cursed sword]].
 
-Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circle casting on the party's sleep every night and want [[Beemo]] dead, and a third hag, [[Sila Frostblood]], has now joined in, though the party had good dreams for once on the road to the Abbey. [[The Maiden]] is still owed 10,000 gold and the heart of an apex griffon, and said she would meet them at [[Yorrisk]] "upon the dawning", which makes the tenth [[The Dawning|Dawning]], now approaching, a deadline. And [[Yorrisk]] itself is a town two houses are going to war over.
+Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circle casting on the party's sleep and want [[Beemo]] dead. [[The Maiden]] is still owed 10,000 gold and the heart of an apex griffon, and said she would meet them at [[Yorrisk]] "upon the dawning", which makes the tenth [[The Dawning|Dawning]], now approaching, a deadline. And [[Yorrisk]] itself is a town two houses are going to war over.
 
 ## Start here
 

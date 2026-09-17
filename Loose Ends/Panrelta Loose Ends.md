@@ -13,7 +13,10 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - The three [[The Drow|drow]] captains are [[The Fists of Bane]], named for his three aspects, and they are dead along with the Specter of Bane they reformed into. The armor the party recognized was marked with the fist of [[Bane]]. Where drow captains fit into his foothold in the [[Sage Thorn Forest|Sagethorn]] is still open. See [[The Battle at the Bridge]]
 - [[Ring of Dread Command]] is on [[Thol]]'s hand and will not come off. It's confirmed cursed, but what it costs him is unknown
 - [[Despot's Reprisal]] curses whoever attunes to it with disdain for any other weapon; [[Thol]] has attuned to it and felt the effect. [[Tyrant's Totem Necklace]] is also cursed, but how its curse works is unclear
-- A key on a loose rope was found around the neck of the Fist of Oppression, one of [[The Fists of Bane]]. What it opens is unknown
+- Cultists occupying [[The Abbey]] have been abducting people from [[Brashta]], [[Brinemire]], and other towns in southern [[Dolghast]]. What they are doing with the abductees is unknown
+- The cultists' map marks [[Khulask Hollow]]'s former location with "who beat us to it." What the cultists wanted there, and who they think got to it first, is unknown. [[The Good Ones]] liberated the town from [[Crucius Ilyanich]] and [[The Drow]] earlier in the campaign
+- A tunnel behind a secret passage in [[The Abbey]], detected by [[Thalrik Lastfeast]], leads somewhere underground
+- Pegasus feathers were found inside [[The Abbey]]. [[Torin Turen]], who rides the pegasus [[Lightfoot]], is high priest of [[Illmater]], whose temple the abbey once was
 - [[The Black Grail]] is said to be inside [[Torin Turen|Torin]], and both [[Malar]] and [[Bane]]'s followers want it and mean to carry it to [[The Abbey]]
 - [[The Abyssal Orb]] spoke for the first time. It told [[Thalrik Lastfeast]] "free me"
 - [[Torin Turen]] is alone in the [[Sage Thorn Forest|Sagethorn]], drained, feeling another presence where [[Illmater]] should be, digging up a soldier of [[Bane]]. The party thinks a hag lured him out and expects to have to fight [[Bane]]. What he wants from the soldier is unknown
@@ -31,7 +34,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - The [[Sisters of the Gnarled Veil]] are trying to kill [[Beemo]], and may also be working to resurrect a dragon. Both he and the shade they sent after him are their creations, one "successful" and one not, and it is unclear which is which. Why the coven wants him dead, and what they were trying to create, are unknown. See [[The Shade Sent for Beemo]]
 - Whatever the [[Sisters of the Gnarled Veil]] are planning is happening in the [[Dragonspine Mountains]], the same range where [[Diggory Psalm]] built his temple to [[Torm]]. It went unseen by both [[Diggory Psalm|Diggory]] and [[Torm]] until [[Jäkel Aleister le Rouge|Jäkel]] warned them
 - [[Sila Frostblood]], a bheur hag, is the coven's third member and entered the party's dreams for the first time on the fourth night, showing them a riverbank they reached the next morning. Why now, whether it was warning or bait, what her dire wolves are, and whether she shares the coven's interest in killing [[Beemo]]
-- [[Gribnik Mossfoot]] dreamed of [[The Laughing Princes Constellation|the Laughing Princess constellation]] and came out with the name [[Orithian Blackspire]] and some link to [[The Drow]]. Spelling unconfirmed. Who or what [[Orithian Blackspire]] is, whether the name arrived from the coven, and what it has to do with [[The Drow]] are all unknown
+- [[Orithian Blackspire]] is identified as a [[The Drow|drow]] who tried to settle above ground, founding a House of Blackspire under the icon of a bull. His name came from [[Gribnik Mossfoot]]'s dream of [[The Laughing Princes Constellation|the Laughing Princess constellation]]. Why the coven delivered his name, and what his settlement has to do with the events in the [[Sage Thorn Forest|Sagethorn]], are still unknown
 - Whether [[Torin Turen]]'s worsening dreams are the same coven's work. The party thinks a hag lured him into the [[Sage Thorn Forest|Sagethorn]], but his dream is different in kind: a black grail and a stone tomb, no hag
 
 ## The Maiden and Yorrisk
@@ -57,13 +60,13 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 
 - What [[The Black Grail]] is, and what drinking from it does. What "within the small gnome" means in practice, and whether [[Torin Turen|Torin]] knows he is carrying it. Whether the tomb in his recurring dream is a real, findable place. Whether the grail is why the presence displaced [[Illmater]] in him
 - What [[Malar]] gains from [[The Black Grail]], how many trophies his rite needs, and how far along it is
-- How a temple of [[Illmater]] and a foothold of [[Bane]] came to share the [[Sage Thorn Forest]]. What a soldier of [[Bane]] was doing buried in the [[Sage Thorn Forest|Sagethorn]]
+- How [[The Abbey]], once [[Illmater]]'s temple, fell to [[Bane]]'s cultists. The Ilmatari note says the darkness drove them out, not that it was taken by force. What a soldier of [[Bane]] was doing buried in the [[Sage Thorn Forest|Sagethorn]]
 - Who the other two of "the Dead Three" are
-- Whether the lost temple on the party's map is the temple of [[Illmater]] that [[Torin Turen]] asked to be taken to, or a different ruin. Whose [[The Abbey|abbey]] it was
+- [[The Abbey]] was once a temple to [[Illmater]], confirming it is the lost temple on the party's map. An Ilmatari note left there describes an empty darkness that eats faith and says "Our Martyred Father does not walk here." What corrupted the ground, and whether the same force is behind [[Torin Turen|Torin]]'s failing connection to [[Illmater]], is unresolved
 - [[The Tree of Pain]] is confirmed as [[Bane]]'s monument, a tree covered in decomposing bodies. What purpose it serves beyond marking the way to [[The Abbey]]
 - [[The Abbey]] lies beneath [[The Laughing Princes Constellation|a constellation]] carrying [[The Maiden]]'s other name. What the connection between the two actually is, which came first, and how a constellation marks a spot on the ground. See [[The Laughing Princes Constellation]]
 - Whether the sirens in the cliff caves on the climb are a fixed hazard or were placed there. See [[The Climb to the Sagethorn]]
-- The Specter of Bane dared [[The Good Ones]] to come find [[Bane]] himself as it died. Whether that means [[Bane]] is at [[The Abbey]], now in sight, is unknown
+- The Specter of Bane dared [[The Good Ones]] to come find [[Bane]] himself as it died. The party has entered [[The Abbey]] and cleared its upper levels, fighting cultists and undead, but has not yet fully explored it
 
 ## The Abyssal Orb
 
