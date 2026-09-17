@@ -4,9 +4,9 @@
 
 - The party is en route to [[The Abbey]], first sighted in the distance across the [[Sage Thorn Forest|Sagethorn]], about 20 minutes' travel away
 - [[Thalrik Lastfeast]]'s celestial steed is alive again after being resummoned
-- [[Thol]] is under a self-inflicted failed death save from the [[Specter of Bane]]'s strike; it lasts until remove curse or a long rest
-- [[The Fist of Oppression's Ring]] (Ring of Dread Command) will not come off Thol's hand; still cursed, effect unknown
-- [[Thol]] is attuned to [[The Fist of Hate's Sword]] (Despot's Reprisal) and feels disdain for other weapons
+- [[Thol]] is under a self-inflicted failed death save from the Specter of Bane's strike; it lasts until remove curse or a long rest
+- The Fist of Oppression's Ring (Ring of Dread Command) will not come off Thol's hand; still cursed, effect unknown
+- [[Thol]] is attuned to The Fist of Hate's Sword(Despot's Reprisal) and feels disdain for other weapons
 - [[The Fist of Tyranny's Totem Necklace]] is also cursed; how it works is unclear
 - A key found on the Fist of Oppression's body is unidentified
 
