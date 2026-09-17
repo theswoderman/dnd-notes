@@ -32,3 +32,4 @@ we found a note in a bag of red cloths, the sign of ilmater. the note is from fo
 the abbey was once a temple to ilmater
 Orithian blackspire is the drow who tried to make a settlement above ground.
 orithian blackspire took on the icon of a bull when he established his new house of black spire above ground.
+we reached the temple and set off a trap while trying to get in, triggering combat against a bass of undead hands
