@@ -41,3 +41,4 @@ Brinemire
 also an x somewhere in the bitter expanse -> where khulask hollow was
 we learn that the cultists have been abducting people in the nearby areas and abducting people in nearby towns.
 there's a note next to the x that says "who beat us to it"
+we open a secret passage that thalrik detected to find a tunnel.
