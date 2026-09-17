@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -415,6 +414,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Suggestions/Suggestion History/2026-09-17.md",
+    "People/NPCs/Orithian Blackspire.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
     "index.md.tmp.5280.06df988a1a63",
     "index.md.tmp.5280.fba50aeb78ca",
     "Loose Ends/Panrelta Loose Ends.md.tmp.5280.5baabc52f970",
@@ -422,8 +424,6 @@
     "Locations/Material Plane/Brashta.md",
     "Events/Pilgrims of Panrelta/Events/The Crypt of Hate.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
-    "People/NPCs/Orithian Blackspire.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
     "CLAUDE.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Suggestions/Suggestion History/2026-08-12.md",
@@ -445,7 +445,6 @@
     "Events/Campaign 1/Events/The Hidden Continent.md",
     "Events/Campaign 1/Events/The Voyage South.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md.tmp.19652.bfbe9939a0b8",
-    "Session Notes/Campaign 1/Campaign 1 Summary.md.tmp.19652.e5f5a0993649",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
     "Suggestions/Suggestion History/2026-09-10.md",
     "People/NPCs/Antagonists/Queen Nocticula.md",

@@ -22,7 +22,7 @@ A cliff of eight hundred to a thousand feet stands between the [[The Iron Oak Wo
 
 Inside, the forest is frozen and full of werewolves, and a full moon is close. It holds an icy riverbank strewn with the corpses of [[Bane]]'s soldiers and a great many beasts, none fresh and none old. See [[The Frozen Riverbank]].
 
-[[The Tree of Pain]] and [[The Abbey]] are both within the forest. The abbey, also called the Crypt of Hate, lies beneath [[The Laughing Princes Constellation|the Laughing Princess constellation]].
+[[The Tree of Pain]] and [[The Abbey]] are both within the forest. The abbey, also called the Crypt of Hate, lies beneath [[The Laughing Princes Constellation|the Laughing Princes constellation]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

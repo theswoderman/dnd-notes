@@ -22,7 +22,7 @@ Everyone had peaceful dreams at first.
 - [[Gegga]], the same thing, in a library
 - [[Beemo]], little creatures freezing
 - [[Thol]], his adoptive father [[Bathoz Manefell]] and his adopted uncle [[Jäkel Aleister le Rouge|Jakel]] freezing
-- [[Gribnik Mossfoot]], [[The Laughing Princes Constellation|the Laughing Princess constellation]], from which he came away with the name [[Orithian Blackspire]] and some connection to [[The Drow]]
+- [[Gribnik Mossfoot]], [[The Laughing Princes Constellation|the Laughing Princes constellation]], from which he came away with the name [[Orithian Blackspire]] and some connection to [[The Drow]]
 
 Then the frozen figures decomposed, and worms and beetles ate their remains. The same haglike woman from the earlier dreams came crawling out of the corpses, dragging herself forward with a skull, and vomited blood into it.
 
