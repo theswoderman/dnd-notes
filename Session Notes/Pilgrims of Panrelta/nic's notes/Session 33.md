@@ -33,3 +33,4 @@ the abbey was once a temple to ilmater
 Orithian blackspire is the drow who tried to make a settlement above ground.
 orithian blackspire took on the icon of a bull when he established his new house of black spire above ground.
 we reached the temple and set off a trap while trying to get in, triggering combat against a bass of undead hands, and then were ambushed my undead minotaurs (are minotaurs related to centaurs?) we defeated them easily
+we see pegasus feathers inside the abbey, as well as a cloth with a black hand stained on it, and a locked trapdoor, which we unlock with the key we found last session
