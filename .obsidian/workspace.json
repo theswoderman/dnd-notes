@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
+                "file": "People/NPCs/Orithian Blackspire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 33"
+              "title": "Orithian Blackspire"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
+                    "file": "People/NPCs/Orithian Blackspire.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 33"
+                  "title": "Graph of Orithian Blackspire"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -415,8 +414,11 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "The Fist of Tyranny's Totem Necklace.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
+    "People/NPCs/Orithian Blackspire.md",
+    "Lore/The Laughing Princes Constellation.md",
+    "People/NPCs/The Maiden.md",
+    "The Fist of Tyranny's Totem Necklace.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
     "index.md",
     "Suggestions/Suggestion Box.md",
@@ -438,7 +440,6 @@
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md.tmp.21032.2c270ed34ca0",
     "Suggestions/Suggestion History/2026-09-10.md",
-    "People/NPCs/Orithian Blackspire.md",
     "People/NPCs/Antagonists/Queen Nocticula.md",
     "People/The Good Ones/Falstad Firebeard.md",
     "Players/Cameron.md",
@@ -449,8 +450,6 @@
     "People/The Good Ones/Beemo.md",
     "Suggestions/Suggestion History/2026-09-08.md",
     "Events/Pilgrims of Panrelta/Events/The Road to the Abbey.md",
-    "Items and Artifacts/Tyrant's Totem Necklace.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 31.md",
     "Pasted image 20260826212416.jpg",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",

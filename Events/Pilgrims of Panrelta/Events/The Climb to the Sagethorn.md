@@ -8,7 +8,7 @@ tags: [event, panrelta]
 **Sources:** [[Session 29]]
 
 ## What happened
-Before setting out, the party pieced together where they were going. A map they picked up early in the campaign shows [[The Abbey|the abbey]] and the lost temple as one and the same place, lying beneath [[The Laughing Princess Constellation|the Laughing Princess constellation]]. Finding it means waiting for a clear night to see the stars.
+Before setting out, the party pieced together where they were going. A map they picked up early in the campaign shows [[The Abbey|the abbey]] and the lost temple as one and the same place, lying beneath [[The Laughing Princes Constellation|the Laughing Princess constellation]]. Finding it means waiting for a clear night to see the stars.
 
 Two things were working against them. A full moon was two nights out, and the forest is full of werewolves, who will be stronger for it. They took two weeks of supplies, left their horses at the refugee camp surrounding [[The Bettermans Guild]], and [[Beemo]] used treestride to cover roughly sixty miles toward the [[Sage Thorn Forest|Sagethorn]].
 

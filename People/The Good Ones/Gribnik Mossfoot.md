@@ -33,7 +33,7 @@ The [[Mossclaw]] are [[Gribnik Mossfoot|Gribnik]]'s former tribe.
 That puts him on both sides of the raids on [[The Bettermans Guild]]'s camp. The raider [[Ky'ar Lastet]] saw also matches the goblin [[The Good Ones]] spared in an earlier session.
 
 ## The constellation dream
-He dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]] and came out of it with the name [[Orithian Blackspire]] and some connection to [[The Drow]].
+He dreamed of [[The Laughing Princes Constellation|the Laughing Princess constellation]] and came out of it with the name [[Orithian Blackspire]] and some connection to [[The Drow]].
 
 ## Sources
 - [[Session 27]]

@@ -31,7 +31,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - The [[Sisters of the Gnarled Veil]] are trying to kill [[Beemo]], and may also be working to resurrect a dragon. Both he and the shade they sent after him are their creations, one "successful" and one not, and it is unclear which is which. Why the coven wants him dead, and what they were trying to create, are unknown. See [[The Shade Sent for Beemo]]
 - Whatever the [[Sisters of the Gnarled Veil]] are planning is happening in the [[Dragonspine Mountains]], the same range where [[Diggory Psalm]] built his temple to [[Torm]]. It went unseen by both [[Diggory Psalm|Diggory]] and [[Torm]] until [[Jäkel Aleister le Rouge|Jäkel]] warned them
 - [[Sila Frostblood]], a bheur hag, is the coven's third member and entered the party's dreams for the first time on the fourth night, showing them a riverbank they reached the next morning. Why now, whether it was warning or bait, what her dire wolves are, and whether she shares the coven's interest in killing [[Beemo]]
-- [[Gribnik Mossfoot]] dreamed of [[The Laughing Princess Constellation|the Laughing Princess constellation]] and came out with the name [[Orithian Blackspire]] and some link to [[The Drow]]. Spelling unconfirmed. Who or what [[Orithian Blackspire]] is, whether the name arrived from the coven, and what it has to do with [[The Drow]] are all unknown
+- [[Gribnik Mossfoot]] dreamed of [[The Laughing Princes Constellation|the Laughing Princess constellation]] and came out with the name [[Orithian Blackspire]] and some link to [[The Drow]]. Spelling unconfirmed. Who or what [[Orithian Blackspire]] is, whether the name arrived from the coven, and what it has to do with [[The Drow]] are all unknown
 - Whether [[Torin Turen]]'s worsening dreams are the same coven's work. The party thinks a hag lured him into the [[Sage Thorn Forest|Sagethorn]], but his dream is different in kind: a black grail and a stone tomb, no hag
 
 ## The Maiden and Yorrisk
@@ -61,7 +61,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - Who the other two of "the Dead Three" are
 - Whether the lost temple on the party's map is the temple of [[Illmater]] that [[Torin Turen]] asked to be taken to, or a different ruin. Whose [[The Abbey|abbey]] it was
 - [[The Tree of Pain]] is confirmed as [[Bane]]'s monument, a tree covered in decomposing bodies. What purpose it serves beyond marking the way to [[The Abbey]]
-- [[The Abbey]] lies beneath [[The Laughing Princess Constellation|a constellation]] carrying [[The Maiden]]'s other name. What the connection between the two actually is, which came first, and how a constellation marks a spot on the ground. See [[The Laughing Princess Constellation]]
+- [[The Abbey]] lies beneath [[The Laughing Princes Constellation|a constellation]] carrying [[The Maiden]]'s other name. What the connection between the two actually is, which came first, and how a constellation marks a spot on the ground. See [[The Laughing Princes Constellation]]
 - Whether the sirens in the cliff caves on the climb are a fixed hazard or were placed there. See [[The Climb to the Sagethorn]]
 - The Specter of Bane dared [[The Good Ones]] to come find [[Bane]] himself as it died. Whether that means [[Bane]] is at [[The Abbey]], now in sight, is unknown
 

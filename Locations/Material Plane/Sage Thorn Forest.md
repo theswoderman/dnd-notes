@@ -22,7 +22,7 @@ A cliff of eight hundred to a thousand feet stands between the [[The Iron Oak Wo
 
 Inside, the forest is frozen and full of werewolves, and a full moon is close. It holds an icy riverbank strewn with the corpses of [[Bane]]'s soldiers and a great many beasts, none fresh and none old. See [[The Frozen Riverbank]].
 
-Somewhere in it are [[The Tree of Pain]] and [[The Abbey]], which a map places beneath [[The Laughing Princess Constellation|the Laughing Princess constellation]].
+Somewhere in it are [[The Tree of Pain]] and [[The Abbey]], which a map places beneath [[The Laughing Princes Constellation|the Laughing Princess constellation]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
