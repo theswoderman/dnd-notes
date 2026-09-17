@@ -35,3 +35,4 @@ orithian blackspire took on the icon of a bull when he established his new house
 we reached the temple and set off a trap while trying to get in, triggering combat against a bass of undead hands, and then were ambushed my undead minotaurs (are minotaurs related to centaurs?) we defeated them easily, as well as some cultists inside the abbey
 we see pegasus feathers inside the abbey, as well as a cloth with a black hand stained on it, and a locked trapdoor, which we unlock with the key we found last session
 we fight some more cultists through the trap door
+thol gains 1 charge on his amulet (this is )
