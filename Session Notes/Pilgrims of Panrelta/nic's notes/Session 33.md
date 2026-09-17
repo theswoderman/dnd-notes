@@ -35,4 +35,9 @@ orithian blackspire took on the icon of a bull when he established his new house
 we reached the temple and set off a trap while trying to get in, triggering combat against a bass of undead hands, and then were ambushed my undead minotaurs (are minotaurs related to centaurs?) we defeated them easily, as well as some cultists inside the abbey
 we see pegasus feathers inside the abbey, as well as a cloth with a black hand stained on it, and a locked trapdoor, which we unlock with the key we found last session
 we fight some more cultists through the trap door
-thol gains 1 charge on his amulet (this is )
+in the room the cultists were in, we find a map of southern dolghast with a few towns marked. 
+Brashta
+Brinemire
+also an x somewhere in the bitter expanse -> where khulask hollow was
+we learn that the cultists have been abducting people in the nearby areas and abducting people in nearby towns.
+there's a note next to the x that says "who beat us to it"
