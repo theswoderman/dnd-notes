@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
