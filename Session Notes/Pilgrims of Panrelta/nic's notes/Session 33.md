@@ -23,3 +23,7 @@
 - Whether the vision of the battle for [[Yorrisk]] is memory, prophecy, or fabrication
 - What [[The Black Grail]] is, what drinking from it does, and whether it displaced [[Illmater]] in [[Torin Turen|Torin]]
 - Whether [[Bane]] himself awaits at [[The Abbey]], as the Specter of Bane dared the party to find him
+
+
+## Notes
+we see the abbey in the distance, a broken steeple rising out of the forest. the abbey is the crypt of hate.
