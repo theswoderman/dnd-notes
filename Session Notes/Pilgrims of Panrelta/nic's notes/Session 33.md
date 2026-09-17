@@ -7,7 +7,7 @@
 - [[Thol]] is under a self-inflicted failed death save from the Specter of Bane's strike; it lasts until remove curse or a long rest
 - The Fist of Oppression's Ring (Ring of Dread Command) will not come off Thol's hand; still cursed, effect unknown
 - [[Thol]] is attuned to The Fist of Hate's Sword(Despot's Reprisal) and feels disdain for other weapons
-- [[The Fist of Tyranny's Totem Necklace]] is also cursed; how it works is unclear
+- The Fist of Tyranny's Totem Necklace is also cursed; how it works is unclear
 - A key found on the Fist of Oppression's body is unidentified
 
 ## Open threads
@@ -29,6 +29,7 @@
 we see the abbey in the distance, a broken steeple rising out of the forest. the abbey is the crypt of hate. the forest has been desecrated.
 
 we found a note in a bag of red cloths, the sign of ilmater. the note is from followers of ilmater who are suicidal because he has died (?)
+Full Note text: “Fourty moons have passed since the chapel was raised and still these grounds haunt us. We have asked for endurance and found ourselves weary. We have prayed to find strength in our pain and find our dreams tortured, waking or resting. Now, we pray for forgiveness. There is an empty darkness in this land. It eats faith and hungers for more. We beg the broken god’s pity for we must leave these lands. We few Ilmatari repent, for Our Martyred Father does not walk here.”
 the abbey was once a temple to ilmater
 Orithian blackspire is the drow who tried to make a settlement above ground.
 orithian blackspire took on the icon of a bull when he established his new house of black spire above ground.
