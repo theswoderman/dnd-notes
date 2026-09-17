@@ -26,4 +26,6 @@
 
 
 ## Notes
-we see the abbey in the distance, a broken steeple rising out of the forest. the abbey is the crypt of hate.
+we see the abbey in the distance, a broken steeple rising out of the forest. the abbey is the crypt of hate. the forest has been desecrated.
+
+we found a note in a bag of red cloths, the sign of ilmater. the note is from followers of ilmater who are suicidal because he has died (?)
