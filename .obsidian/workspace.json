@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/NPCs/Orithian Blackspire.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Orithian Blackspire"
+              "title": "Session 33"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "People/NPCs/Orithian Blackspire.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Orithian Blackspire"
+                  "title": "Graph of Session 33"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,15 +414,18 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Suggestions/Suggestion History/2026-08-12.md",
+    "Session Notes/Campaign 1/Campaign 1 Summary.md",
+    "CLAUDE.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
-    "People/NPCs/Orithian Blackspire.md",
+    "Locations/Material Plane/The Abbey.md",
     "Lore/The Laughing Princes Constellation.md",
+    "People/NPCs/Orithian Blackspire.md",
     "People/NPCs/The Maiden.md",
     "The Fist of Tyranny's Totem Necklace.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
     "index.md",
     "Suggestions/Suggestion Box.md",
-    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "CLAUDE.md.tmp.20984.2a890056b731",
     "index.md.tmp.19652.9124af287ce4",
     "Loose Ends/Campaign 1 Loose Ends.md.tmp.19652.78260235447e",
@@ -447,9 +450,6 @@
     "Items and Artifacts/Ring of Dread Command.md",
     "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
     "Items and Artifacts/Despot's Reprisal.md",
-    "People/The Good Ones/Beemo.md",
-    "Suggestions/Suggestion History/2026-09-08.md",
-    "Events/Pilgrims of Panrelta/Events/The Road to the Abbey.md",
     "Pasted image 20260826212416.jpg",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",

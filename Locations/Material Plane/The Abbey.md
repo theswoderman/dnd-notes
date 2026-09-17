@@ -3,7 +3,7 @@ tags: [location, panrelta]
 ---
 # The Abbey
 
-**Region:** beneath [[The Laughing Princes Constellation|the Laughing Princess constellation]], near [[The Tree of Pain]]
+**Region:** beneath [[The Laughing Princes Constellation|the Laughing Princes constellation]], near [[The Tree of Pain]]
 **Disposition:** Unknown, and where [[Bane]] and [[Malar]]'s followers both intend to bring [[The Black Grail]]
 
 ## Summary
