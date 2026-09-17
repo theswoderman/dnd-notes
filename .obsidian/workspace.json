@@ -6,36 +6,15 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 64.69359331476323,
+        "dimension": 86.0724233983287,
         "children": [
           {
             "id": "422715ec20929148",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "5f6a3ec99364036b"
-          },
-          {
-            "id": "d456b2c36f0ee0c3",
-            "type": "leaf",
-            "state": {
-              "type": "vault-graph-view",
-              "state": {},
-              "icon": "vault-graph-disc",
-              "title": "Vault graph"
-            }
-          },
-          {
-            "id": "07d0dc3a553c5435",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -50,16 +29,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
+              "title": "Session 32"
+            },
+            "group": "5f6a3ec99364036b"
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 35.306406685236766,
+        "dimension": 13.92757660167131,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -105,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -211,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Summary"
+                  "title": "Graph of Session 32"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -415,7 +394,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 487,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -432,8 +412,11 @@
       "vault-graph:Vault graph": false
     }
   },
-  "active": "468b4658739229dc",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
+    "index.md",
     "Suggestions/Suggestion Box.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "CLAUDE.md.tmp.20984.2a890056b731",
@@ -453,7 +436,6 @@
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md.tmp.21032.2c270ed34ca0",
     "Suggestions/Suggestion History/2026-09-10.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
     "People/NPCs/Orithian Blackspire.md",
     "People/NPCs/Antagonists/Queen Nocticula.md",
     "People/The Good Ones/Falstad Firebeard.md",
@@ -461,7 +443,6 @@
     "People/NPCs/Antagonists/The Fists of Bane.md",
     "Items and Artifacts/Ring of Dread Command.md",
     "Events/Pilgrims of Panrelta/Events/The Battle at the Bridge.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
     "Items and Artifacts/Despot's Reprisal.md",
     "People/The Good Ones/Beemo.md",
     "Suggestions/Suggestion History/2026-09-08.md",
