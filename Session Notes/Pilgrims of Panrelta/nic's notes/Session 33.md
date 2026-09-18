@@ -18,7 +18,7 @@
 - [[Torin Turen]] called [[Beemo]] "little shadow" under zone of truth and doesn't know why he knows a name only hags use
 - [[Mirna Gribwood]] appears in the coven's shared dream to everyone except [[Beemo]], the one they want dead. No explanation
 - Whether "I like this mind of yours, I'll stay a while" means [[Mirna Gribwood]] is lodged in someone, and whose
-- Who or what [[Orithian Blackspire]] is, and its link to [[The Drow]]
+- Who or what [[Oraecheon Blackspire|Orithian Blackspire]] is, and its link to [[The Drow]]
 - Why [[Sila Frostblood]] entered the party's dreams for the first time now, and what her three dire wolves are
 - Whether the vision of the battle for [[Yorrisk]] is memory, prophecy, or fabrication
 - What [[The Black Grail]] is, what drinking from it does, and whether it displaced [[Illmater]] in [[Torin Turen|Torin]]
@@ -31,8 +31,8 @@ we see [[The Abbey|the abbey]] in the distance, a broken steeple rising out of t
 we found a note in a bag of red cloths, the sign of [[Illmater|ilmater]]. the note is from followers of [[Illmater|ilmater]] who are suicidal because he has died (?)
 Full Note text: “Fourty moons have passed since the chapel was raised and still these grounds haunt us. We have asked for endurance and found ourselves weary. We have prayed to find strength in our pain and find our dreams tortured, waking or resting. Now, we pray for forgiveness. There is an empty darkness in this land. It eats faith and hungers for more. We beg the broken god’s pity for we must leave these lands. We few Ilmatari repent, for Our Martyred Father does not walk here.”
 [[The Abbey|the abbey]] was once a temple to [[Illmater|ilmater]]
-[[Orithian Blackspire|Orithian blackspire]] is the drow who tried to make a settlement above ground.
-[[Orithian Blackspire|orithian blackspire]] took on the icon of a bull when he established his new house of black spire above ground.
+[[Oraecheon Blackspire|Orithian blackspire]] is the drow who tried to make a settlement above ground.
+[[Oraecheon Blackspire|orithian blackspire]] took on the icon of a bull when he established his new house of black spire above ground.
 we reached [[The Abbey|the temple]] and set off a trap while trying to get in, triggering combat against a bass of undead hands, and then were ambushed my undead minotaurs (are minotaurs related to centaurs?) we defeated them easily, as well as some cultists inside [[The Abbey|the abbey]]
 we see pegasus feathers inside [[The Abbey|the abbey]], as well as a cloth with a black hand stained on it, and a locked trapdoor, which we unlock with the key we found last session
 we fight some more cultists through the trap door

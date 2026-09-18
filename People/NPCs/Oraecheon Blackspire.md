@@ -1,7 +1,8 @@
 ---
 tags: [character, panrelta, drow]
+aliases: [Orithian Blackspire]
 ---
-# Orithian Blackspire
+# Oraecheon Blackspire
 
 **Race:** Drow
 **Status:** Unknown

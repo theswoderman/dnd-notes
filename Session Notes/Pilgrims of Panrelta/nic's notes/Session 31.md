@@ -16,7 +16,7 @@
 - [[Torin Turen]] called [[Beemo]] "little shadow" under zone of truth and doesn't know why he knows a name only hags use
 - [[Mirna Gribwood]] appears in the coven's shared dream to everyone except [[Beemo]], the one they want dead
 - Whether "I like this mind of yours, I'll stay a while" means [[Mirna Gribwood]] is now lodged in someone's head, and whose
-- Who or what [[Orithian Blackspire]] is, and its link to [[The Drow]]
+- Who or what [[Oraecheon Blackspire|Orithian Blackspire]] is, and its link to [[The Drow]]
 - Why [[Sila Frostblood]] entered the party's dreams for the first time now, and what her three dire wolves are
 - Whether the battle for [[Yorrisk]] the hag showed [[Thol]], [[Beemo]], and [[Gribnik Mossfoot]] is memory, prophecy, or fabrication
 - What [[The Black Grail]] is, what drinking from it does, and whether it displaced [[Illmater]] in [[Torin Turen|Torin]]

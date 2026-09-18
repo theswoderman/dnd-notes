@@ -34,7 +34,7 @@ That resolves the "yorrisk upon the dawning" line, and it lines up with somethin
 The debt is still outstanding.
 
 ## The constellation
-[[The Laughing Princes Constellation|The Laughing Princes constellation]] is named after [[Orithian Blackspire]]'s twin sons, but it resembles her title, and the party takes the two to be connected. It matters because a map they picked up early in the campaign places [[The Abbey]] and the lost temple beneath those stars, which is where [[Bane]] and [[Malar]]'s followers are both taking [[The Black Grail]]. The constellation hangs over the place they are walking toward. See [[The Climb to the Sagethorn]].
+[[The Laughing Princes Constellation|The Laughing Princes constellation]] is named after [[Oraecheon Blackspire]]'s twin sons, but it resembles her title, and the party takes the two to be connected. It matters because a map they picked up early in the campaign places [[The Abbey]] and the lost temple beneath those stars, which is where [[Bane]] and [[Malar]]'s followers are both taking [[The Black Grail]]. The constellation hangs over the place they are walking toward. See [[The Climb to the Sagethorn]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

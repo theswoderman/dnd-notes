@@ -13,8 +13,8 @@ tags: [event, panrelta]
 ### The Ilmatari note
 Among red cloths bearing [[Illmater]]'s sign, the party found a note from followers of [[Illmater]] who had tried to maintain the temple. Written forty moons after the chapel was raised, it describes an empty darkness in the land that eats faith and tortures the dreams of the waking and the sleeping alike. The Ilmatari could not endure it and abandoned the grounds, writing that "Our Martyred Father does not walk here."
 
-### Orithian Blackspire
-The party learned that [[Orithian Blackspire]] is a [[The Drow|drow]] who tried to establish a settlement above ground. He adopted the icon of a bull when he founded his new House of Blackspire on the surface.
+### Oraecheon Blackspire
+The party learned that [[Oraecheon Blackspire]] is a [[The Drow|drow]] who tried to establish a settlement above ground. He adopted the icon of a bull when he founded his new House of Blackspire on the surface.
 
 ### The assault
 A trap at the entrance triggered a fight against a mass of undead hands, followed by an ambush from undead minotaurs. [[The Good Ones]] defeated them along with cultists inside the abbey. Inside, they found pegasus feathers and a cloth stained with a black hand.
