@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
+                "file": "People/NPCs/Orithian Blackspire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 33"
+              "title": "Orithian Blackspire"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
+                    "file": "People/NPCs/Orithian Blackspire.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 33"
+                  "title": "Graph of Orithian Blackspire"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -259,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -414,9 +415,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
     "Suggestions/Suggestion History/2026-09-17.md",
     "People/NPCs/Orithian Blackspire.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
     "index.md.tmp.5280.06df988a1a63",
     "index.md.tmp.5280.fba50aeb78ca",
     "Loose Ends/Panrelta Loose Ends.md.tmp.5280.5baabc52f970",
