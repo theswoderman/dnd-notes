@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suggestions/Suggestion Box.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Suggestion Box"
+              "title": "one shot elves & orcs"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Suggestions/Suggestion Box.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Suggestion Box"
+                  "title": "Graph of one shot elves & orcs"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,8 +414,11 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "People/NPCs/Orithian Blackspire.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
+    "Suggestions/Suggestion Box.md",
+    "People/NPCs/Orithian Blackspire.md",
     "Suggestions/Suggestion History/2026-09-17.md",
     "index.md.tmp.5280.06df988a1a63",
     "index.md.tmp.5280.fba50aeb78ca",
@@ -432,7 +435,6 @@
     "People/NPCs/The Maiden.md",
     "The Fist of Tyranny's Totem Necklace.md",
     "index.md",
-    "Suggestions/Suggestion Box.md",
     "CLAUDE.md.tmp.20984.2a890056b731",
     "index.md.tmp.19652.9124af287ce4",
     "Loose Ends/Campaign 1 Loose Ends.md.tmp.19652.78260235447e",
@@ -445,11 +447,9 @@
     "Events/Campaign 1/Events/The Hidden Continent.md",
     "Events/Campaign 1/Events/The Voyage South.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md.tmp.19652.bfbe9939a0b8",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
     "Suggestions/Suggestion History/2026-09-10.md",
     "People/NPCs/Antagonists/Queen Nocticula.md",
     "People/The Good Ones/Falstad Firebeard.md",
-    "Players/Cameron.md",
     "Pasted image 20260826212416.jpg",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
