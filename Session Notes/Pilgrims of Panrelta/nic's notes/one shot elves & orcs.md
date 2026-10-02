@@ -6,5 +6,6 @@ there was a recent war between the elves and orcs that has been settled, but ten
 
 by killing the elf researcher we unleashed an eldritch being known as a witchlight maurauder capable of eating planets
 
-we got gundam suits built for fighting witchlight maurauders
+we got spirit warriors, a type of armour that is built for fighting witchlight maurauders
 
+we defeated the witchlight marauder, saving potentially... the universe? now our characters are permanently bonded to our spirit warrior
