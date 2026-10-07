@@ -91,4 +91,5 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 ## World
 
 - A giant turtle-shaped elemental the size of an island was awoken during [[Awakening of the turtle|a one-shot]]. Where it is now, what the shaman's ritual was for, and whether its wandering is its own movement or something stranger. See [[Estrana]]
+- The elves and orcs one-shot ([[Defeat of the Witchlight Marauder]]): the names of the six characters, the researcher's name and what his research was, where in the [[Astral Sea]] his facility stood, where the [[Spirit Warriors]] came from, and how the elf and orc war began and ended are unrecorded
 - A fat, silver sparrow has appeared to the party at least four or five times, going back to before they first arrived at [[Khulask Hollow]]. The most recent sighting was in the [[Sage Thorn Forest|Sagethorn]], where it tweeted at them and flew off. Earlier appearances may not have made it into the session notes

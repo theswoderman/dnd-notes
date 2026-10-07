@@ -89,7 +89,7 @@ Full detail is on [[Panrelta Timeline]].
 
 ### Outside the campaigns
 
-One session of play sits outside both campaigns and outside the chronology: a boat trip to an island whose location kept changing, which turned out to be a [[Awakening of the turtle|turtle-shaped elemental the size of an island]]. When and where in [[Estrana]] this happened is unrecorded.
+Two one-shots sit outside both campaigns and outside the chronology. In the first, a boat trip to an island whose location kept changing turned out to be a [[Awakening of the turtle|turtle-shaped elemental the size of an island]]; when and where in [[Estrana]] this happened is unrecorded. The second took place in the [[Astral Sea]] a year before [[The Sons of Thunder]] arrived there: a task force of three elves and three orcs killed a rogue researcher, released a [[Witchlight Marauder|witchlight marauder]] able to eat planets, and defeated it in [[Spirit Warriors|spirit warrior]] armor ([[Defeat of the Witchlight Marauder]]).
 
 ## Where things stand
 

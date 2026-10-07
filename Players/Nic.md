@@ -7,7 +7,7 @@ tags:
 
 A real person, not a campaign entity.
 
-**Campaigns:** Pilgrims of Panrelta, the boat trip one-shot
+**Campaigns:** Pilgrims of Panrelta, the boat trip one-shot, the elves and orcs one-shot
 
 ## Characters
 
@@ -15,6 +15,7 @@ A real person, not a campaign entity.
 |---|---|---|
 | [[Thalrik Lastfeast]] | Pilgrims of Panrelta | Active |
 | [[Grug]] | Totally safe boat trip one-shot | One session |
+| Name unrecorded | Elves and orcs one-shot ([[Defeat of the Witchlight Marauder]]) | One session |
 
 ## Notes
 
