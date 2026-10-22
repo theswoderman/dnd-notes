@@ -32,8 +32,19 @@
               "title": "one shot elves & orcs"
             },
             "group": "5f6a3ec99364036b"
+          },
+          {
+            "id": "d54b517b0b7ad2a2",
+            "type": "leaf",
+            "state": {
+              "type": "vault-graph-view",
+              "state": {},
+              "icon": "vault-graph-disc",
+              "title": "Vault graph"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f84238e61591256",
@@ -413,7 +424,7 @@
       "vault-graph:Vault graph": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "d54b517b0b7ad2a2",
   "lastOpenFiles": [
     "Lore/Witchlight Marauder.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
