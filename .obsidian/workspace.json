@@ -32,33 +32,8 @@
               "title": "one shot elves & orcs"
             },
             "group": "5f6a3ec99364036b"
-          },
-          {
-            "id": "65feb6f799d3b4f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2f84238e61591256",
@@ -437,8 +412,9 @@
       "vault-graph:Vault graph": false
     }
   },
-  "active": "65feb6f799d3b4f7",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Untitled.md",
     "index.md",
     "Lore/Witchlight Marauder.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
@@ -474,7 +450,6 @@
     "Events/Campaign 1/Events/The Great War.md",
     "Events/Campaign 1/Events/Into Limbo.md",
     "Events/Campaign 1/Events/The Hidden Continent.md",
-    "Events/Campaign 1/Events/The Voyage South.md",
     "Pasted image 20260826212416.jpg",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
