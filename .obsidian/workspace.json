@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "one shot elves & orcs"
+              "title": "Untitled"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
+                    "file": "Untitled.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of one shot elves & orcs"
+                  "title": "Graph of Untitled"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,10 +414,10 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
     "Untitled.md",
     "index.md",
     "Lore/Witchlight Marauder.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
     "Events/Elves and Orcs one shot/Defeat of the Witchlight Marauder.md",
     "Items and Artifacts/Spirit Warriors.md",
     "Events/Elves and Orcs one shot",
