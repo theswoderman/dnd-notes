@@ -34,13 +34,27 @@
             "group": "5f6a3ec99364036b"
           },
           {
-            "id": "d54b517b0b7ad2a2",
+            "id": "65feb6f799d3b4f7",
             "type": "leaf",
             "state": {
-              "type": "vault-graph-view",
-              "state": {},
-              "icon": "vault-graph-disc",
-              "title": "Vault graph"
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -423,8 +437,9 @@
       "vault-graph:Vault graph": false
     }
   },
-  "active": "d54b517b0b7ad2a2",
+  "active": "65feb6f799d3b4f7",
   "lastOpenFiles": [
+    "index.md",
     "Lore/Witchlight Marauder.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
     "Events/Elves and Orcs one shot/Defeat of the Witchlight Marauder.md",
@@ -449,7 +464,6 @@
     "Lore/The Laughing Princes Constellation.md",
     "People/NPCs/The Maiden.md",
     "The Fist of Tyranny's Totem Necklace.md",
-    "index.md",
     "CLAUDE.md.tmp.20984.2a890056b731",
     "index.md.tmp.19652.9124af287ce4",
     "Loose Ends/Campaign 1 Loose Ends.md.tmp.19652.78260235447e",
