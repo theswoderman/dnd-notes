@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Session 34"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Untitled.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Untitled"
+                  "title": "Graph of Session 34"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,15 +414,15 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
     "Untitled.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
     "index.md",
     "Lore/Witchlight Marauder.md",
     "Events/Elves and Orcs one shot/Defeat of the Witchlight Marauder.md",
     "Items and Artifacts/Spirit Warriors.md",
     "Events/Elves and Orcs one shot",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
     "Suggestions/Suggestion Box.md",
     "People/NPCs/Orithian Blackspire.md",
     "Suggestions/Suggestion History/2026-09-17.md",
