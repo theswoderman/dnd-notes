@@ -44,3 +44,4 @@ we face of with [[Oraecheon Blackspire]], who has torin on an altar where he has
 state of play notes for next game
 [[Oraecheon Blackspire]] has used his only legendary resistance
 thalrik has divine favor active
+falstad is concentrating on wall of fire is active
