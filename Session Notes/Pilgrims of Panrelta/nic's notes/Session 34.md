@@ -33,3 +33,5 @@ after defeating the cultists we find that they have the bodies of lycanthropes w
 we also find a number of documents going over the operations of the cultists, they've been kidnapping travelers on the roads and welcoming soldiers from Dolghast into the cult.
 the cult of bane seems to be over 50 people
 the documents go back at least 5 years
+we find a hallway littered with evidence of torture, and a throne made of drow bones
+this was the stronghold of lolth
