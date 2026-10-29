@@ -30,3 +30,6 @@
 started the game with combat in a room in the tunnel that we found in the abbey
 we fought a large mob of cultists and the gauntlets of bane, who are less powerful than the fists of bane but more formidable warriors than the simple cultists
 after defeating the cultists we find that they have the bodies of lycanthropes wrapped in a silver barbed wire that was used to trap them. they also have the corpse of a transformed lycanthrope
+we also find a number of documents going over the operations of the cultists, they've been kidnapping travelers on the roads and welcoming soldiers from Dolghast into the cult.
+the cult of bane seems to be over 50 people
+the documents go back at least 5 years
