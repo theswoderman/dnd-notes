@@ -34,4 +34,5 @@ we also find a number of documents going over the operations of the cultists, th
 the cult of bane seems to be over 50 people
 the documents go back at least 5 years
 we find a hallway littered with evidence of torture, and a throne made of drow bones
-this was the stronghold of lolth
+we learn through falstad's inspection of the throne that this was the stronghold of lolth
+as we descend deeper down the hallway, we hear cries of pain, the cries of torin
