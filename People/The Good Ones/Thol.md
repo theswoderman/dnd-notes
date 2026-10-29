@@ -28,6 +28,7 @@ He was raised in [[Kalibad]] and the [[Golden Plains]], which is where the butch
 - Received find the path, with a one day duration, from the [[Sylvan Parcel]]
 - Attuned to [[Despot's Reprisal]], the longsword taken from the Fist of Hate, and immediately felt its curse: a disdain for any other weapon
 - Dreamed of a leonin chief wielding a sword and tearing a dragonborn in two, a callback to [[Bathoz Manefell|Bathoz]] tearing [[Krintak Cinderheart]] apart while possessed by [[Sharess the Black]]. See [[The Road to the Abbey]]
+- Drank a potion [[Beemo]] brewed from the remains of [[The Fists of Bane]]; its effect is not yet known. See [[The Tunnels Beneath the Abbey]]
 
 ## The dreams
 In the second night of [[The Dusk Hag's Dreams]] he watched his adoptive father [[Bathoz Manefell]] and his adopted uncle [[Jäkel Aleister le Rouge|Jakel]] freeze, decompose, and the hag crawl out of their remains. Of the whole party his was the most personal.
@@ -43,3 +44,4 @@ On the third night he fought in the battle dream alongside [[Beemo]] and [[Gribn
 - [[Session 31]]
 - [[Session 32]]
 - [[Session 33]]
+- [[Session 34]]

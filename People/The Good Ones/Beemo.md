@@ -31,6 +31,7 @@ He travels with a companion called Snot.
 - Healed [[Torin Turen]] with lesser restoration at the feast; Torin refused anything more
 - Received treestride from the [[Sylvan Parcel]], alongside [[Thalrik Lastfeast]]
 - Found necrotic mold growing on the corpses of [[The Fists of Bane]], a trans-dimensional fungus that grows on the bodies of evil beings, useful for potion crafting. See [[The Road to the Abbey]]
+- Brewed a potion from the remains of [[The Fists of Bane]], which [[Thol]] drank. See [[The Tunnels Beneath the Abbey]]
 
 ## "Little shadow"
 [[Torin Turen]] called him "little shadow" as he left the tower, a name Beemo has only ever been called by hags. The party chased Torin down and put him under zone of truth: Torin does not know why he knows the name, and has never spoken to a hag. He was telling the truth.
@@ -53,3 +54,4 @@ See [[Panrelta Loose Ends]] for open questions.
 - [[Session 30]]
 - [[Session 31]]
 - [[Session 32]]
+- [[Session 34]]

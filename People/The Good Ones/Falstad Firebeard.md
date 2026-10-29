@@ -40,6 +40,9 @@ Named [[Sylvanus]] during the fight at [[The Frozen Riverbank]], which made the 
 
 The Specter of Bane singled him and [[Thalrik Lastfeast]] out as it fought, promising to dishonor the cleric and the paladin by destroying them and taking their souls. See [[The Fists of Bane]].
 
+## The pool beneath the abbey
+Entranced by a pool in the tunnels beneath [[The Abbey]], he saw the hand of a desiccated corpse rise from the water and offer him the red armband [[Torin Turen]] wore. The binding wrapped around his hand and cut his palm. [[Torin Turen|Torin]] spoke to him in a vision and granted him additional power: Falstad glowed with daylight, channeling divine energy from Torin, and shared some of the power with [[Thalrik Lastfeast]]. Earlier, his inspection of a throne of drow bones indicated the place had been a stronghold of [[Lolth]]. See [[The Tunnels Beneath the Abbey]].
+
 ## Berrenar's interest
 On watch with [[Thol]], he talked about his relationship with [[Berrenar]] and why she seems more interested in him than in her other followers. See [[The Road to the Abbey]].
 
@@ -50,3 +53,4 @@ On watch with [[Thol]], he talked about his relationship with [[Berrenar]] and w
 - [[Session 30]]
 - [[Session 31]]
 - [[Session 32]]
+- [[Session 34]]

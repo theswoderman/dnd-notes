@@ -21,6 +21,9 @@ Near the tree, a garrison of Bane's undead soldiers defeated a pack of werewolve
 
 [[The Good Ones]] fought them on a bridge and killed all three. Their essences then gathered and reformed into the Specter of Bane, an abomination of drow necromancy that turned the party on each other before they destroyed it. See [[The Battle at the Bridge]].
 
+## His cult
+[[The Cult of Bane]] occupies [[The Abbey]] and the tunnels beneath it, with elite fighters called the Gauntlets of Bane. Its documents date back at least five years. See [[The Tunnels Beneath the Abbey]].
+
 See [[Panrelta Loose Ends]] for open questions.
 
 ## Sources
@@ -28,3 +31,4 @@ See [[Panrelta Loose Ends]] for open questions.
 - [[Session 29]]
 - [[Session 30]]
 - [[Session 31]]
+- [[Session 34]]

@@ -42,12 +42,13 @@ Six travelers bound by [[The Pilgrimage]]'s tenets, chief among them an obligati
 12. [[The Frozen Riverbank]]
 13. [[The Battle at the Bridge]]
 14. [[The Road to the Abbey]]
-15. [[The Crypt of Hate]], *most recent*
+15. [[The Crypt of Hate]]
+16. [[The Tunnels Beneath the Abbey]], *most recent*
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 
 ## Recurring figures
-[[The Maiden]] · [[Festra]] · [[Mirna Gribwood]] · [[Sila Frostblood]] · [[Sisters of the Gnarled Veil]] · [[The Drow]] · [[The Fists of Bane]] · [[Torin Turen]] · [[Ky'ar Lastet]] · [[The Rockspeaker]] · [[Bane]] · [[Malar]]
+[[The Maiden]] · [[Festra]] · [[Mirna Gribwood]] · [[Sila Frostblood]] · [[Sisters of the Gnarled Veil]] · [[The Drow]] · [[The Fists of Bane]] · [[The Cult of Bane]] · [[Oraecheon Blackspire]] · [[Torin Turen]] · [[Ky'ar Lastet]] · [[The Rockspeaker]] · [[Bane]] · [[Malar]]
 
 ## Shared with Campaign 1
 Ten years on from [[The Sundering]]-era business and the fall of [[Aeralath]]. Confirmed overlaps:

@@ -24,9 +24,13 @@ Below the trapdoor, more cultists guarded a room containing a map of southern [[
 
 [[Thalrik Lastfeast]] detected a secret passage leading to a tunnel. See [[The Crypt of Hate]].
 
+## The tunnels
+The tunnel runs down to a cult stronghold of [[The Cult of Bane]], whose fighters include the elite Gauntlets of Bane. Past a room holding the bodies of silver-bound lycanthropes lies a hallway of torture and a throne made of drow bones, which [[Falstad Firebeard]]'s inspection indicated had been a stronghold of [[Lolth]]. A pool and an altar lie farther down. [[Oraecheon Blackspire]] held [[Torin Turen]] on the altar. See [[The Tunnels Beneath the Abbey]].
+
 See [[Panrelta Loose Ends]] for open questions.
 
 ## Sources
 - [[Session 29]]
 - [[Session 32]]
 - [[Session 33]]
+- [[Session 34]]

@@ -11,6 +11,8 @@ They were working with [[Crucius Ilyanich]] in [[Khulask Hollow]], and attacked 
 
 [[Oraecheon Blackspire]] is a drow who attempted to establish a settlement above ground in [[Dolghast]], adopting the icon of a bull and founding a new House of Blackspire on the surface. His twin sons eventually led a mutiny against him; [[The Laughing Princes Constellation|the Laughing Princes constellation]] is named after them. His name first appeared in [[Gribnik Mossfoot]]'s dream of the constellation; his identity was revealed at [[The Abbey]]. See [[The Crypt of Hate]].
 
+A throne made of drow bones stands in the tunnels beneath [[The Abbey]], and [[Falstad Firebeard]]'s inspection of it indicated the place had been a stronghold of [[Lolth]]. [[Oraecheon Blackspire]] was found there holding [[Torin Turen]] prisoner. See [[The Tunnels Beneath the Abbey]].
+
 ## Bane's captains
 [[The Fists of Bane]] were three drow men leading a garrison of [[Bane]]'s undead soldiers near [[The Tree of Pain]] in the [[Sage Thorn Forest|Sagethorn]], spectacular fighters unlike anything the party had seen. One wore armor marked with the fist of [[Bane]]. [[The Good Ones]] killed all three, and the drow necromancy on them pulled their essences back together as the Specter of Bane. See [[The Battle at the Bridge]].
 
@@ -20,3 +22,4 @@ They were working with [[Crucius Ilyanich]] in [[Khulask Hollow]], and attacked 
 - [[Session 30]]
 - [[Session 31]]
 - [[Session 33]]
+- [[Session 34]]

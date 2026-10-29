@@ -17,7 +17,7 @@ The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with cla
 | **Party** | [[The Sons of Thunder]] | [[The Good Ones]] |
 | **When** | 1016–1017 A.P. | 10 D.E. |
 | **Where** | [[Anendal]], and outward through the planes | [[Panrelta]] |
-| **Status** | Concluded at level 20 | Ongoing, ~session 33 |
+| **Status** | Concluded at level 20 | Ongoing, ~session 34 |
 | **Index** | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
 | **Timeline** | [[Campaign 1 Timeline]] | [[Panrelta Timeline]] |
 
@@ -83,7 +83,8 @@ The earliest sessions were never written down, so what follows is the order thin
 12. [[The Frozen Riverbank]]
 13. [[The Battle at the Bridge]]
 14. [[The Road to the Abbey]]
-15. [[The Crypt of Hate]], most recent
+15. [[The Crypt of Hate]]
+16. [[The Tunnels Beneath the Abbey]], most recent
 
 Full detail is on [[Panrelta Timeline]].
 
@@ -93,9 +94,9 @@ Two one-shots sit outside both campaigns and outside the chronology. In the firs
 
 ## Where things stand
 
-[[The Good Ones]] have entered [[The Abbey]] in the [[Sage Thorn Forest|Sagethorn]], a ruin they have been chasing since [[The Collector]]'s corpse named it as the destination for [[The Black Grail]]. Also called the Crypt of Hate, the abbey was once a temple to [[Illmater]]. A note left by his followers describes an empty darkness in the land that eats faith, saying "Our Martyred Father does not walk here." The party fought through undead and cultists to reach the lower levels, where they found a map showing the cultists have been abducting people from towns in southern [[Dolghast]], including [[Brashta]] and [[Brinemire]]. The map also marks [[Khulask Hollow]] with "who beat us to it." [[Thalrik Lastfeast]] has found a secret passage leading to a tunnel deeper underground.
+[[The Good Ones]] have entered [[The Abbey]] in the [[Sage Thorn Forest|Sagethorn]], a ruin they have been chasing since [[The Collector]]'s corpse named it as the destination for [[The Black Grail]]. Also called the Crypt of Hate, the abbey was once a temple to [[Illmater]]. A note left by his followers describes an empty darkness in the land that eats faith, saying "Our Martyred Father does not walk here." Its occupants are [[The Cult of Bane]], over fifty strong, who have been abducting travelers and townsfolk across southern [[Dolghast]]. The party fought through undead and cultists, including the elite Gauntlets of Bane, and followed a secret passage into the tunnels beneath, past a throne of drow bones that marks the place as a former stronghold of [[Lolth]]. There, [[Oraecheon Blackspire]], a [[The Drow|drow]] who once tried to found a House above ground, has [[Torin Turen]] on an altar and is torturing him. The fight with him is under way.
 
-They went in after [[Torin Turen]], high priest of [[Illmater]], who rode into the forest alone and was last seen digging up a soldier of [[Bane]]. [[The Collector]]'s corpse said [[The Black Grail]] is inside [[Torin Turen|Torin]], and both [[Bane]] and [[Malar]]'s followers want it. The party still carries [[The Abyssal Orb]], meant for [[The Sons of Thunder]], which has said "free me" to [[Thalrik Lastfeast|Thalrik]] alone. [[Thol]] cannot remove [[Ring of Dread Command|the cursed ring]] or put down [[Despot's Reprisal|the cursed sword]].
+They went in after [[Torin Turen]], high priest of [[Illmater]], who rode into the forest alone after digging up a soldier of [[Bane]]. [[The Collector]]'s corpse said [[The Black Grail]] is inside [[Torin Turen|Torin]], and both [[Bane]] and [[Malar]]'s followers want it. The party still carries [[The Abyssal Orb]], meant for [[The Sons of Thunder]], which has said "free me" to [[Thalrik Lastfeast|Thalrik]] alone. [[Thol]] cannot remove [[Ring of Dread Command|the cursed ring]] or put down [[Despot's Reprisal|the cursed sword]].
 
 Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circle casting on the party's sleep and want [[Beemo]] dead. [[The Maiden]] is still owed 10,000 gold and the heart of an apex griffon, and said she would meet them at [[Yorrisk]] "upon the dawning", which makes the tenth [[The Dawning|Dawning]], now approaching, a deadline. And [[Yorrisk]] itself is a town two houses are going to war over.
 

@@ -25,7 +25,7 @@ A locked trapdoor, opened by the key taken from the Fist of Oppression in [[The 
 In the room below, the party found a map of southern [[Dolghast]] with the towns [[Brashta]] and [[Brinemire]] marked. An X in the Bitter Expanse marks the location where [[Khulask Hollow]] once stood, with a note beside it reading "who beat us to it." The cultists have been abducting people from nearby towns.
 
 ### The tunnel
-[[Thalrik Lastfeast]] detected a secret passage that opened into a tunnel leading deeper underground.
+[[Thalrik Lastfeast]] detected a secret passage that opened into a tunnel leading deeper underground. See [[The Tunnels Beneath the Abbey]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

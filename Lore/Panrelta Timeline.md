@@ -50,7 +50,8 @@ Where the Sons of Thunder are now: [[Bathoz Manefell|Bathoz]] is with his tribe,
 12. [[The Frozen Riverbank]]
 13. [[The Battle at the Bridge]]
 14. [[The Road to the Abbey]]
-15. [[The Crypt of Hate]], most recent
+15. [[The Crypt of Hate]]
+16. [[The Tunnels Beneath the Abbey]], most recent
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 
