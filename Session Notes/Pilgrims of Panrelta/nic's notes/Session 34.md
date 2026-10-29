@@ -44,8 +44,9 @@ we face of with [[Oraecheon Blackspire]], who has torin on an altar where he has
 state of play notes for next game
 [[Oraecheon Blackspire]] has used his only legendary resistance
 thalrik has divine favor active
+thol drank a potion that beemo made out of the remains of the fists of bane, we don't know what it will do to him yet
 
-combat order
+combat order - we are at the top of initiative unless 
 Beemo
 Gegga
 Blackspire  

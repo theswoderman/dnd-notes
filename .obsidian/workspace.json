@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -415,6 +414,8 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Suggestions/Suggestion History/2026-10-28.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
     "Untitled.md",
@@ -433,7 +434,6 @@
     "Locations/Material Plane/Brinemire.md",
     "Locations/Material Plane/Brashta.md",
     "Events/Pilgrims of Panrelta/Events/The Crypt of Hate.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
     "CLAUDE.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Suggestions/Suggestion History/2026-08-12.md",
@@ -450,7 +450,6 @@
     "Events/Campaign 1/Events/The Demon War.md",
     "Events/Campaign 1/Events/The Great War.md",
     "Events/Campaign 1/Events/Into Limbo.md",
-    "Events/Campaign 1/Events/The Hidden Continent.md",
     "Pasted image 20260826212416.jpg",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
