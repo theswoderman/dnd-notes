@@ -28,3 +28,4 @@
 ## Notes
 
 started the game with combat in a room in the tunnel that we found in the abbey
+we fought a large mob of cultists and the gauntlets of bane
