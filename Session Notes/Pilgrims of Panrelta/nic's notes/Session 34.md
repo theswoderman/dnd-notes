@@ -27,3 +27,4 @@
 
 ## Notes
 
+started the game with combat in a room in the tunnel that we found in the abbey
