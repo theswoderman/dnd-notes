@@ -13,7 +13,7 @@
 - Where does the tunnel under [[The Abbey]] lead?
 - What are the cultists doing with the people abducted from [[Brashta]], [[Brinemire]], and other towns?
 - What did the cultists want at [[Khulask Hollow]], and who beat them to it?
-- Whose pegasus feathers are in [[The Abbey]]? [[Lightfoot]]'s, and was [[Torin Turen|Torin]] here?
+- Whose Pegasus feathers are in [[The Abbey]]? [[Lightfoot]]'s, and was [[Torin Turen|Torin]] here?
 - Does [[Bane]] himself await deeper in [[The Abbey]]?
 - What is the "empty darkness" that drove the Ilmatari out and eats faith?
 - What is [[The Black Grail]], and did it displace [[Illmater]] in [[Torin Turen|Torin]]?
