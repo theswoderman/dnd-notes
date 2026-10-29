@@ -36,7 +36,7 @@ the documents go back at least 5 years
 we find a hallway littered with evidence of torture, and a throne made of drow bones
 we learn through falstad's inspection of the throne that this was the stronghold of lolth
 as we descend deeper down the hallway, we hear cries of pain, the cries of torin
-we come upon a pool that falstad is entranced by, he sees the hand of a desiccated corpse (of torin?) reach out of the pool, offering him the red armband that torin wore. the binding wraps itself around his hand and cuts his palm, squeezing tighter and tighter. torin speaks to him in a vision, and grants him some additional power. falstad glows with daylight, channeling divine energy from torin, and getting stronger as well as sharing some power with thalrik
+we come upon a pool that falstad is entranced by, he sees the hand of a desiccated corpse reach out of the pool, offering him the red armband that torin wore. the binding wraps itself around his hand and cuts his palm, squeezing tighter and tighter. torin speaks to him in a vision, and grants him some additional power. falstad glows with daylight, channeling divine energy from torin, and getting stronger as well as sharing some power with thalrik
 we face of with [[Oraecheon Blackspire]], who has torin on an altar where he has been torturing him
 
 
