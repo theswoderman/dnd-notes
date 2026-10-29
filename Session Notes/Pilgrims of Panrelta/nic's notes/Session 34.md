@@ -28,4 +28,4 @@
 ## Notes
 
 started the game with combat in a room in the tunnel that we found in the abbey
-we fought a large mob of cultists and the gauntlets of bane
+we fought a large mob of cultists and the gauntlets of bane, who are less powerful than the fists of bane but more formidable warriors than the simple cultists
