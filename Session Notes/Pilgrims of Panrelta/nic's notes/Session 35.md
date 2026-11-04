@@ -45,3 +45,5 @@ falstad got restrained by it's paralysis magic
 torin is bound to the altar magically, he cannot be moved by strength or by magic
 torin whispers "illmater... blessing... as he falls unconscious"
 blackspire: "you're too late, the black grail is mine"
+
+kalara mainfell
