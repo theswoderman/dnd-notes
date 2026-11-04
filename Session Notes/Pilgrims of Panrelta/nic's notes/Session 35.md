@@ -46,4 +46,4 @@ torin is bound to the altar magically, he cannot be moved by strength or by magi
 torin whispers "illmater... blessing... as he falls unconscious"
 blackspire: "you're too late, the black grail is mine" - his last words before ascending into a death knight
 
-thalrik died and had a vision of diggory rallying him to return to the fight. his right of return, granted to him by kalara mainfell at the start of the pigrimage, was consumed. he quickly fell again and was killed by blackspire
+thalrik died and had a vision of diggory rallying him to return to the fight. his right of return, granted to him by kalara mainfell at the start of the pilgrimage, was consumed. he quickly fell again and was killed by blackspire
