@@ -47,3 +47,5 @@ torin whispers "illmater... blessing... as he falls unconscious"
 blackspire: "you're too late, the black grail is mine" - his last words before ascending into a death knight
 
 thalrik died and had a vision of diggory rallying him to return to the fight. his right of return, granted to him by kalara mainfell at the start of the pilgrimage, was consumed. he quickly fell again and was killed by blackspire
+
+the party defeated blackspire. before his death he sends on a promise from bane to make a martyr out of falstad, and casts power word kill on him
