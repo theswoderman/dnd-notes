@@ -37,6 +37,7 @@ combat order:
 Armor
 [[Falstad Firebeard|Falstad]]
 
-Quarrelus
+blackspire yells the name Quarrelus along with some words in undercommon a f ew times during the fight
+
 
 torin is bound to the altar magically, he cannot be moved by strength or by magic
