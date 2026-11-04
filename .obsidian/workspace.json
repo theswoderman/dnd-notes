@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 34"
+              "title": "one shot elves & orcs"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 34"
+                  "title": "Graph of one shot elves & orcs"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,10 +414,10 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
     "Suggestions/Suggestion History/2026-10-28.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
     "Untitled.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
     "index.md",
