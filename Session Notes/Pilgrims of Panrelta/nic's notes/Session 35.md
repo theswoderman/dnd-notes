@@ -37,3 +37,4 @@ combat order:
 Armor
 [[Falstad Firebeard|Falstad]]
 
+Quarrelus
