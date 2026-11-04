@@ -38,6 +38,6 @@ Armor
 [[Falstad Firebeard|Falstad]]
 
 blackspire yells the name Quarrelus along with some words in undercommon a f ew times during the fight
-
+a gorgon shows up in response to his chanting, this is quarrelus
 
 torin is bound to the altar magically, he cannot be moved by strength or by magic
