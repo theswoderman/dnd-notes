@@ -27,6 +27,7 @@
 - Was [[Lightfoot]] here, and what became of the Pegasus?
 
 ## Notes
+combat order:
 [[Thol]]
 [[Beemo]]
 [[Gegga]]
