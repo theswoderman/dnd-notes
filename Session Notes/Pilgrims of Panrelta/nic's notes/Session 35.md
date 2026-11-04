@@ -36,7 +36,7 @@ combat order:
 [[Gribnik Mossfoot|Gribnik]]
 Armor
 [[Falstad Firebeard|Falstad]]
-gorgon
+gorgon - Quarrelus
 
 blackspire yells the name Quarrelus along with some words in undercommon a f ew times during the fight
 a gorgon shows up in response to his chanting, this is quarrelus
