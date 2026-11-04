@@ -27,4 +27,12 @@
 - Was [[Lightfoot]] here, and what became of the Pegasus?
 
 ## Notes
+[[Thol]]
+[[Beemo]]
+[[Gegga]]
+[[Oraecheon Blackspire|Blackspire]]
+[[Thalrik Lastfeast|Thalrik]]
+[[Gribnik Mossfoot|Gribnik]]
+Armor
+[[Falstad Firebeard|Falstad]]
 

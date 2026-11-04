@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 73.30163043478261,
+        "dimension": 75.53464499572284,
         "children": [
           {
             "id": "422715ec20929148",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "one shot elves & orcs"
+              "title": "Session 35"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -38,7 +38,7 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 26.69836956521739,
+        "dimension": 24.46535500427716,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -185,12 +185,12 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.1846232622585792,
+                      "scale": 0.36288736930120746,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of one shot elves & orcs"
+                  "title": "Graph of Session 35"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -259,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -414,12 +415,12 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
     "Suggestions/Suggestion History/2026-10-28.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 32.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 33.md",
     "Untitled.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
     "index.md",
     "Lore/Witchlight Marauder.md",
     "Events/Elves and Orcs one shot/Defeat of the Witchlight Marauder.md",
