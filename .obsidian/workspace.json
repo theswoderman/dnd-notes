@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/Hildred Castaign.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hildred Castaign"
+              "title": "Session 35"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "test/Hildred Castaign.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Hildred Castaign"
+                  "title": "Graph of Session 35"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,6 +414,7 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
     "test/Hildred Castaign.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
@@ -449,7 +450,6 @@
     "CLAUDE.md.tmp.20984.a5ff8d74309e",
     "index.md.tmp.20984.dea788248bcd",
     "People/NPCs/Antagonists/Aeralath.md.tmp.20984.30c53902d702",
-    "Events/Campaign 1/Events/The Demon War.md",
     "Pasted image 20260826212416.jpg",
     "Locations/Material Plane/estrana map.JPG",
     "Locations/Material Plane/estrana map.png",
