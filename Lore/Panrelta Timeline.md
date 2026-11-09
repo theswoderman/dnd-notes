@@ -51,7 +51,8 @@ Where the Sons of Thunder are now: [[Bathoz Manefell|Bathoz]] is with his tribe,
 13. [[The Battle at the Bridge]]
 14. [[The Road to the Abbey]]
 15. [[The Crypt of Hate]]
-16. [[The Tunnels Beneath the Abbey]], most recent
+16. [[The Tunnels Beneath the Abbey]]
+17. [[The Death of Oraecheon Blackspire]], most recent
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 

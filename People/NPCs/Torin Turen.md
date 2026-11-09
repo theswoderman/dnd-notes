@@ -7,7 +7,7 @@ aliases: [Torin]
 **Race:** Gnome
 **Role:** High priest of [[Illmater]]; leader of [[The Bettermans Guild]]
 **Mount:** [[Lightfoot]], a pegasus
-**Status:** Alive, held and tortured by [[Oraecheon Blackspire]] beneath [[The Abbey]]
+**Status:** Unconscious on the altar beneath [[The Abbey]] at the end of [[Session 35]]
 
 ## Summary
 Leads [[The Bettermans Guild]] from [[The Iron Oak Woods]], sheltering refugees and supporting those trying to do good. Under his leadership the camp has grown from roughly 100 people to 300, with about 250 of them in the guild proper.
@@ -52,9 +52,12 @@ Torin is in the tunnels beneath [[The Abbey]], on an altar where [[Oraecheon Bla
 
 A red armband he wore was offered to [[Falstad Firebeard]] from a pool by the hand of a desiccated corpse. Torin then spoke to Falstad in a vision and granted him additional power, which Falstad channeled as divine energy. See [[The Tunnels Beneath the Abbey]].
 
+He is bound to the altar by magic and cannot be moved by strength or by spell. As he lost consciousness during the fight with [[Oraecheon Blackspire]] he whispered "Illmater... blessing...". [[Oraecheon Blackspire|Blackspire]] claimed the [[The Black Grail|black grail]] as his own before he died. See [[The Death of Oraecheon Blackspire]].
+
 See [[Panrelta Loose Ends]] for open questions.
 
 ## Sources
 - [[Session 28]]
 - [[Session 29]]
 - [[Session 34]]
+- [[Session 35]]

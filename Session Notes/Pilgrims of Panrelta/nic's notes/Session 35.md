@@ -36,16 +36,16 @@ combat order:
 [[Gribnik Mossfoot|Gribnik]]
 Armor
 [[Falstad Firebeard|Falstad]]
-gorgon - Quarrelus
+gorgon - [[Quarrelus]]
 
-blackspire yells the name Quarrelus along with some words in undercommon a f ew times during the fight
-a gorgon shows up in response to his chanting, this is quarrelus
-falstad got restrained by it's paralysis magic
+blackspire yells the name [[Quarrelus]] along with some words in undercommon a f ew times during the fight
+a gorgon shows up in response to his chanting, this is [[Quarrelus|quarrelus]]
+[[Falstad Firebeard|falstad]] got restrained by it's paralysis magic
 
-torin is bound to the altar magically, he cannot be moved by strength or by magic
-torin whispers "illmater... blessing... as he falls unconscious"
-blackspire: "you're too late, the black grail is mine" - his last words before ascending into a death knight
+[[Torin Turen|torin]] is bound to the altar magically, he cannot be moved by strength or by magic
+[[Torin Turen|torin]] whispers "[[Illmater|illmater]]... blessing... as he falls unconscious"
+blackspire: "you're too late, the [[The Black Grail|black grail]] is mine" - his last words before ascending into a death knight
 
-thalrik died and had a vision of diggory rallying him to return to the fight. his right of return, granted to him by kalara mainfell at the start of the pilgrimage, was consumed. he quickly fell again and was killed by blackspire
+[[Thalrik Lastfeast|thalrik]] died and had a vision of [[Diggory Psalm|diggory]] rallying him to return to the fight. his right of return, granted to him by [[Kalara Mainfell|kalara mainfell]] at the start of the pilgrimage, was consumed. he quickly fell again and was killed by [[Oraecheon Blackspire|blackspire]]
 
-the party defeated blackspire. before his death he sends on a promise from bane to make a martyr out of falstad, and casts power word kill on him
+the party defeated [[Oraecheon Blackspire|blackspire]]. before his death he sends on a promise from [[Bane|bane]] to make a martyr out of [[Falstad Firebeard|falstad]], and casts power word kill on him
