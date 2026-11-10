@@ -22,7 +22,7 @@ Deeper down, the party heard [[Torin Turen]] crying out in pain. At a pool [[Fal
 ### Oraecheon Blackspire
 Past the pool, [[Oraecheon Blackspire]] had [[Torin Turen|Torin]] on an altar, where he had been torturing him. The party attacked. The fight continued into [[The Death of Oraecheon Blackspire]].
 
-[[Thol]] drank a potion [[Beemo]] brewed from the remains of [[The Fists of Bane]]. Its effect on him is not yet known.
+[[Thol]] drank a potion [[Beemo]] brewed from the remains of [[The Fists of Bane]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

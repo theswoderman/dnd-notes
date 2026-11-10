@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 35"
+              "title": "Session 36"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 35"
+                  "title": "Graph of Session 36"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,11 +414,12 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
+    "Suggestions/Suggestion History/2026-11-09.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
     "People/NPCs/Kalara Mainfell.md",
     "People/NPCs/Quarrelus.md",
     "Events/Pilgrims of Panrelta/Events/The Death of Oraecheon Blackspire.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
     "test/Hildred Castaign.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/one shot elves & orcs.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 34.md",
@@ -443,7 +444,6 @@
     "CLAUDE.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Suggestions/Suggestion History/2026-08-12.md",
-    "Locations/Material Plane/The Abbey.md",
     "CLAUDE.md.tmp.20984.2a890056b731",
     "index.md.tmp.19652.9124af287ce4",
     "Loose Ends/Campaign 1 Loose Ends.md.tmp.19652.78260235447e",

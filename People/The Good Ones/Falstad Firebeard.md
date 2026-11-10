@@ -44,7 +44,7 @@ The Specter of Bane singled him and [[Thalrik Lastfeast]] out as it fought, prom
 Entranced by a pool in the tunnels beneath [[The Abbey]], he saw the hand of a desiccated corpse rise from the water and offer him the red armband [[Torin Turen]] wore. The binding wrapped around his hand and cut his palm. [[Torin Turen|Torin]] spoke to him in a vision and granted him additional power: Falstad glowed with daylight, channeling divine energy from Torin, and shared some of the power with [[Thalrik Lastfeast]]. Earlier, his inspection of a throne of drow bones indicated the place had been a stronghold of [[Lolth]]. See [[The Tunnels Beneath the Abbey]].
 
 ## Blackspire's promise
-During the fight with [[Oraecheon Blackspire]], [[Quarrelus]] restrained him with its paralysis magic. Before he died, [[Oraecheon Blackspire|Blackspire]] delivered a promise from [[Bane]] to make a martyr of him and cast power word kill on him. See [[The Death of Oraecheon Blackspire]].
+During the fight with [[Oraecheon Blackspire]], [[Quarrelus]] restrained him with its paralysis magic. Before he died, [[Oraecheon Blackspire|Blackspire]] delivered a promise from [[Bane]] to make a martyr of him and cast power word kill on him. The spell killed him, but his right of return was consumed and he was brought back to life immediately. See [[The Death of Oraecheon Blackspire]].
 
 ## Berrenar's interest
 On watch with [[Thol]], he talked about his relationship with [[Berrenar]] and why she seems more interested in him than in her other followers. See [[The Road to the Abbey]].

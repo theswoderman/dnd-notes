@@ -12,7 +12,7 @@ Interrogated after death, [[The Collector]] said [[Malar]] had sent him to "coll
 
 [[Bane]]'s followers want it too, and are not allies of [[Malar]]'s. [[Malar]] told his pack "their steel would sharpen our talons, but they seek the grail for themselves."
 
-[[Oraecheon Blackspire]] claimed it beneath [[The Abbey]] as he rose as a death knight: "you're too late, the black grail is mine." [[Torin Turen]] lay bound to the altar behind him. See [[The Death of Oraecheon Blackspire]].
+[[Oraecheon Blackspire]] claimed it beneath [[The Abbey]] as he transformed into a death knight: "you're too late, the black grail is mine." [[Torin Turen]] lay bound to the altar behind him. See [[The Death of Oraecheon Blackspire]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
