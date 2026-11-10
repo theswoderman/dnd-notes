@@ -53,7 +53,7 @@ He never knew what he gave up that night. [[Torm]] has now answered it through [
 - Received treestride from the [[Sylvan Parcel]], alongside [[Beemo]]
 - Detected a secret passage inside [[The Abbey]] that opened into a tunnel. See [[The Crypt of Hate]]
 - Received a share of the power [[Torin Turen]] granted [[Falstad Firebeard]] beneath the abbey, then fought [[Oraecheon Blackspire]]. See [[The Tunnels Beneath the Abbey]]
-- Killed by [[Oraecheon Blackspire]]. He had a vision of [[Diggory Psalm]] rallying him to return to the fight, and rose, spending the right of return [[Kalara Mainfell]] granted him at the start of the pilgrimage. He fell again soon after and [[Oraecheon Blackspire|Blackspire]] killed him. He was revived after the fight. See [[The Death of Oraecheon Blackspire]]
+- Killed by [[Oraecheon Blackspire]]. He had a vision of [[Diggory Psalm]] rallying him to return to the fight, and rose, spending the [[Right of Return|right of return]] [[Kalara Mainfell]] granted him at the start of the pilgrimage. He fell again soon after and [[Oraecheon Blackspire|Blackspire]] killed him. He was revived after the fight. See [[The Death of Oraecheon Blackspire]]
 
 ## Torm and Bane
 [[Torin Turen]], high priest of [[Illmater]], has ridden alone into the [[Sage Thorn Forest|Sagethorn]], where a buried soldier of [[Bane]] has surfaced. [[Bane]] is one of "the Dead Three" and a major enemy of [[Torm]], which makes this Thalrik's fight as much as anyone's. See [[Torin's Flight into the Sagethorn]].

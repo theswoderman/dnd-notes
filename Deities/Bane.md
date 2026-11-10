@@ -24,7 +24,7 @@ Near the tree, a garrison of Bane's undead soldiers defeated a pack of werewolve
 ## His cult
 [[The Cult of Bane]] occupies [[The Abbey]] and the tunnels beneath it, with elite fighters called the Gauntlets of Bane. Its documents date back at least five years. See [[The Tunnels Beneath the Abbey]].
 
-[[Oraecheon Blackspire]], dying beneath the abbey, delivered a promise from Bane to make a martyr of [[Falstad Firebeard]] and cast power word kill on him, which killed him for a moment before his right of return brought him back. See [[The Death of Oraecheon Blackspire]].
+[[Oraecheon Blackspire]], dying beneath the abbey, delivered a promise from Bane to make a martyr of [[Falstad Firebeard]] and cast power word kill on him, which killed him for a moment before his [[Right of Return|right of return]] brought him back. See [[The Death of Oraecheon Blackspire]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

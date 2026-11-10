@@ -22,6 +22,9 @@ Travelers who embark on this pilgrimage must abide by the following tenets.
 - Travel on the ground by foot or by saddle. The longer the journey the more you stand to learn of yourself.
 - If you leave the road you should return to where you left it before resuming your journey. Travel the entire path.
 
+## The Right of Return
+Everyone who begins the pilgrimage receives a blessing that returns them to life once, at 1 hit point, the next time they die. See [[Right of Return]].
+
 ## Why it matters
 The second tenet is a standing obligation to help anyone who asks, which is why [[The Good Ones]] takes on most of its work. [[Raid on the Thieves Guild]] began exactly this way.
 
