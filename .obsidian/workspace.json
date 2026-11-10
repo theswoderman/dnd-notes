@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
+                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 36"
+              "title": "Campaign 1 Summary"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
+                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 36"
+                  "title": "Graph of Campaign 1 Summary"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,9 +414,9 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
     "Suggestions/Suggestion History/2026-11-09.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
     "People/NPCs/Kalara Mainfell.md",
     "People/NPCs/Quarrelus.md",
     "Events/Pilgrims of Panrelta/Events/The Death of Oraecheon Blackspire.md",
