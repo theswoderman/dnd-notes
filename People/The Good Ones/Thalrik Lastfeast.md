@@ -47,7 +47,7 @@ He never knew what he gave up that night. [[Torm]] has now answered it through [
 - Directed to [[Temple Trueheart]], with an eventual invitation to the [[The Order of the Golden Gauntlet|Knights of the Golden Gauntlet]] promised
 - Still has not found [[Magus Trollbeater|Maygus Trollbeater]], the [[Bronze Rams|Bronze Ram]] [[Brom Stonefist|Brom]] told him to seek in [[Stonehold]]
 - Treated [[Mirgen Roe]] and his son well before the overthrow of [[Crucius Ilyanich]]; Mirgen has told him he is always welcome back. See [[Liberation of Khulask Hollow]]
-- Dreamed of a cold dark field ringed by colossal rock pillars, the [[Hand of Annum]], in [[Dolghast]]. Dozens of stone giants made an offering to the night sky as shooting stars fell closer and closer; they gathered skystones and thanked [[Annum]] for the gift of that rare crafting material
+- Dreamed of a cold dark field ringed by colossal rock pillars, the [[Hand of Annam]], in [[Dolghast]]. Dozens of stone giants made an offering to the night sky as shooting stars fell closer and closer; they gathered skystones and thanked [[Annam]] for the gift of that rare crafting material
 
 - Singled out by [[Ky'ar Lastet]], along with [[Falstad Firebeard]], as one of the two who should go and talk to [[Torin Turen]] about what is happening to him. See [[Return to the Bettermans Guild]]
 - Received treestride from the [[Sylvan Parcel]], alongside [[Beemo]]
