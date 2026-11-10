@@ -1,9 +1,12 @@
 ---
 tags: [deity, panrelta, giant]
+aliases: [Amman]
 ---
 # Annum
 
-The all-father of the giants.
+The all-father of the giants, also written Amman.
+
+His daughter Mordraka bore the empyrean [[Lokar'rohg]] to [[Garagos]], god of bloodlust and war.
 
 Known almost entirely through the memories held in the [[Giant Memory Gemstones]], which [[The Good Ones]] experienced as dreams beneath [[The Garden of Dreams]].
 
@@ -13,3 +16,4 @@ Known almost entirely through the memories held in the [[Giant Memory Gemstones]
 
 ## Sources
 - [[Session 27]]
+- [[Campaign 1 Summary]]

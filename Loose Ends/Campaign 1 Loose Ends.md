@@ -19,14 +19,11 @@ Unresolved threads from Campaign 1. [[Reed]]'s summary now covers through [[Nige
 - Why [[Aeralath]] wanted [[The Sons of Thunder]] to collect the pieces of [[Queensbane]]. She was helping them gain power specifically so they would reassemble the one weapon that can harm her. The reason is unrecorded
 - The Reborn (Awoken) on the hidden continent: [[Nezerai Empire|Nezerai]] souls in constructed bodies, created by [[Vhal Nimzur]]. More are waking each day. What becomes of them? See [[The Hidden Continent]]
 - [[The Sons of Thunder]] owe Ghara J'boi a prison break in Cape Durk, [[Dolghast]], as payment for the voyage. [[Yosco]] is held there with Ghara's crew. See [[The Voyage South]] and [[The War Council at Gildurn]]
-- Cape Durk or Cape Dirk? [[Reed]]'s summary uses both spellings. The vault uses Cape Durk until the map settles it
 - ~~What does [[The Red Lady]] want to tell [[Jäkel Aleister le Rouge|Jakel]] in Warrior's Rest?~~ Resolved in part: she received the party in [[Warrior's Rest]] and sent them to the [[Tower of Fate]]. Anything she said to [[Jäkel Aleister le Rouge|Jakel]] alone is unrecorded. See [[The Battle of Warrior's Rest]]
 - [[Vhal Nimzur]] owns [[Diggory Psalm|Diggory]]'s soul for as long as his phylactery exists, and [[Ygorl]] wears it around his neck at the heart of [[Limbo]]. The party means to go back for it after [[Aeralath]]. See [[The Ascent of the Tower of Fate]]
 - How [[Vhal Nimzur]] came to be banished, became a lich, and took the [[Tower of Fate]], and what he and [[Ygorl]] were writing to each other about
-- [[Jäkel Aleister le Rouge|Jakel]] wagered "his own kingdom" in the [[Tower of Fate]]. Which kingdom that means at this point in the campaign, whether the wager was ever collected, and what his boon of fate does are all unrecorded
+- [[Jäkel Aleister le Rouge|Jakel]] wagered his inheritance, the kingdom he stood to rule, in the [[Tower of Fate]]. Whether the wager was ever collected and what his boon of fate does are unrecorded
 - How the fight between [[The Red Lady]] and [[Garagos]] ended. See [[The Battle of Warrior's Rest]]
 - [[Sorith Menyar-Ag]] swore to bring the full strength of the Gith'zerai to the final battle
 - [[Qua Sorii]] is arranging a possible way into the seventh layer of the [[Nine Hells of Baator|Nine Hells]]. The convergence of the planes is roughly two months off. See [[The War Council at Gildurn]]
-- [[Ornuth]] sat at [[The War Council at Gildurn]] among the allies, though [[The Great War]] records it as fighting alongside [[Dolghast]]. When or whether it changed sides is unrecorded
-- [[Lokar'rohg]]'s grandfather is given as Amman, god of giants. Probably the same deity as [[Annum]], the all-father of the giants, under a different spelling; unconfirmed
 - Name of the arcane college [[Davynn Brindleknot|Davynn]] founded in the restored [[Blackwaste]], marked TBD in the prelude

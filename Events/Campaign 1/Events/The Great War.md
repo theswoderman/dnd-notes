@@ -16,6 +16,8 @@ Nearly every nation of [[Anendal]] and [[Panrelta]] went to war against [[Dolgha
 
 [[Grekosha]] stayed undeclared for most of the war. [[Jäkel Aleister le Rouge|Jakel]]'s father wanted to seize power by killing [[Queen Marislova Domeshka]] and join [[Dolghast]]. Once he was taken out, [[Grekosha]] joined the coalition.
 
+[[Ornuth]] played little part. After [[Grekosha]] flipped and [[Dolghast]] failed to take [[Stonehold]], it opted out of the war, and it was represented among the allies at [[The War Council at Gildurn]].
+
 [[The Sons of Thunder]] ended the continental fighting, but [[Aeralath]] unleashed her demons on the world immediately afterward, intending to destroy it and create a new universe. [[The Sons of Thunder]] defeated her as well. Her defeat is commemorated annually as [[The Dawning]].
 
 ## Sources

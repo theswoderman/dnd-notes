@@ -36,7 +36,7 @@ His patron "[[Zargon the Immortal|Sina'Draiel]]" turned out to be [[Zargon the I
 - Possessed by [[Zargon the Immortal|Zargon]] during [[The Exorcism of Zargon]]; the arm holding the horn was cut off by [[Bathoz Manefell]] and regrown
 - Traded the horn for the [[Rose of Asmodeus]], gifted by [[Sardior]]
 - Summoned to [[Warrior's Rest]] by [[The Red Lady]], who stopped the axe of [[Garagos]] above him with her own shield. See [[The Battle of Warrior's Rest]]
-- Wagered his own kingdom in the [[Tower of Fate]], the most valuable stake any of the party offered, and received a boon of fate whose effect is unknown. See [[The Ascent of the Tower of Fate]]
+- Wagered his own kingdom in the [[Tower of Fate]] while still a prince, in effect staking his inheritance. It was the most valuable stake any of the party offered, and received a boon of fate whose effect is unknown. See [[The Ascent of the Tower of Fate]]
 
 ## Ten years later
 Appears in the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign, set a decade after Campaign 1: [[The Good Ones]] met him at a dinner in [[Stonehold]].

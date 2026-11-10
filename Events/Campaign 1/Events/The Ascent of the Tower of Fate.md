@@ -9,7 +9,7 @@ With [[The Red Lady]] holding off [[Garagos]] outside, [[The Sons of Thunder]] e
 
 The tower's guardians included golems with reality-manipulating powers. Two of its trials forced the party to wager things of value to sway fate in their favor: the greater and more meaningful the wager, the more fate favored their efforts within the tower. Value was measured by what the thing meant to the one offering it, not by its monetary worth. The wagers were made silently, so no one knew what their allies were gambling.
 
-[[Jäkel Aleister le Rouge|Jakel]] offered what the tower judged the most valuable thing of all, his own kingdom, and secured the party's passage further up. He received a magical boon of fate, though he was unsure what it did.
+[[Jäkel Aleister le Rouge|Jakel]] offered what the tower judged the most valuable thing of all: his own kingdom. He was a prince at the time, so the stake was in effect his inheritance. It secured the party's passage further up. He received a magical boon of fate, though he was unsure what it did.
 
 ## The laboratory
 
