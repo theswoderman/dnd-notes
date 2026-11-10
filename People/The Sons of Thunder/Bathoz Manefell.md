@@ -32,6 +32,8 @@ Exiled from his leonin tribe in the [[Golden Plains]] after losing a duel to [[K
 - Relived [[Atrios Wyrmslayer]]'s battle with the earth titan in the [[Pools of Memorium]]
 - Cut the [[Horn of Zargon]] out of [[Jäkel Aleister le Rouge]]'s arm
 - Absorbed [[Chronus]]'s power into [[Queensbane]], attuning it to [[Mechanus]] (the third of six attunements)
+- Forced to his knees by the presence of [[Sorith Menyar-Ag]], God-King of the Gith'zerai, he stood and talked back, and won the God-King's aid. See [[Into Limbo]]
+- Killed [[Krintak Cinderheart]] a second time in [[Warrior's Rest]]. See [[The Battle of Warrior's Rest]]
 
 ## Ten years later
 A leonin totem barbarian and Dreadclaw, he is the moral heart of [[The Sons of Thunder]] and the one who wielded [[Queensbane]] against [[Aeralath]].
@@ -42,3 +44,4 @@ He adopted a son, [[Thol]], a half-orc orphan from [[Whitehall]] whom [[The Sons
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]
+- [[Campaign 1 Summary]]

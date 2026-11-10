@@ -49,7 +49,7 @@ The twist, revealed late: **[[Aeralath]] was helping them gain power the whole t
 
 The full event-by-event sequence is on [[Campaign 1 Timeline]].
 
-> **A note on the record.** [[Reed]] is still writing the summary covering the campaign's final three levels. The detailed notes now cover through the party's arrival in [[Limbo]] ([[Into Limbo]]), but are still frozen before the endgame. Several pages therefore describe [[Aeralath]] as sealed and expected to return, and [[Queensbane]] as still needing its final attunements. The outcome below is known from the second campaign, not yet from Campaign 1's own notes.
+> **A note on the record.** [[Reed]] is still writing the summary covering the campaign's final three levels. The detailed notes now cover through the attunement of [[Queensbane]] in [[Limbo]] and the eve of the allied march into [[Dolghast]] ([[Nigel's Resurrection]]), but are still frozen before the endgame. Several pages therefore describe [[Aeralath]] as sealed and expected to return, and [[Queensbane]] as still needing its final attunements. The outcome below is known from the second campaign, not yet from Campaign 1's own notes.
 
 ### The turn of the era, 1017 A.P. / 1 D.E.
 
@@ -121,6 +121,6 @@ Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circ
 - `Session Notes/`, raw notes as taken at the table, kept unedited as an archive
 - `Suggestions/`, a shared suggestion box, and the record of what came of each one
 
-About 425 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+About 440 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
 
 **Spotted something wrong, or remember it differently?** Add it to the [[Suggestion Box]] and it gets worked in at the next update.

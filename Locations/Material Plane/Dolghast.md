@@ -7,6 +7,8 @@ The nation to the east that leads the opposing side of the war, ruled by [[Queen
 
 Dolghast's war is not really about territory. Prisoners kidnapped worldwide by the [[Ashes of Kemnan]] were shipped to [[Silnothas]] to be sacrificed to [[Aeralath]]. Every death before her arrival makes her stronger.
 
+Cape Durk, a coastal city in the east, holds a prison. Further north, Hellfrost Crater contains a planar gate to the [[Nine Hells of Baator|Nine Hells]]. See [[The War Council at Gildurn]].
+
 ## Ten years later: the refugees of Dolghast
 The once powerful empire is defeated. With the death of [[Queen Nocticula]] a great power vacuum opened, spurring an endless string of power-grabbing despots trying to establish a foothold. The country fell to ruin.
 
@@ -14,3 +16,4 @@ Many common folk long crushed under Nocticulan rule have fled anywhere they can,
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]
+- [[Campaign 1 Summary]]

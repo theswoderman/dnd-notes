@@ -29,6 +29,9 @@ he came to [[Thalrik Lastfeast]] in a dream and provided him with a new weapon w
 - Honored his bargain with the devil [[Skrezzit]] on a technicality: by summoning it thousands of feet in the air
 - Used Temple of the Gods to create a fortress in [[The Beastlands]] where the party made their stand against [[Cerrunos|the Erdking]]
 - True Polymorphed into a dragon to chase [[Minthur]] when the hybrid dragon fled for the city of Mushala
+- Surrendered his soul, until then [[Torm]]'s, to reach the top of the [[Tower of Fate]], and so handed it to the lich [[Vhal Nimzur]]. Many of his divine powers became powers of undeath. See [[The Ascent of the Tower of Fate]]
+- Kept the whole party alive through [[Vhal Nimzur]]'s 10th-level spell
+- Brought [[Davynn Brindleknot|Davynn]]'s brother [[Nigel]] back with True Resurrection. See [[Nigel's Resurrection]]
 
 ## Ten years later
 He is a satyr, Eloquence bard and cleric, bearer of the [[Hand of Truth]], and current mortal champion of [[Torm]]. He was raised in the woods of [[Thalonir]] before joining [[The Sons of Thunder]].
@@ -47,3 +50,4 @@ Appeared in a vision to [[Thalrik Lastfeast]] when he died fighting [[Oraecheon 
 - [[Thalrik's Dream]]
 - [[Session 28]]
 - [[Session 35]]
+- [[Campaign 1 Summary]]

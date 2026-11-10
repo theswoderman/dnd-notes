@@ -31,9 +31,12 @@ member of [[The Sons of Thunder]]
 
 - Knocked unconscious and teleported to a Modron prison by [[Astynom Alpha 009]] at the gate to [[Mechanus]]
 - Spotted [[Minthur]]'s invisible wingbeats disturbing the trees, saving the city of Mushala
+- Recovered an ancient artifact rifle from the [[Tower of Fate]], built by [[Primus]] as a gift to [[Tyche]]. See [[The Ascent of the Tower of Fate]]
+- Called on the mercane [[Qua Sorii]] for a faster road into the [[Nine Hells of Baator|Nine Hells]]. See [[The War Council at Gildurn]]
 
 ## Ten years later
 He made a career for himself as a detective in [[Whitehall]] and now serves under [[King Berrigan]] as chief inspector. After the first [[The Dawning|Dawning]] he founded a restaurant. He still serves the Alnorian crown.
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]
+- [[Campaign 1 Summary]]

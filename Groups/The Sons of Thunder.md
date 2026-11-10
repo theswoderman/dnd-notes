@@ -19,7 +19,7 @@ Knighted by [[King Berrigan]] and granted a mansion in [[Whitehall]].
 [[Io]] · [[Myrn Lim]] · [[Badger Barkbeard]] · [[Arjan Taneresh]] · [[Soraya Hawthorne]] · [[Hariett Hinkapot]] · Prim · Ray'el
 
 ## Current objective
-Attune [[Queensbane]] to six planes before [[Aeralath]] returns. Three down: [[Ysgard]] via [[The Titan of Stonehold]], [[The Beastlands]] from [[Lurue]]'s divine power, and [[Mechanus]] from [[Chronus]]'s power.
+Attune [[Queensbane]] to six planes before [[Aeralath]] returns. Four down: [[Ysgard]] via [[The Titan of Stonehold]], [[The Beastlands]] from [[Lurue]]'s divine power, [[Mechanus]] from [[Chronus]]'s power, and [[Limbo]] in the [[Tower of Fate]]. The [[Nine Hells of Baator|Nine Hells]] and [[The Abyss]] remain.
 
 ## Ten years later
 Still alive, and a very big deal in the world. The [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign is set a decade after Campaign 1 ends:
@@ -27,3 +27,6 @@ Still alive, and a very big deal in the world. The [[00 - Panrelta Index|Pilgrim
 - [[Thol]], of [[The Good Ones]], is [[Bathoz Manefell|Bathoz]]'s adopted son
 - [[The Good Ones]] met [[Jäkel Aleister le Rouge|Jakel]] at a dinner in [[Stonehold]]
 - They intend to bring [[The Abyssal Orb]] to the Sons of Thunder to deal with
+
+## Sources
+- [[Campaign 1 Summary]]

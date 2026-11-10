@@ -19,3 +19,8 @@ For most of the campaign this being was known only as [[Zargon the Immortal|Sina
 How to destroy him: carry the horn to the bottom of the ninth layer of hell and cast it into the flames of the deepest pit.
 
 The [[The Exorcism of Zargon|Exorcism of Zargon]] at the [[House of War]] drove most of him out of [[Jäkel Aleister le Rouge|Jakel]], but what remains is sealed inside [[Jäkel Aleister le Rouge|Jakel]]'s soul. If [[Jäkel Aleister le Rouge|Jakel]] dies before [[Zargon the Immortal|Zargon]] is destroyed, his soul is forfeit.
+
+His throne on the lowest level of the [[Nine Hells of Baator|Nine Hells]] is now held by [[Asmodeus]]. [[The Sons of Thunder]] planned to reach it, speak with [[Asmodeus]], and find a way to destroy the horn and free [[Jäkel Aleister le Rouge|Jakel]]'s soul. See [[The War Council at Gildurn]].
+
+## Sources
+- [[Campaign 1 Summary]]

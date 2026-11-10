@@ -26,7 +26,7 @@ aliases:
 - Cast Imprisonment during [[The Exorcism of Zargon]], but the spell was resisted
 - Struck the killing blow on [[Cerrunos|the Erdking]], god of hunting, with True Telekinesis in [[The Beastlands]]
 - Nearly killed by [[Chronus]]'s 9th-level Time Ravage in [[Mechanus]], aging him to within thirty days of death
-- Reportedly involved in the death of his own brother, a guilt [[Kovir]] judged him for; the brother was later revived
+- Involved in the death of his brother [[Nigel]] before the campaign, a guilt [[Kovir]] judged him for. He did not speak to his parents again until he returned to [[Blubberpike]] with [[Diggory Psalm|Diggory]], who brought [[Nigel]] back with True Resurrection. See [[Nigel's Resurrection]]
 
 ## Ten years later
 He is a gnome evocation wizard, among the most preeminent of his time, and may have no true rival on the material plane.
@@ -35,3 +35,4 @@ After the war he founded an arcane college in the restored and verdant lands of 
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]
+- [[Campaign 1 Summary]]

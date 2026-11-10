@@ -17,6 +17,8 @@ Because every living thing except demons carries a spark of [[Aelor]], every dea
 ## She wanted the sword collected
 She was helping [[The Sons of Thunder]] gain power because she wanted them to gather the scattered pieces of [[Queensbane]]. Their rise was, to some degree, her doing.
 
+In the loom of fate kept by [[The Watcher]], the threads of all five are pulled together by a single greater pink thread, the color of her portals. See [[The Ascent of the Tower of Fate]].
+
 [[Queensbane]] is the only weapon that has ever harmed her. See [[Campaign 1 Loose Ends]] for why she wanted it reassembled.
 
 ## What is known of her power
@@ -26,3 +28,6 @@ She was helping [[The Sons of Thunder]] gain power because she wanted them to ga
 She was defeated at the end of [[The Great War]], in [[Estrana|1017 A.P.]] That defeat is reckoned as the start of the Dawning Era (D.E.) and is celebrated every year as [[The Dawning]], the tenth of which is approaching in the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaign, in 10 D.E.
 
 Her home plane has not gone quiet. A necrohulk from [[The Abyss]] surfaced beneath a [[Panrelta]] mountain a decade on, and [[The Abyssal Orb]] came out of it.
+
+## Sources
+- [[Campaign 1 Summary]]

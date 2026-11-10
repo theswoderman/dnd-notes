@@ -64,6 +64,10 @@ The whole of Campaign 1 spans roughly one year of in-game time. [[Aeralath]]'s d
 45. [[The Voyage South]]
 46. [[The Hidden Continent]]
 47. [[Into Limbo]]
+48. [[The Battle of Warrior's Rest]]
+49. [[The Ascent of the Tower of Fate]]
+50. [[The War Council at Gildurn]]
+51. [[Nigel's Resurrection]]
 
 See [[Campaign 1 Loose Ends]].
 
