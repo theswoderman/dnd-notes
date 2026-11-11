@@ -32,8 +32,29 @@
               "title": "Campaign 1 Summary"
             },
             "group": "5f6a3ec99364036b"
+          },
+          {
+            "id": "542710ff198d66f8",
+            "type": "leaf",
+            "state": {
+              "type": "vault-graph-view",
+              "state": {},
+              "icon": "vault-graph-disc",
+              "title": "Vault graph"
+            }
+          },
+          {
+            "id": "2548a37dc5c70fb7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2f84238e61591256",
@@ -412,12 +433,13 @@
       "vault-graph:Vault graph": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "2548a37dc5c70fb7",
   "lastOpenFiles": [
+    "test/Hildred Castaign.md",
+    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Events/Campaign 1/Events/The Great War.md",
     "Deities/Annum.md",
     "Loose Ends/Campaign 1 Loose Ends.md",
-    "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Locations/Planes and Extraplanar/Tower of Fate.md",
     "Locations/Planes and Extraplanar/Warrior's Rest.md",
     "Locations/Planes and Extraplanar/Lu'Un'Dai.md",
@@ -439,7 +461,6 @@
     "Suggestions/Suggestion History/2026-11-09.md",
     "People/NPCs/Kalara Mainfell.md",
     "People/NPCs/Quarrelus.md",
-    "Events/Pilgrims of Panrelta/Events/The Death of Oraecheon Blackspire.md",
     "Events/Elves and Orcs one shot",
     "index.md.tmp.5280.06df988a1a63",
     "index.md.tmp.5280.fba50aeb78ca",
