@@ -27,12 +27,12 @@ gorgon died as soon as blackspire died
 
 falstad's armbanded arm weakens and becomes unusable. he lost his ability to cast somatic components with that arm and lost access to his divine connection. this happened in the moment that he cast revivify on thalrik.
 thalrik also lost his divine connection at the same time
-we block off both enterances to the cave network underneath the abbey that we've been in and hunker down to rest through the full moon while the werewolves are most active
+we block off both entrances to the cave network underneath the abbey that we've been in and hunker down to rest through the full moon while the werewolves are most active
 a dragon attacks the werewolves outside the abbey, destroying most of the abbey in the process
 a person named zeke knocks on the door to our tunnel - zeke was a guard in saltport who freed the good ones when they were there (before thalrik joined the game)
 we also hear the voice of ceris, the wood elf ranger who raised gribnik
 we leave and see the complete destruction of the abbey, it has a blue haze in a circle around it, and all the lycanthropes in the vicinity have been defeated
-ceris reveals that she is both ceris and zeke, and has been cultivating beemo's growth over the years
+ceris reveals that she is both ceris and zeke, and has been cultivating beemo's growth over the years. he has been taking many forms over the course of the adventure guiding the parties path
 ceris is the silver dragon that defeated the lycanthropes, his name is actually zarisk
 
 ceris grants twitchtail a draconic form, gribniks eye also gains a draconic silver eye coloration 
