@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -412,7 +412,7 @@
       "vault-graph:Vault graph": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "b36ba2513d70fe66",
   "lastOpenFiles": [
     "test/Hildred Castaign.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",

@@ -21,3 +21,6 @@
 - Does [[Bane]] himself await in [[The Abbey]]?
 - Why does [[Mirna Gribwood]] appear to everyone except [[Beemo]], and is she lodged in someone's mind?
 - Was [[Lightfoot]] here, and what became of the Pegasus?
+
+
+## Notes 
