@@ -42,3 +42,5 @@ we arrive at temple trueheart and are greeted by a high elf named aeroth and [[D
 grant mentioned that diggory is from loradris
 we meet a golden dragonborn named gillead dragonsong
 falstad's cursed arm is chopped off and he goes through a healing ritual over the course of many hours. during this time he has a vision in which he speaks with lady berenar and reflects on his role as a cleric. she is impressed with how he has grown but suggests that he draw his power from another god instead, suggesting ilmater but leaving the choice up to falstad
+thalrik spoke with diggory about his role as a carrier of the hand of valor. diggory mentioned that he and torm did not foresee the coming of bane's champion, and the weight of being chosen by torm is stressed
+

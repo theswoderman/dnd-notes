@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drow",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,8 +255,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -413,10 +412,12 @@
       "vault-graph:Vault graph": false
     }
   },
-  "active": "2730ff74bae74d4e",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
-    "index.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
+    "Loose Ends/Panrelta Loose Ends.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
+    "index.md",
     "People/The Sons of Thunder/Diggory Psalm.md",
     "test/Hildred Castaign.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
@@ -439,8 +440,6 @@
     "Events/Campaign 1/Events/The War Council at Gildurn.md",
     "Events/Campaign 1/Events/The Ascent of the Tower of Fate.md",
     "Events/Campaign 1/Events/The Battle of Warrior's Rest.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 35.md",
-    "Suggestions/Suggestion History/2026-11-09.md",
     "Events/Elves and Orcs one shot",
     "index.md.tmp.5280.06df988a1a63",
     "index.md.tmp.5280.fba50aeb78ca",
