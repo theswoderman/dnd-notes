@@ -29,6 +29,9 @@ falstad's armbanded arm weakens and becomes unusable. he lost his ability to cas
 thalrik also lost his divine connection at the same time
 we block off both enterances to the cave network underneath the abbey that we've been in and hunker down to rest through the full moon while the werewolves are most active
 a dragon attacks the werewolves outside the abbey, destroying most of the abbey in the process
-a person named zeke knocks on the door to our tunnel
-ceris, the wood elf ranger who raised gribnik is also there
+a person named zeke knocks on the door to our tunnel - zeke was a guard in saltport who freed the good ones when they were there (before thalrik joined the game)
+we also hear the voice of ceris, the wood elf ranger who raised gribnik
 we leave and see the complete destruction of the abbey, it has a blue haze in a circle around it, and all the lycanthropes in the vicinity have been defeated
+ceris reveals that she is both ceris and zeke, and has been cultivating beemo's growth over the years
+ceris is the silver dragon that defeated the lycanthropes, his name is actually zarisk (i think this is the wrong name)
+
