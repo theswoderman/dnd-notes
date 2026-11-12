@@ -185,7 +185,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.36288736930120746,
+                      "scale": 1.4019828977760844,
                       "close": true
                     }
                   },
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes",
+                "query": "drow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,12 +255,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -413,7 +413,7 @@
       "vault-graph:Vault graph": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "2730ff74bae74d4e",
   "lastOpenFiles": [
     "index.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",

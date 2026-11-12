@@ -34,7 +34,6 @@ we also hear the voice of ceris, the wood elf ranger who raised gribnik
 we leave and see the complete destruction of the abbey, it has a blue haze in a circle around it, and all the lycanthropes in the vicinity have been defeated
 ceris reveals that she is both ceris and zeke, and has been cultivating beemo's growth over the years. he has been taking many forms over the course of the adventure guiding the parties path
 ceris is the silver dragon that defeated the lycanthropes, his name is actually zarisk
-
 ceris grants twitchtail a draconic form, gribniks eye also gains a draconic silver eye coloration 
 ceris carries the entire party to castle trueheart
 torin's pegasus is presumed dead at this point. probably killed by blackspire when he captured torin
@@ -43,4 +42,3 @@ we arrive at temple trueheart and are greeted by a high elf named aeroth and [[D
 grant mentioned that diggory is from loradris
 we meet a golden dragonborn named gillead dragonsong
 falstad's cursed arm is chopped off and he goes through a healing ritual over the course of many hours. during this time he has a vision in which he speaks with lady berenar and reflects on his role as a cleric. she is impressed with how he has grown but suggests that he draw his power from another god instead, suggesting ilmater but leaving the choice up to falstad
-
