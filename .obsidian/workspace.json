@@ -255,7 +255,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -412,7 +413,7 @@
       "vault-graph:Vault graph": false
     }
   },
-  "active": "422715ec20929148",
+  "active": "2730ff74bae74d4e",
   "lastOpenFiles": [
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "Loose Ends/Panrelta Loose Ends.md",
