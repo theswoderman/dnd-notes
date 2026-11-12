@@ -25,5 +25,5 @@
 context for last session: we interrupted the ritual known as the black grail, which is what turned blackspire into a death knight by consuming part of torin's soul. 
 gorgon died as soon as blackspire died
 
-falstad's armbanded arm weakens and becomes unusable. he lost his ability to cast somatic components with that arm and lost access to his divine connection. this happened in the moment that he cast rivivify on thalrik.
+falstad's armbanded arm weakens and becomes unusable. he lost his ability to cast somatic components with that arm and lost access to his divine connection. this happened in the moment that he cast revivify on thalrik.
 thalrik also lost his divine connection at the same time
