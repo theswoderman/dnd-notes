@@ -15,10 +15,9 @@
 - What is [[The Black Grail]], and did it displace [[Illmater]] in [[Torin Turen|Torin]]?
 - How does [[Torin Turen|Torin]] know the name "little shadow"?
 - What does [[The Abyssal Orb]] want freeing from, and why did it ask only [[Thalrik Lastfeast|Thalrik]]?
-- Who is [[Kalara Mainfell]], and what is the magical source of the [[Right of Return|right of return]]?
-- What is the cult doing with the abductees from [[Brashta]] and [[Brinemire]], and why trap lycanthropes in silver wire?
 - What did the cultists want at [[Khulask Hollow]], and who beat them to it?
 - Does [[Bane]] himself await in [[The Abbey]]?
+	- no
 - Why does [[Mirna Gribwood]] appear to everyone except [[Beemo]], and is she lodged in someone's mind?
 - Was [[Lightfoot]] here, and what became of the Pegasus?
 
