@@ -22,5 +22,7 @@
 - Was [[Lightfoot]] here, and what became of the Pegasus?
 
 ## Notes 
-we interrupted the ritual known as the black grail, which is what turned blackspire into a death knight by consuming part of torin's soul. 
+context for last session: we interrupted the ritual known as the black grail, which is what turned blackspire into a death knight by consuming part of torin's soul. 
 
+falstad's armbanded arm weakens and becomes unusable. he lost his ability to cast somatic components with that arm and lost access to his divine connection
+thalrik also lost his divine connection
