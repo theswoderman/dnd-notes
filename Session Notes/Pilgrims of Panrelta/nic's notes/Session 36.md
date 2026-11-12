@@ -33,5 +33,5 @@ a person named zeke knocks on the door to our tunnel - zeke was a guard in saltp
 we also hear the voice of ceris, the wood elf ranger who raised gribnik
 we leave and see the complete destruction of the abbey, it has a blue haze in a circle around it, and all the lycanthropes in the vicinity have been defeated
 ceris reveals that she is both ceris and zeke, and has been cultivating beemo's growth over the years
-ceris is the silver dragon that defeated the lycanthropes, his name is actually zarisk (i think this is the wrong name)
+ceris is the silver dragon that defeated the lycanthropes, his name is actually zarisk
 
