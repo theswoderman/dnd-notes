@@ -9,7 +9,7 @@ tags: [event, panrelta]
 
 ## What happened
 ### The curse
-In the moment [[Falstad Firebeard]] cast revivify on [[Thalrik Lastfeast]], the arm bound by [[Torin Turen]]'s red armband weakened and became unusable. He could no longer perform somatic components with it, and he lost access to his divine connection. He is cursed with the curse of the Dead Three.
+[[Oraecheon Blackspire|Blackspire]] cursed [[Falstad Firebeard]] before he died with the curse of the Dead Three, part of [[Bane]]'s promise to make a martyr of him. Casting revivify on [[Thalrik Lastfeast]] was the last thing [[Falstad Firebeard|Falstad]] managed before the curse set in. The arm bound by [[Torin Turen]]'s red armband then weakened and became unusable. He could no longer perform somatic components with it, and he lost access to his divine connection.
 
 [[Thalrik Lastfeast|Thalrik]] lost his divine connection at the same moment. He can still cast spells, but no longer feels the presence of [[Torm]].
 
@@ -19,10 +19,10 @@ In the moment [[Falstad Firebeard]] cast revivify on [[Thalrik Lastfeast]], the 
 ### The dragon
 A dragon attacked the werewolves outside, destroying most of [[The Abbey]] in the process. Afterward a knock came at the door to the party's tunnel. It was Zeke, a guard from [[Saltport]] who had freed [[The Good Ones]] there before [[Thalrik Lastfeast|Thalrik]] joined them. With him came the voice of Ceris, the wood elf ranger who raised [[Gribnik Mossfoot]].
 
-Outside, the abbey was completely destroyed, ringed by a circle of blue haze, and every lycanthrope in the vicinity had been defeated.
+Outside, the abbey was completely destroyed, ringed by a circle of blue haze left by the dragon's cold breath, and every lycanthrope in the vicinity had been defeated. They were members of the [[Black Blood Pack]], and more of the pack likely remain elsewhere.
 
 ### Zarisk
-Ceris and Zeke were one person, and that person was the dragon: [[Zarisk]], a silver dragon who has taken many forms over the course of the adventure, guiding the party's path. He has been cultivating [[Beemo]]'s growth over the years.
+Ceris and Zeke were one person, and that person was the dragon: [[Zarisk]], a silver dragon who has taken many forms over the course of the adventure, guiding the party's path. He rescued [[Gribnik Mossfoot|Gribnik]] from the [[Mossclaw]] as a young goblin, and has been cultivating his growth ever since.
 
 [[Zarisk]] granted [[Twitchtail]], [[Gribnik Mossfoot|Gribnik]]'s beast companion, a draconic form, and [[Gribnik Mossfoot|Gribnik]]'s eye gained a draconic silver coloration. He then carried the entire party, and [[Torin Turen|Torin]] with them, to [[Temple Trueheart]]. See [[Arrival at Temple Trueheart]].
 

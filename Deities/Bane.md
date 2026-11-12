@@ -3,7 +3,7 @@ tags: [deity, panrelta, enemy, major]
 ---
 # Bane
 
-God of oppression, god of hate, god of tyranny. One of "the Dead Three", and a major enemy of [[Torm]].
+God of oppression, god of hate, god of tyranny. One of "the Dead Three", three particularly evil gods, alongside Bhaal and Myrkul, and a major enemy of [[Torm]].
 
 He has apparently taken a foothold in the [[Sage Thorn Forest|Sagethorn]]. [[Falstad Firebeard]] scried on [[Torin Turen]] there and saw him digging up a corpse in armor bearing a black fist, bleeding green lines of energy. A soldier of Bane. See [[Torin's Flight into the Sagethorn]].
 
@@ -28,7 +28,7 @@ Near the tree, a garrison of Bane's undead soldiers defeated a pack of werewolve
 
 [[Oraecheon Blackspire|Blackspire]] was Bane's champion. Bane himself was not at the abbey. Neither [[Torm]] nor [[Diggory Psalm]] had foreseen the champion's coming.
 
-After the fight [[Falstad Firebeard|Falstad]] was cursed with the curse of the Dead Three, which crippled one arm and cut him off from his divine connection. See [[The Destruction of the Abbey]].
+Before dying [[Oraecheon Blackspire|Blackspire]] also cursed [[Falstad Firebeard|Falstad]] with the curse of the Dead Three, as part of the promise to make a martyr of him. It crippled one arm and cut him off from his divine connection. See [[The Destruction of the Abbey]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

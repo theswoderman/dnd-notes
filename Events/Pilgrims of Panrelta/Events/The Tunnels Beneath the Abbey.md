@@ -17,7 +17,7 @@ The room held the bodies of lycanthropes wrapped in the silver barbed wire used 
 Beyond lay a hallway littered with signs of torture and a throne made of drow bones. [[Falstad Firebeard]]'s inspection of the throne indicated the place had been a stronghold of [[Lolth]].
 
 ### The pool
-Deeper down, the party heard [[Torin Turen]] crying out in pain. At a pool [[Falstad Firebeard|Falstad]] was entranced: he saw the hand of a desiccated corpse rise from the water and offer him the red armband [[Torin Turen|Torin]] had worn. The binding wrapped around his hand and cut his palm, tightening as it went. [[Torin Turen|Torin]] spoke to him in a vision and granted him additional power. [[Falstad Firebeard|Falstad]] glowed with daylight, channeling divine energy from [[Torin Turen|Torin]], and shared some of the power with [[Thalrik Lastfeast]].
+Deeper down, the party heard [[Torin Turen]] crying out in pain. At a pool [[Falstad Firebeard|Falstad]] was entranced: he saw the hand of a desiccated corpse rise from the water and offer him the red armband [[Torin Turen|Torin]] had worn. The binding wrapped around his hand and cut his palm, tightening as it went. [[Torin Turen|Torin]] spoke to him in a vision and granted him additional power. [[Falstad Firebeard|Falstad]] glowed with daylight, channeling divine energy from [[Torin Turen|Torin]], and shared some of the power with [[Thalrik Lastfeast]]. The power came from [[Illmater]].
 
 ### Oraecheon Blackspire
 Past the pool, [[Oraecheon Blackspire]] had [[Torin Turen|Torin]] on an altar, where he had been torturing him. The party attacked. The fight continued into [[The Death of Oraecheon Blackspire]].

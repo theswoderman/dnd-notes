@@ -36,7 +36,7 @@ he came to [[Thalrik Lastfeast]] in a dream and provided him with a new weapon w
 ## Ten years later
 He is a satyr, Eloquence bard and cleric, bearer of the [[Hand of Truth]], and current mortal champion of [[Torm]]. He was raised in the woods of [[Thalonir]], in [[Loradris]], before joining [[The Sons of Thunder]].
 
-He now acts as counsel to the King of [[Grekosha]] ([[Jäkel Aleister le Rouge|Jakel]]) and as an occasional neutral diplomat, serving the god of truth. In the last five years he has built a holy temple in the [[Dragonspine Mountains]], where he trains a new band of heroes under the banner of [[Torm]].
+He now acts as counsel to the King of [[Grekosha]] ([[Jäkel Aleister le Rouge|Jakel]]) and as an occasional neutral diplomat, serving the god of truth. In the last five years he has built a holy temple in the [[Dragonspine Mountains]], [[Temple Trueheart]], where he trains a new band of heroes under the banner of [[Torm]].
 
 [[Grant]], who wrote the Panrelta prelude and runs that campaign, played Diggory.
 
@@ -45,9 +45,9 @@ Appeared to [[Thalrik Lastfeast]] through a portal in [[Thalrik's Dream of Torm]
 
 Appeared in a vision to [[Thalrik Lastfeast]] when he died fighting [[Oraecheon Blackspire]], rallying him to return to the fight. See [[The Death of Oraecheon Blackspire]].
 
-He is a member of [[The Order of the Golden Gauntlet]]. He received [[The Good Ones]] at [[Temple Trueheart]] alongside [[Aeroth]] when [[Zarisk]] carried them there. He is about thirty, and looked older and wearier than a satyr of that age should. He spoke with [[Thalrik Lastfeast|Thalrik]] about bearing the [[Hand of Valor]] and the weight of being chosen by [[Torm]]. Neither he nor [[Torm]] had foreseen the coming of [[Bane]]'s champion.
+He runs [[The Order of the Golden Gauntlet]]. He received [[The Good Ones]] at [[Temple Trueheart]] alongside [[Aeroth]] when [[Zarisk]] carried them there. He is about thirty, and looked older and wearier than a satyr of that age should. Running the order is apparently taxing work. He spoke with [[Thalrik Lastfeast|Thalrik]] about bearing the [[Hand of Valor]] and the weight of being chosen by [[Torm]]. Neither he nor [[Torm]] had foreseen the coming of [[Bane]]'s champion.
 
-He told [[Thalrik Lastfeast|Thalrik]] in confidence that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over, and lent him his [[Golden Hourglass|golden hourglass]], which turns time back and which he has had since his days with [[The Sons of Thunder]], demonstrating it by jumping off a cliff and being returned to the top. He, [[Aeroth]] and [[Gillead Dragonsong]] are to challenge the party to a sparring match. He also asked the party about the [[Right of Return|rite of return]]. See [[Arrival at Temple Trueheart]].
+He told [[Thalrik Lastfeast|Thalrik]] in confidence that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over, the order having lost [[Vladislav]], and lent him his [[Golden Hourglass|golden hourglass]], which turns time back and which he has had since his days with [[The Sons of Thunder]], demonstrating it by jumping off a cliff and being returned to the top. He, [[Aeroth]] and [[Gillead Dragonsong]] are to challenge the party to a sparring match. He also asked the party about the [[Right of Return|rite of return]]. See [[Arrival at Temple Trueheart]].
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]

@@ -12,6 +12,8 @@ The temple of Illmater in the [[Sage Thorn Forest]] is [[The Abbey]], now also c
 A note found at [[The Abbey]] in [[Illmater]]'s red cloths, written by followers who had tried to maintain the temple, describes an empty darkness that eats faith and tortures dreams. The Ilmatari abandoned the grounds, writing that "Our Martyred Father does not walk here." See [[The Crypt of Hate]].
 
 ## Falstad
+The power [[Torin Turen|Torin]] granted [[Falstad Firebeard|Falstad]] beneath [[The Abbey]] came from Illmater. See [[The Tunnels Beneath the Abbey]].
+
 [[Berrenar]] suggested in a vision that [[Falstad Firebeard]], cut off from his divine connection, draw his power from another god. She named Illmater and left the choice to him. See [[Arrival at Temple Trueheart]].
 
 ## Torin's failing connection

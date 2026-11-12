@@ -6,7 +6,7 @@ tags: [faction, panrelta, enemy]
 **Disposition:** Hostile
 **Base:** Unknown
 
-A goblin tribe, and [[Gribnik Mossfoot]]'s former one. They have been raiding [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]], and holding them off is what has kept [[Torin Turen]] from sleeping.
+A goblin tribe, and [[Gribnik Mossfoot]]'s former one. He left as a young goblin when he realized how evil they were, rescued by the silver dragon [[Zarisk]]. They have been raiding [[The Bettermans Guild]]'s camp in [[The Iron Oak Woods]], and holding them off is what has kept [[Torin Turen]] from sleeping.
 
 One raider in particular, a goblin with a black mohawk, was chased off but is expected to return with reinforcements. He matches the description of a goblin [[The Good Ones]] spared in an earlier session, so at least one of the raiders has met the party before and lived.
 

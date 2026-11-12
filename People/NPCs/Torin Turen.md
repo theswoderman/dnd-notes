@@ -50,16 +50,16 @@ A gnomish scream came out of the moving corpses at [[The Frozen Riverbank]].
 ## Captive beneath the abbey
 [[Oraecheon Blackspire]] held Torin on an altar in the tunnels beneath [[The Abbey]] and tortured him there. His cries carried up the hallway to [[The Good Ones]] as they descended. The pegasus feathers found in the abbey above were presumably [[Lightfoot]]'s, though this is unconfirmed.
 
-A red armband he wore was offered to [[Falstad Firebeard]] from a pool by the hand of a desiccated corpse. Torin then spoke to Falstad in a vision and granted him additional power, which Falstad channeled as divine energy. See [[The Tunnels Beneath the Abbey]].
+A red armband he wore was offered to [[Falstad Firebeard]] from a pool by the hand of a desiccated corpse. Torin then spoke to Falstad in a vision and granted him additional power, which Falstad channeled as divine energy. The power came from [[Illmater]]. See [[The Tunnels Beneath the Abbey]].
 
-He is bound to the altar by magic and cannot be moved by strength or by spell. As he lost consciousness during the fight with [[Oraecheon Blackspire]] he whispered "Illmater... blessing...". [[Oraecheon Blackspire|Blackspire]] claimed the [[The Black Grail|black grail]] as his own before he died. See [[The Death of Oraecheon Blackspire]].
+He was bound to the altar by magic and could not be moved by strength or by spell until [[Oraecheon Blackspire|Blackspire]] died, when the altar released him. As he lost consciousness during the fight with [[Oraecheon Blackspire]] he whispered "Illmater... blessing...". [[Oraecheon Blackspire|Blackspire]] claimed the [[The Black Grail|black grail]] as his own before he died. See [[The Death of Oraecheon Blackspire]].
 
 ## The ritual
 [[The Black Grail]] is a ritual. [[Oraecheon Blackspire|Blackspire]] performed it on Torin, and it consumed part of Torin's soul to turn [[Oraecheon Blackspire|Blackspire]] into a death knight. [[The Good Ones]] interrupted it.
 
 [[Lightfoot]] is presumed dead, probably killed by [[Oraecheon Blackspire|Blackspire]] when he captured Torin.
 
-On the night of the following full moon the silver dragon [[Zarisk]] destroyed most of the abbey above the tunnels, and carried [[The Good Ones]] to [[Temple Trueheart]]. Torin went with them, and the clerics of the temple revived him. See [[The Destruction of the Abbey]] and [[Arrival at Temple Trueheart]].
+On the night of the following full moon the silver dragon [[Zarisk]] destroyed most of the abbey above the tunnels, and carried [[The Good Ones]] to [[Temple Trueheart]]. Torin went with them, and the clerics of the temple revived him. He has been seen only briefly since. See [[The Destruction of the Abbey]] and [[Arrival at Temple Trueheart]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

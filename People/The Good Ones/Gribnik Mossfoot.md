@@ -28,7 +28,7 @@ A goblin beastmaster ranger of [[The Good Ones]]. He can summon a beast companio
 [[Ian]] was not playing the night of the second dream in [[The Dusk Hag's Dreams]].
 
 ## He is a Mossclaw
-The [[Mossclaw]] are [[Gribnik Mossfoot|Gribnik]]'s former tribe.
+The [[Mossclaw]] are [[Gribnik Mossfoot|Gribnik]]'s former tribe. He left them when he realized how evil they were, rescued as a young goblin by [[Zarisk]] in the form of Ceris.
 
 That puts him on both sides of the raids on [[The Bettermans Guild]]'s camp. The raider [[Ky'ar Lastet]] saw also matches the goblin [[The Good Ones]] spared in an earlier session.
 
@@ -36,7 +36,7 @@ That puts him on both sides of the raids on [[The Bettermans Guild]]'s camp. The
 He dreamed of [[The Laughing Princes Constellation|the Laughing Princes constellation]] and came out of it with the name [[Oraecheon Blackspire]] and some connection to [[The Drow]].
 
 ## Ceris
-He was raised by Ceris, a wood elf ranger. Ceris was a form of the silver dragon [[Zarisk]], who has been guiding the party's path in several guises. Outside the ruins of [[The Abbey]], [[Zarisk]] granted [[Twitchtail]] a draconic form, and Gribnik's eye gained a draconic silver coloration. See [[The Destruction of the Abbey]].
+He was raised by Ceris, a wood elf ranger. Ceris was a form of the silver dragon [[Zarisk]], who has been guiding the party's path in several guises. [[Zarisk]] has been cultivating his growth since rescuing him, and has grown more interested in his exploits over time. Outside the ruins of [[The Abbey]], [[Zarisk]] granted [[Twitchtail]] a draconic form, and Gribnik's eye gained a draconic silver coloration. See [[The Destruction of the Abbey]].
 
 ## Sources
 - [[Session 27]]

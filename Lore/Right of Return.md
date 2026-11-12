@@ -12,7 +12,7 @@ The wording of the enchantment changes slightly between translations, depending 
 Breaking the tenets of the pilgrimage risks forsaking the blessing.
 
 ## In play
-[[Kalara Mainfell]] granted [[Thalrik Lastfeast|Thalrik]]'s at the start of his pilgrimage. It was spent beneath [[The Abbey]] when [[Oraecheon Blackspire]] killed him and he rose again, and again when [[Falstad Firebeard]] was killed by power word kill and returned at once. See [[The Death of Oraecheon Blackspire]].
+[[Kalara Mainfell]], a Leonin, granted [[Thalrik Lastfeast|Thalrik]]'s at the start of his pilgrimage. It was spent beneath [[The Abbey]] when [[Oraecheon Blackspire]] killed him and he rose again, and again when [[Falstad Firebeard]] was killed by power word kill and returned at once. See [[The Death of Oraecheon Blackspire]].
 
 [[Diggory Psalm]] asked [[The Good Ones]] about it at [[Temple Trueheart]]. None of them really understands its true nature.
 

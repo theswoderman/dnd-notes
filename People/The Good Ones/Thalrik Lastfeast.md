@@ -64,7 +64,7 @@ At [[The Battle at the Bridge]] the Specter of Bane picked him and [[Falstad Fir
 ## At Temple Trueheart
 The silver dragon [[Zarisk]] carried him to [[Temple Trueheart]] with the rest of [[The Good Ones]]. There he spoke with [[Diggory Psalm]] about his role as bearer of the [[Hand of Valor]]. Neither [[Diggory Psalm|Diggory]] nor [[Torm]] had foreseen the coming of [[Bane]]'s champion, and [[Diggory Psalm|Diggory]] stressed the weight of being chosen by [[Torm]].
 
-[[Diggory Psalm|Diggory]] told him in confidence that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over. He also lent him a [[Golden Hourglass|golden hourglass]] that turns time back when flipped, to use or not in the sparring match against [[Aeroth]], [[Gillead Dragonsong]] and [[Diggory Psalm|Diggory]]. He must return it before the party leaves the temple, and is not to mention it to the others. See [[Arrival at Temple Trueheart]].
+[[Diggory Psalm|Diggory]] told him in confidence that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over. The order recently lost a member, [[Vladislav]], and is interested in Thalrik joining, since [[Torm]] chose him as a new champion by granting him the [[Hand of Valor]]. He also lent him a [[Golden Hourglass|golden hourglass]] that turns time back when flipped, to use or not in the sparring match against [[Aeroth]], [[Gillead Dragonsong]] and [[Diggory Psalm|Diggory]]. He must return it before the party leaves the temple, and is not to mention it to the others. See [[Arrival at Temple Trueheart]].
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]

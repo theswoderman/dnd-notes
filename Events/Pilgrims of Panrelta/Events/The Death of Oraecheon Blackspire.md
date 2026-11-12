@@ -23,10 +23,10 @@ Midway through the fight [[Oraecheon Blackspire|Blackspire]] transformed into a 
 [[Thalrik Lastfeast]] was killed in the fight. In the moment of death he had a vision of [[Diggory Psalm]] rallying him to return to the fight, and he got back up. His [[Right of Return|right of return]], which [[Kalara Mainfell]] granted him at the start of the pilgrimage, was consumed in doing so. He fell again soon after, and [[Oraecheon Blackspire|Blackspire]] killed him. [[Gegga]] also fell unconscious during the fight.
 
 ### The end of Blackspire
-[[The Good Ones]] defeated [[Oraecheon Blackspire|Blackspire]]. Before he died he delivered a promise from [[Bane]] to make a martyr of [[Falstad Firebeard]], and cast power word kill on him. The spell killed [[Falstad Firebeard|Falstad]], whose own [[Right of Return|right of return]] was consumed and brought him back to life immediately. [[Quarrelus]] died the moment [[Oraecheon Blackspire|Blackspire]] did.
+[[The Good Ones]] defeated [[Oraecheon Blackspire|Blackspire]]. Before he died he delivered a promise from [[Bane]] to make a martyr of [[Falstad Firebeard]], and cast power word kill on him. The spell killed [[Falstad Firebeard|Falstad]], whose own [[Right of Return|right of return]] was consumed and brought him back to life immediately. As part of that promise [[Oraecheon Blackspire|Blackspire]] also laid the curse of the Dead Three on him. [[Quarrelus]] died the moment [[Oraecheon Blackspire|Blackspire]] did.
 
 ### Aftermath
-The session ended almost as soon as [[Oraecheon Blackspire|Blackspire]] fell. [[Torin Turen]] remained bound to the altar. After the fight, [[Falstad Firebeard|Falstad]] revived [[Thalrik Lastfeast]] with revivify, and [[Gegga]] recovered. What the casting cost them both is in [[The Destruction of the Abbey]].
+The session ended almost as soon as [[Oraecheon Blackspire|Blackspire]] fell. The altar released [[Torin Turen]] as soon as [[Oraecheon Blackspire|Blackspire]] died, and he could be moved. After the fight, [[Falstad Firebeard|Falstad]] revived [[Thalrik Lastfeast]] with revivify, and [[Gegga]] recovered. The curse set in immediately afterward. See [[The Destruction of the Abbey]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

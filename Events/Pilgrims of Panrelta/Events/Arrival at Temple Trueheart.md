@@ -8,7 +8,7 @@ tags: [event, panrelta, crossover]
 **Sources:** [[Session 36]]
 
 ## What happened
-[[Zarisk]] set [[The Good Ones]] down at [[Temple Trueheart]], where a high elf named [[Aeroth]] and [[Diggory Psalm]] greeted them. [[Diggory Psalm|Diggory]] is a satyr of about thirty, and looked older and wearier than that. The party also met [[Gillead Dragonsong]], a golden dragonborn.
+[[Zarisk]] set [[The Good Ones]] down at [[Temple Trueheart]], where a high elf named [[Aeroth]] and [[Diggory Psalm]] greeted them. [[Diggory Psalm|Diggory]] is a satyr of about thirty, and looked older and wearier than that. Running the order is apparently taxing work. The party also met [[Gillead Dragonsong]], a golden dragonborn.
 
 [[Torin Turen]] came with them, and the clerics of the temple revived him.
 
@@ -18,19 +18,19 @@ tags: [event, panrelta, crossover]
 ### Thalrik and Diggory
 [[Thalrik Lastfeast]] spoke with [[Diggory Psalm|Diggory]] about his role as bearer of the [[Hand of Valor]]. Neither [[Diggory Psalm|Diggory]] nor [[Torm]] had foreseen the coming of [[Bane]]'s champion, and [[Diggory Psalm|Diggory]] stressed the weight of being chosen by [[Torm]].
 
-He then told [[Thalrik Lastfeast|Thalrik]], as a secret to be kept, that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over. He handed over a [[Golden Hourglass|golden hourglass]] of his own, told [[Thalrik Lastfeast|Thalrik]] to flip it after three seconds, and jumped off a cliff. Flipping the hourglass turned time back and returned [[Diggory Psalm|Diggory]] to the top of the cliff.
+He then told [[Thalrik Lastfeast|Thalrik]], as a secret to be kept, that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over. The order recently lost a member, [[Vladislav]], and is interested in [[Thalrik Lastfeast|Thalrik]] joining, since [[Torm]] chose him as a new champion by granting him the [[Hand of Valor]]. He handed over a [[Golden Hourglass|golden hourglass]] of his own, told [[Thalrik Lastfeast|Thalrik]] to flip it after three seconds, and jumped off a cliff. Flipping the hourglass turned time back and returned [[Diggory Psalm|Diggory]] to the top of the cliff.
 
 The next day [[Aeroth]], [[Gillead Dragonsong|Gillead]] and [[Diggory Psalm|Diggory]] are to challenge [[The Good Ones]] to a sparring match. When and whether to use the hourglass in it is [[Thalrik Lastfeast|Thalrik]]'s choice. He must return it before the party leaves, and is not to mention it to the others.
 
 ### The temple's people
-Besides [[Aeroth]], [[Gillead Dragonsong|Gillead]] and [[Diggory Psalm|Diggory]], the temple's members, all of whom belong to [[The Order of the Golden Gauntlet]], include [[Vallen Halberk]], a human cleric of the knowledge domain, [[Senn Blackstone]], a human sorcerer, and [[Hazel Salen]], an air genasi cleric of the light domain. Another member has left and returned to [[Jäkel Aleister le Rouge|Jakel]]'s service in [[Grekosha]].
+Besides [[Aeroth]], [[Gillead Dragonsong|Gillead]] and [[Diggory Psalm|Diggory]], the temple's members, all of whom belong to [[The Order of the Golden Gauntlet]], include [[Vallen Halberk]], a human cleric of the knowledge domain, [[Senn Blackstone]], a human sorcerer, and [[Hazel Salen]], an air genasi cleric of the light domain. [[Vladislav]], another member, recently left and returned to [[Jäkel Aleister le Rouge|Jakel]]'s service in [[Grekosha]].
 
 [[Diggory Psalm|Diggory]] asked the party about the [[Right of Return|rite of return]]. None of them really understands its true nature.
 
 [[Gegga]] explained her mask: the spell she created it with went wrong and left it stuck to her face for good.
 
 ### Blackspire
-As a death knight, [[Oraecheon Blackspire]] will reform within one to four days of his death. [[The Order of the Golden Gauntlet]] will deal with him. His history as leader of the Blackspire Brotherhood is on [[Oraecheon Blackspire|his own note]].
+As a death knight, [[Oraecheon Blackspire]] will reform within one to four days of his death. [[The Order of the Golden Gauntlet]] has members powerful enough to defeat him fully, and will deal with him. [[The Good Ones]] will not be involved. His history as leader of the Blackspire Brotherhood is on [[Oraecheon Blackspire|his own note]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

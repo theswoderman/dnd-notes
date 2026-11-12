@@ -15,7 +15,7 @@ The same Yosco appears in both campaigns, making him one of the confirmed points
 He was held captive in the coastal city of Cape Durk in [[Dolghast]], along with the friends and crew of Ghara J'boi. Breaking him out, and learning what he knew of [[Dolghast]]'s plans, was the first step of the plan made at [[The War Council at Gildurn]]. See [[Campaign 1 Loose Ends]] for open questions.
 
 ## In Panrelta
-Told [[The Good Ones]] about [[The Maiden]], and said she is also known as the Laughing Princess.
+Told [[The Good Ones]] about [[The Maiden]].
 
 ## Why he matters
 So far he is the only figure who has given both parties information about the other's side of the world: [[Dolghast]] to one, [[The Maiden]] to the other.

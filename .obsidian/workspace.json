@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
+                "file": "People/NPCs/Vladislav.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 36"
+              "title": "Vladislav"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
+                    "file": "People/NPCs/Vladislav.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -190,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Session 36"
+                  "title": "Graph of Vladislav"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blackspire",
+                "query": "vladis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,7 +255,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -414,6 +415,7 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
     "Suggestions/Suggestion History/2026-11-12.md",
     "People/NPCs/Twitchtail.md",
     "Items and Artifacts/Golden Hourglass.md",
@@ -426,7 +428,6 @@
     "Events/Pilgrims of Panrelta/Events/Arrival at Temple Trueheart.md",
     "Events/Pilgrims of Panrelta/Events/The Destruction of the Abbey.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 37.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
     "Items and Artifacts/The Abyssal Orb.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "People/NPCs/Oraecheon Blackspire.md",

@@ -41,13 +41,13 @@ Named [[Sylvanus]] during the fight at [[The Frozen Riverbank]], which made the 
 The Specter of Bane singled him and [[Thalrik Lastfeast]] out as it fought, promising to dishonor the cleric and the paladin by destroying them and taking their souls. See [[The Fists of Bane]].
 
 ## The pool beneath the abbey
-Entranced by a pool in the tunnels beneath [[The Abbey]], he saw the hand of a desiccated corpse rise from the water and offer him the red armband [[Torin Turen]] wore. The binding wrapped around his hand and cut his palm. [[Torin Turen|Torin]] spoke to him in a vision and granted him additional power: Falstad glowed with daylight, channeling divine energy from Torin, and shared some of the power with [[Thalrik Lastfeast]]. Earlier, his inspection of a throne of drow bones indicated the place had been a stronghold of [[Lolth]]. See [[The Tunnels Beneath the Abbey]].
+Entranced by a pool in the tunnels beneath [[The Abbey]], he saw the hand of a desiccated corpse rise from the water and offer him the red armband [[Torin Turen]] wore. The binding wrapped around his hand and cut his palm. [[Torin Turen|Torin]] spoke to him in a vision and granted him additional power: Falstad glowed with daylight, channeling divine energy from Torin, and shared some of the power with [[Thalrik Lastfeast]]. The power came from [[Illmater]]. Earlier, his inspection of a throne of drow bones indicated the place had been a stronghold of [[Lolth]]. See [[The Tunnels Beneath the Abbey]].
 
 ## Blackspire's promise
 During the fight with [[Oraecheon Blackspire]], [[Quarrelus]] restrained him with its paralysis magic. Before he died, [[Oraecheon Blackspire|Blackspire]] delivered a promise from [[Bane]] to make a martyr of him and cast power word kill on him. The spell killed him, but his [[Right of Return|right of return]] was consumed and he was brought back to life immediately. See [[The Death of Oraecheon Blackspire]].
 
 ## The curse of the Dead Three
-In the moment he cast revivify on [[Thalrik Lastfeast]] after the fight, the arm bound by [[Torin Turen|Torin]]'s armband weakened and became unusable. He could no longer perform somatic components with it, and he lost access to his divine connection. He is cursed with the curse of the Dead Three. See [[The Destruction of the Abbey]].
+[[Oraecheon Blackspire|Blackspire]] cursed him before dying with the curse of the Dead Three, part of [[Bane]]'s promise to make a martyr of him. Casting revivify on [[Thalrik Lastfeast]] after the fight was the last thing he managed before it set in. The arm bound by [[Torin Turen|Torin]]'s armband then weakened and became unusable. He could no longer perform somatic components with it, and he lost access to his divine connection. See [[The Destruction of the Abbey]].
 
 At [[Temple Trueheart]] the cursed arm was cut off, and he went through a healing ritual lasting many hours. During it he spoke with [[Berrenar]] in a vision and reflected on his role as a cleric. She was impressed with how he had grown, but suggested that he draw his power from another god, naming [[Illmater]] and leaving the choice to him. See [[Arrival at Temple Trueheart]].
 

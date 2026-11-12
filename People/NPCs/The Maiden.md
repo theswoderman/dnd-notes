@@ -1,10 +1,9 @@
 ---
 tags: [character, panrelta, villain, major]
-aliases: [The Laughing Princess]
+aliases: []
 ---
 # The Maiden
 
-**Also known as:** The Laughing Princess
 **Race:** Dark elf
 **Role:** Boss of the poaching operation that was harvesting centaur hooves
 **Status:** Alive, whereabouts unknown
@@ -23,7 +22,6 @@ The party had killed a great many of her men. She spared them on two conditions:
 Neither condition has been discharged. [[The Good Ones]] have not encountered her again since, so the heart is undelivered and the gold unsettled. They are expected to meet her again.
 
 ## Reported sightings
-- [[Yosco]] identified her as the Laughing Princess
 - [[The Collector]] said he had encountered her, and that she claimed to have acquaintances "on yorrisk upon the dawning". His cart carried centaur hooves, which suggests the poaching operation is still running. He is now dead, since [[Gegga]] killed him
 
 ## Yorrisk: identified
