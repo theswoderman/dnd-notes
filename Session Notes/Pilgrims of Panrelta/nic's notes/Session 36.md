@@ -38,5 +38,5 @@ ceris is the silver dragon that defeated the lycanthropes, his name is actually 
 ceris grants twitchtail a draconic form, gribniks eye also gains a draconic silver eye coloration 
 ceris carries the entire party to castle trueheart
 torin's pegasus is presumed dead at this point. probably killed by blackspire when he captured torin
-we arrive at temple trueheart and are greeted by a high elf named [] and [[Diggory Psalm|Diggory]]
+we arrive at temple trueheart and are greeted by a high elf named aeroth and [[Diggory Psalm|Diggory]]
 [[Diggory Psalm|Diggory]] looks older and more weary than we would expect from a ~30 year old satyr
