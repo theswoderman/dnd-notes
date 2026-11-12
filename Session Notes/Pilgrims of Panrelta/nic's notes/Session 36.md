@@ -52,3 +52,7 @@ hazel salen - an air genasi light domain cleric
 there is another member who has left and returned to work in jakel's service in grekosha
 diggory asks about the rite of return, but none of us really understand its true nature
 gegga explains that her mask is constantly stuck to her face because the spell she created it with went wrong and left it stuck there forever
+
+lore blurb about blackspire
+“It many centuries ago, perhaps a millennia, that a small splinter of the Drow of fled the depths of Menzoveldrin to rebel against Lolth. They were no allies of the surface lands and sought to craft a new empire free of Lolth’s oppression of their sex. They were lead by the youngest son of one of the great houses (Baenra), Oraecheon Blackspire. I suppose he was not as fit to lead as he believed--in less than a century the Blackspire Brotherhood--his followers, other Princes and lesser noblemen of the Underdark--had mutinied against his hateful and selfish leadership and apparently sealed him to die alone in a crypt he built to resemble his home."
+
