@@ -29,3 +29,6 @@ falstad's armbanded arm weakens and becomes unusable. he lost his ability to cas
 thalrik also lost his divine connection at the same time
 we block off both enterances to the cave network underneath the abbey that we've been in and hunker down to rest through the full moon while the werewolves are most active
 a dragon attacks the werewolves outside the abbey, destroying most of the abbey in the process
+a person named zeke knocks on the door to our tunnel
+ceris, the wood elf ranger who raised gribnik is also there
+we leave and see the complete destruction of the abbey, it has a blue haze in a circle around it, and all the lycanthropes in the vicinity have been defeated
