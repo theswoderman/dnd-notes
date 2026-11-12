@@ -27,3 +27,4 @@ gorgon died as soon as blackspire died
 
 falstad's armbanded arm weakens and becomes unusable. he lost his ability to cast somatic components with that arm and lost access to his divine connection. this happened in the moment that he cast revivify on thalrik.
 thalrik also lost his divine connection at the same time
+we block off both enterances to the cave network underneath the abbey that we've been in and hunker down to rest through the full moon while the werewolves are most active
