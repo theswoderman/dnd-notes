@@ -17,6 +17,7 @@ At [[Temple Trueheart]], [[Diggory Psalm]] told [[Thalrik Lastfeast|Thalrik]] in
 The order's members live at [[Temple Trueheart]].
 
 ## Known members
+- [[Diggory Psalm]]
 - [[Vladislav]]
 - [[Aeroth]]
 - [[Gillead Dragonsong]]

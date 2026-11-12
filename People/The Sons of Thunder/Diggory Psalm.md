@@ -45,7 +45,7 @@ Appeared to [[Thalrik Lastfeast]] through a portal in [[Thalrik's Dream of Torm]
 
 Appeared in a vision to [[Thalrik Lastfeast]] when he died fighting [[Oraecheon Blackspire]], rallying him to return to the fight. See [[The Death of Oraecheon Blackspire]].
 
-Received [[The Good Ones]] at [[Temple Trueheart]] alongside [[Aeroth]] when [[Zarisk]] carried them there. He is about thirty, and looked older and wearier than a satyr of that age should. He spoke with [[Thalrik Lastfeast|Thalrik]] about bearing the [[Hand of Valor]] and the weight of being chosen by [[Torm]]. Neither he nor [[Torm]] had foreseen the coming of [[Bane]]'s champion.
+He is a member of [[The Order of the Golden Gauntlet]]. He received [[The Good Ones]] at [[Temple Trueheart]] alongside [[Aeroth]] when [[Zarisk]] carried them there. He is about thirty, and looked older and wearier than a satyr of that age should. He spoke with [[Thalrik Lastfeast|Thalrik]] about bearing the [[Hand of Valor]] and the weight of being chosen by [[Torm]]. Neither he nor [[Torm]] had foreseen the coming of [[Bane]]'s champion.
 
 He told [[Thalrik Lastfeast|Thalrik]] in confidence that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over, and lent him his [[Golden Hourglass|golden hourglass]], which turns time back and which he has had since his days with [[The Sons of Thunder]], demonstrating it by jumping off a cliff and being returned to the top. He, [[Aeroth]] and [[Gillead Dragonsong]] are to challenge the party to a sparring match. He also asked the party about the [[Right of Return|rite of return]]. See [[Arrival at Temple Trueheart]].
 

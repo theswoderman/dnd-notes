@@ -7,7 +7,7 @@ aliases: [Castle Trueheart]
 **Disposition:** Friendly
 
 ## Summary
-A holy site of [[Torm]], also recorded as Castle Trueheart, home to members of [[The Order of the Golden Gauntlet]] and to [[Diggory Psalm]].
+A holy site of [[Torm]], also recorded as Castle Trueheart, home to [[Diggory Psalm]] and the other members of [[The Order of the Golden Gauntlet]].
 
 [[Torm]] directed [[Thalrik Lastfeast]] toward it in [[Thalrik's Dream of Torm]]: *"Let this fierce light lead you to Temple Trueheart and see what awaits those of the golden soul."* The portal in the dream opened onto a snowy mountain peak where [[Diggory Psalm]] waited, likely the [[Dragonspine Mountains]], where Diggory built his temple to [[Torm]], though neither the dream nor the visit says so outright.
 
