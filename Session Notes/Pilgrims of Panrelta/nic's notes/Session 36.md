@@ -36,3 +36,4 @@ ceris reveals that she is both ceris and zeke, and has been cultivating beemo's 
 ceris is the silver dragon that defeated the lycanthropes, his name is actually zarisk
 
 ceris grants twitchtail a draconic form, gribniks eye also gains a draconic silver eye coloration 
+ceris carries the entire party to castle trueheart
