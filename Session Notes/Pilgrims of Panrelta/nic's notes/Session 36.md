@@ -51,3 +51,4 @@ senn blackstone - human sorcerer
 a light domain cleric 
 there is another member who has left and returned to work in jakel's service in grekosha
 diggory asks about the rite of return, but none of us really understand its true nature
+gegga explains that her mask is constantly stuck to her face because the spell she created it with went wrong and left it stuck there forever
