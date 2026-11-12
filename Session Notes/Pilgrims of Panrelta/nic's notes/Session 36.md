@@ -17,8 +17,10 @@
 - What does [[The Abyssal Orb]] want freeing from, and why did it ask only [[Thalrik Lastfeast|Thalrik]]?
 - What did the cultists want at [[Khulask Hollow]], and who beat them to it?
 - Does [[Bane]] himself await in [[The Abbey]]?
-	- no
+	- no, just his champion blackspire
 - Why does [[Mirna Gribwood]] appear to everyone except [[Beemo]], and is she lodged in someone's mind?
 - Was [[Lightfoot]] here, and what became of the Pegasus?
 
 ## Notes 
+we interrupted the ritual known as the black grail, which is what turned blackspire into a death knight by consuming part of torin's soul. 
+
