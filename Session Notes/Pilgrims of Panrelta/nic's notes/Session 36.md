@@ -44,4 +44,10 @@ we meet a golden dragonborn named gillead dragonsong
 falstad's cursed arm is chopped off and he goes through a healing ritual over the course of many hours. during this time he has a vision in which he speaks with lady berenar and reflects on his role as a cleric. she is impressed with how he has grown but suggests that he draw his power from another god instead, suggesting ilmater but leaving the choice up to falstad
 thalrik spoke with diggory about his role as a carrier of the hand of valor. diggory mentioned that he and torm did not foresee the coming of bane's champion, and the weight of being chosen by torm is stressed
 
-he imparts a secret upon thalrik, he says that the order of the golden gauntlets could use his assistance when the pilgrimage is over, but he must not share the secret. he gives him a golden hourglass, tells him to flip it over after 3 seconds, then jumps off a cliff. flipping the hourglass turns time back and brings diggory back to the top of the cliff. he says that tomorrow aeroth, gilliath, and diggory will challenge the good ones to a sparring match and thalrik is to choose when and whether to use it in that conflict.
+he imparts a secret upon thalrik, he says that the order of the golden gauntlets could use his assistance when the pilgrimage is over, but he must not share the secret. he gives him a golden hourglass, tells him to flip it over after 3 seconds, then jumps off a cliff. flipping the hourglass turns time back and brings diggory back to the top of the cliff. he says that tomorrow aeroth, gillead, and diggory will challenge the good ones to a sparring match and thalrik is to choose when and whether to use it in that conflict. he must return the hourglass before they leave the castle, and is not to mention it at all to the other party members
+some members of castle (temple?) trueheart
+vallen halberk - human knowledge domain cleric
+senn blackstone - human sorcerer
+a light domain cleric 
+there is another member who has left and returned to work in jakel's service in grekosha
+diggory asks about the rite of return, but none of us really understand its true nature
