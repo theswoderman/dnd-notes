@@ -13,12 +13,12 @@ ddb: https://www.dndbeyond.com/characters/152626464
 **Player:** [[Nick]]
 **Also known as:** Hana Nobunaga
 **Race:** Human
-**Class:** Wizard, origami specializt
+**Class:** Wizard, origami specialist
 **Affiliation:** [[The Good Ones]]
 **Status:** Alive
 
 ## Summary
-She is an origami wizard with a mask stuck fast to her face that she cannot remove.
+She is an origami wizard with a mask stuck fast to her face that she cannot remove. The spell she created it with went wrong and left it there for good.
 
 ## Key moments
 - Opened [[The Battle at the Bridge]] with fireball, and afterward read [[Ring of Dread Command]] on [[Thol]]'s hand as certainly an evil magic ring
@@ -45,3 +45,4 @@ The origami crane figure on her staff went missing. Searching for it gave her a 
 - [[Session 30]]
 - [[Session 31]]
 - [[Session 32]]
+- [[Session 36]]

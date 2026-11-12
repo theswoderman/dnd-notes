@@ -12,5 +12,8 @@ He still had it when he woke.
 
 Its purpose, as given: to light the way to [[Temple Trueheart]], and to ensure safe passage toward an eventual invitation to the [[The Order of the Golden Gauntlet|Knights of the Golden Gauntlet]].
 
+At [[Temple Trueheart]], [[Diggory Psalm]] spoke with [[Thalrik Lastfeast|Thalrik]] about his role as its bearer and the weight of being chosen by [[Torm]]. See [[Arrival at Temple Trueheart]].
+
 ## Sources
 - [[Thalrik's Dream]]
+- [[Session 36]]

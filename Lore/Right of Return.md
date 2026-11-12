@@ -14,8 +14,11 @@ Breaking the tenets of the pilgrimage risks forsaking the blessing.
 ## In play
 [[Kalara Mainfell]] granted [[Thalrik Lastfeast|Thalrik]]'s at the start of his pilgrimage. It was spent beneath [[The Abbey]] when [[Oraecheon Blackspire]] killed him and he rose again, and again when [[Falstad Firebeard]] was killed by power word kill and returned at once. See [[The Death of Oraecheon Blackspire]].
 
+[[Diggory Psalm]] asked [[The Good Ones]] about it at [[Temple Trueheart]]. None of them really understands its true nature.
+
 See [[Panrelta Loose Ends]] for open questions.
 
 ## Sources
 - [[Session 35]]
+- [[Session 36]]
 - [[Grant]]

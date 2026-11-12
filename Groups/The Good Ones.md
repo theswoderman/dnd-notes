@@ -18,9 +18,11 @@ Bound by the tenets of the pilgrimage, including a standing obligation to help a
 - [[Thol]], half-orc fighter, adopted son of [[Bathoz Manefell]]
 
 ## Current position
-In the [[Sage Thorn Forest|Sagethorn]], within sight of [[The Abbey]], about twenty minutes off. They destroyed [[Bane]]'s undead garrison on a bridge along with [[The Fists of Bane|its three drow captains]] and the Specter of Bane they reformed into, survived a were-rat attack on [[Gegga]]'s conjured tower on the road afterward, and left their horses at the refugee camp around [[The Bettermans Guild]] with two weeks of supplies.
+At [[Temple Trueheart]], as guests of [[Diggory Psalm]]. The silver dragon [[Zarisk]] carried them there from the ruins of [[The Abbey]], which he destroyed along with the lycanthropes around it while the party rested in the caves beneath. See [[The Destruction of the Abbey]].
 
-They are closing in on [[The Abbey]], where both [[Malar]] and [[Bane]]'s followers mean to take [[The Black Grail]]. [[Torin Turen]] went into this forest alone ahead of them, and by [[The Collector]]'s account the grail is inside him.
+Beneath the abbey they killed [[Oraecheon Blackspire]], [[Bane]]'s champion, interrupting the ritual of [[The Black Grail]] he was performing on [[Torin Turen]]. [[Thalrik Lastfeast]] and [[Falstad Firebeard]] both spent their [[Right of Return|right of return]] in the fight, and both lost their divine connection afterward. [[Falstad Firebeard|Falstad]]'s cursed arm was cut off at the temple.
+
+[[Aeroth]], [[Gillead Dragonsong]] and [[Diggory Psalm|Diggory]] are to challenge them to a sparring match. See [[Arrival at Temple Trueheart]].
 
 ## What they are carrying
 - [[The Abyssal Orb]], bound for [[The Sons of Thunder]]. It has started speaking: it told [[Thalrik Lastfeast]] "free me". [[The Collector]]'s corpse no longer shares the bag, having been thrown off a cliff
@@ -38,3 +40,4 @@ They are closing in on [[The Abbey]], where both [[Malar]] and [[Bane]]'s follow
 - [[Session 30]]
 - [[Session 31]]
 - [[Session 32]]
+- [[Session 36]]

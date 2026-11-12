@@ -24,9 +24,12 @@ Inside, the forest is frozen and full of werewolves, and a full moon is close. I
 
 [[The Tree of Pain]] and [[The Abbey]] are both within the forest. The abbey, also called the Crypt of Hate, lies beneath [[The Laughing Princes Constellation|the Laughing Princes constellation]].
 
+On the night of the full moon, when the forest's werewolves are most active, the silver dragon [[Zarisk]] destroyed most of the abbey and defeated every lycanthrope around it. See [[The Destruction of the Abbey]].
+
 See [[Panrelta Loose Ends]] for open questions.
 
 ## Sources
 - [[Session 28]]
 - [[Session 29]]
 - [[Session 33]]
+- [[Session 36]]

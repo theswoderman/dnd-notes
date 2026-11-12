@@ -44,12 +44,14 @@ Six travelers bound by [[The Pilgrimage]]'s tenets, chief among them an obligati
 14. [[The Road to the Abbey]]
 15. [[The Crypt of Hate]]
 16. [[The Tunnels Beneath the Abbey]]
-17. [[The Death of Oraecheon Blackspire]], *most recent*
+17. [[The Death of Oraecheon Blackspire]]
+18. [[The Destruction of the Abbey]]
+19. [[Arrival at Temple Trueheart]], *most recent*
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 
 ## Recurring figures
-[[The Maiden]] · [[Festra]] · [[Mirna Gribwood]] · [[Sila Frostblood]] · [[Sisters of the Gnarled Veil]] · [[The Drow]] · [[The Fists of Bane]] · [[The Cult of Bane]] · [[Oraecheon Blackspire]] · [[Quarrelus]] · [[Torin Turen]] · [[Ky'ar Lastet]] · [[The Rockspeaker]] · [[Bane]] · [[Malar]]
+[[The Maiden]] · [[Festra]] · [[Mirna Gribwood]] · [[Sila Frostblood]] · [[Sisters of the Gnarled Veil]] · [[The Drow]] · [[The Fists of Bane]] · [[The Cult of Bane]] · [[Oraecheon Blackspire]] · [[Quarrelus]] · [[Zarisk]] · [[Aeroth]] · [[Gillead Dragonsong]] · [[Torin Turen]] · [[Ky'ar Lastet]] · [[The Rockspeaker]] · [[Bane]] · [[Malar]]
 
 ## Shared with Campaign 1
 Ten years on from [[The Sundering]]-era business and the fall of [[Aeralath]]. Confirmed overlaps:
@@ -57,6 +59,7 @@ Ten years on from [[The Sundering]]-era business and the fall of [[Aeralath]]. C
 - [[Thol]] is the adopted son of [[Bathoz Manefell]], and dreamed of [[Bathoz Manefell|Bathoz]] tearing [[Krintak Cinderheart]] apart, a moment from Campaign 1
 - The party met [[Jäkel Aleister le Rouge|Jakel]] at a dinner in [[Stonehold]] earlier in the campaign
 - [[Diggory Psalm]] appeared to [[Thalrik Lastfeast]] in a vision and gave him the [[Hand of Valor]]; [[Jäkel Aleister le Rouge|Jäkel]] warned him of the [[Dragonspine Mountains]] threat
+- [[Diggory Psalm|Diggory]] received the party in person at [[Temple Trueheart]]. See [[Arrival at Temple Trueheart]]
 - [[Yosco]] is the same person in both campaigns. He told [[The Good Ones]] about [[The Maiden]]
 - Locations sit inside the same nations: [[The Iron Oak Woods]] and [[Hor Garam]] in [[Stonehold]], [[Khulask Hollow]] and [[Kaz'an Hold]] in [[Dolghast]]
 - The pantheon is shared: [[Torm]], [[Illmater]], [[Nebulu]], and now [[Malar]], [[Bane]] and [[Sylvanus]]

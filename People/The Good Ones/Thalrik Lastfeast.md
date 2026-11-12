@@ -53,15 +53,18 @@ He never knew what he gave up that night. [[Torm]] has now answered it through [
 - Received treestride from the [[Sylvan Parcel]], alongside [[Beemo]]
 - Detected a secret passage inside [[The Abbey]] that opened into a tunnel. See [[The Crypt of Hate]]
 - Received a share of the power [[Torin Turen]] granted [[Falstad Firebeard]] beneath the abbey, then fought [[Oraecheon Blackspire]]. See [[The Tunnels Beneath the Abbey]]
-- Killed by [[Oraecheon Blackspire]]. He had a vision of [[Diggory Psalm]] rallying him to return to the fight, and rose, spending the [[Right of Return|right of return]] [[Kalara Mainfell]] granted him at the start of the pilgrimage. He fell again soon after and [[Oraecheon Blackspire|Blackspire]] killed him. He was revived after the fight. See [[The Death of Oraecheon Blackspire]]
+- Killed by [[Oraecheon Blackspire]]. He had a vision of [[Diggory Psalm]] rallying him to return to the fight, and rose, spending the [[Right of Return|right of return]] [[Kalara Mainfell]] granted him at the start of the pilgrimage. He fell again soon after and [[Oraecheon Blackspire|Blackspire]] killed him. [[Falstad Firebeard]] revived him with revivify after the fight. See [[The Death of Oraecheon Blackspire]]
+- Lost his divine connection in the moment he was revived. He can still cast spells, but no longer feels the presence of [[Torm]]. See [[The Destruction of the Abbey]]
 
 ## Torm and Bane
 [[Torin Turen]], high priest of [[Illmater]], has ridden alone into the [[Sage Thorn Forest|Sagethorn]], where a buried soldier of [[Bane]] has surfaced. [[Bane]] is one of "the Dead Three" and a major enemy of [[Torm]], which makes this Thalrik's fight as much as anyone's. See [[Torin's Flight into the Sagethorn]].
 
 At [[The Battle at the Bridge]] the Specter of Bane picked him and [[Falstad Firebeard]] out of the party, promising to dishonor the paladin and the cleric by destroying them and taking their souls. Thalrik's soul is already forfeit to [[Torm]]. See [[The Fists of Bane]].
 
-## Open threads
-- Told to seek out [[The Order of the Golden Gauntlet]] when possible
+## At Temple Trueheart
+The silver dragon [[Zarisk]] carried him to [[Temple Trueheart]] with the rest of [[The Good Ones]]. There he spoke with [[Diggory Psalm]] about his role as bearer of the [[Hand of Valor]]. Neither [[Diggory Psalm|Diggory]] nor [[Torm]] had foreseen the coming of [[Bane]]'s champion, and [[Diggory Psalm|Diggory]] stressed the weight of being chosen by [[Torm]].
+
+[[Diggory Psalm|Diggory]] told him in confidence that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over. He also lent him a [[Golden Hourglass|golden hourglass]] that turns time back when flipped, to use or not in the sparring match against [[Aeroth]], [[Gillead Dragonsong]] and [[Diggory Psalm|Diggory]]. He must return it before the party leaves the temple, and is not to mention it to the others. See [[Arrival at Temple Trueheart]].
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]
@@ -73,3 +76,4 @@ At [[The Battle at the Bridge]] the Specter of Bane picked him and [[Falstad Fir
 - [[Session 33]]
 - [[Session 34]]
 - [[Session 35]]
+- [[Session 36]]

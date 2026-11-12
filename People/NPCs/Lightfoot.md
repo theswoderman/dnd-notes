@@ -5,7 +5,7 @@ tags: [character, panrelta, mount]
 
 **Race:** Pegasus, small, sized for a gnome
 **Affiliation:** [[Torin Turen]]'s mount
-**Status:** Alive
+**Status:** Presumed dead
 
 ## Summary
 [[Torin Turen]]'s pegasus. Small, the appropriate size for a gnome, which fits since [[Torin Turen|Torin]] is a gnome.
@@ -14,5 +14,8 @@ Torin rode out of [[The Bettermans Guild]]'s camp on Lightfoot before dawn, leav
 
 See [[Torin's Flight into the Sagethorn]].
 
+Pegasus feathers lay inside [[The Abbey]]. Lightfoot is presumed dead, probably killed by [[Oraecheon Blackspire]] when he captured [[Torin Turen|Torin]]. See [[The Destruction of the Abbey]].
+
 ## Sources
 - [[Session 28]]
+- [[Session 36]]

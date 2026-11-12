@@ -17,7 +17,7 @@ The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with cla
 | **Party** | [[The Sons of Thunder]] | [[The Good Ones]] |
 | **When** | 1016–1017 A.P. | 10 D.E. |
 | **Where** | [[Anendal]], and outward through the planes | [[Panrelta]] |
-| **Status** | Concluded at level 20 | Ongoing, ~session 35 |
+| **Status** | Concluded at level 20 | Ongoing, ~session 36 |
 | **Index** | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
 | **Timeline** | [[Campaign 1 Timeline]] | [[Panrelta Timeline]] |
 
@@ -85,7 +85,9 @@ The earliest sessions were never written down, so what follows is the order thin
 14. [[The Road to the Abbey]]
 15. [[The Crypt of Hate]]
 16. [[The Tunnels Beneath the Abbey]]
-17. [[The Death of Oraecheon Blackspire]], most recent
+17. [[The Death of Oraecheon Blackspire]]
+18. [[The Destruction of the Abbey]]
+19. [[Arrival at Temple Trueheart]], most recent
 
 Full detail is on [[Panrelta Timeline]].
 
@@ -95,9 +97,15 @@ Two one-shots sit outside both campaigns and outside the chronology. In the firs
 
 ## Where things stand
 
-[[The Good Ones]] have entered [[The Abbey]] in the [[Sage Thorn Forest|Sagethorn]], a ruin they have been chasing since [[The Collector]]'s corpse named it as the destination for [[The Black Grail]]. Also called the Crypt of Hate, the abbey was once a temple to [[Illmater]]. A note left by his followers describes an empty darkness in the land that eats faith, saying "Our Martyred Father does not walk here." Its occupants are [[The Cult of Bane]], over fifty strong, who have been abducting travelers and townsfolk across southern [[Dolghast]]. The party fought through undead and cultists, including the elite Gauntlets of Bane, and followed a secret passage into the tunnels beneath, past a throne of drow bones that marks the place as a former stronghold of [[Lolth]]. There, [[Oraecheon Blackspire]], a [[The Drow|drow]] who once tried to found a House above ground, had [[Torin Turen]] on an altar and was torturing him. He called a gorgon, [[Quarrelus]], claimed [[The Black Grail]] as his own while transforming into a death knight, and killed [[Thalrik Lastfeast]] before the party defeated him. As he died he promised on [[Bane]]'s behalf to make a martyr of [[Falstad Firebeard]], and cast power word kill on him; [[Falstad Firebeard|Falstad]] was brought back at once by his right of return, and [[Thalrik Lastfeast|Thalrik]] was revived after the fight. See [[The Death of Oraecheon Blackspire]].
+[[The Good Ones]] are at [[Temple Trueheart]], the holy site [[Torm]] pointed [[Thalrik Lastfeast]] toward, as guests of [[Diggory Psalm]]. They arrived on the back of a silver dragon.
 
-They went in after [[Torin Turen]], high priest of [[Illmater]], who rode into the forest alone after digging up a soldier of [[Bane]]. [[The Collector]]'s corpse said [[The Black Grail]] is inside [[Torin Turen|Torin]], and both [[Bane]] and [[Malar]]'s followers want it. The party still carries [[The Abyssal Orb]], meant for [[The Sons of Thunder]], which has said "free me" to [[Thalrik Lastfeast|Thalrik]] alone. [[Thol]] cannot remove [[Ring of Dread Command|the cursed ring]] or put down [[Despot's Reprisal|the cursed sword]].
+Beneath [[The Abbey]] in the [[Sage Thorn Forest|Sagethorn]], once a temple to [[Illmater]] and since held by [[The Cult of Bane]], they killed [[Oraecheon Blackspire]]: a [[The Drow|drow]] prince sealed in a crypt centuries ago by his own followers, and the champion of [[Bane]]. He had [[Torin Turen]], high priest of [[Illmater]], bound to an altar, and was performing the ritual called [[The Black Grail]], which made him a death knight by consuming part of [[Torin Turen|Torin]]'s soul. The fight killed both [[Thalrik Lastfeast|Thalrik]] and [[Falstad Firebeard]] and spent both of their rights of return. Afterward both lost their divine connection, and [[Falstad Firebeard|Falstad]] was left with an arm crippled by the curse of the Dead Three. See [[The Death of Oraecheon Blackspire]].
+
+While the party sheltered in the caves through the full moon, the dragon [[Zarisk]] destroyed the abbey and every lycanthrope around it. He has been beside them in other forms all along: as the guard who once freed them in [[Saltport]], and as the ranger who raised [[Gribnik Mossfoot]]. See [[The Destruction of the Abbey]].
+
+At the temple [[Falstad Firebeard|Falstad]]'s cursed arm was cut off, and his goddess [[Berrenar]] suggested in a vision that he draw his power from another god. A sparring match against [[Diggory Psalm|Diggory]] and two of his companions is set for the next day. As a death knight [[Oraecheon Blackspire|Blackspire]] will reform within days, and [[The Order of the Golden Gauntlet]] is to deal with him. What became of [[Torin Turen|Torin]] is unrecorded. See [[Arrival at Temple Trueheart]].
+
+The party still carries [[The Abyssal Orb]], meant for [[The Sons of Thunder]], which has said "free me" to [[Thalrik Lastfeast|Thalrik]] alone. [[Thol]] cannot remove [[Ring of Dread Command|the cursed ring]] or put down [[Despot's Reprisal|the cursed sword]].
 
 Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circle casting on the party's sleep and want [[Beemo]] dead. [[The Maiden]] is still owed 10,000 gold and the heart of an apex griffon, and said she would meet them at [[Yorrisk]] "upon the dawning", which makes the tenth [[The Dawning|Dawning]], now approaching, a deadline. And [[Yorrisk]] itself is a town two houses are going to war over.
 
@@ -121,6 +129,6 @@ Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circ
 - `Session Notes/`, raw notes as taken at the table, kept unedited as an archive
 - `Suggestions/`, a shared suggestion box, and the record of what came of each one
 
-About 440 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+About 470 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
 
 **Spotted something wrong, or remember it differently?** Add it to the [[Suggestion Box]] and it gets worked in at the next update.

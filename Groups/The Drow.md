@@ -9,7 +9,7 @@ Up to something. Drow research material recovered from the Underdark documents w
 
 They were working with [[Crucius Ilyanich]] in [[Khulask Hollow]], and attacked the town after his overthrow to take back their magic items and secrets. [[The Good Ones]] defeated them, but the town was mostly destroyed (see [[Liberation of Khulask Hollow]]).
 
-[[Oraecheon Blackspire]] is a drow who attempted to establish a settlement above ground in [[Dolghast]], adopting the icon of a bull and founding a new House of Blackspire on the surface. His twin sons eventually led a mutiny against him; [[The Laughing Princes Constellation|the Laughing Princes constellation]] is named after them. His name first appeared in [[Gribnik Mossfoot]]'s dream of the constellation; his identity was revealed at [[The Abbey]]. See [[The Crypt of Hate]].
+[[Oraecheon Blackspire]] is a drow prince who led a small splinter of drow out of the Underdark in rebellion against [[Lolth]], many centuries ago. His followers, the Blackspire Brotherhood, mutinied within a century and sealed him in a crypt. He attempted to establish a settlement above ground in [[Dolghast]], adopting the icon of a bull and founding a new House of Blackspire on the surface. His twin sons eventually led a mutiny against him; [[The Laughing Princes Constellation|the Laughing Princes constellation]] is named after them. His name first appeared in [[Gribnik Mossfoot]]'s dream of the constellation; his identity was revealed at [[The Abbey]]. See [[The Crypt of Hate]].
 
 A throne made of drow bones stands in the tunnels beneath [[The Abbey]], and [[Falstad Firebeard]]'s inspection of it indicated the place had been a stronghold of [[Lolth]]. [[Oraecheon Blackspire]] was found there holding [[Torin Turen]] prisoner. See [[The Tunnels Beneath the Abbey]].
 
@@ -23,3 +23,4 @@ A throne made of drow bones stands in the tunnels beneath [[The Abbey]], and [[F
 - [[Session 31]]
 - [[Session 33]]
 - [[Session 34]]
+- [[Session 36]]

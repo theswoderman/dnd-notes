@@ -5,7 +5,7 @@ aliases: [The Crypt of Hate]
 # The Abbey
 
 **Region:** beneath [[The Laughing Princes Constellation|the Laughing Princes constellation]], near [[The Tree of Pain]]
-**Disposition:** Hostile, desecrated. Where [[Bane]] and [[Malar]]'s followers both intend to bring [[The Black Grail]]
+**Disposition:** Destroyed. Formerly hostile and desecrated, the place where [[Bane]] and [[Malar]]'s followers both intended to bring [[The Black Grail]]
 
 ## Summary
 Also called the Crypt of Hate. A ruined structure with a broken steeple rising from the [[Sage Thorn Forest|Sagethorn]], surrounded by desecrated ground. Once a temple to [[Illmater]], now occupied by cultists of [[Bane]].
@@ -27,6 +27,11 @@ Below the trapdoor, more cultists guarded a room containing a map of southern [[
 ## The tunnels
 The tunnel runs down to a cult stronghold of [[The Cult of Bane]], whose fighters include the elite Gauntlets of Bane. Past a room holding the bodies of silver-bound lycanthropes lies a hallway of torture and a throne made of drow bones, which [[Falstad Firebeard]]'s inspection indicated had been a stronghold of [[Lolth]]. A pool and an altar lie farther down. [[Oraecheon Blackspire]] held [[Torin Turen]] on the altar until [[The Good Ones]] killed him there. See [[The Tunnels Beneath the Abbey]] and [[The Death of Oraecheon Blackspire]].
 
+[[Oraecheon Blackspire|Blackspire]]'s mutinous followers sealed him to die in a crypt he had built to resemble his home. That crypt is presumably these tunnels, though this is unconfirmed.
+
+## Destruction
+After [[Oraecheon Blackspire|Blackspire]]'s death, [[The Good Ones]] blocked both entrances to the cave network and rested there through the full moon. The silver dragon [[Zarisk]] attacked the werewolves outside and destroyed most of the abbey in the process. The ruin is ringed by a circle of blue haze, and every lycanthrope in the vicinity was defeated. See [[The Destruction of the Abbey]].
+
 See [[Panrelta Loose Ends]] for open questions.
 
 ## Sources
@@ -35,3 +40,4 @@ See [[Panrelta Loose Ends]] for open questions.
 - [[Session 33]]
 - [[Session 34]]
 - [[Session 35]]
+- [[Session 36]]

@@ -26,6 +26,10 @@ Near the tree, a garrison of Bane's undead soldiers defeated a pack of werewolve
 
 [[Oraecheon Blackspire]], dying beneath the abbey, delivered a promise from Bane to make a martyr of [[Falstad Firebeard]] and cast power word kill on him, which killed him for a moment before his [[Right of Return|right of return]] brought him back. See [[The Death of Oraecheon Blackspire]].
 
+[[Oraecheon Blackspire|Blackspire]] was Bane's champion. Bane himself was not at the abbey. Neither [[Torm]] nor [[Diggory Psalm]] had foreseen the champion's coming.
+
+After the fight [[Falstad Firebeard|Falstad]] was cursed with the curse of the Dead Three, which crippled one arm and cut him off from his divine connection. See [[The Destruction of the Abbey]].
+
 See [[Panrelta Loose Ends]] for open questions.
 
 ## Sources
@@ -35,3 +39,4 @@ See [[Panrelta Loose Ends]] for open questions.
 - [[Session 31]]
 - [[Session 34]]
 - [[Session 35]]
+- [[Session 36]]

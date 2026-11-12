@@ -6,7 +6,7 @@ aliases: [Gauntlets of Bane, Cult of Bane, cultists of Bane]
 
 **Affiliation:** [[Bane]]
 **Disposition:** Hostile
-**Base:** [[The Abbey]] and the tunnels beneath it
+**Base:** [[The Abbey]] and the tunnels beneath it, until the abbey's destruction
 
 ## Summary
 The cultists who occupy [[The Abbey]], the former temple of [[Illmater]]. The cult appears to number over fifty. Its documents go back at least five years.
@@ -19,8 +19,11 @@ One of their rooms in the tunnels held the bodies of lycanthropes wrapped in the
 
 [[Oraecheon Blackspire]] was found holding [[Torin Turen]] prisoner in the tunnels beneath the abbey. See [[The Tunnels Beneath the Abbey]].
 
+[[Oraecheon Blackspire|Blackspire]] was [[Bane]]'s champion. After his death the silver dragon [[Zarisk]] destroyed most of the abbey. See [[The Destruction of the Abbey]].
+
 See [[Panrelta Loose Ends]] for open questions.
 
 ## Sources
 - [[Session 33]]
 - [[Session 34]]
+- [[Session 36]]

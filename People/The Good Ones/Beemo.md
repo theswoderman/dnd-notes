@@ -45,6 +45,9 @@ He is also the one who identified her: [[Mirna Gribwood]], his aunt, a dusk hag 
 
 He did fight in the third night's battle dream, alongside [[Thol]] and [[Gribnik Mossfoot]].
 
+## Zarisk
+The silver dragon [[Zarisk]] has been cultivating Beemo's growth over the years, while taking many forms to guide the party's path. See [[The Destruction of the Abbey]].
+
 See [[Panrelta Loose Ends]] for open questions.
 
 ## Sources
@@ -55,3 +58,4 @@ See [[Panrelta Loose Ends]] for open questions.
 - [[Session 31]]
 - [[Session 32]]
 - [[Session 34]]
+- [[Session 36]]

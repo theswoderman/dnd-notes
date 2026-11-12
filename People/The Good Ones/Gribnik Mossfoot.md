@@ -35,9 +35,13 @@ That puts him on both sides of the raids on [[The Bettermans Guild]]'s camp. The
 ## The constellation dream
 He dreamed of [[The Laughing Princes Constellation|the Laughing Princes constellation]] and came out of it with the name [[Oraecheon Blackspire]] and some connection to [[The Drow]].
 
+## Ceris
+He was raised by Ceris, a wood elf ranger. Ceris was a form of the silver dragon [[Zarisk]], who has been guiding the party's path in several guises. Outside the ruins of [[The Abbey]], [[Zarisk]] granted Twitchtail a draconic form, and Gribnik's eye gained a draconic silver coloration. See [[The Destruction of the Abbey]].
+
 ## Sources
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]
 - [[Session 30]]
 - [[Session 31]]
+- [[Session 36]]

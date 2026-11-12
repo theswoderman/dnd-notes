@@ -46,6 +46,11 @@ Entranced by a pool in the tunnels beneath [[The Abbey]], he saw the hand of a d
 ## Blackspire's promise
 During the fight with [[Oraecheon Blackspire]], [[Quarrelus]] restrained him with its paralysis magic. Before he died, [[Oraecheon Blackspire|Blackspire]] delivered a promise from [[Bane]] to make a martyr of him and cast power word kill on him. The spell killed him, but his [[Right of Return|right of return]] was consumed and he was brought back to life immediately. See [[The Death of Oraecheon Blackspire]].
 
+## The curse of the Dead Three
+In the moment he cast revivify on [[Thalrik Lastfeast]] after the fight, the arm bound by [[Torin Turen|Torin]]'s armband weakened and became unusable. He could no longer perform somatic components with it, and he lost access to his divine connection. He is cursed with the curse of the Dead Three. See [[The Destruction of the Abbey]].
+
+At [[Temple Trueheart]] the cursed arm was cut off, and he went through a healing ritual lasting many hours. During it he spoke with [[Berrenar]] in a vision and reflected on his role as a cleric. She was impressed with how he had grown, but suggested that he draw his power from another god, naming [[Illmater]] and leaving the choice to him. See [[Arrival at Temple Trueheart]].
+
 ## Berrenar's interest
 On watch with [[Thol]], he talked about his relationship with [[Berrenar]] and why she seems more interested in him than in her other followers. See [[The Road to the Abbey]].
 
@@ -58,3 +63,4 @@ On watch with [[Thol]], he talked about his relationship with [[Berrenar]] and w
 - [[Session 32]]
 - [[Session 34]]
 - [[Session 35]]
+- [[Session 36]]

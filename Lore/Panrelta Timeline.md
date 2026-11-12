@@ -28,6 +28,7 @@ Where the Sons of Thunder are now: [[Bathoz Manefell|Bathoz]] is with his tribe,
 [[The Good Ones]]
 
 - [[The Centaur Poachers]]: found roughly forty butchered centaurs, hunted the poachers down, and met [[The Maiden]]. She spared them for 10,000 gold and the heart of an apex griffon
+- A guard in [[Saltport]] named Zeke freed the party during their time there (undated). Zeke was a form of the silver dragon [[Zarisk]]
 
 ## The parties meet
 
@@ -52,7 +53,9 @@ Where the Sons of Thunder are now: [[Bathoz Manefell|Bathoz]] is with his tribe,
 14. [[The Road to the Abbey]]
 15. [[The Crypt of Hate]]
 16. [[The Tunnels Beneath the Abbey]]
-17. [[The Death of Oraecheon Blackspire]], most recent
+17. [[The Death of Oraecheon Blackspire]]
+18. [[The Destruction of the Abbey]]
+19. [[Arrival at Temple Trueheart]], most recent
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 
