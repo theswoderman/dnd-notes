@@ -41,3 +41,4 @@ torin's pegasus is presumed dead at this point. probably killed by blackspire wh
 we arrive at temple trueheart and are greeted by a high elf named aeroth and [[Diggory Psalm|Diggory]]
 [[Diggory Psalm|Diggory]] looks older and more weary than we would expect from a ~30 year old satyr
 grant mentioned that diggory is from loradris
+we meet a golden dragonborn named gillead dragonsong
