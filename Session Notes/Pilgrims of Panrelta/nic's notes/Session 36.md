@@ -25,8 +25,8 @@
 context for last session: we interrupted the ritual known as the black grail, which is what turned blackspire into a death knight by consuming part of torin's soul. 
 gorgon died as soon as blackspire died
 
-falstad's armbanded arm weakens and becomes unusable. he lost his ability to cast somatic components with that arm and lost access to his divine connection. this happened in the moment that he cast revivify on thalrik.
-thalrik also lost his divine connection at the same time
+falstad's armbanded arm weakens and becomes unusable. he lost his ability to cast somatic components with that arm and lost access to his divine connection. this happened in the moment that he cast revivify on thalrik. he is cursed with the curse of the dead three
+thalrik also lost his divine connection at the same time, but can still cast spells. just no longer feels the presence of torm
 we block off both entrances to the cave network underneath the abbey that we've been in and hunker down to rest through the full moon while the werewolves are most active
 a dragon attacks the werewolves outside the abbey, destroying most of the abbey in the process
 a person named zeke knocks on the door to our tunnel - zeke was a guard in saltport who freed the good ones when they were there (before thalrik joined the game)
@@ -42,3 +42,4 @@ we arrive at temple trueheart and are greeted by a high elf named aeroth and [[D
 [[Diggory Psalm|Diggory]] looks older and more weary than we would expect from a ~30 year old satyr
 grant mentioned that diggory is from loradris
 we meet a golden dragonborn named gillead dragonsong
+falstad's cursed arm is chopped off and he goes through a healing ritual over the course of many hours. 
