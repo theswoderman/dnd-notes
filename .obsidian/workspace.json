@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,32 +29,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campaign 1 Summary"
+              "title": "Session 36"
             },
             "group": "5f6a3ec99364036b"
-          },
-          {
-            "id": "542710ff198d66f8",
-            "type": "leaf",
-            "state": {
-              "type": "vault-graph-view",
-              "state": {},
-              "icon": "vault-graph-disc",
-              "title": "Vault graph"
-            }
-          },
-          {
-            "id": "2548a37dc5c70fb7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2f84238e61591256",
@@ -105,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Campaign 1/Campaign 1 Summary.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -211,7 +190,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Campaign 1 Summary"
+                  "title": "Graph of Session 36"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -433,7 +412,7 @@
       "vault-graph:Vault graph": false
     }
   },
-  "active": "2548a37dc5c70fb7",
+  "active": "422715ec20929148",
   "lastOpenFiles": [
     "test/Hildred Castaign.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
