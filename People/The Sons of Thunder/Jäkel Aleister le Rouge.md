@@ -54,7 +54,7 @@ He is also the one who tried to resurrect [[Arthur Van Hark]]. The attempt faile
 
 [[Thol]] dreamed of him freezing alongside [[Bathoz Manefell]] (his adoptive father and his adopted uncle) in one of [[The Dusk Hag's Dreams]].
 
-A former member of [[Temple Trueheart]] has returned to his service in [[Grekosha]].
+A member of [[The Order of the Golden Gauntlet]] who had been at [[Temple Trueheart]] has returned to his service in [[Grekosha]].
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]

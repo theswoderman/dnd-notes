@@ -7,13 +7,15 @@ aliases: [Castle Trueheart]
 **Disposition:** Friendly
 
 ## Summary
-A holy site of [[Torm]], also recorded as Castle Trueheart, where [[Diggory Psalm]] lives among a small company of clerics and other adventurers.
+A holy site of [[Torm]], also recorded as Castle Trueheart, home to members of [[The Order of the Golden Gauntlet]] and to [[Diggory Psalm]].
 
 [[Torm]] directed [[Thalrik Lastfeast]] toward it in [[Thalrik's Dream of Torm]]: *"Let this fierce light lead you to Temple Trueheart and see what awaits those of the golden soul."* The portal in the dream opened onto a snowy mountain peak where [[Diggory Psalm]] waited, likely the [[Dragonspine Mountains]], where Diggory built his temple to [[Torm]], though neither the dream nor the visit says so outright.
 
-[[The Good Ones]] were carried here by the silver dragon [[Zarisk]] after [[The Destruction of the Abbey]]. [[Falstad Firebeard]]'s cursed arm was cut off here, followed by a healing ritual lasting many hours. See [[Arrival at Temple Trueheart]].
+[[The Good Ones]] were carried here by the silver dragon [[Zarisk]] after [[The Destruction of the Abbey]]. [[Falstad Firebeard]]'s cursed arm was cut off here, followed by a healing ritual lasting many hours, and the temple's clerics revived [[Torin Turen]], who had come with the party. See [[Arrival at Temple Trueheart]].
 
 ## Members
+The temple's members belong to [[The Order of the Golden Gauntlet]].
+
 - [[Diggory Psalm]]
 - [[Aeroth]], a high elf
 - [[Gillead Dragonsong]], a golden dragonborn

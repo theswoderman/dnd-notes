@@ -7,7 +7,7 @@ aliases: [Torin]
 **Race:** Gnome
 **Role:** High priest of [[Illmater]]; leader of [[The Bettermans Guild]]
 **Mount:** [[Lightfoot]], a pegasus, presumed dead
-**Status:** Unknown. Last recorded unconscious and bound to the altar beneath [[The Abbey]], which has since been destroyed
+**Status:** Alive, at [[Temple Trueheart]]
 
 ## Summary
 Leads [[The Bettermans Guild]] from [[The Iron Oak Woods]], sheltering refugees and supporting those trying to do good. Under his leadership the camp has grown from roughly 100 people to 300, with about 250 of them in the guild proper.
@@ -59,7 +59,7 @@ He is bound to the altar by magic and cannot be moved by strength or by spell. A
 
 [[Lightfoot]] is presumed dead, probably killed by [[Oraecheon Blackspire|Blackspire]] when he captured Torin.
 
-On the night of the following full moon the silver dragon [[Zarisk]] destroyed most of the abbey above the tunnels, and carried [[The Good Ones]] to [[Temple Trueheart]]. See [[The Destruction of the Abbey]].
+On the night of the following full moon the silver dragon [[Zarisk]] destroyed most of the abbey above the tunnels, and carried [[The Good Ones]] to [[Temple Trueheart]]. Torin went with them, and the clerics of the temple revived him. See [[The Destruction of the Abbey]] and [[Arrival at Temple Trueheart]].
 
 See [[Panrelta Loose Ends]] for open questions.
 

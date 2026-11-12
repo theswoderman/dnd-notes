@@ -14,8 +14,16 @@ A group of followers of [[Torm]] who are not exactly paladins or clerics, but ca
 
 At [[Temple Trueheart]], [[Diggory Psalm]] told [[Thalrik Lastfeast|Thalrik]] in confidence that the order could use his assistance once [[The Pilgrimage]] is over. The order is also to deal with [[Oraecheon Blackspire]], who as a death knight will reform within days of his death. See [[Arrival at Temple Trueheart]].
 
+The order's members live at [[Temple Trueheart]].
+
 ## Known members
 - [[Vladislav]]
+- [[Aeroth]]
+- [[Gillead Dragonsong]]
+- [[Vallen Halberk]]
+- [[Senn Blackstone]]
+- [[Hazel Salen]]
+- One unnamed member, now back in [[Jäkel Aleister le Rouge|Jakel]]'s service in [[Grekosha]]
 - [[Arthur Van Hark]], possibly; unconfirmed
 
 ## Sources

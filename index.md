@@ -103,7 +103,7 @@ Beneath [[The Abbey]] in the [[Sage Thorn Forest|Sagethorn]], once a temple to [
 
 While the party sheltered in the caves through the full moon, the dragon [[Zarisk]] destroyed the abbey and every lycanthrope around it. He has been beside them in other forms all along: as the guard who once freed them in [[Saltport]], and as the ranger who raised [[Gribnik Mossfoot]]. See [[The Destruction of the Abbey]].
 
-At the temple [[Falstad Firebeard|Falstad]]'s cursed arm was cut off, and his goddess [[Berrenar]] suggested in a vision that he draw his power from another god. A sparring match against [[Diggory Psalm|Diggory]] and two of his companions is set for the next day. As a death knight [[Oraecheon Blackspire|Blackspire]] will reform within days, and [[The Order of the Golden Gauntlet]] is to deal with him. What became of [[Torin Turen|Torin]] is unrecorded. See [[Arrival at Temple Trueheart]].
+At the temple [[Falstad Firebeard|Falstad]]'s cursed arm was cut off, and his goddess [[Berrenar]] suggested in a vision that he draw his power from another god. A sparring match against [[Diggory Psalm|Diggory]] and two of his companions is set for the next day. As a death knight [[Oraecheon Blackspire|Blackspire]] will reform within days, and [[The Order of the Golden Gauntlet]] is to deal with him. [[Torin Turen|Torin]] came with them and was revived by the temple's clerics. See [[Arrival at Temple Trueheart]].
 
 The party still carries [[The Abyssal Orb]], meant for [[The Sons of Thunder]], which has said "free me" to [[Thalrik Lastfeast|Thalrik]] alone. [[Thol]] cannot remove [[Ring of Dread Command|the cursed ring]] or put down [[Despot's Reprisal|the cursed sword]].
 

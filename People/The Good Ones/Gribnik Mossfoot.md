@@ -7,13 +7,13 @@ dd: https://www.dndbeyond.com/characters/153636372
 
 **Player:** [[Ian]]
 **Race:** Goblin
-**Class:** Ranger
+**Class:** Ranger, beastmaster
 **Nickname:** "Leaf-ear"
 **Affiliation:** [[The Good Ones]]
 **Status:** Alive
 
 ## Summary
-A goblin ranger of [[The Good Ones]].
+A goblin beastmaster ranger of [[The Good Ones]]. He can summon a beast companion, [[Twitchtail]].
 
 ## Key moments
 - Gained +1 Dexterity after the descent beneath [[The Garden of Dreams]]. See [[Exploration of the deep mines]]
@@ -36,7 +36,7 @@ That puts him on both sides of the raids on [[The Bettermans Guild]]'s camp. The
 He dreamed of [[The Laughing Princes Constellation|the Laughing Princes constellation]] and came out of it with the name [[Oraecheon Blackspire]] and some connection to [[The Drow]].
 
 ## Ceris
-He was raised by Ceris, a wood elf ranger. Ceris was a form of the silver dragon [[Zarisk]], who has been guiding the party's path in several guises. Outside the ruins of [[The Abbey]], [[Zarisk]] granted Twitchtail a draconic form, and Gribnik's eye gained a draconic silver coloration. See [[The Destruction of the Abbey]].
+He was raised by Ceris, a wood elf ranger. Ceris was a form of the silver dragon [[Zarisk]], who has been guiding the party's path in several guises. Outside the ruins of [[The Abbey]], [[Zarisk]] granted [[Twitchtail]] a draconic form, and Gribnik's eye gained a draconic silver coloration. See [[The Destruction of the Abbey]].
 
 ## Sources
 - [[Session 27]]

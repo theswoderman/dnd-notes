@@ -24,7 +24,7 @@ Outside, the abbey was completely destroyed, ringed by a circle of blue haze, an
 ### Zarisk
 Ceris and Zeke were one person, and that person was the dragon: [[Zarisk]], a silver dragon who has taken many forms over the course of the adventure, guiding the party's path. He has been cultivating [[Beemo]]'s growth over the years.
 
-[[Zarisk]] granted Twitchtail a draconic form, and [[Gribnik Mossfoot|Gribnik]]'s eye gained a draconic silver coloration. He then carried the entire party to [[Temple Trueheart]]. See [[Arrival at Temple Trueheart]].
+[[Zarisk]] granted [[Twitchtail]], [[Gribnik Mossfoot|Gribnik]]'s beast companion, a draconic form, and [[Gribnik Mossfoot|Gribnik]]'s eye gained a draconic silver coloration. He then carried the entire party, and [[Torin Turen|Torin]] with them, to [[Temple Trueheart]]. See [[Arrival at Temple Trueheart]].
 
 [[Lightfoot]], [[Torin Turen|Torin]]'s pegasus, is presumed dead, probably killed by [[Oraecheon Blackspire|Blackspire]] when he captured [[Torin Turen|Torin]].
 

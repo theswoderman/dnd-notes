@@ -18,7 +18,7 @@ Bound by the tenets of the pilgrimage, including a standing obligation to help a
 - [[Thol]], half-orc fighter, adopted son of [[Bathoz Manefell]]
 
 ## Current position
-At [[Temple Trueheart]], as guests of [[Diggory Psalm]]. The silver dragon [[Zarisk]] carried them there from the ruins of [[The Abbey]], which he destroyed along with the lycanthropes around it while the party rested in the caves beneath. See [[The Destruction of the Abbey]].
+At [[Temple Trueheart]], as guests of [[Diggory Psalm]]. The silver dragon [[Zarisk]] carried them there from the ruins of [[The Abbey]], which he destroyed along with the lycanthropes around it while the party rested in the caves beneath. [[Torin Turen]] came with them and was revived by the temple's clerics. See [[The Destruction of the Abbey]].
 
 Beneath the abbey they killed [[Oraecheon Blackspire]], [[Bane]]'s champion, interrupting the ritual of [[The Black Grail]] he was performing on [[Torin Turen]]. [[Thalrik Lastfeast]] and [[Falstad Firebeard]] both spent their [[Right of Return|right of return]] in the fight, and both lost their divine connection afterward. [[Falstad Firebeard|Falstad]]'s cursed arm was cut off at the temple.
 

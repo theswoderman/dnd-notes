@@ -34,7 +34,7 @@ we also hear the voice of [[Zarisk|ceris]], the wood elf ranger who raised [[Gri
 we leave and see the complete destruction of [[The Abbey|the abbey]], it has a blue haze in a circle around it, and all the lycanthropes in the vicinity have been defeated
 [[Zarisk|ceris]] reveals that she is both [[Zarisk|ceris]] and [[Zarisk|zeke]], and has been cultivating [[Beemo|beemo]]'s growth over the years. he has been taking many forms over the course of the adventure guiding the parties path
 [[Zarisk|ceris]] is the silver dragon that defeated the lycanthropes, his name is actually [[Zarisk|zarisk]]
-[[Zarisk|ceris]] grants twitchtail a draconic form, [[Gribnik Mossfoot|gribnik]]s eye also gains a draconic silver eye coloration 
+[[Zarisk|ceris]] grants [[Twitchtail|twitchtail]] a draconic form, [[Gribnik Mossfoot|gribnik]]s eye also gains a draconic silver eye coloration 
 [[Zarisk|ceris]] carries the entire party to [[Temple Trueheart|castle trueheart]]
 [[Torin Turen|torin]]'s [[Lightfoot|pegasus]] is presumed dead at this point. probably killed by [[Oraecheon Blackspire|blackspire]] when he captured [[Torin Turen|torin]]
 we arrive at [[Temple Trueheart|temple trueheart]] and are greeted by a high elf named [[Aeroth|aeroth]] and [[Diggory Psalm|Diggory]]

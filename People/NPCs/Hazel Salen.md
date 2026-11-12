@@ -6,11 +6,13 @@ aliases: []
 
 **Race:** Air genasi
 **Class:** Cleric, light domain
-**Affiliation:** [[Temple Trueheart]]
+**Affiliation:** [[The Order of the Golden Gauntlet]], [[Temple Trueheart]]
 **Status:** Alive
 
 ## Summary
 An air genasi cleric of the light domain, and a member of [[Temple Trueheart]]. See [[Arrival at Temple Trueheart]].
+
+A member of [[The Order of the Golden Gauntlet]].
 
 Spelling of the name is unconfirmed.
 
