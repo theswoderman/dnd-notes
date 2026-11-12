@@ -56,3 +56,4 @@ gegga explains that her mask is constantly stuck to her face because the spell s
 lore blurb about blackspire
 “It many centuries ago, perhaps a millennia, that a small splinter of the Drow of fled the depths of Menzoveldrin to rebel against Lolth. They were no allies of the surface lands and sought to craft a new empire free of Lolth’s oppression of their sex. They were lead by the youngest son of one of the great houses (Baenra), Oraecheon Blackspire. I suppose he was not as fit to lead as he believed--in less than a century the Blackspire Brotherhood--his followers, other Princes and lesser noblemen of the Underdark--had mutinied against his hateful and selfish leadership and apparently sealed him to die alone in a crypt he built to resemble his home."
 
+we learn that death knights reform within 1d4 days of their death, but the order of the golden gauntlet will deal with him
