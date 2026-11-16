@@ -1,0 +1,1 @@
+Thank you for welcoming me into your family! My life would be very different without Sooin in it and I appreciate your support for our relationship so much. Thank you for celebrating with us and I can't wait to see you soon!
