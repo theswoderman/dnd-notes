@@ -38,3 +38,10 @@ we have diggory look at all the cursed items that we are carrying with us
 we learn about Antagony, the sword of orichian blackspire
 diggory offers to take all of the cursed items and purge their curses, then transfer the magic into a new item. we receive the ring of divine inspriation https://www.dndbeyond.com/magic-items/11992156-ring-of-divine-inspiration
 we learn that the ichor deep engine is likely made of zugot moi (? spelling) and shae da claw
+the next day we meet aurum, a golden dragon wyrmling. he is training with the order of the golden gauntlet. insists on being called aurum the mighty
+
+the order of the golden gauntlet challenge us to a friendly duel
+gilliad
+aeroth
+diggory
+we will face off with gilliad and earoth first, then diggory if we can handle ourselves
