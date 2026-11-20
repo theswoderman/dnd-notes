@@ -44,4 +44,5 @@ the order of the golden gauntlet challenge us to a friendly duel
 gilliad
 aeroth
 diggory
-we will face off with gilliad and earoth first, then diggory if we can handle ourselves
+we will face off with gilliad and aeroth first, then diggory if we can handle ourselves
+
