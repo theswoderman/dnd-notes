@@ -25,4 +25,7 @@
 - Where is [[Yorrisk]]?
 
 ## notes
+temple trueheart is in grekosha
 gegga got her mask removed, and is flashed back to the dream she had in the garden of dreams. she sees herself before a massive greatwyrm, her hand on it's nostril before the vision ends.
+diggory recommends that we bring the mask to davynn brindleknot at the end of our pilgrimage to learn  more about the curse that was on it
+diggory says that the sons of thunder will wait for us on a hill near what used to be the blackwaste (in northwest grekosha) later in the pilgrimage, to see us through to the end
