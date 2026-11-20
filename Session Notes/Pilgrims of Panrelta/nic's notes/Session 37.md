@@ -48,10 +48,15 @@ we will face off with gilead and aeroth first, then diggory if we can handle our
 
 we defeat gilead and then diggory joins the fight, soon after we knock aeroth down and focus on diggory
 
+thol managed to take diggory's sword, leaving him down a powerful weapon but he is still a very capable caster, despite going a bit easy one us
+
+
+
+initiative
 **Gribnik
 Falstad
-diggory
-**Beemo**
-**Thol**
+Diggory
+Beemo <- next in turn order
+Thol**
 **Thalrik
 Gegga**
