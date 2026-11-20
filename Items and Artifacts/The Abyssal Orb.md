@@ -12,6 +12,9 @@ See [[Exploration of the deep mines]].
 
 [[The Good Ones]] plan to bring the orb to [[The Sons of Thunder]], who are still alive and very much a power in the world, so they can take care of it. They are asking [[The Order of the Golden Gauntlet]], run by [[Diggory Psalm]] of [[The Sons of Thunder]], to examine it.
 
+## What it is made of
+Called the ichor deep engine, it is likely made of things recorded as "zugot moi" and "shae da claw" (spellings unknown). See [[Arrival at Temple Trueheart]].
+
 ## It spoke
 [[Thalrik Lastfeast]] climbed into the bag of holding. After about a minute he felt something in there with him but could see nothing, and then heard a voice in his mind: "Free me." He turned around and found the orb staring at him. He left in a hurry and told the party. It spoke to him alone because he is the only one who has really interacted with it directly. See [[The Climb to the Sagethorn]].
 
@@ -24,3 +27,4 @@ See [[Panrelta Loose Ends]] for open questions.
 - [[Session 27]]
 - [[Session 28]]
 - [[Session 29]]
+- [[Session 37]]

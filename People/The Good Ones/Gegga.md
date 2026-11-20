@@ -18,7 +18,7 @@ ddb: https://www.dndbeyond.com/characters/152626464
 **Status:** Alive
 
 ## Summary
-She is an origami wizard with a mask stuck fast to her face that she cannot remove. The spell she created it with went wrong and left it there for good.
+She is an origami wizard. She wore a mask stuck fast to her face, left there when the spell she created it with went wrong, until it was removed at [[Temple Trueheart]].
 
 ## Key moments
 - Opened [[The Battle at the Bridge]] with fireball, and afterward read [[Ring of Dread Command]] on [[Thol]]'s hand as certainly an evil magic ring
@@ -31,6 +31,7 @@ She is an origami wizard with a mask stuck fast to her face that she cannot remo
 - Cast identify on [[Torin Turen]] at the feast. It returned no real information, but she felt raw spiritual and divine energy pouring out of him
 - Set up the party's usual resting place at the camp, the tower she conjures, recorded as "Gauldur's tower"
 - Identified [[Ring of Dread Command]], [[Despot's Reprisal]] and [[Tyrant's Totem Necklace]], taken from [[The Fists of Bane]]. See [[The Road to the Abbey]]
+- Had her mask removed at [[Temple Trueheart]], and was flashed back to her dream in [[The Garden of Dreams]]: she saw herself before a massive greatwyrm, her hand on its nostril. [[Diggory Psalm]] recommended bringing the mask to [[Davynn Brindleknot]] at the end of [[The Pilgrimage]] to learn more about its curse. See [[Arrival at Temple Trueheart]]
 
 ## The killing
 [[Thol]] talked with her afterward about keeping better control of their instincts in stressful situations, and the party had further conversation with her about her remorse on the road back. It is the first time her instincts have cost the party something they might have used. [[The Collector]] died before anyone could ask him about the [[Black Blood Pack]] or the black dragon scales in his cart.
@@ -46,3 +47,4 @@ The origami crane figure on her staff went missing. Searching for it gave her a 
 - [[Session 31]]
 - [[Session 32]]
 - [[Session 36]]
+- [[Session 37]]

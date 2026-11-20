@@ -51,6 +51,9 @@ During the fight with [[Oraecheon Blackspire]], [[Quarrelus]] restrained him wit
 
 At [[Temple Trueheart]] the cursed arm was cut off, and he went through a healing ritual lasting many hours. During it he spoke with [[Berrenar]] in a vision and reflected on his role as a cleric. She was impressed with how he had grown, but suggested that he draw his power from another god, naming [[Illmater]] and leaving the choice to him. See [[Arrival at Temple Trueheart]].
 
+## The order's posture
+At [[Temple Trueheart]] he argued that heroes need to take a more offensive posture against the great evil powers, and that [[The Order of the Golden Gauntlet]] is holed away instead of out helping the world. [[Diggory Psalm]] answered with threats the order had dealt with before they were known, and with his plans for [[The League of Celestial Champions]]. See [[Arrival at Temple Trueheart]].
+
 ## Berrenar's interest
 On watch with [[Thol]], he talked about his relationship with [[Berrenar]] and why she seems more interested in him than in her other followers. See [[The Road to the Abbey]].
 
@@ -64,3 +67,4 @@ On watch with [[Thol]], he talked about his relationship with [[Berrenar]] and w
 - [[Session 34]]
 - [[Session 35]]
 - [[Session 36]]
+- [[Session 37]]

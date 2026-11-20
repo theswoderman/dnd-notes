@@ -25,38 +25,38 @@
 - Where is [[Yorrisk]]?
 
 ## notes
-temple trueheart is in grekosha
-gegga got her mask removed, and is flashed back to the dream she had in the garden of dreams. she sees herself before a massive greatwyrm, her hand on it's nostril before the vision ends.
-diggory recommends that we bring the mask to davynn brindleknot at the end of our pilgrimage to learn  more about the curse that was on it
-diggory says that the sons of thunder will wait for us on a hill near what used to be the blackwaste (in northwest grekosha) later in the pilgrimage, to see us through to the end
-gribnik asked zarisk why twitchtail took on a draconic form and zarisk said that in some way gribnik has the heart of a dragon, which is why he has always been so different than other goblins
-zarisk is in bahamut's inner circle, in a position on a council. tiamat is trying to assert power as the balance of powers amongst the gods was thrown off when the sons of thunder defeated aeralath. zarisk has been tasked with finding 50 heroes to hold back tiamat and thinks the good ones should be among their number
-falstad suggests that heroes need to take a more offensive posture against these great evil powers, saying that the golden gauntlet is holed away not out helping the world
-diggory names some things that they did, that we wouldn't have been aware of because they took out the threats before they were known, but expresses that he was unable to detect Bane's presence growing. bane tactically chose his champion so that diggory wouldn't be aware of them, and wouldn't seek to search them out.
-diggory is forming his own council, the league of celestial champions. he hopes to make an organized force against evil in coordination with orders gathered around other gods like moradin, ilmater, etc
-we have diggory look at all the cursed items that we are carrying with us
-we learn about Antagony, the sword of orichian blackspire
-diggory offers to take all of the cursed items and purge their curses, then transfer the magic into a new item. we receive the ring of divine inspriation https://www.dndbeyond.com/magic-items/11992156-ring-of-divine-inspiration
-we learn that the ichor deep engine is likely made of zugot moi (? spelling) and shae da claw
-the next day we meet aurum, a golden dragon wyrmling. he is training with the order of the golden gauntlet. insists on being called aurum the mighty
+[[Temple Trueheart|temple trueheart]] is in [[Grekosha|grekosha]]
+[[Gegga|gegga]] got her mask removed, and is flashed back to the dream she had in the [[The Garden of Dreams|garden of dreams]]. she sees herself before a massive greatwyrm, her hand on it's nostril before the vision ends.
+[[Diggory Psalm|diggory]] recommends that we bring the mask to [[Davynn Brindleknot|davynn brindleknot]] at the end of our [[The Pilgrimage|pilgrimage]] to learn  more about the curse that was on it
+[[Diggory Psalm|diggory]] says that the [[The Sons of Thunder|sons of thunder]] will wait for us on a hill near what used to be the [[Blackwaste|blackwaste]] (in northwest [[Grekosha|grekosha]]) later in the [[The Pilgrimage|pilgrimage]], to see us through to the end
+[[Gribnik Mossfoot|gribnik]] asked [[Zarisk|zarisk]] why [[Twitchtail|twitchtail]] took on a draconic form and [[Zarisk|zarisk]] said that in some way [[Gribnik Mossfoot|gribnik]] has the heart of a dragon, which is why he has always been so different than other goblins
+[[Zarisk|zarisk]] is in [[Bahamut|bahamut]]'s inner circle, in a position on a council. [[Tiamat|tiamat]] is trying to assert power as the balance of powers amongst the gods was thrown off when the [[The Sons of Thunder|sons of thunder]] defeated [[Aeralath|aeralath]]. [[Zarisk|zarisk]] has been tasked with finding 50 heroes to hold back [[Tiamat|tiamat]] and thinks [[The Good Ones|the good ones]] should be among their number
+[[Falstad Firebeard|falstad]] suggests that heroes need to take a more offensive posture against these great evil powers, saying that the [[The Order of the Golden Gauntlet|golden gauntlet]] is holed away not out helping the world
+[[Diggory Psalm|diggory]] names some things that they did, that we wouldn't have been aware of because they took out the threats before they were known, but expresses that he was unable to detect [[Bane]]'s presence growing. [[Bane|bane]] tactically chose his champion so that [[Diggory Psalm|diggory]] wouldn't be aware of them, and wouldn't seek to search them out.
+[[Diggory Psalm|diggory]] is forming his own council, the [[The League of Celestial Champions|league of celestial champions]]. he hopes to make an organized force against evil in coordination with orders gathered around other gods like [[Moradin|moradin]], [[Illmater|ilmater]], etc
+we have [[Diggory Psalm|diggory]] look at all the cursed items that we are carrying with us
+we learn about [[Antagony]], the sword of [[Oraecheon Blackspire|orichian blackspire]]
+[[Diggory Psalm|diggory]] offers to take all of the cursed items and purge their curses, then transfer the magic into a new item. we receive the [[Ring of Divine Inspiration|ring of divine inspriation]] https://www.dndbeyond.com/magic-items/11992156-ring-of-divine-inspiration
+we learn that the [[The Abyssal Orb|ichor deep engine]] is likely made of zugot moi (? spelling) and shae da claw
+the next day we meet [[Aurum|aurum]], a golden dragon wyrmling. he is training with the [[The Order of the Golden Gauntlet|order of the golden gauntlet]]. insists on being called [[Aurum|aurum the mighty]]
 
-the order of the golden gauntlet challenge us to a friendly duel
-gilead (corrected spelling)
-aeroth
-diggory
-we will face off with gilead and aeroth first, then diggory if we can handle ourselves
+the [[The Order of the Golden Gauntlet|order of the golden gauntlet]] challenge us to a friendly duel
+[[Gilead Dragonsong|gilead]] (corrected spelling)
+[[Aeroth|aeroth]]
+[[Diggory Psalm|diggory]]
+we will face off with [[Gilead Dragonsong|gilead]] and [[Aeroth|aeroth]] first, then [[Diggory Psalm|diggory]] if we can handle ourselves
 
-we defeat gilead and then diggory joins the fight, soon after we knock aeroth down and focus on diggory
+we defeat [[Gilead Dragonsong|gilead]] and then [[Diggory Psalm|diggory]] joins the fight, soon after we knock [[Aeroth|aeroth]] down and focus on [[Diggory Psalm|diggory]]
 
-thol managed to take diggory's sword, his first attempt failed but thalrik used the hourglass to give him another attempt, leaving him down a powerful weapon but he is still a very capable caster, despite going a bit easy one us
+[[Thol|thol]] managed to take [[Diggory Psalm|diggory]]'s sword, his first attempt failed but [[Thalrik Lastfeast|thalrik]] used the [[Golden Hourglass|hourglass]] to give him another attempt, leaving him down a powerful weapon but he is still a very capable caster, despite going a bit easy one us
 
 
 
 initiative
-**Gribnik
-Falstad
-Diggory
-Beemo <- next in turn order
-Thol**
-**Thalrik
-Gegga**
+**[[Gribnik Mossfoot|Gribnik]]
+[[Falstad Firebeard|Falstad]]
+[[Diggory Psalm|Diggory]]
+[[Beemo]] <- next in turn order
+[[Thol]]**
+**[[Thalrik Lastfeast|Thalrik]]
+[[Gegga]]**

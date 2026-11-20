@@ -19,7 +19,9 @@ His name first surfaced in a dream. [[Gribnik Mossfoot]] dreamed of [[The Laughi
 
 He held [[Torin Turen]] on an altar in the tunnels beneath the abbey and tortured him there, performing the ritual known as [[The Black Grail]], which consumed part of [[Torin Turen|Torin]]'s soul to turn him into a death knight. [[The Good Ones]] interrupted it. In the fight with [[The Good Ones]] he called a gorgon, [[Quarrelus]], by chanting its name in Undercommon, and transformed into a death knight mid-fight, gaining new abilities, and said the [[The Black Grail|black grail]] was his as he did. He killed [[Thalrik Lastfeast]] before the party defeated him. In his last moments he delivered a promise from [[Bane]] to make a martyr of [[Falstad Firebeard]] and cast power word kill on him, which killed [[Falstad Firebeard|Falstad]]. As part of that promise he also laid the curse of the Dead Three on him. [[Quarrelus]] died the moment he did. See [[The Tunnels Beneath the Abbey]] and [[The Death of Oraecheon Blackspire]].
 
-[[Bane]] himself was not at the abbey, only his champion. Death knights reform within one to four days of their death, and [[The Order of the Golden Gauntlet]] has members powerful enough to defeat him fully when he does. [[The Good Ones]] will not be involved. See [[Arrival at Temple Trueheart]].
+His sword is [[Antagony]].
+
+[[Bane]] himself was not at the abbey, only his champion. [[Bane]] chose him tactically, so that [[Diggory Psalm]] would not be aware of him and would not seek him out. Death knights reform within one to four days of their death, and [[The Order of the Golden Gauntlet]] has members powerful enough to defeat him fully when he does. [[The Good Ones]] will not be involved. See [[Arrival at Temple Trueheart]].
 
 See [[Panrelta Loose Ends]] for open questions.
 
@@ -30,3 +32,4 @@ See [[Panrelta Loose Ends]] for open questions.
 - [[Session 34]]
 - [[Session 35]]
 - [[Session 36]]
+- [[Session 37]]

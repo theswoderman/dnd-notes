@@ -27,6 +27,8 @@ Still alive, and a very big deal in the world. The [[00 - Panrelta Index|Pilgrim
 - [[Thol]], of [[The Good Ones]], is [[Bathoz Manefell|Bathoz]]'s adopted son
 - [[The Good Ones]] met [[Jäkel Aleister le Rouge|Jakel]] at a dinner in [[Stonehold]]
 - They intend to bring [[The Abyssal Orb]] to the Sons of Thunder to deal with
+- The Sons of Thunder will wait for [[The Good Ones]] on a hill near what used to be the [[Blackwaste]] later in [[The Pilgrimage]], to see them through to the end. See [[Arrival at Temple Trueheart]]
 
 ## Sources
 - [[Campaign 1 Summary]]
+- [[Session 37]]

@@ -38,6 +38,8 @@ He dreamed of [[The Laughing Princes Constellation|the Laughing Princes constell
 ## Ceris
 He was raised by Ceris, a wood elf ranger. Ceris was a form of the silver dragon [[Zarisk]], who has been guiding the party's path in several guises. [[Zarisk]] has been cultivating his growth since rescuing him, and has grown more interested in his exploits over time. Outside the ruins of [[The Abbey]], [[Zarisk]] granted [[Twitchtail]] a draconic form, and Gribnik's eye gained a draconic silver coloration. See [[The Destruction of the Abbey]].
 
+At [[Temple Trueheart]], [[Zarisk]] told him that in some way he has the heart of a dragon, which is why [[Twitchtail]] took a draconic form and why he has always been so different from other goblins. See [[Arrival at Temple Trueheart]].
+
 ## Sources
 - [[Session 27]]
 - [[Session 28]]
@@ -45,3 +47,4 @@ He was raised by Ceris, a wood elf ranger. Ceris was a form of the silver dragon
 - [[Session 30]]
 - [[Session 31]]
 - [[Session 36]]
+- [[Session 37]]

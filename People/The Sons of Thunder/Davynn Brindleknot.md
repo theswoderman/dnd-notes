@@ -33,6 +33,9 @@ He is a gnome evocation wizard, among the most preeminent of his time, and may h
 
 After the war he founded an arcane college in the restored and verdant lands of the [[Blackwaste]]. *College name not yet given.*
 
+[[Diggory Psalm]] recommended that [[The Good Ones]] bring [[Gegga]]'s mask to him at the end of [[The Pilgrimage]] to learn more about the curse that was on it. See [[Arrival at Temple Trueheart]].
+
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]
 - [[Campaign 1 Summary]]
+- [[Session 37]]

@@ -47,7 +47,13 @@ Appeared in a vision to [[Thalrik Lastfeast]] when he died fighting [[Oraecheon 
 
 He runs [[The Order of the Golden Gauntlet]]. He received [[The Good Ones]] at [[Temple Trueheart]] alongside [[Aeroth]] when [[Zarisk]] carried them there. He is about thirty, and looked older and wearier than a satyr of that age should. Running the order is apparently taxing work. He spoke with [[Thalrik Lastfeast|Thalrik]] about bearing the [[Hand of Valor]] and the weight of being chosen by [[Torm]]. Neither he nor [[Torm]] had foreseen the coming of [[Bane]]'s champion.
 
-He told [[Thalrik Lastfeast|Thalrik]] in confidence that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over, the order having lost [[Vladislav]], and lent him his [[Golden Hourglass|golden hourglass]], which turns time back and which he has had since his days with [[The Sons of Thunder]], demonstrating it by jumping off a cliff and being returned to the top. He, [[Aeroth]] and [[Gillead Dragonsong]] are to challenge the party to a sparring match. He also asked the party about the [[Right of Return|rite of return]]. See [[Arrival at Temple Trueheart]].
+He told [[Thalrik Lastfeast|Thalrik]] in confidence that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over, the order having lost [[Vladislav]], and lent him his [[Golden Hourglass|golden hourglass]], which turns time back and which he has had since his days with [[The Sons of Thunder]], demonstrating it by jumping off a cliff and being returned to the top. He, [[Aeroth]] and [[Gilead Dragonsong]] are to challenge the party to a sparring match. He also asked the party about the [[Right of Return|rite of return]]. See [[Arrival at Temple Trueheart]].
+
+When [[Falstad Firebeard]] argued that the order should take a more offensive posture, he named threats they had taken out before anyone knew of them, and admitted he had been unable to detect [[Bane]]'s presence growing: [[Bane]] chose his champion tactically, so that Diggory would not be aware of him and would not seek him out. He is forming his own council, [[The League of Celestial Champions]], to coordinate against evil with orders gathered around other gods, such as [[Moradin]] and [[Illmater]].
+
+He purged the curses from the party's cursed items and transferred their magic into the [[Ring of Divine Inspiration]]. He recommended that [[Gegga]] bring her mask to [[Davynn Brindleknot|Davynn]] at the end of [[The Pilgrimage]], and said [[The Sons of Thunder]] will wait for the party near what used to be the [[Blackwaste]] to see them through to the end.
+
+In the sparring match the next day he joined the fight after [[Gilead Dragonsong|Gilead]] fell. [[Thol]] took his sword from him, on a second attempt bought with the [[Golden Hourglass]]. He remains a very capable caster, and went a bit easy on the party. See [[The Sparring Match at Temple Trueheart]].
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]
@@ -55,4 +61,5 @@ He told [[Thalrik Lastfeast|Thalrik]] in confidence that [[The Order of the Gold
 - [[Session 28]]
 - [[Session 35]]
 - [[Session 36]]
+- [[Session 37]]
 - [[Campaign 1 Summary]]

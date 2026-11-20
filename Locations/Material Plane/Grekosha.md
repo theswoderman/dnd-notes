@@ -12,5 +12,8 @@ tags: [location, nation]
 
 [[House Keroskav]] is a Grekoshan house (a curled black dragon facing down, with beams of light above it) at war with Iron Oak [[House Dufrey]] over a developing town called [[Yorrisk]]. Dufrey's heraldry reads that conflict as Grekoshan encroachment on [[The Iron Oak Woods|the Iron Oak forest]], which sits in [[Stonehold]].
 
+[[Temple Trueheart]], [[Diggory Psalm]]'s temple in the [[Dragonspine Mountains]], is in Grekosha.
+
 ## Sources
 - [[Session 28]]
+- [[Session 37]]

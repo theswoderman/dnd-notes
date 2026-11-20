@@ -17,7 +17,7 @@ The world is the work of [[Reed|Reed Miller]]. It is broadly compatible with cla
 | **Party** | [[The Sons of Thunder]] | [[The Good Ones]] |
 | **When** | 1016–1017 A.P. | 10 D.E. |
 | **Where** | [[Anendal]], and outward through the planes | [[Panrelta]] |
-| **Status** | Concluded at level 20 | Ongoing, ~session 36 |
+| **Status** | Concluded at level 20 | Ongoing, ~session 37 |
 | **Index** | [[00 - Campaign Index]] | [[00 - Panrelta Index]] |
 | **Timeline** | [[Campaign 1 Timeline]] | [[Panrelta Timeline]] |
 
@@ -87,7 +87,8 @@ The earliest sessions were never written down, so what follows is the order thin
 16. [[The Tunnels Beneath the Abbey]]
 17. [[The Death of Oraecheon Blackspire]]
 18. [[The Destruction of the Abbey]]
-19. [[Arrival at Temple Trueheart]], most recent
+19. [[Arrival at Temple Trueheart]]
+20. [[The Sparring Match at Temple Trueheart]], most recent
 
 Full detail is on [[Panrelta Timeline]].
 
@@ -103,9 +104,11 @@ Beneath [[The Abbey]] in the [[Sage Thorn Forest|Sagethorn]], once a temple to [
 
 While the party sheltered in the caves through the full moon, the dragon [[Zarisk]] destroyed the abbey and every lycanthrope around it. He has been beside them in other forms all along: as the guard who once freed them in [[Saltport]], and as the ranger who raised [[Gribnik Mossfoot]]. See [[The Destruction of the Abbey]].
 
-At the temple [[Falstad Firebeard|Falstad]]'s cursed arm was cut off, and his goddess [[Berrenar]] suggested in a vision that he draw his power from another god. A sparring match against [[Diggory Psalm|Diggory]] and two of his companions is set for the next day. As a death knight [[Oraecheon Blackspire|Blackspire]] will reform within days, and [[The Order of the Golden Gauntlet]] is to deal with him. [[Torin Turen|Torin]] came with them and was revived by the temple's clerics. See [[Arrival at Temple Trueheart]].
+At the temple [[Falstad Firebeard|Falstad]]'s cursed arm was cut off, and his goddess [[Berrenar]] suggested in a vision that he draw his power from another god. [[Diggory Psalm|Diggory]] purged the party's cursed items into a [[Ring of Divine Inspiration]], and is forming [[The League of Celestial Champions]] to coordinate against evil with orders gathered around other gods. [[Gegga]]'s mask came off. [[Zarisk]] revealed that he sits on a council of [[Bahamut]]'s and is gathering fifty heroes to hold back [[Tiamat]], who has been asserting herself since [[Aeralath]]'s fall, with [[The Good Ones]] in mind. As a death knight [[Oraecheon Blackspire|Blackspire]] will reform within days, and [[The Order of the Golden Gauntlet]] is to deal with him. [[Torin Turen|Torin]] came with them and was revived by the temple's clerics. See [[Arrival at Temple Trueheart]].
 
-The party still carries [[The Abyssal Orb]], meant for [[The Sons of Thunder]], which has said "free me" to [[Thalrik Lastfeast|Thalrik]] alone. [[Thol]] cannot remove [[Ring of Dread Command|the cursed ring]] or put down [[Despot's Reprisal|the cursed sword]].
+The party is now in the middle of a sparring match against [[Diggory Psalm|Diggory]], [[Aeroth]] and [[Gilead Dragonsong|Gilead]], and has already taken [[Diggory Psalm|Diggory]]'s sword. See [[The Sparring Match at Temple Trueheart]].
+
+The party still carries [[The Abyssal Orb]], meant for [[The Sons of Thunder]], which has said "free me" to [[Thalrik Lastfeast|Thalrik]] alone.
 
 Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circle casting on the party's sleep and want [[Beemo]] dead. [[The Maiden]] is still owed 10,000 gold and the heart of an apex griffon, and said she would meet them at [[Yorrisk]] "upon the dawning", which makes the tenth [[The Dawning|Dawning]], now approaching, a deadline. And [[Yorrisk]] itself is a town two houses are going to war over.
 
@@ -129,6 +132,6 @@ Three other threads are converging. The [[Sisters of the Gnarled Veil]] are circ
 - `Session Notes/`, raw notes as taken at the table, kept unedited as an archive
 - `Suggestions/`, a shared suggestion box, and the record of what came of each one
 
-About 470 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
+About 480 notes. Locations sit outside the campaign folders because the world is shared; link into an existing place rather than making a second copy of it.
 
 **Spotted something wrong, or remember it differently?** Add it to the [[Suggestion Box]] and it gets worked in at the next update.

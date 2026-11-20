@@ -24,7 +24,13 @@ He came to the blocked tunnel where the party was resting, knocking as Zeke and 
 
 He granted [[Twitchtail]], [[Gribnik Mossfoot|Gribnik]]'s beast companion, a draconic form, and [[Gribnik Mossfoot|Gribnik]]'s eye gained a draconic silver coloration. He then carried the entire party, and [[Torin Turen]] with them, to [[Temple Trueheart]]. See [[The Destruction of the Abbey]].
 
+## Bahamut's council
+Zarisk sits on a council in [[Bahamut]]'s inner circle. The balance of powers among the gods was thrown off when [[The Sons of Thunder]] defeated [[Aeralath]], and [[Tiamat]] is trying to assert power. Zarisk has been tasked with finding fifty heroes to hold her back, and thinks [[The Good Ones]] should be among them.
+
+He told [[Gribnik Mossfoot]] that [[Twitchtail]] took a draconic form because in some way [[Gribnik Mossfoot|Gribnik]] has the heart of a dragon, which is why he has always been so different from other goblins. See [[Arrival at Temple Trueheart]].
+
 The spellings of all three names are unconfirmed.
 
 ## Sources
 - [[Session 36]]
+- [[Session 37]]

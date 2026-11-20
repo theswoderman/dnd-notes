@@ -4,25 +4,28 @@ aliases: [Castle Trueheart]
 ---
 # Temple Trueheart
 
-**Region:** [[Dragonspine Mountains]]
+**Region:** [[Dragonspine Mountains]], [[Grekosha]]
 **Disposition:** Friendly
 
 ## Summary
-A holy site of [[Torm]], also recorded as Castle Trueheart, the temple [[Diggory Psalm]] built in the [[Dragonspine Mountains]], and home to him and the other members of [[The Order of the Golden Gauntlet]].
+A holy site of [[Torm]], also recorded as Castle Trueheart, the temple [[Diggory Psalm]] built in the [[Dragonspine Mountains]] of [[Grekosha]], and home to him and the other members of [[The Order of the Golden Gauntlet]].
 
 [[Torm]] directed [[Thalrik Lastfeast]] toward it in [[Thalrik's Dream of Torm]]: *"Let this fierce light lead you to Temple Trueheart and see what awaits those of the golden soul."* The portal in the dream opened onto a snowy mountain peak where [[Diggory Psalm|Diggory]] waited.
 
 [[The Good Ones]] were carried here by the silver dragon [[Zarisk]] after [[The Destruction of the Abbey]]. [[Falstad Firebeard]]'s cursed arm was cut off here, followed by a healing ritual lasting many hours, and the temple's clerics revived [[Torin Turen]], who had come with the party. See [[Arrival at Temple Trueheart]].
+
+The order challenged [[The Good Ones]] to a sparring match here the next day. See [[The Sparring Match at Temple Trueheart]].
 
 ## Members
 The temple's members belong to [[The Order of the Golden Gauntlet]].
 
 - [[Diggory Psalm]]
 - [[Aeroth]], a high elf
-- [[Gillead Dragonsong]], a golden dragonborn
+- [[Gilead Dragonsong]], a golden dragonborn
 - [[Vallen Halberk]], a human cleric of the knowledge domain
 - [[Senn Blackstone]], a human sorcerer
 - [[Hazel Salen]], an air genasi cleric of the light domain
+- [[Aurum]], a gold dragon wyrmling in training
 - [[Vladislav]], formerly. He recently left and returned to [[Jäkel Aleister le Rouge|Jakel]]'s service in [[Grekosha]]
 
 See [[Panrelta Loose Ends]] for open questions.
@@ -30,3 +33,4 @@ See [[Panrelta Loose Ends]] for open questions.
 ## Sources
 - [[Thalrik's Dream]]
 - [[Session 36]]
+- [[Session 37]]

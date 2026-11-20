@@ -14,7 +14,11 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 - The true nature of the [[Right of Return]] is unknown, and the magical source of the blessing has not been divined. [[Diggory Psalm]] asked the party about it at [[Temple Trueheart]], and none of them could say
 - [[Falstad Firebeard|Falstad]] carries the curse of the Dead Three, laid on him by [[Oraecheon Blackspire|Blackspire]]. [[Thalrik Lastfeast|Thalrik]] lost his divine connection at the moment it set in, though he can still cast. Whether [[Thalrik Lastfeast|Thalrik]]'s loss is the same curse, and whether cutting off [[Falstad Firebeard|Falstad]]'s arm ended it, are unknown
 - [[Berrenar]] suggested [[Falstad Firebeard|Falstad]] draw his power from another god and named [[Illmater]]. The choice is his and has not been made
-- [[Aeroth]], [[Gillead Dragonsong]] and [[Diggory Psalm]] are to challenge [[The Good Ones]] to a sparring match at [[Temple Trueheart]]. [[Thalrik Lastfeast|Thalrik]] secretly holds the [[Golden Hourglass]], to use in it or not, and must return it before the party leaves
+- The sparring match against [[Aeroth]], [[Gilead Dragonsong]] and [[Diggory Psalm]] at [[Temple Trueheart]] is still underway. [[Thalrik Lastfeast|Thalrik]] has used the [[Golden Hourglass]] once in it, and must return it before the party leaves. See [[The Sparring Match at Temple Trueheart]]
+- What the greatwyrm in [[Gegga]]'s flashback to her [[The Garden of Dreams|Garden of Dreams]] dream is, and what curse was on her mask. [[Diggory Psalm]] recommended bringing the mask to [[Davynn Brindleknot]] at the end of [[The Pilgrimage]]
+- What [[Zarisk]] means by [[Gribnik Mossfoot]] having, in some way, the heart of a dragon
+- What [[Tiamat]] is moving toward, and whether [[The Good Ones]] will be among the fifty heroes [[Zarisk]] is gathering to hold her back
+- Where [[Antagony]], [[Oraecheon Blackspire]]'s sword, is now
 - [[Ky'ar Lastet]] has the camp and wants the guild. [[Torin Turen|Torin]] endorsed him, but the ambition predates the endorsement. Whether he can hold it against the [[Mossclaw]] without [[Torin Turen|Torin]] is unclear
 - The [[Mossclaw]] raids on [[The Bettermans Guild]]'s camp, and the one with the black mohawk who is expected back with reinforcements. The [[Mossclaw]] are [[Gribnik Mossfoot]]'s former tribe, and the raider [[Ky'ar Lastet]] saw matches a goblin the party once spared. Whether they know [[Gribnik Mossfoot|Gribnik]] is with [[The Good Ones]] is unknown. Whether the raids are connected to the [[House Dufrey]]--[[House Keroskav]] dispute over [[Yorrisk]] is also unclear
 - One of the guild's stonemasons never came back from the deep mines. What the guild expects of the party for it is unclear. [[Aisha]]'s role in [[The Bettermans Guild]] is also unrecorded
@@ -56,7 +60,7 @@ Unresolved threads from the [[00 - Panrelta Index|Pilgrims of Panrelta]] campaig
 ## The Abyssal Orb
 
 - What [[The Abyssal Orb]] wants freeing from, what it becomes if freed, and whether it can be believed
-- Whether calling it the ichor deep engine makes it the same thing as the "ichor deep" entity, or is just the party reusing a phrase. An "ichor deep" entity is said to live in somewhere recorded as "shae de claw" (spelling unknown), possibly controlled by something recorded as "zogmoi"
+- Whether calling it the ichor deep engine makes it the same thing as the "ichor deep" entity, or is just the party reusing a phrase. An "ichor deep" entity is said to live in somewhere recorded as "shae de claw" (spelling unknown), possibly controlled by something recorded as "zogmoi". At [[Temple Trueheart]] the engine was judged likely to be made of things recorded as "zugot moi" and "shae da claw" (spellings unknown)
 - The orb came out of a creature from [[The Abyss]], the same plane [[Aeralath]] is from. The party is asking [[The Order of the Golden Gauntlet]] to examine it
 
 ## Longer running

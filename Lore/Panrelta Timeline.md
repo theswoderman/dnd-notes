@@ -55,7 +55,8 @@ Where the Sons of Thunder are now: [[Bathoz Manefell|Bathoz]] is with his tribe,
 16. [[The Tunnels Beneath the Abbey]]
 17. [[The Death of Oraecheon Blackspire]]
 18. [[The Destruction of the Abbey]]
-19. [[Arrival at Temple Trueheart]], most recent
+19. [[Arrival at Temple Trueheart]]
+20. [[The Sparring Match at Temple Trueheart]], most recent
 
 Running alongside most of the above: [[The Dusk Hag's Dreams]].
 

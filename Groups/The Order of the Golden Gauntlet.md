@@ -18,16 +18,22 @@ The order has members powerful enough to defeat [[Oraecheon Blackspire]] fully, 
 
 [[The Good Ones]] are asking the order to examine [[The Abyssal Orb]].
 
+[[Falstad Firebeard]] has argued that the order is holed away instead of out helping the world. [[Diggory Psalm]] answered that they have taken out threats before anyone knew of them, though he could not detect [[Bane]]'s presence growing. He is forming [[The League of Celestial Champions]] to coordinate the order with those of other gods. See [[Arrival at Temple Trueheart]].
+
+The order challenged [[The Good Ones]] to a friendly sparring match. See [[The Sparring Match at Temple Trueheart]].
+
 ## Known members
 - [[Diggory Psalm]], who runs it
 - [[Aeroth]]
-- [[Gillead Dragonsong]]
+- [[Gilead Dragonsong]]
 - [[Vallen Halberk]]
 - [[Senn Blackstone]]
 - [[Hazel Salen]]
+- [[Aurum]], a gold dragon wyrmling in training
 - [[Vladislav]], formerly. He has returned to serve [[Jäkel Aleister le Rouge|Jakel]] in [[Grekosha]]
 - [[Arthur Van Hark]], possibly; unconfirmed
 
 ## Sources
 - [[Thalrik's Dream]]
 - [[Session 36]]
+- [[Session 37]]
