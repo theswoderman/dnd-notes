@@ -22,7 +22,7 @@ At [[Temple Trueheart]], as guests of [[Diggory Psalm]]. The silver dragon [[Zar
 
 Beneath the abbey they killed [[Oraecheon Blackspire]], [[Bane]]'s champion, interrupting the ritual of [[The Black Grail]] he was performing on [[Torin Turen]]. [[Thalrik Lastfeast]] and [[Falstad Firebeard]] both spent their [[Right of Return|right of return]] in the fight, and both lost their divine connection afterward. [[Falstad Firebeard|Falstad]]'s cursed arm was cut off at the temple.
 
-[[Diggory Psalm|Diggory]] purged their cursed items into a [[Ring of Divine Inspiration]]. See [[Arrival at Temple Trueheart]]. They are now in the middle of a sparring match against [[Aeroth]], [[Gilead Dragonsong|Gilead]] and [[Diggory Psalm|Diggory]], and have taken [[Diggory Psalm|Diggory]]'s sword. See [[The Sparring Match at Temple Trueheart]].
+[[Diggory Psalm|Diggory]] purged their cursed items into a [[Ring of Divine Inspiration]]. See [[Arrival at Temple Trueheart]]. They are now in the middle of a sparring match against [[Aeroth]], [[Gilead Dragonsong|Gilead]] and [[Diggory Psalm|Diggory]], and have taken [[Diggory Psalm|Diggory]]'s sword, the [[Hand of Truth]]. See [[The Sparring Match at Temple Trueheart]].
 
 ## What they are carrying
 - [[The Abyssal Orb]], bound for [[The Sons of Thunder]]. It has started speaking: it told [[Thalrik Lastfeast]] "free me". [[The Collector]]'s corpse no longer shares the bag, having been thrown off a cliff

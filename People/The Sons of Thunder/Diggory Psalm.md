@@ -51,9 +51,9 @@ He told [[Thalrik Lastfeast|Thalrik]] in confidence that [[The Order of the Gold
 
 When [[Falstad Firebeard]] argued that the order should take a more offensive posture, he named threats they had taken out before anyone knew of them, and admitted he had been unable to detect [[Bane]]'s presence growing: [[Bane]] chose his champion tactically, so that Diggory would not be aware of him and would not seek him out. He is forming his own council, [[The League of Celestial Champions]], to coordinate against evil with orders gathered around other gods, such as [[Moradin]] and [[Illmater]].
 
-He purged the curses from the party's cursed items and transferred their magic into the [[Ring of Divine Inspiration]]. He recommended that [[Gegga]] bring her mask to [[Davynn Brindleknot|Davynn]] at the end of [[The Pilgrimage]], and said [[The Sons of Thunder]] will wait for the party near what used to be the [[Blackwaste]] to see them through to the end.
+He purged the curses from the party's cursed items and transferred their magic into the [[Ring of Divine Inspiration]], and told them of [[Antagony]], [[Oraecheon Blackspire]]'s sword. He recommended that [[Gegga]] bring her mask to [[Davynn Brindleknot|Davynn]] at the end of [[The Pilgrimage]], and said [[The Sons of Thunder]] will wait for the party near what used to be the [[Blackwaste]] to see them through to the end.
 
-In the sparring match the next day he joined the fight after [[Gilead Dragonsong|Gilead]] fell. [[Thol]] took his sword from him, on a second attempt bought with the [[Golden Hourglass]]. He remains a very capable caster, and went a bit easy on the party. See [[The Sparring Match at Temple Trueheart]].
+In the sparring match the next day he joined the fight after [[Gilead Dragonsong|Gilead]] fell. [[Thol]] took the [[Hand of Truth]] from him, on a second attempt bought with the [[Golden Hourglass]]. He remains a very capable caster, and went a bit easy on the party. See [[The Sparring Match at Temple Trueheart]].
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]

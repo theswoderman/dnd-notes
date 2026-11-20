@@ -106,7 +106,7 @@ While the party sheltered in the caves through the full moon, the dragon [[Zaris
 
 At the temple [[Falstad Firebeard|Falstad]]'s cursed arm was cut off, and his goddess [[Berrenar]] suggested in a vision that he draw his power from another god. [[Diggory Psalm|Diggory]] purged the party's cursed items into a [[Ring of Divine Inspiration]], and is forming [[The League of Celestial Champions]] to coordinate against evil with orders gathered around other gods. [[Gegga]]'s mask came off. [[Zarisk]] revealed that he sits on a council of [[Bahamut]]'s and is gathering fifty heroes to hold back [[Tiamat]], who has been asserting herself since [[Aeralath]]'s fall, with [[The Good Ones]] in mind. As a death knight [[Oraecheon Blackspire|Blackspire]] will reform within days, and [[The Order of the Golden Gauntlet]] is to deal with him. [[Torin Turen|Torin]] came with them and was revived by the temple's clerics. See [[Arrival at Temple Trueheart]].
 
-The party is now in the middle of a sparring match against [[Diggory Psalm|Diggory]], [[Aeroth]] and [[Gilead Dragonsong|Gilead]], and has already taken [[Diggory Psalm|Diggory]]'s sword. See [[The Sparring Match at Temple Trueheart]].
+The party is now in the middle of a sparring match against [[Diggory Psalm|Diggory]], [[Aeroth]] and [[Gilead Dragonsong|Gilead]], and has already taken [[Diggory Psalm|Diggory]]'s sword, the [[Hand of Truth]]. See [[The Sparring Match at Temple Trueheart]].
 
 The party still carries [[The Abyssal Orb]], meant for [[The Sons of Thunder]], which has said "free me" to [[Thalrik Lastfeast|Thalrik]] alone.
 

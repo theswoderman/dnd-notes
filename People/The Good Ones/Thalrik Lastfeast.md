@@ -66,7 +66,7 @@ The silver dragon [[Zarisk]] carried him to [[Temple Trueheart]] with the rest o
 
 [[Diggory Psalm|Diggory]] told him in confidence that [[The Order of the Golden Gauntlet]] could use his assistance once [[The Pilgrimage]] is over. The order recently lost a member, [[Vladislav]], and is interested in Thalrik joining, since [[Torm]] chose him as a new champion by granting him the [[Hand of Valor]]. He also lent him a [[Golden Hourglass|golden hourglass]] that turns time back when flipped, to use or not in the sparring match against [[Aeroth]], [[Gilead Dragonsong]] and [[Diggory Psalm|Diggory]]. He must return it before the party leaves the temple, and is not to mention it to the others. See [[Arrival at Temple Trueheart]].
 
-In the match he used the hourglass to give [[Thol]] a second attempt at taking [[Diggory Psalm|Diggory]]'s sword, which succeeded. See [[The Sparring Match at Temple Trueheart]].
+In the match he used the hourglass to give [[Thol]] a second attempt at taking the [[Hand of Truth]] from [[Diggory Psalm|Diggory]], which succeeded. See [[The Sparring Match at Temple Trueheart]].
 
 ## Sources
 - [[Prelude for Thalrik Lastfeast]]

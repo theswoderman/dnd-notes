@@ -10,7 +10,7 @@ A golden hourglass that turns time back when it is flipped. It belongs to [[Digg
 
 [[Thalrik Lastfeast|Thalrik]] holds it in secret, and is the only one of [[The Good Ones]] who knows of it. When and whether to use it in the sparring match against [[Aeroth]], [[Gilead Dragonsong]] and [[Diggory Psalm|Diggory]] was his choice. He must return it before [[The Good Ones]] leave the temple, and is not to mention it to the rest of the party. See [[Arrival at Temple Trueheart]].
 
-In the match, [[Thol]] failed his first attempt to take [[Diggory Psalm|Diggory]]'s sword, and [[Thalrik Lastfeast|Thalrik]] used the hourglass to give him another. See [[The Sparring Match at Temple Trueheart]].
+In the match, [[Thol]] failed his first attempt to take the [[Hand of Truth]] from [[Diggory Psalm|Diggory]], and [[Thalrik Lastfeast|Thalrik]] used the hourglass to give him another. See [[The Sparring Match at Temple Trueheart]].
 
 ## Sources
 - [[Session 36]]

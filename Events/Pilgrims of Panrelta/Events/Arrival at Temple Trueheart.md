@@ -46,7 +46,7 @@ As a death knight, [[Oraecheon Blackspire]] will reform within one to four days 
 [[Diggory Psalm|Diggory]] is forming his own council, [[The League of Celestial Champions]], meant to be an organized force against evil in coordination with orders gathered around other gods, such as [[Moradin]] and [[Illmater]].
 
 ### The cursed items
-[[Diggory Psalm|Diggory]] looked over all the cursed items the party was carrying: [[Ring of Dread Command]], [[Despot's Reprisal]] and [[Tyrant's Totem Necklace]]. He took them, purged their curses, and transferred their magic into a new item, the [[Ring of Divine Inspiration]]. [[Antagony]], the sword of [[Oraecheon Blackspire]], also came up.
+[[Diggory Psalm|Diggory]] looked over all the cursed items the party was carrying: [[Ring of Dread Command]], [[Despot's Reprisal]] and [[Tyrant's Totem Necklace]]. He took them, purged their curses, and transferred their magic into a new item, the [[Ring of Divine Inspiration]]. He also told the party of [[Antagony]], the sword of [[Oraecheon Blackspire]].
 
 [[The Abyssal Orb]], the ichor deep engine, is likely made of things recorded as "zugot moi" and "shae da claw" (spellings unknown).
 

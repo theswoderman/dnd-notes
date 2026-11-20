@@ -14,7 +14,7 @@
 
 - Can the part of [[Torin Turen|Torin]]'s soul consumed by [[The Black Grail]] be restored?
 - How does [[Torin Turen|Torin]] know the name "little shadow"?
-- Why has [[Zarisk]] spent years cultivating [[Beemo]]'s growth?
+- Why has [[Zarisk]] spent years cultivating [[Gribnik Mossfoot|Gribnik]]'s growth?
 - Why do the [[Sisters of the Gnarled Veil]] want [[Beemo]] dead, and what are they planning in the [[Dragonspine Mountains]]?
 - Why does [[Mirna Gribwood]] appear to everyone except [[Beemo]], and is she lodged in someone's mind?
 - Did losing the arm end [[Falstad Firebeard|Falstad]]'s curse, and is [[Thalrik Lastfeast|Thalrik]]'s lost connection the same curse?
