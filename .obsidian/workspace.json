@@ -6,7 +6,7 @@
       {
         "id": "5504dc10bcd999be",
         "type": "tabs",
-        "dimension": 49.57983193277311,
+        "dimension": 79.33884297520662,
         "children": [
           {
             "id": "422715ec20929148",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Untitled.md",
+                "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 37.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Session 37"
             },
             "group": "5f6a3ec99364036b"
           }
@@ -38,7 +38,7 @@
       {
         "id": "2f84238e61591256",
         "type": "split",
-        "dimension": 50.42016806722689,
+        "dimension": 20.66115702479339,
         "children": [
           {
             "id": "616fb221e7e6cd63",
@@ -84,7 +84,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Untitled.md",
+                    "file": "Session Notes/Pilgrims of Panrelta/nic's notes/Session 37.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "-file: \"00 - Panrelta Index\" -path:\"Session Notes\"  -tag:#ignore  ",
@@ -185,12 +185,12 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 1.4019828977760844,
+                      "scale": 0.5087618855792526,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Untitled"
+                  "title": "Graph of Session 37"
                 },
                 "group": "5f6a3ec99364036b"
               }
@@ -414,9 +414,10 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "People/NPCs/Vladislav.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Untitled.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 37.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Untitled.md",
+    "People/NPCs/Vladislav.md",
     "Suggestions/Suggestion History/2026-11-12.md",
     "People/NPCs/Twitchtail.md",
     "Items and Artifacts/Golden Hourglass.md",
@@ -428,7 +429,6 @@
     "People/NPCs/Zarisk.md",
     "Events/Pilgrims of Panrelta/Events/Arrival at Temple Trueheart.md",
     "Events/Pilgrims of Panrelta/Events/The Destruction of the Abbey.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 37.md",
     "Items and Artifacts/The Abyssal Orb.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "People/NPCs/Oraecheon Blackspire.md",
