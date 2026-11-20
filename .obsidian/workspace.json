@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "##",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2eccb5a57877791e",
@@ -415,8 +414,10 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
+    "Items and Artifacts/Tyrant's Totem Necklace.md",
+    "People/NPCs/Antagonists/The Fists of Bane.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 37.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Untitled.md",
     "People/NPCs/Vladislav.md",
     "Suggestions/Suggestion History/2026-11-12.md",
@@ -439,8 +440,6 @@
     "test/Hildred Castaign.md",
     "Session Notes/Campaign 1/Campaign 1 Summary.md",
     "Events/Campaign 1/Events/The Great War.md",
-    "Deities/Annum.md",
-    "Loose Ends/Campaign 1 Loose Ends.md",
     "Events/Elves and Orcs one shot",
     "index.md.tmp.5280.06df988a1a63",
     "index.md.tmp.5280.fba50aeb78ca",
