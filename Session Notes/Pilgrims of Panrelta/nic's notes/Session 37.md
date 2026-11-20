@@ -46,4 +46,4 @@ aeroth
 diggory
 we will face off with gilead and aeroth first, then diggory if we can handle ourselves
 
-reminder to deal another 2d6 fire damage to aeroth at the start of his next turn
+we defeat higlead and then diggory joins the fight, soon after we knock aeroth down and focus on diggory
