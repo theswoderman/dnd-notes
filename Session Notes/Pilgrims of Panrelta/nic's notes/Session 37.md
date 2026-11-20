@@ -48,7 +48,7 @@ we will face off with gilead and aeroth first, then diggory if we can handle our
 
 we defeat gilead and then diggory joins the fight, soon after we knock aeroth down and focus on diggory
 
-thol managed to take diggory's sword, leaving him down a powerful weapon but he is still a very capable caster, despite going a bit easy one us
+thol managed to take diggory's sword, his first attempt failed but thalrik used the hourglass to give him another attempt, leaving him down a powerful weapon but he is still a very capable caster, despite going a bit easy one us
 
 
 
