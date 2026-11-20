@@ -36,3 +36,4 @@ diggory names some things that they did, that we wouldn't have been aware of bec
 diggory is forming his own council, the league of celestial champions. he hopes to make an organized force against evil in coordination with orders gathered around other gods like moradin, ilmater, etc
 we have diggory look at all the cursed items that we are carrying with us
 we learn about Antagony, the sword of orichian blackspire
+diggory offers to take all of the cursed items and purge their curses, then transfer the magic into a new item
