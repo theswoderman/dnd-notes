@@ -35,4 +35,4 @@ falstad suggests that heroes need to take a more offensive posture against these
 diggory names some things that they did, that we wouldn't have been aware of because they took out the threats before they were known, but expresses that he was unable to detect Bane's presence growing. bane tactically chose his champion so that diggory wouldn't be aware of them, and wouldn't seek to search them out.
 diggory is forming his own council, the league of celestial champions. he hopes to make an organized force against evil in coordination with orders gathered around other gods like moradin, ilmater, etc
 we have diggory look at all the cursed items that we are carrying with us
-
+we learn about Antagony, the sword of orichian blackspire
