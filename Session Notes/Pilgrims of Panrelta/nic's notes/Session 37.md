@@ -23,3 +23,5 @@
 - Why does [[Diggory Psalm|Diggory]] look so much older than ~30?
 - What does [[Thalrik Lastfeast|Thalrik]]'s soul-pact with [[Torm]] mean in practice?
 - Where is [[Yorrisk]]?
+
+## notes
