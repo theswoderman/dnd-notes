@@ -25,3 +25,4 @@
 - Where is [[Yorrisk]]?
 
 ## notes
+gegga got her mask removed, and is flashed back to the dream she had in the garden of dreams. she sees herself before a massive greatwyrm, her hand on it's nostril before the vision ends.
