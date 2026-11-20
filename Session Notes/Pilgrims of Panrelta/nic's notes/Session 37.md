@@ -37,3 +37,4 @@ diggory is forming his own council, the league of celestial champions. he hopes 
 we have diggory look at all the cursed items that we are carrying with us
 we learn about Antagony, the sword of orichian blackspire
 diggory offers to take all of the cursed items and purge their curses, then transfer the magic into a new item
+we learn that the ichor deep engine is likely made of zugot moi (? spelling) and shae da claw

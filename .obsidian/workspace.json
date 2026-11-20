@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "necrohulk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -414,9 +414,11 @@
   },
   "active": "422715ec20929148",
   "lastOpenFiles": [
+    "Items and Artifacts/The Abyssal Orb.md",
+    "Loose Ends/Panrelta Loose Ends.md",
+    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 37.md",
     "Items and Artifacts/Tyrant's Totem Necklace.md",
     "People/NPCs/Antagonists/The Fists of Bane.md",
-    "Session Notes/Pilgrims of Panrelta/nic's notes/Session 37.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 36.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/misc/Untitled.md",
     "People/NPCs/Vladislav.md",
@@ -431,10 +433,8 @@
     "People/NPCs/Zarisk.md",
     "Events/Pilgrims of Panrelta/Events/Arrival at Temple Trueheart.md",
     "Events/Pilgrims of Panrelta/Events/The Destruction of the Abbey.md",
-    "Items and Artifacts/The Abyssal Orb.md",
     "Session Notes/Pilgrims of Panrelta/nic's notes/Session 29.md",
     "People/NPCs/Oraecheon Blackspire.md",
-    "Loose Ends/Panrelta Loose Ends.md",
     "index.md",
     "People/The Sons of Thunder/Diggory Psalm.md",
     "test/Hildred Castaign.md",
