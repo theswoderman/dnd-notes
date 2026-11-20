@@ -46,4 +46,12 @@ aeroth
 diggory
 we will face off with gilead and aeroth first, then diggory if we can handle ourselves
 
-we defeat higlead and then diggory joins the fight, soon after we knock aeroth down and focus on diggory
+we defeat gilead and then diggory joins the fight, soon after we knock aeroth down and focus on diggory
+
+**Gribnik
+Falstad
+diggory
+**Beemo**
+**Thol**
+**Thalrik
+Gegga**
