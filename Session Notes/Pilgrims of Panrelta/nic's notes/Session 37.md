@@ -33,3 +33,5 @@ gribnik asked zarisk why twitchtail took on a draconic form and zarisk said that
 zarisk is in bahamut's inner circle, in a position on a council. tiamat is trying to assert power as the balance of powers amongst the gods was thrown off when the sons of thunder defeated aeralath. zarisk has been tasked with finding 50 heroes to hold back tiamat and thinks the good ones should be among their number
 falstad suggests that heroes need to take a more offensive posture against these great evil powers, saying that the golden gauntlet is holed away not out helping the world
 diggory names some things that they did, that we wouldn't have been aware of because they took out the threats before they were known, but expresses that he was unable to detect Bane's presence growing. bane tactically chose his champion so that diggory wouldn't be aware of them, and wouldn't seek to search them out.
+diggory is forming his own council, the league of celestial champions. he hopes to make an organized force against evil in coordination with orders gathered around other gods like moradin, ilmater, etc
+
