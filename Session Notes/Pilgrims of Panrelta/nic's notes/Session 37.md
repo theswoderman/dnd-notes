@@ -41,8 +41,8 @@ we learn that the ichor deep engine is likely made of zugot moi (? spelling) and
 the next day we meet aurum, a golden dragon wyrmling. he is training with the order of the golden gauntlet. insists on being called aurum the mighty
 
 the order of the golden gauntlet challenge us to a friendly duel
-gilliad
+gilead (corrected spelling)
 aeroth
 diggory
-we will face off with gilliad and aeroth first, then diggory if we can handle ourselves
+we will face off with gilead and aeroth first, then diggory if we can handle ourselves
 
